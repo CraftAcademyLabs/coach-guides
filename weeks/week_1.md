@@ -9,7 +9,12 @@ ATM-challenge
 Library challenge
 
 ###Learning objectives
-* Learn about...
+So the first week is all about giving the students their first time experience in writing software.
+* Learn about
+  - classes and attributes
+  - writing tests using RSpec
+  - using `double`, `class_double` and `instance_double`
+  - the benefits of writing automated tests
 
 ###Guide
 - **Monday:**
