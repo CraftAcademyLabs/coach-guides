@@ -1,4 +1,10 @@
 ## Week 3
+### Introduction to this week
+#### Swedish
+**Testdriven utveckling och objektorienterad programmering**
+Första veckans utmaning handlar om att bygga en enkel Bankomatsimulator. Låter kanske trivialt men utmaningen ligger i att förstå hur en vardaglig situation kan se ut när man tänker i programmeringstermer och hur olika objekt interagerar med varandra. Under veckan introducerar vi en mängd nya begrepp och koncept som lägger grunden för din fortsatta utveckling. Vi praktiserar par programmering och test driven utveckling. Vi tampas med versionskontroll och rubyspråkets syntax. Vi introducerar även användarfokuserad synsätt för programutveckling. Veckan avslutas med din första individuella Weekend Challenge.
+#### English
+[TODO @diraulo]
 ### Week Lab
 [SlowFood (Sinatra)](https://craftacademy.gitbooks.io/coding-as-a-craft/content/slow_food/slow_food.html)
 
@@ -48,6 +54,6 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 - **Wedensday:**
   - [ ] Morning: Do a demo on debugging with various strategies
 - **Thursday:**
-  - [ ] Afternoon: Do a brief introduction to Rack and talk about the different Rack based frameworks (Sinatra, Rails, etc). 
+  - [ ] Afternoon: Do a brief introduction to Rack and talk about the different Rack based frameworks (Sinatra, Rails, etc).
 - **Friday:**
   - [ ] Introduce the Weeked Challenge
