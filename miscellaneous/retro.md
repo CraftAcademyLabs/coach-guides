@@ -12,6 +12,7 @@ The model for the discussion consists of 3 key questions:
 - What went wrong during the period?
 - What could we do differently to improve the learning experience for everybody?
 
+### The objective
 The **objective** is to identify 2 or 3 **action points** that the team will implement and use during the next sprint.
 
 ### Key elements of the retrospective:
