@@ -24,7 +24,7 @@ The stakeholders discuss the process that they are following and give any sugges
 * The retrospective supports team formation and bonding, particularly as any areas of conflict can be identified and dealt with.
 * The retrospective helps build the team's sense of ownership and its self-management.
 
-#### Agenda
+### Agenda
 
 - Introduce the purpose of the meeting
 - Let each student talk a minute or two about their generall thoughts on the sprint.
