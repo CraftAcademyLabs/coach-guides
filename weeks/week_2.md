@@ -4,6 +4,7 @@ BMI-challenge
 
 ###Learning objectives
 * Learn about...
+  - practice Pair Programming && collaboration using Git and GitHub
 
 ### Weekend challenge
 FizzBuzz JS Challenge
