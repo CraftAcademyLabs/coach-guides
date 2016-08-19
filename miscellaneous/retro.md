@@ -1,12 +1,12 @@
 ### Retrospective
-The end of week 2 is a good time to do a retrospective meeting with the cohort. After that the retrospective should be held on a biweekly basis.
+The end of week 2 is a good time to hold the first **retrospective meeting** with the cohort. After that the retrospective should be held on a biweekly basis.
 
 The meeting should be facilitated by the Community Manager or one of the coaches. Preferably not the Head Coach or the coach that currently works with the group.
 
-The scope of the meeting is to discuss the just-concluded two week period (sprint) and determines what could be changed that might make the next sprint more productive for the team as a whole and for individual members. Also, it's very important that the students get a chance to vent and feel that we as a organization listen and respond to their needs. **The retrospective is however not only for the students but for benefit of the whole team.** The retrospective is a collaborative process among all team members, including both the students and the coaches as well as the Community Manager and possibly other staff members.
+The scope of the meeting is to discuss the just-concluded two week period (sprint) and determines what could be changed that might make the next sprint more productive for the team as a whole and for individual members. Also, it's very important that the students get a chance to vent and feel that we as a organization listen and respond to their needs. **The retrospective is however not only for the students but for benefit of the whole team.** It is a collaborative process among all team members, including both the students and the coaches as well as the Community Manager and possibly other staff members.
 
 ### The model
-The model for the discussion is to answer or address 3 key questions:
+The model for the discussion consists of 3 key questions:
 
 - What went well during the period?
 - What went wrong during the period?
