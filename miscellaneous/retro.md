@@ -13,10 +13,10 @@ The **objective** is to identify 2 or 3 action points that the coaches or the te
 
 #### Agenda
 - Introduce the purpose of the meeting
-- Let each student talk a minute or two about their generall thoughts on the sprint.
+- Let each student talk a minute or two about their general thoughts on the sprint.
 - Discuss each subjects (free form discussion):
   - What went well during the period?
   - What went wrong during the period?
   - What could we do differently?
 - Identify and prioritize action points
-- Summarize what we have dicided upon.
+- Summarize what we have decided upon.
