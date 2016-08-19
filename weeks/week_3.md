@@ -37,7 +37,7 @@ This is a group challenge and the students are supposed to work as a team.
 ### Weekend challenge
 SlowFood (Sinatra) (User Interface/UX) - Note: group challenge
 The weekend is devoted to focus on the User experience of the app. Here we start looking at the styling. We want them to notice that the planning they did in the initial stage was not detailed enough and that they missed he focus on the user.
-###Learning objectives
+### Learning objectives
 * All of the above
 * Also learn about:
   - the importance of focusing on what the end-user sees on the site.
@@ -47,7 +47,7 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   - jQuery
   - CDN's ??
 
-###Guide
+### Guide
 - **Monday:**
   - [ ] Morning: Introduce the week lab right after stand-up
   - [ ] Morning: Do an introduction to Waffle and basic overview of a Design Sprint.

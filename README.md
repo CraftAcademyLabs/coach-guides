@@ -5,7 +5,7 @@ Each week of the Bootcamp has a specific purpose and setup. In these guides we w
 
 
 ### Open Source
-This publication assumes that you have access to and knowledge about the [course materials we use to deliver the Craft Academy Bootcamp](https://github.com/CraftAcademy/ca_course). You are free to use it for your personal learning needs even if you are not attending our bootcamp, **we encourage that**. 
+This publication assumes that you have access to and knowledge about the [course materials we use to deliver the Craft Academy Bootcamp](https://github.com/CraftAcademy/ca_course). You are free to use it for your personal learning needs even if you are not attending our bootcamp, **we encourage that**.
 
 **It is however not allowed to use this material in a commercial context without our written consent. It is not okay and it is against the very meaning of open source.**
 

@@ -2,13 +2,13 @@
 ### Week Lab
 ATM-challenge
 
-###Learning objectives
+### Learning objectives
 * Learn about...
 
 ### Weekend challenge
 Library challenge
 
-###Learning objectives
+### Learning objectives
 So the first week is all about giving the students their first time experience in writing software.
 * Learn about
   - classes and attributes
@@ -16,15 +16,15 @@ So the first week is all about giving the students their first time experience i
   - using `double`, `class_double` and `instance_double`
   - the benefits of writing automated tests
 
-###Guide
+### Guide
 - **Monday:**
   - [ ] Introduce the week lab after Day One activities by going over the materials in EdX
   - [ ] Do a programming demo
 - **Tuesday:**
-- **Wedensday:**
+- **Wednesday:**
 - **Thursday:**
 - **Friday:**
-  - [ ] Introduce the Weeked Challenge by going over the materials in EdX
+  - [ ] Introduce the Weekend Challenge by going over the materials in EdX
   - [ ] Do a programming demo with focus on
     - reading from and writing to a YAML file
-    - serching a hash using `select` and `detect` methods
+    - searching a hash using `select` and `detect` methods
