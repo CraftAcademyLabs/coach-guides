@@ -21,4 +21,4 @@ FizzBuzz JS Challenge
 - **Thursday:**
 - **Friday:**
   - [ ] Introduce the Weeked Challenge
-  - [ ] Do a programming demo with focus on...
+  - [ ] Hold a Retrospective Meeting with the entire cohort. A good thing to do is to pull in some Seniors. (See separate document)
