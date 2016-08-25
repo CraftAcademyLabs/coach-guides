@@ -1,6 +1,8 @@
-## Week 5
+## Week 5 Rails Week
 ### Week Lab
-challenge
+1. Acceptance-Unit Test Cycle with Rails
+2. Legacy Code challenge
+
 
 ###Learning objectives
 * Learn about...
@@ -13,11 +15,21 @@ challenge
 
 ###Guide
 - **Monday:**
-  - [ ] Introduce the week lab
-  - [ ] Do a programming demo
+  - [ ] Morning: Introduce the Acceptance-Unit Test Cycle
+  - [ ] Afternoon: Rails programming demo with focus on:
+    - routes (resources, members, etc)
+    - most common helpers
+    - migrations
+    - CRUD controller actions
+
+
 - **Tuesday:**
+  - [ ] Morning: Check the submissions of the AUT code on GitHub
+  - [ ] Morning: Introduce the Legacy Code Challenge
 - **Wedensday:**
+  - [ ] Morning: 
 - **Thursday:**
+  - [ ] Morning:
 - **Friday:**
   - [ ] Introduce the Weeked Challenge
   - [ ] Do a programming demo with focus on...
