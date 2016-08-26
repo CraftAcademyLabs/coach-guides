@@ -2,22 +2,22 @@
 ### Week Lab
 challenge
 
-###Learning objectives
+### Learning objectives
 * Learn about...
 
 ### Weekend challenge
 challenge
 
-###Learning objectives
+### Learning objectives
 * Learn about...
 
-###Guide
+### Guide
 - **Monday:**
   - [ ] Introduce the week lab
   - [ ] Do a programming demo
 - **Tuesday:**
-- **Wedensday:**
+- **Wednesday:**
 - **Thursday:**
 - **Friday:**
-  - [ ] Introduce the Weeked Challenge
+  - [ ] Introduce the Weekend Challenge
   - [ ] Do a programming demo with focus on...

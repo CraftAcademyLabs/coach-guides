@@ -20,20 +20,21 @@ b) introduce a new level of complexity when working with templates
 * Deployment
   - learn about deployment of static sites.
 
+
 ### Weekend challenge
 Middleman Blog Challenge
 (Are we keeping the Middleman Blog Challenge?)
 
-###Learning objectives
+### Learning objectives
 * Learn about...
 
-###Guide
+### Guide
 - **Monday:**
   - [ ] Introduce the week lab
   - [ ] Do a programming demo
 - **Tuesday:**
-- **Wedensday:**
+- **Wednesday:**
 - **Thursday:**
 - **Friday:**
-  - [ ] Introduce the Weeked Challenge
+  - [ ] Introduce the Weekend Challenge
   - [ ] Do a programming demo with focus on...

@@ -12,6 +12,7 @@ The Legacy Code Challenge aims at allowing students to write both acceptance tes
 2. Legacy Code challenge (pairing assignment)
 
 
+<<<<<<< HEAD
 ###Learning objectives
 * Learn about Ruby on Rails
 * Learn about Model-View-Controller
@@ -19,14 +20,18 @@ The Legacy Code Challenge aims at allowing students to write both acceptance tes
 * Learn how to identify what gems provide a lot of functionality and how to read and use documentation
 * Learn about how to use tests (High level acceptance tests and Low level unit tests) to drive the development process.
 
+=======
+### Learning objectives
+* Learn about...
+>>>>>>> 92bc2a2a5b312d418d14e254d7d0d77ffffcb278
 
 ### Weekend challenge
 challenge
 
-###Learning objectives
+### Learning objectives
 * Learn about...
 
-###Guide
+### Guide
 - **Monday:**
   - [ ] Morning: Introduce the Acceptance-Unit Test Cycle
   - [ ] Afternoon: Rails Magic demo with focus on:
@@ -36,14 +41,23 @@ challenge
     - migrations
     - CRUD controller actions
 - **Tuesday:**
+<<<<<<< HEAD
   - [ ] Morning: Check the submissions of the AUT code on GitHub
   - [ ] Morning: Introduce the Legacy Code Challenge
 - **Wedensday:**
   - [ ] Morning: In depth Rails demo: `form_for` vs `form_tag`
   - [ ] Afternoon:
+=======
+- **Wednesday:**
+>>>>>>> 92bc2a2a5b312d418d14e254d7d0d77ffffcb278
 - **Thursday:**
   - [ ] Morning: In depth Rails demo:
   - [ ] Afternoon:
 - **Friday:**
+<<<<<<< HEAD
   - [ ] Morning: In depth Rails demo:
   - [ ] Introduce the Weeked Challenge
+=======
+  - [ ] Introduce the Weekend Challenge
+  - [ ] Do a programming demo with focus on...
+>>>>>>> 92bc2a2a5b312d418d14e254d7d0d77ffffcb278
