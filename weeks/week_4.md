@@ -2,7 +2,7 @@
 ### Introduction to this week
 
 #### Swedish
-Statiska siter och programmeringstekniker
+**Statiska siter och programmeringstekniker**
 Under den här veckan bygger vi en personlig site (Portfolio Challenge) med ramverket Middleman. Vi introducerar även HAML - en HTML markup som underlättar skapandet och underhållet av HTML kod. Vi introducerar mer avancerade JavaScript-baserade ramverk (jQuery) och CSS ramverk (Foundation, Bootstrap) och visat hur vi kan förbättra användarupplevelsen i våra applikationer.
 ### Week Lab
 Middleman challenge
@@ -10,7 +10,7 @@ Middleman challenge
 ###Learning objectives
 This week we are introducing the students to yet another framework (Middleman) and to a differant way to create view templates (HAML). The general idea is to force them to
 a) apply their ruby knowledge in a differant setting
-b) introduce a new level of complexity when writing code
+b) introduce a new level of complexity when working with templates
 
 * The Middleman framwork
   - Using ruby to create cstatis websites
@@ -21,7 +21,7 @@ b) introduce a new level of complexity when writing code
   - learn about deployment of static sites.
 
 ### Weekend challenge
-?? challenge
+Middleman Blog Challenge
 (Are we keeping the Middleman Blog Challenge?)
 
 ###Learning objectives
