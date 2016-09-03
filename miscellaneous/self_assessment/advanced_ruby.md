@@ -66,3 +66,20 @@ The example code indicates two things:
 
 - at the class level, self is the class, in this case Foo.
 - at the instance level, self is the instance in context, in this case the instance of Foo at memory location 0x007f8a8401e490.
+
+### What does Ruby's open classes mean.
+
+In Ruby, classes are never closed: you can always add methods to an existing class. This applies to the classes you write as well as the standard, built-in classes. All you have to do is open up a class definition for an existing class, and the new contents you specify will be added to whatever's there. (Monkeypatching)
+
+Consider this:
+```ruby
+class Fixnum
+   def +(num)
+     self * num #or whatever you want to do
+   end  
+end
+3 + 3
+=> 9
+```
+
+Weird, right?
