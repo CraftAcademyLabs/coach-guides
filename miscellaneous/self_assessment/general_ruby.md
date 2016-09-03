@@ -1,4 +1,18 @@
 ### General Ruby Knowledge
+
+### Explain how almost everything is an object in Ruby
+This is a simple question based on complex concept. Here’s your chance to show off your theoretical knowledge and demonstrate that you can have an in depth conversation on class hierarchies, inheritance, methods, encapsulation, polymorphism, and more.
+
+Explaining this could take an hour or a few minutes – there’s no single correct answer here, save from being able to demonstrate your familiarity with OOP concepts.
+
+### What's your favorite testing tool?
+The specific answer here is probably not important in and of itself – What’s important is that you can demonstrate familiarity with at least several testing tools, and be able to discuss their individual advantages and weaknesses. Never ventured outside of Rails default testing tools? Take some time to familiarize yourself with tools such as Rspec, FactoryGirl, Capybara, and Cucumber.
+
+### What are Gems and which are some of your favorites?
+Short answer: Gems are packaged bits of Ruby code that you can install to extend or add functionality to your app.
+
+Be sure to be able to discuss a list of your favorite gems, why you like them, and any customizations you like to add. This is also a good opportunity to highlight any gems you may have published.
+
 #### What is a class?
 You should easily be able to explain not only what a class is, but how and when you would create a new one as well as what functionality it would provide in the larger context of your program.
 
