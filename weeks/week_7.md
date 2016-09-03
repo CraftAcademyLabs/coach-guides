@@ -1,6 +1,7 @@
-## Week 7
+## Week 7 Going Mobile with Ionic
 ### Week Lab
-challenge
+Mobile BMI Challenge
+Cooper test challenge
 
 ### Learning objectives
 * Learn about...
