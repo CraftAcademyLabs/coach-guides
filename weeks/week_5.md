@@ -3,7 +3,11 @@
 
 #### Swedish
 **Ruby on Rails**
-Den här veckan introducerar vi deltagarna till Ruby on Rails - ett ramverk som hjälper programmeraren att följa designmönstret Model-View-Controller (MVC) och lär dem att jobba efter grundprinciperna Convention Over Configuration (Konvention före konfiguration) och Don't Repeat Yourself (DRY) som går ut på att motverka duplicering av kod. Vi introducerar också mer omfattande teststrategier och befäster deltagarnas kunskaper för hur de använder tester i sin utvecklingsprocess. Vi forsätter med att fördjupa oss i Rails och går igenom mer avancerade tekniker för hur man använder externa bibliotek (gems), API'er, websockets, mm. "
+Den här veckan introducerar vi deltagarna till Ruby on Rails - ett ramverk som hjälper programmeraren att följa designmönstret Model-View-Controller (MVC) och lär dem att jobba efter grundprinciperna Convention Over Configuration (Konvention före konfiguration) och Don't Repeat Yourself (DRY) som går ut på att motverka duplicering av kod. Vi introducerar också mer omfattande teststrategier och befäster deltagarnas kunskaper för hur de använder tester i sin utvecklingsprocess. Vi forsätter med att fördjupa oss i Rails och går igenom mer avancerade tekniker för hur man använder externa bibliotek (gems), API'er, websockets, mm."
+
+#### English
+**Ruby on Rails**
+This week we introduce participants to Ruby on Rails - a framework that helps the programmer to follow the design pattern Model-View-Controller (MVC), and teaching them to work according to the basic principles Convention Over Configuration (Convention prior configuration) and Do not Repeat Yourself (DRY) which aims to counter the duplication of code. We also introduce more comprehensive testing strategies and consolidate participants' knowledge of how to use the tests in their development. We continue to immerse ourselves in Rails and go through more advanced techniques for using external libraries (gems), APIs, WebSockets, etc."
 
 ### Week Lab
 The students are introduced to Ruby on Rails this week. We are exposing them to the 'magic' of Rails AND to the best practice of using various testing frameworks to drive their development.
