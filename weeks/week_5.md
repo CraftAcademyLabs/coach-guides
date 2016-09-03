@@ -31,10 +31,15 @@ The Legacy Code Challenge aims at allowing students to write both acceptance tes
 
 ### Weekend challenge
 Comments Challenge
-Extending the basic Rails application that you created at the beginning  of the week. Your task is to add a feature that allows visitors to comment on published articles. Visitors should be able to comment on an article and optionally provide their email address that will be displayed together with the comment. 
+Extending the basic Rails application that you created at the beginning  of the week. Your task is to add a feature that allows visitors to comment on published articles. Visitors should be able to comment on an article and optionally provide their email address that will be displayed together with the comment.
 
 ### Learning objectives
-* Learn about...
+* Practive the Acceptance - Unit test Cycle
+* Learn about adding associations between models
+ - `belongs_to`
+ - `has_many`
+* Learn about nested routes in Rails
+
 
 ### Guide
 - **Monday:**
