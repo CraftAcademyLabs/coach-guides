@@ -1,4 +1,4 @@
-### General Ruby Knowledge
+## General Ruby Knowledge
 
 ### Explain how almost everything is an object in Ruby
 This is a simple question based on complex concept. Here’s your chance to show off your theoretical knowledge and demonstrate that you can have an in depth conversation on class hierarchies, inheritance, methods, encapsulation, polymorphism, and more.

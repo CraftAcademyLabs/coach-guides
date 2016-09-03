@@ -1,5 +1,8 @@
-### Databases, ORM's, etc.
-#### What are ORM's?
+## Databases, ORM's, etc.
+### What are ORM's?
+Object-relational mapping (ORM, O/RM, and O/R mapping tool) is a technique that connects the rich objects of an application to tables in a relational database management system. Using ORM, the properties and relationships of the objects in an application can be easily stored and retrieved from a database without writing SQL statements directly and with less overall database access code.
+
+
 
 ### Explain the difference between a `has_one` and `belongs_to` association
 `has_one`: Indicates a direct 1:1 relationship between objects where each instance of a model contains one instance of another model.
