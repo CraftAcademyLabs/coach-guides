@@ -55,7 +55,7 @@ Extending the basic Rails application that you created at the beginning  of the 
   - [ ] Morning: Introduce the Legacy Code Challenge
 - **Wedensday:**
   - [ ] Morning: In depth Rails demo: `form_for` vs `form_tag`
-  - [ ] Afternoon:
+  - [ ] Afternoon: Adding associaions and nested routes (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge).
 - **Thursday:**
   - [ ] Morning: In depth Rails demo:
   - [ ] Afternoon:
