@@ -14,13 +14,24 @@ The Legacy Code Challenge aims at allowing students to write both acceptance tes
 
 ###Learning objectives
 * Learn about Ruby on Rails
-* Learn about Model-View-Controller
+  - structure of a RoR application
+  - params
+  - routes (resources, members, etc)
+  - most common helpers
+  - migrations
+  - CRUD controller actions
+* Learn about the Model-View-Controller pattern
+* Learn to work with legacy code
 * Learn about best practices in Rails: DRY, Convention Over Configuration
 * Learn how to identify what gems provide a lot of functionality and how to read and use documentation
 * Learn about how to use tests (High level acceptance tests and Low level unit tests) to drive the development process.
+* Practice Team collaboration
+  - planning and assigning tasks
+  - git flow in teams
 
 ### Weekend challenge
-?? challenge
+Comments Challenge
+Extending the basic Rails application that you created at the beginning  of the week. Your task is to add a feature that allows visitors to comment on published articles. Visitors should be able to comment on an article and optionally provide their email address that will be displayed together with the comment. 
 
 ### Learning objectives
 * Learn about...
