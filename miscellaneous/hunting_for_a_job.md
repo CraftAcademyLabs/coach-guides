@@ -9,4 +9,4 @@ That being said, there are still some straight forward questions that any Rails 
 
 To quote Albert Einstein, ‘If you can’t explain it simply, you don’t understand it well enough’
 
-* [General Ruby questions](miscellaneous/self_assessment/general_ruby.md)
+* [General Ruby questions](self_assessment/general_ruby.md)
