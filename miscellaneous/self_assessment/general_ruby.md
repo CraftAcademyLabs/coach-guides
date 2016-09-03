@@ -16,6 +16,10 @@ Be sure to be able to discuss a list of your favorite gems, why you like them, a
 #### What is a class?
 You should easily be able to explain not only what a class is, but how and when you would create a new one as well as what functionality it would provide in the larger context of your program.
 
+A text-book answer: *"classes are a blue-print for constructing computer models for real or virtual objects..."*
+
+A better answer could be: *"classes hold data, have methods that interact with that data, and are used to instantiate objects."*
+
 #### What is the difference between a class and a module?
 The straightforward answer: *"A module cannot be subclassed or instantiated, and modules can implement mixins"*.
 
