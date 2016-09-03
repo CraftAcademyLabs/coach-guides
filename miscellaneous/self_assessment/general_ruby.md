@@ -26,8 +26,6 @@ class Order
 end
 ```
 
-### RoR QA Constructor
-Initializing instance variables of the class Order.
 ### How does a symbol differ from a string?
 Short answer: symbols are immutable and reusable, retaining the same object_id.
 

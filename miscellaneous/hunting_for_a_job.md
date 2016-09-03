@@ -7,6 +7,8 @@ Remember that the best interview questions are open ended and have no definitive
 
 That being said, there are still some straight forward questions that any Rails programmer should be able to answer and discuss.  Many of these questions are relatively simple but being able to explain them in plain english may be more difficult than you think.
 
-To quote Albert Einstein, ‘If you can’t explain it simply, you don’t understand it well enough’
+To quote Albert Einstein, *‘If you can’t explain it simply, you don’t understand it well enough’*
 
 * [General Ruby questions](self_assessment/general_ruby.md)
+* [Advanced Ruby questions](self_assessment/advanced_ruby.md)
+* [Databases, ORM's, etc.](self_assessment/databases.md)
