@@ -13,15 +13,58 @@ Short answer: Gems are packaged bits of Ruby code that you can install to extend
 
 Be sure to be able to discuss a list of your favorite gems, why you like them, and any customizations you like to add. This is also a good opportunity to highlight any gems you may have published.
 
-#### What is a class?
-You should easily be able to explain not only what a class is, but how and when you would create a new one as well as what functionality it would provide in the larger context of your program.
-
+### What is a class?
 A text-book answer: *"classes are a blue-print for constructing computer models for real or virtual objects..."*
 
 A better answer could be: *"classes hold data, have methods that interact with that data, and are used to instantiate objects."*
 
-#### What is the difference between a class and a module?
+You should easily be able to explain not only what a class is, but how and when you would create a new one as well as what functionality it would provide in the larger context of your program.
+
+### What is the difference between a class and a module?
 The straightforward answer: *"A module cannot be subclassed or instantiated, and modules can implement mixins"*.
+
+#### Implement mixins
+Consider this use of a module:
+
+```ruby
+module Designation
+  def state_designation
+   "I am a member of the #{self.class}"
+  end  
+end
+
+class Borg
+  include Designation
+end
+
+class Federation
+  include Designation
+end
+
+borg = Borg.new
+=> #<Borg:0x007fe5012327e0>
+kirk = Federation.new
+=> #<Federation:0x007fe5012069b0>
+borg.state_designation
+=> "I am a member of the Borg"
+kirk.state_designation
+=> "I am a member of the Federation"
+
+```
+And this:
+
+```ruby
+module ExecuteOrders
+  def self.go_to_warp(obj)
+    "#{obj.class} ship initiates warp drive..."
+  end
+end
+
+ExecuteOrders.go_to_warp(borg)
+=> "Borg ship initiates warp drive..."
+ExecuteOrders.go_to_warp(kirk)
+=> "Federation ship initiates warp drive..."
+```
 
 Be prepared to discuss what this actually means in real life, and when you would use a module vs. a class and why.
 
