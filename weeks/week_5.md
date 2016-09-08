@@ -3,7 +3,12 @@
 
 #### Swedish
 **Ruby on Rails**
-Den här veckan introducerar vi deltagarna till Ruby on Rails - ett ramverk som hjälper programmeraren att följa designmönstret Model-View-Controller (MVC) och lär dem att jobba efter grundprinciperna Convention Over Configuration (Konvention före konfiguration) och Don't Repeat Yourself (DRY) som går ut på att motverka duplicering av kod. Vi introducerar också mer omfattande teststrategier och befäster deltagarnas kunskaper för hur de använder tester i sin utvecklingsprocess. Vi forsätter med att fördjupa oss i Rails och går igenom mer avancerade tekniker för hur man använder externa bibliotek (gems), API'er, websockets, mm. "
+Den här veckan introducerar vi deltagarna till Ruby on Rails - ett ramverk som hjälper programmeraren att följa designmönstret Model-View-Controller (MVC) och lär dem att jobba efter grundprinciperna Convention Over Configuration (Konvention före konfiguration) och Don't Repeat Yourself (DRY) som går ut på att motverka duplicering av kod. Vi introducerar också mer omfattande teststrategier och befäster deltagarnas kunskaper för hur de använder tester i sin utvecklingsprocess. Vi forsätter med att fördjupa oss i Rails och går igenom mer avancerade tekniker för hur man använder externa bibliotek (gems), API'er, websockets, mm."
+
+#### English
+**Ruby on Rails**
+This week we introduce participants to Ruby on Rails - a framework that helps the programmer to follow the design pattern Model-View-Controller (MVC), and teaching them to work according to the basic principles Convention Over Configuration (Convention prior configuration) and Do not Repeat Yourself (DRY) which aims to counter the duplication of code. We also introduce more comprehensive testing strategies and consolidate participants' knowledge of how to use the tests in their development. We continue to immerse ourselves in Rails and go through more advanced techniques for using external libraries (gems), APIs, WebSockets, etc."
+
 ### Week Lab
 The students are introduced to Ruby on Rails this week. We are exposing them to the 'magic' of Rails AND to the best practice of using various testing frameworks to drive their development.
 
@@ -12,7 +17,7 @@ The Legacy Code Challenge aims at allowing students to write both acceptance tes
 2. Legacy Code challenge (pairing assignment)
 
 
-###Learning objectives
+### Learning objectives
 * Learn about Ruby on Rails
   - structure of a RoR application
   - params
@@ -53,7 +58,7 @@ Extending the basic Rails application that you created at the beginning  of the 
 - **Tuesday:**
   - [ ] Morning: Check the submissions of the AUT code on GitHub
   - [ ] Morning: Introduce the Legacy Code Challenge
-- **Wedensday:**
+- **Wednesday:**
   - [ ] Morning: In depth Rails demo: `form_for` vs `form_tag`
   - [ ] Afternoon: Adding associaions and nested routes (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge).
 - **Thursday:**
@@ -61,4 +66,4 @@ Extending the basic Rails application that you created at the beginning  of the 
   - [ ] Afternoon:
 - **Friday:**
   - [ ] Morning: In depth Rails demo:
-  - [ ] Introduce the Weeked Challenge
+  - [ ] Introduce the Weekend Challenge
