@@ -29,6 +29,3 @@ In order to stay on that coding wagon I would avoid working alone, work in a pai
 ### Optimizing Your Job Search
 
 Setup your profile on several of the key social networks like LinkedIn (that network is built to help you search for jobs efficiently) and job search websites such as Hired, AngelList and any job board tailored towards the industry and/or your location.
-
-Check out BootcampXchange! BootcampXchange is the world’s first and only exclusive marketplace for employers and code schoolers to connect! Create a profile and connect, all for free!
-Use LinkedIn - It is built to help you search for jobs efficiently.
