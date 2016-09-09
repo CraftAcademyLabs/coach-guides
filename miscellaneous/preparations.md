@@ -2,13 +2,13 @@
 
 ### Perfect your GitHub Profile
 
-- Revisit all your repos to ensure you've implemented best practices in your code. Commenting, indenting, and including a README's are 3 easy ways to set yourself apart
+Revisit all your repos to ensure you've implemented best practices in your code. Commenting, indenting, and including a README's are 3 easy ways to set yourself apart
 
 A well organized and structured GitHub Profile is a great tool in the process of securing an interview. Make sure you can walk an employer through each repo/project just in case.
 
 ### Build your Portfolio
 
-- Students should challenge themselves to build a portfolio showcasing their skills, personalities, and writing ability as soon as they can while in class.
+Students should challenge themselves to build a portfolio showcasing their skills, personalities, and writing ability as soon as they can while in class.
 Don't wait until the last week of class or after graduation to build your portfolio! Take advantage of the network you have in class as well as your coach to perfect your portfolio.
 
 The portfolio should include at least 2 to 4 projects you've contributed to as well as 1 to 2 projects you've built on your own as your final project in school or as a freelancer.
@@ -16,9 +16,9 @@ The portfolio should include at least 2 to 4 projects you've contributed to as w
 ### Master the interview  
 We have a selection of tech interview questions within our curriculum to help you prepare for the interview process and apart from the materials we provide we also encourage all students to include the following items in the preparation process.
 
-[LIST RESOURCES]
-[HackerRank](https://www.hackerrank.com)
-[CodeWars]()
+
+- [HackerRank](https://www.hackerrank.com)
+- [CodeWars](https://www.codewars.com/)
 
 ### Code, code and then code.
 
