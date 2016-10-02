@@ -7,7 +7,7 @@ Under den här veckan bygger vi en personlig site (Portfolio Challenge) med ramv
 
 #### English
 **Static sites and programming techniques**
-During this week, we are building a personal site (Portfolio Challenge) with the framework Middleman. We also introduce [HAML](http://haml.info/) - an HTML markup that facilitates the creation and maintenance of HTML code. We introduce more advanced JavaScript based frameworks (jQuery) and CSS framework (Foundation, Bootstrap) and show the students how we can improve the user experience of our applications.
+During Week Four, you'll build your own portfolio site using a static website framework called Middleman. We go in-depth with HTML, learn a markup language called [HAML](http://haml.info/), introduce the Javascript framework JQuery and style portfolios with a CSS framework. At the end of the week, you'll have a professional portfolio site, which you will fill with the projects you complete over the rest of the course.
 
 ### Week Lab
 Middleman challenge

@@ -7,7 +7,7 @@ Vi inleder denna vecka med att lägga grunden för ett onlinesystem som låter a
 
 #### English
 **Pair Programming and User-Oriented Development**
-In week 3 we lay the foundation for an online system that allows users to order food online (Slow Food Challenge). We introduce a framework for web based applications ([Sinatra](http://www.sinatrarb.com/)) and give participants an insight into how to work with agile development with a focus on Behavior Driven Development. Slow Food Challenge is also about the design pattern Model-View-Controller, relational and features for user registration, authentication, and authorization. At the end of the week, we are ready to go live with the Slow Food Online and we publish our system using Heroku. To facilitate and automate deployment, our process uses techniques like Continuous Integration and Deployment.
+This week we begin to lay the foundation for an online system that allows users to order food online. We introduce Sinatra, a framework for web based applications, and give you your first insight into Agile practices, focusing on Behavior Driven Development. The Slow Food Challenge is also about thinking more deeply about how the pieces of an application fit together, using advanced techniques such as user registration, authentication and authorization. At the end of the week, we are ready to go live with the Slow Food Online application and we deploy our system using Heroku. To facilitate and automate our deploy process we use techniques such as Continuous Integration and Continuous Deployment.
 
 ### Week Lab
 [SlowFood (Sinatra)](https://craftacademy.gitbooks.io/coding-as-a-craft/content/slow_food/slow_food.html)

@@ -7,7 +7,7 @@ Den här veckan introducerar vi deltagarna till Ruby on Rails - ett ramverk som 
 
 #### English
 **Ruby on Rails**
-This week we introduce participants to Ruby on Rails - a framework that helps the programmer to follow the design pattern Model-View-Controller (MVC), and teaching them to work according to the basic principles Convention Over Configuration (Convention prior configuration) and Do not Repeat Yourself (DRY) which aims to counter the duplication of code. We also introduce more comprehensive testing strategies and consolidate participants' knowledge of how to use the tests in their development. We continue to immerse ourselves in Rails and go through more advanced techniques for using external libraries (gems), APIs, WebSockets, etc."
+This week we introduce Ruby on Rails, a popular and in-demand framework that allows programmers to build complex, exciting web applications. We present more complex testing strategies and help you understand how testing can greatly improve your workflow. This week we deepen our knowledge of external libraries (gems), APIs, websockets, etc.
 
 ### Week Lab
 The students are introduced to Ruby on Rails this week. We are exposing them to the 'magic' of Rails AND to the best practice of using various testing frameworks to drive their development.

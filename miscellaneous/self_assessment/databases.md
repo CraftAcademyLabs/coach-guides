@@ -20,6 +20,8 @@ Object-relational mapping (ORM, O/RM, and O/R mapping tool) is a technique that 
 
 - Be able to explain the difference and describe an example of how you would assign these associations to two related models.
 
+### Explain the difference between a `has_many, through:` and `has_and_belongs_to_many` association
+
 ### Explain a polymorphic association
 Polymorphic associations can be tricky to understand and many times one can get confused about when to use them, how to use them and how they are different from other associations.
 
