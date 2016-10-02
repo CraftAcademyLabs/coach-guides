@@ -2,7 +2,8 @@
 ### Introduction to this week
 
 #### Swedish
-**Testdriven utveckling och objektorienterad programmering**
+**Testdriven utveckling och introduktion till Ruby**
+
 Första veckans utmaning handlar om att bygga en enkel Bankomatsimulator. Låter kanske trivialt men utmaningen ligger i att förstå hur en vardaglig situation kan se ut när man tänker i programmeringstermer och hur olika objekt interagerar med varandra. Under veckan introducerar vi en mängd nya begrepp och koncept som lägger grunden för din fortsatta utveckling. Vi praktiserar par programmering och test driven utveckling. Vi tampas med versionskontroll och rubyspråkets syntax. Vi introducerar även användarfokuserad synsätt för programutveckling. Veckan avslutas med din första individuella Weekend Challenge.
 
 #### English
