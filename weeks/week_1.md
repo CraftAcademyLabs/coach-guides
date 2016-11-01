@@ -8,12 +8,10 @@ Första veckans utmaning handlar om att bygga en enkel Bankomatsimulator. Låter
 
 #### English
 **Test driven development and introduction to Ruby**
-The first week's challenge is to build a simple ATM Simulator. The challenge is about understanding how an everyday situation might look like when you think about it in terms of code and how different objects interact with each other. During the week, we introduce a number of new terms and concepts that lay the foundation for your future development. We practice pair programming and test driven development and we also struggle with version control and more advanced Ruby syntax. During this week we also introduce a user-focused approach to program development. The week ends with your first individual Weekend Challenge.
+The first week's challenge is to build a simple ATM Simulator. The challenge is about understanding how an everyday situation might look like when you think about it in terms of code and how different objects interact with each other. During the week, we introduce a number of new terms and concepts that lay the foundation for your future development. We practice test driven development and we also struggle with version control and more advanced Ruby syntax. During this week we also introduce a user-focused approach to program development. The week ends with your first individual Weekend Challenge.
+
 ### Week Lab
 ATM-challenge
-
-### Learning objectives
-*
 
 ### Weekend challenge
 Library challenge
@@ -21,6 +19,7 @@ Library challenge
 ### Learning objectives
 So the first week is all about giving the students their first time experience in writing software.
 * Learn about
+  - Speed-overview of prep course to repeat key concepts
   - classes and attributes
   - writing tests using RSpec
   - using `double`, `class_double` and `instance_double`
@@ -28,13 +27,25 @@ So the first week is all about giving the students their first time experience i
 
 ### Guide
 - **Monday:**
+  - [ ] First-day logistics: bricka, tour of the building, who-is-who and their availability
   - [ ] Introduce the week lab after Day One activities by going over the materials in EdX
-  - [ ] Do a programming demo
+  - [ ] Planning demo - the ATM challenge
+  - [ ] Programming demo - the ATM class
 - **Tuesday:**
+  - [ ] Introduction to testing with RSpec
 - **Wednesday:**
+  - [ ] "Cash is King" demo - iterating over arrays
 - **Thursday:**
+  - [ ] The right way to search the internet for information (using the docs, Stack Overflow)
 - **Friday:**
   - [ ] Introduce the Weekend Challenge by going over the materials in EdX
   - [ ] Do a programming demo with focus on
     - reading from and writing to a YAML file
     - searching a hash using `select` and `detect` methods
+
+### Day One Things
+- Notebooks and pens for all participants (I'd like to do a really nice thing with printed pages but for now, just a notebook with a sticker on it is good.)
+- Buy lunch for them
+- Introduce the entire team. If you don't want to be available at all hours of the day, give them hours of your availability.
+- As much as possible, have logistics already set up: cohort and Galaxy rooms clean and ready to work in, monitors and cables ready, headphones, brickar for the students.
+- Map of things in the area would be really nice - just something hand-drawn or a Google map with useful stores and things.
