@@ -24,22 +24,27 @@ So the first week is all about giving the students their first time experience i
   - writing tests using RSpec
   - using `double`, `class_double` and `instance_double`
   - the benefits of writing automated tests
+  - debugging
 
 ### Guide
 - **Monday:**
-  - [ ] First-day logistics: bricka, tour of the building, who-is-who and their availability
-  - [ ] Introduce the week lab after Day One activities by going over the materials in EdX
-  - [ ] Planning demo - the ATM challenge
-  - [ ] Programming demo - the ATM class
+  - [ ] First-day logistics: bricka, tour of the building, who-is-who and their availability - Amber
+  - [ ] Overview lecture on Craft Academy, etc. - Thomas
+  - [ ] Get-to-know-you intro "game" - Amber
+  - [ ] Introduce the week lab after Day One activities by going over the materials in EdX - Amber
+  - [ ] Planning demo - the ATM challenge - Amber
+  - [ ] Programming demo - the ATM class - Amber
 - **Tuesday:**
-  - [ ] Introduction to testing with RSpec
+  - [ ] Introduction to testing with RSpec (background with TDD) - Thomas
 - **Wednesday:**
-  - [ ] "Cash is King" demo - iterating over arrays
+  - [ ] "Cash is King" demo - iterating over arrays - Amber
+  - [ ] Debugging demo - both in code and spec tests - Raoul
 - **Thursday:**
-  - [ ] The right way to search the internet for information (using the docs, Stack Overflow)
+  - [ ] The right way to search the internet for information (using the docs, Stack Overflow) - Raoul
+  - [ ] Intro to three layers in an application, in context of ATM and Library challenges - Thomas
 - **Friday:**
-  - [ ] Introduce the Weekend Challenge by going over the materials in EdX
-  - [ ] Do a programming demo with focus on
+  - [ ] Introduce the Weekend Challenge by going over the materials in EdX - Amber
+  - [ ] Do a programming demo with focus on - Amber
     - reading from and writing to a YAML file
     - searching a hash using `select` and `detect` methods
 
