@@ -17,20 +17,30 @@ BMI-challenge
 ### Learning objectives
 * Learn about...
   - practice Pair Programming && collaboration using Git and GitHub
+  - Basic understanding of JavaScript
+  - Introduction to JQuery and DOM manipulation
+  - Jasmine testing framework & comparison to RSpec
+  - Observe differences and similarities between Ruby and Javascript
+  - Understand difference between running code on the server vs. in the browser
 
 ### Weekend challenge
-FizzBuzz JS Challenge
+Cooper Challenge - Logic
 
 ### Learning objectives
-* Learn about...
+- Practice JS skills with more advanced logic
 
 ### Guide
 - **Monday:**
+  - [ ] Javascript introduction with FizzBuzz
+    - basics: most common datatypes, how functions structured, "classes", declaring and using variables, conditionals, loops
   - [ ] Introduce the week lab
-  - [ ] Do a programming demo
 - **Tuesday:**
+  - [ ] Introduce JQuery
 - **Wednesday:**
+  - [ ] Individually review pull requests from Ruby weekend challenge and code so far on BMI challenge
 - **Thursday:**
+  - [ ] Whoever we didn't have time to get to with reviews on Thursday
+  - [ ] Introduction to Agile methodologies XP and Scrum - Thomas
 - **Friday:**
   - [ ] Introduce the Weekend Challenge
-  - [ ] Hold a Retrospective Meeting with the entire cohort. A good thing to do is to pull in some Seniors. ([See separate document](../miscellaneous/retro.md))
+  - [ ] Hold a Retrospective Meeting with the entire cohort. A good thing to do is to pull in some Seniors. ([See separate document](../miscellaneous/retro.md)) - Amber & Raoul
