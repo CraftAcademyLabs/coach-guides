@@ -19,7 +19,6 @@ This is a group challenge and the students are supposed to work as a team.
 * Learn about basic Agile principles
   - self organizing teams
   - the importance of planning your work
-  - using project 'simple' planning tools (define 'simple')
 * Learn about Sinatra
   - understand the concept of ORM's vs SQL (DataMapper)
   - understand the structure of a Sinatra app
@@ -52,10 +51,10 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 ### Guide
 - **Monday:**
   - [ ] Morning: Introduce the week lab right after stand-up
-  - [ ] Morning: Do an introduction to Waffle and basic overview of a Design Sprint.
-  - [ ] Afternoon: Introduce PaaS providers: Heroku, DigitalOcean and AWS
+  - [ ] Morning: Do a basic overview of a Design Sprint.
+  - [ ] Afternoon: Introduce Heroku, walkthrough of how to deploy - Raoul
 - **Tuesday:**
-  - [ ] Morning: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) Note: Do mention NoSQL db's but just briefly.
+  - [ ] Morning: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..)
   - [ ] Afternoon: An Acceptance-Unit test demo
 - **Wednesday:**
   - [ ] Morning: Do a demo on debugging with various strategies
