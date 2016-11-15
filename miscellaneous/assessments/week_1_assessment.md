@@ -9,10 +9,11 @@ Create an array that contains both cars.
 How do we use the array to access the second car? How do we find the second car's `color`?
 
 ## Question 2 - Classes and Methods
-Create a new car called 'car.rb': 
+Create a new file called 'car.rb' with:
+ - a class Car
  - a method that "paints" a car a new color.
  - a method that checks if the current car is the first car (`is_first_car?`)
- 
+
 ## Question 3 - Rspec
 How do you initialize `rspec` in a folder? Do it in our cars folder.  
 We would ordinarily have written our tests first, then written code to make them pass. Why?  
