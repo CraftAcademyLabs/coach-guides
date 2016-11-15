@@ -36,18 +36,19 @@ So the first week is all about giving the students their first time experience i
   - [ ] Programming demo - the ATM class - Amber
 - **Tuesday:**
   - [ ] Introduction to testing with RSpec (background with TDD) - Thomas
+  - [ ] Terminal commands and file management - Raoul
 - **Wednesday:**
   - [ ] "Cash is King" demo - iterating over arrays - Amber
   - [ ] Debugging demo - both in code and spec tests - Raoul
 - **Thursday:**
   - [ ] The right way to search the internet for information (using the docs, Stack Overflow) - Raoul
-  - [ ] Intro to three layers in an application, in context of ATM and Library challenges - Thomas
+  - [ ] Duck typing & GitHub demo - pull request, forking, cloning, etc. - Thomas
 - **Friday:**
   - [ ] Introduce the Weekend Challenge by going over the materials in EdX - Amber
   - [ ] Do a programming demo with focus on - Amber
     - reading from and writing to a YAML file
     - searching a hash using `select` and `detect` methods
-  - [ ] GitHub demo - pull request, forking, cloning, etc.
+  - [ ] Individual assessments
 
 ### Day One Things
 - Notebooks and pens for all participants (I'd like to do a really nice thing with printed pages but for now, just a notebook with a sticker on it is good.)
