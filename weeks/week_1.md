@@ -35,8 +35,13 @@ So the first week is all about giving the students their first time experience i
   - [ ] Planning demo - the ATM challenge - Amber
   - [ ] Programming demo - the ATM class - Amber
 - **Tuesday:**
+<<<<<<< HEAD
   - [ ] Introduction to testing with RSpec (background with TDD) - Thomas
   - [ ] Terminal commands and file management - Raoul
+||||||| merged common ancestors
+=======
+  - [ ] Introduction to testing with RSpec (background with TDD) - Thomas
+>>>>>>> 956beeb3c1cb89462e8e3ca282f6eee94872db1a
 - **Wednesday:**
   - [ ] "Cash is King" demo - iterating over arrays - Amber
   - [ ] Debugging demo - both in code and spec tests - Raoul
