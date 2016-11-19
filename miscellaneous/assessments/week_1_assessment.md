@@ -3,8 +3,8 @@ Create a variable and set it equal to 'variable'.
 What are some different data types? Write a few examples.
 
 ##Question 2 - Hashes and Arrays
-Create a new folder called 'cars' and then a file called 'my_cars.rb'  
-Add two hashes, one for each `car`, with the following attributes: `wheels`, `max_speed`, `color`  
+Open irb. We're going to make some cars.
+Create two hashes, one for each `car`, with the following attributes: `wheels`, `max_speed`, `color`  
 Create an array that contains both cars.  
 How do we use the array to access the second car? How do we find the second car's `color`?
 
@@ -12,7 +12,8 @@ How do we use the array to access the second car? How do we find the second car'
 Create a new file called 'car.rb' with:
  - a class Car
  - a method that "paints" a car a new color.
- - a method that checks if the current car is the first car (`is_first_car?`)
+ - a method that checks if the current car is the first car in an array. (`is_first_car?`)
+Open irb. Load your 'car.rb' file. Then create two arrays like in the previous exercise and use the `is_first_car?` method.
 
 ## Question 4 - Rspec
 How do you initialize `rspec` in a folder? Do it in our cars folder.  
