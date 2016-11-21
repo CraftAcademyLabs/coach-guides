@@ -33,14 +33,15 @@ Cooper Challenge - Logic
 - **Monday:**
   - [ ] Javascript introduction with FizzBuzz
     - basics: most common datatypes, how functions structured, "classes", declaring and using variables, conditionals, loops
-  - [ ] Introduce the week lab
+  - [ ] Introduce the week lab (Amber)
 - **Tuesday:**
-  - [ ] Introduce JQuery
+  - [ ] Introduce JQuery (Raoul)
+  - [ ] Git and GitHub (Raoul)
 - **Wednesday:**
-  - [ ] Individually review pull requests from Ruby weekend challenge and code so far on BMI challenge
+  - [ ] Individually review pull requests from Ruby weekend challenge and code so far on BMI challenge (all coaches)
 - **Thursday:**
   - [ ] Whoever we didn't have time to get to with reviews on Thursday
-  - [ ] Introduction to Agile methodologies XP and Scrum - Thomas
+  - [ ] Introduction to Agile methodologies XP and Scrum - (Thomas=
 - **Friday:**
   - [ ] Introduce the Weekend Challenge
-  - [ ] Hold a Retrospective Meeting with the entire cohort. A good thing to do is to pull in some Seniors. ([See separate document](../miscellaneous/retro.md)) - Amber & Raoul
+  - [ ] Hold a Retrospective Meeting with the entire cohort. A good thing to do is to pull in some Seniors. ([See separate document](../miscellaneous/retro.md)) - (Amber & Raoul)
