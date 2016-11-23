@@ -57,7 +57,7 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   - [ ] Morning: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..)
   - [ ] Afternoon: An Acceptance-Unit test demo
 - **Wednesday:**
-  - [ ] Morning: Do a demo on debugging with various strategies
+  - [ ] Morning:
 - **Thursday:**
   - [ ] Afternoon: Do a brief introduction to Rack and talk about the different Rack based frameworks (Sinatra, Rails, etc).
 - **Friday:**
