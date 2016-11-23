@@ -24,7 +24,7 @@ BMI-challenge
   - Understand difference between running code on the server vs. in the browser
 
 ### Weekend challenge
-Cooper Challenge - Logic
+Cooper Challenge - Logic (think about doing this for the February cohort. In November we stuck with FizzBuzz for weekend and the first two tests in the BMI for first-day lecture)
 
 ### Learning objectives
 - Practice JS skills with more advanced logic
