@@ -25,6 +25,7 @@ So the first week is all about giving the students their first time experience i
   - using `double`, `class_double` and `instance_double`
   - the benefits of writing automated tests
   - debugging
+  - Understand the three data layers and how to use a simple "database": a YAML file
 
 ### Guide
 - **Monday:**
