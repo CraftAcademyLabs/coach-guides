@@ -1,0 +1,6 @@
+- [ ] FizzBuzz in Ruby
+- [ ] What's missing from FizzBuzz in Ruby:
+ - error handling
+- [ ] Brief overview of TDD workflow, practice this with something so simple
+- [ ] Introduce bonus challenge(s)
+- [ ] Remind them to write their SALPs
