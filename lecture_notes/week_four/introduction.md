@@ -1,0 +1,5 @@
+- [ ] Demo a middleman site, like craftacademy or student portfolio site
+- [ ] Intro to HAML
+  - divs, classes, other common tags
+  - using embedded Ruby
+- [ ] Partials

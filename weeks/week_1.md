@@ -43,7 +43,7 @@ So the first week is all about giving the students their first time experience i
   - [ ] Debugging demo - both in code and spec tests - Raoul
 - **Thursday:**
   - [ ] The right way to search the internet for information (using the docs, Stack Overflow) - Raoul
-  - [ ] Duck typing & GitHub demo - pull request, forking, cloning, etc. - Thomas
+  - [ ] Git & GitHub demo - pull request, forking, cloning, etc. - Amber
 - **Friday:**
   - [ ] Introduce the Weekend Challenge by going over the materials in EdX - Amber
   - [ ] Do a programming demo with focus on - Amber

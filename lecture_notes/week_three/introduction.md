@@ -1,0 +1,5 @@
+- [ ] Describe requirements for the Slow Food Online project
+- [ ] Introduce the elements of a design sprint:
+   - User stories
+   - Lofis
+   - ERDs

@@ -1,0 +1,4 @@
+- wrong number of arguments
+- nil class
+- cannot load such file
+- undefined method

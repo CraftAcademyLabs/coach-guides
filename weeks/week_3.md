@@ -50,15 +50,16 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 
 ### Guide
 - **Monday:**
-  - [ ] Morning: Introduce the week lab right after stand-up
-  - [ ] Morning: Do a basic overview of a Design Sprint.
-  - [ ] Afternoon: Introduce Heroku, walkthrough of how to deploy - Raoul
+  - [ ] Morning: Introduce the week lab right after stand-up - Amber
+  - [ ] Morning: Do a basic overview of a Design Sprint. - Amber
+  - [ ] Afternoon: An Acceptance-Unit test demo - Thomas
 - **Tuesday:**
   - [ ] Morning: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..)
-  - [ ] Afternoon: An Acceptance-Unit test demo
+  - [ ] Afternoon: Introduce Heroku, walkthrough of how to deploy - Raoul
 - **Wednesday:**
   - [ ] Morning:
 - **Thursday:**
-  - [ ] Afternoon: Do a brief introduction to Rack and talk about the different Rack based frameworks (Sinatra, Rails, etc).
+  - [ ] Afternoon: Do a brief introduction to Rack and talk about the different Rack based frameworks (Sinatra, Rails, etc). - Amber
 - **Friday:**
-  - [ ] Introduce the Weekend Challenge
+  - [ ] Introduce the Weekend Challenge - Amber
+  - [ ] Individual assessments
