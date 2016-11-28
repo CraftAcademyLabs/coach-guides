@@ -25,6 +25,7 @@ So the first week is all about giving the students their first time experience i
   - using `double`, `class_double` and `instance_double`
   - the benefits of writing automated tests
   - debugging
+  - Understand the three data layers and how to use a simple "database": a YAML file
 
 ### Guide
 - **Monday:**
@@ -42,13 +43,13 @@ So the first week is all about giving the students their first time experience i
   - [ ] Debugging demo - both in code and spec tests - Raoul
 - **Thursday:**
   - [ ] The right way to search the internet for information (using the docs, Stack Overflow) - Raoul
-  - [ ] Duck typing & GitHub demo - pull request, forking, cloning, etc. - Thomas
+  - [ ] Git & GitHub demo - pull request, forking, cloning, etc. - Amber
 - **Friday:**
   - [ ] Introduce the Weekend Challenge by going over the materials in EdX - Amber
   - [ ] Do a programming demo with focus on - Amber
     - reading from and writing to a YAML file
     - searching a hash using `select` and `detect` methods
-  - [ ] Individual assessments
+  - [ ] Afternoon: Individual assessments
 
 ### Day One Things
 - Notebooks and pens for all participants (I'd like to do a really nice thing with printed pages but for now, just a notebook with a sticker on it is good.)
