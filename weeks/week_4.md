@@ -29,20 +29,24 @@ b) introduce a new level of complexity when working with templates
 
 
 ### Weekend challenge
-Middleman Blog Challenge
-(Are we keeping the Middleman Blog Challenge?)
+Add a CV page to your portfolio using a YAML file. (Also, wrap up the Library challenge and work on any other outstanding challenges.)
 
 ### Learning objectives
-* Learn about...
+* Using templates
 
 ### Guide
 - **Monday:**
-  - [ ] Introduce the week lab
-  - [ ] Do a programming demo
+  - [ ] Introduce the week lab - Amber
+    - Middleman: structure
+    - Example sites
+    - How to use partials
+    - How to use YAML files for data
+    - Haml (Thomas)
 - **Tuesday:**
 - **Wednesday:**
+  - [ ] Introduction to SASS and tips for use - Raoul
 - **Thursday:**
 - **Friday:**
-  - [ ] Introduce the Weekend Challenge
-  - [ ] Do a programming demo with focus on...
+  - [ ] Introduce weekend challenge briefly with examples. - Amber
+  - [ ] Top 5 tips for CSS styling - Susanna
   - [ ] Retrospective meeting

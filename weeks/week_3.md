@@ -60,7 +60,8 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   - [ ] Morning: Introduce Heroku, walkthrough of how to deploy - Raoul
 - **Thursday:**
   - [ ] Morning: Review of Git & GitHub - Raoul
-  - [ ] Afternoon: Do a brief introduction to Rack and talk about the different Rack based frameworks (Sinatra, Rails, etc). - Amber
+  - [ ] Afternoon: Do a brief introduction to Rack and talk about the different Rack based frameworks (Sinatra, Rails, etc). - Thomas
 - **Friday:**
   - [ ] Introduce the Weekend Challenge - Amber
+  - [ ] Foundation grid - Rodrigo
   - [ ] Individual assessments
