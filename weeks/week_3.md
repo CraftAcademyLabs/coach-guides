@@ -63,5 +63,5 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   - [ ] Afternoon: Do a brief introduction to Rack and talk about the different Rack based frameworks (Sinatra, Rails, etc). - Thomas
 - **Friday:**
   - [ ] Introduce the Weekend Challenge - Amber
-  - [ ] Foundation grid - Rodrigo
-  - [ ] Individual assessments
+  - [ ] Individual assessments - with https://github.com/CraftAcademy/week3-assessment
+  

@@ -50,22 +50,21 @@ Extending the basic Rails application that you created at the beginning  of the 
 
 ### Guide
 - **Monday:**
-  - [ ] Morning: Introduce the Acceptance-Unit Test Cycle
-  - [ ] Afternoon: Rails Magic demo with focus on:
-    - params
-    - routes (resources, members, etc)
-    - most common helpers
-    - migrations
-    - CRUD controller actions
+  - [ ] Morning: How Rails is different than Sinatra.
+    - Why you used Sinatra in week 3
+    - Brief overview of where things are in Rails.
+    - Introduce the Acceptance-Unit Test Cycle in Rails w/ challenge
 - **Tuesday:**
   - [ ] Morning: Check the submissions of the AUT code on GitHub
   - [ ] Morning: Introduce the Legacy Code Challenge
+    - Rails demo: routing (plus resources) and params (plus sanitation)
+  - [ ] Afternoon: Rails demo: Active Record (migrations, associations, CRUD functions)
 - **Wednesday:**
   - [ ] Morning: In depth Rails demo: `form_for` vs `form_tag`
   - [ ] Afternoon: Adding associaions and nested routes (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge).
 - **Thursday:**
-  - [ ] Morning: In depth Rails demo:
-  - [ ] Afternoon:
+  - [ ] Morning: In depth Rails demo: Most common helpers
+  - [ ] Afternoon: Validations in Rails and instance methods
 - **Friday:**
-  - [ ] Morning: In depth Rails demo:
+  - [ ] Morning: In depth Rails demo: Devise and user authentication
   - [ ] Introduce the Weekend Challenge
