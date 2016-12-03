@@ -29,20 +29,37 @@ b) introduce a new level of complexity when working with templates
 
 
 ### Weekend challenge
-Middleman Blog Challenge
-(Are we keeping the Middleman Blog Challenge?)
+Add a CV page to your portfolio using a YAML file. (Also, wrap up the Library challenge and work on any other outstanding challenges.)
 
 ### Learning objectives
-* Learn about...
+* Using templates
 
 ### Guide
 - **Monday:**
-  - [ ] Introduce the week lab
-  - [ ] Do a programming demo
+  - [ ] Introduce the week lab - Amber
+    - Middleman: structure
+    - Example sites
+    - How to use partials
+    - How to use YAML files for data
+  - [ ] Afternoon: Haml (Thomas)
 - **Tuesday:**
+  - [ ] Foundation grid - Rodrigo
+  - [ ] Deploying with Middleman - Raoul
 - **Wednesday:**
+  - [ ] Introduction to SASS and tips for use - Raoul
+  - [ ] Agile - Thomas
 - **Thursday:**
+  - [ ] Agile - Thomas
 - **Friday:**
-  - [ ] Introduce the Weekend Challenge
-  - [ ] Do a programming demo with focus on...
+  - [ ] Introduce weekend challenge briefly with examples. - Amber
+  - [ ] Top 5 tips for CSS styling - Susanna
   - [ ] Retrospective meeting
+  
+  
+   |  | Materials | Demos |
+  | -- | -- | -- |
+  | Week One | Terminal Commands<br>Setting up our developer environment<br>Version Control | Git workflow<br>Office Hours for help with setup |
+  | Week Two | Basic HTML & CSS and our first website<br>Introduction to Ruby Programming | Publishing a website<br>Our first Ruby program |
+  | Week Three | Introduction to testing with RSpec<br>Using the Sinatra framework | Our first unit tests with RSpec<br>Basic Sinatra |
+  | Week Four | Introduction to programming with Javascript | Our first Javascript program |
+   
