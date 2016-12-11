@@ -65,6 +65,7 @@ Extending the basic Rails application that you created at the beginning  of the 
 - **Thursday:**
   - [ ] Morning: In depth Rails demo: Most common helpers
   - [ ] Afternoon: Validations in Rails and instance methods
+  - [ ] Assessment (Rails or Middleman - html, css??)
 - **Friday:**
   - [ ] Morning: In depth Rails demo: Devise and user authentication
   - [ ] Introduce the Weekend Challenge
