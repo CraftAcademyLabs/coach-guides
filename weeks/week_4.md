@@ -52,5 +52,5 @@ Add a CV page to your portfolio using a YAML file. (Also, wrap up the Library ch
   - [ ] Agile - Thomas
 - **Friday:**
   - [ ] Introduce weekend challenge briefly with examples. - Amber
-  - [ ] Top 5 tips for CSS styling - Susanna
+  - [ ] 
   - [ ] Retrospective meeting
