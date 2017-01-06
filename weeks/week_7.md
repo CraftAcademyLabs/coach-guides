@@ -24,12 +24,13 @@ challenge
 * Learn about...
 
 ### Guide
-- **Monday:**
-  - [ ] Introduce the week lab
-  - [ ] Do a programming demo
-- **Tuesday:**
-- **Wednesday:**
+- **Monday:** (Angular)
+  - [ ] Introduce Angular & small desktop app to build - Thomas
+- **Tuesday:** (Angular w/ Ionic)
+  - [ ] Introduce Ionic & BMI mobile
+- **Wednesday:** (start Cooper challenge)
+  - [ ] Introduce Cooper challenge - give students the logic - Raoul
 - **Thursday:**
+  - [ ] How to publish to Ionic view - Raoul
 - **Friday:**
-  - [ ] Introduce the Weekend Challenge
-  - [ ] Do a programming demo with focus on...
+  - [ ] Give them something specific to try to add to the app
