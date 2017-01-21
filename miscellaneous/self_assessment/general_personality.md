@@ -1,6 +1,6 @@
 ## Characteristics of a Programmer
 
-Here's some sample questions that you might encounter when an potential employer want to assess your characteristics that can signal if you make a good addition to their programming team. If the interviuer do not aske you questions about these topics, you as a candidate should try to bring them up yourself.
+Here's some sample questions that you might encounter when an potential employer want to assess your characteristics that can signal if you make a good addition to their programming team. If the nterviewer does not ask questions about these topics, you as a candidate should try to bring them up yourself.
 
 ### Describe your experience with different programming languages
 
@@ -22,7 +22,7 @@ Here's some sample questions that you might encounter when an potential employer
 
 **Passion for the work** This is a tricky one. Many employers think that true programmers **must** be “computer geeks”, spending their time gaming, building servers or creating apps for friends. While this passion isn't a necessity, it's often a way to find top-shelf candidates. People that attend our bootcamp are not code obsessives with no other dimension to their personality. They do not devote every single moment of their life to coding and the don't live the stereotyped developer lifestyle. But we still argue that they are passionate - in a way that makes them, in a long run, more valuable to an organisation than people who code every second of every day.
 
-Bootcamp graduates are highly self-motivated, change-embracing and intelligent problem solvers with a broad set of skills and experience. They have the self-confidence to make an informed choice about pivoting into a new profession and planning for the long term. They are also tough - tough enough to make it through a bootcamp, an endeavour that not only require them to learn a completely new skill-set but quite often reassess their whole approach towards how they function as professionals.
+Bootcamp graduates are self-motivated, embrace challenge and are intelligent problem solvers with a broad set of skills and experience. They have the self-confidence to make an informed choice about pivoting into a new profession and planning for the long term. They are also tough - tough enough to make it through a bootcamp, an endeavor that not only requires them to learn a completely new skill-set but quite often reassesses their whole approach towards how they function as professionals.
 
 Being able to do all that takes a lot of courage, determination, motivation and .., yes, passion.
 
@@ -49,10 +49,10 @@ Being able to do all that takes a lot of courage, determination, motivation and 
 
 ### Have you ever spent hours on a code, only to find it was the wrong approach? What did you do?
 
-**Ability to handle failure** Programmers rarely get everything right on the first try. In fact, failure is almost a certainty. It’s important to find programming staff that sees errors and bugs as a challenge rather than a sign of defeat. Persistence is important, as well as the ability to start over if necessary, even after hours of work.
+**Ability to handle failure** Programmers rarely get everything right on the first try. In fact, failure is almost a certainty. It’s important to find programming staff that see errors and bugs as a challenge rather than a sign of defeat. Persistence is important, as well as the ability to start over if necessary, even after hours of work.
 
 ### Can you tell us about  a rewarding team experience?
-**Teamwork mentality** A programmer rarely works alone, even if he’s the only developer in a company. The ability to work with programmers, business users, marketing and sales staff, and fellow programmers is essential.
+**Teamwork mentality** A programmer rarely works alone, even if he’s the only developer in a company. The ability to work with business users, marketing and sales staff, and fellow programmers is essential.
 
 ### Tell us about a time you had to learn about a particular business? How did you do your research?
 
