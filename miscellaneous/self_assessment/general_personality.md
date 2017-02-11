@@ -1,6 +1,8 @@
 ## Characteristics of a Programmer
 
-Here's some sample questions that you might encounter when an potential employer want to assess your characteristics that can signal if you make a good addition to their programming team. If the nterviewer does not ask questions about these topics, you as a candidate should try to bring them up yourself.
+Here's some sample questions that you might encounter when an potential employer want to assess your characteristics that can signal if you make a good addition to their programming team.
+
+**If the interviewer does not ask questions about these topics, you as a candidate should try to bring them up yourself.**
 
 ### Describe your experience with different programming languages
 
