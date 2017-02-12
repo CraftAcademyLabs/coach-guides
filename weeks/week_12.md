@@ -8,17 +8,12 @@ Samtidigt som du är med och jobbar på ditt slutprojekt under den sista veckan 
 #### English
 ##### Career Coaching
 During the last week of the course, we shift focus a bit to talk about careers. You'll receive a portfolio and CV review, job interview coaching, and several lectures about technical work and the marketplace. We prepare our students to start their careers in software development this week. On graduation day, of course, we break out the champagne and celebrate our brand new junior developers.
-### Week Lab
-challenge
 
 ### Learning objectives
-* Learn about...
-
-### Weekend challenge
-challenge
-
-### Learning objectives
-* Learn about...
+* Prepare for the job hunting process
+* Reflect on the BootCamp experience
+* Learn about CALabs
+* Learn about AgileVentures
 
 ### Guide
 - **Monday:**
