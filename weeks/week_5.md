@@ -50,22 +50,22 @@ Extending the basic Rails application that you created at the beginning  of the 
 
 ### Guide
 - **Monday:**
-  - [ ] Morning: How Rails is different than Sinatra.
+  - [ ] Morning: How Rails is different than Sinatra. - Thomas
     - Why you used Sinatra in week 3
     - Brief overview of where things are in Rails.
     - Introduce the Acceptance-Unit Test Cycle in Rails w/ challenge
 - **Tuesday:**
-  - [ ] Morning: Check the submissions of the AUT code on GitHub
-  - [ ] Morning: Introduce the Legacy Code Challenge
+  - [ ] Morning: Check the submissions of the AUT code on GitHub - Thomas && Amber
+  - [ ] Morning: Introduce the Legacy Code Challenge - Thomas
     - Rails demo: routing (plus resources) and params (plus sanitation)
-  - [ ] Afternoon: Rails demo: Active Record (migrations, associations, CRUD functions)
+  - [ ] Afternoon: Rails demo: Active Record (migrations, associations, CRUD functions) - Amber
 - **Wednesday:**
-  - [ ] Morning: In depth Rails demo: `form_for` vs `form_tag`
-  - [ ] Afternoon: Adding associaions and nested routes (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge).
+  - [ ] Morning: In depth Rails demo: `form_for` vs `form_tag` - Amber
+  - [ ] Afternoon: Adding associaions and nested routes (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge). - Raoul
 - **Thursday:**
-  - [ ] Morning: In depth Rails demo: Most common helpers
-  - [ ] Afternoon: Validations in Rails and instance methods
-  - [ ] Assessment (Rails or Middleman - html, css??)
+  - [ ] Morning: In depth Rails demo: Most common helpers - Amber
+  - [ ] Afternoon: Validations in Rails and instance methods - Raoul
 - **Friday:**
-  - [ ] Morning: In depth Rails demo: Devise and user authentication
-  - [ ] Introduce the Weekend Challenge
+  - [ ] Morning: In depth Rails demo: Devise and user authentication - Skip?? (Move to week 6)
+  - [ ] Introduce the Weekend Challenge - Thomas (if @office) or Amber
+  - [ ] Assessment (Rails or Middleman - html, css??)
