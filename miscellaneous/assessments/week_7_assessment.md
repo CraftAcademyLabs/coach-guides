@@ -2,7 +2,7 @@
 This is the challenge that the coach should Slack the student. Time: 20 - 30 (tops) Advise the student to write his methods in an editor and paste them into irb or pry.  Also, the student needs to communicate what they are doing.
 
 
-Today we want to assess your ability to read documentation, research and make use of gems and use third party services. We want you to use of a gem called “twitter”  and use it to access the TwitterAPI in order to get the 5 last tweets from The President of the United States.
+Today we want to assess your ability to read documentation, research and make use of gems and use third party services. We want you to use of a gem called “twitter”  and use it to access the TwitterAPI in order to get the 5 last tweets from Amber.
 
 ### Resources
 
