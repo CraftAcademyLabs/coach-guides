@@ -68,4 +68,4 @@ Extending the basic Rails application that you created at the beginning  of the 
 - **Friday:**
   - [ ] Morning: In depth Rails demo: Devise and user authentication - Skip?? (Move to week 6)
   - [ ] Introduce the Weekend Challenge - Thomas (if @office) or Amber
-  - [ ] Assessment (Rails or Middleman - html, css??)
+  - [ ] [Assessment](https://github.com/CraftAcademy/coach-guides/blob/master/miscellaneous/assessments/week_5_assessment.md)
