@@ -24,7 +24,7 @@ In order for it to work you need to have configured a `client` That is the main 
 $ gem install twitter
 
 ```
-Open up IBR and make sure to `require 'twitter'`
+Open up `irb` and make sure to `require 'twitter'`
 
 Set up a client
 ```ruby
