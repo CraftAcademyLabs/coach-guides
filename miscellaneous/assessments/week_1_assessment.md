@@ -1,8 +1,8 @@
-##Question 1 - Variables
+## Question 1 - Variables
 Create a variable and set it equal to 'variable'.  
 What are some different data types? Write a few examples.
 
-##Question 2 - Hashes and Arrays
+## Question 2 - Hashes and Arrays
 Open irb. We're going to make some cars.
 Create two hashes, one for each `car`, with the following attributes: `wheels`, `max_speed`, `color`  
 Create an array that contains both cars.  
