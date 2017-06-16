@@ -1,5 +1,5 @@
 ## Week 1 Assessment
-Create a folder named `week_1_assessment` and a text file where you can write down your answers.
+You have 30 minutes to complete the assessment. You can look wherever they want for help with your answers (Google, StackOverflow, course materials, etc.), as long as you do not ask me (the coach) for help. Create a folder named `week_1_assessment` and a text file where you can write down your answers.
 
 ## Question 1 - Variables
 Create a variable and set it equal to 'variable'.  
@@ -14,7 +14,7 @@ How do we use the array to access the second car? How do we find the second car'
 ## Question 3 - Classes and Methods
 Create a new folder called `cars` and inside of that folder, create a file called `car.rb` with:
  - a class Car
- - a method that "paint" a car a new color.
+ - a method to "paint" a car a new color.
 Open irb. Load your 'car.rb' file. Create an instance of a `Car` and change its color.
 
 ## Question 4 - Rspec
