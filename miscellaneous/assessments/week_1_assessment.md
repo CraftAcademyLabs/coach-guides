@@ -11,7 +11,7 @@ How do we use the array to access the second car? How do we find the second car'
 ## Question 3 - Classes and Methods
 Create a new file called 'car.rb' with:
  - a class Car
- - a method that "paints" a car a new color.
+ - a method that "paint" a car a new color.
 Open irb. Load your 'car.rb' file. Create an instance of a `Car` and change its color.
 
 ## Question 4 - Rspec
