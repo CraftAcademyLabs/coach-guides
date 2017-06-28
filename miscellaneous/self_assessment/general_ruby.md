@@ -98,7 +98,29 @@ Global variables are declared with the ‘$’ symbol and can be declared and us
 ### How would you create getter and setter methods in Ruby?
 Setter and getter methods in Ruby are generated with the `attr_accessor` method. attr_accessor is used to generate instance variables for data that's not stored in your database column.
 
+```ruby
+class Federation
+  include Designation
+  
+  attr_accessor :captain
+end
+```
+
 You can also take the long route and create them manually.
+```ruby
+class Federation
+  include Designation
+  
+  def captain=(value)
+    @captain = value
+  end
+  
+  def captain
+    @captain
+  end
+end
+```
+Can you give more examples build in `attr`-methods and how they can be ised? 
 
 ### Describe the difference between class and instance variables?
 Class variables are created with the prefix `@@` and are shared by all objects in a class.
