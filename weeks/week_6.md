@@ -28,6 +28,7 @@ Put all of the skills you have picked up to use in a group project.
 - **Monday:**
   - [ ] Introduce the week lab - Thomas
   - [ ] Design sprint
+  - [ ] In depth Rails demo: Devise and user authentication - Skip?? (Move to week 6)
 - **Tuesday:**
   - [ ] Morning: How to consume an API - Thomas
   - [ ] Afternoon: How to get paid - Thomas
