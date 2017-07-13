@@ -50,22 +50,21 @@ Extending the basic Rails application that you created at the beginning  of the 
 
 ### Guide
 - **Monday:**
-  - [ ] Morning: How Rails is different than Sinatra. - Thomas
+  - [ ] Morning: How Rails is different than Sinatra. - Raoul
     - Why you used Sinatra in week 3
     - Brief overview of where things are in Rails.
     - Introduce the Acceptance-Unit Test Cycle in Rails w/ challenge
 - **Tuesday:**
-  - [ ] Morning: Check the submissions of the AUT code on GitHub - Thomas && Amber
-  - [ ] Morning: Introduce the Legacy Code Challenge - Thomas
+  - [ ] Morning: Check the submissions of the AUT code on GitHub - Philip, Sigu and Raoul
+  - [ ] Morning: Introduce the Legacy Code Challenge - Raoul
     - Rails demo: routing (plus resources) and params (plus sanitation)
-  - [ ] Afternoon: Rails demo: Active Record (migrations, associations, CRUD functions) - Amber
+  - [ ] Afternoon: Rails demo: Active Record (migrations, associations, CRUD functions) - Raoul
 - **Wednesday:**
-  - [ ] Morning: In depth Rails demo: `form_for` vs `form_tag` - Amber
-  - [ ] Afternoon: Adding associaions and nested routes (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge). - Raoul
+  - [ ] Morning: In depth Rails demo: `form_for` vs `form_tag` - Raoul **Is it relevant?**
+  - [ ] Afternoon: In depth Rails demo: Most common helpers - Raoul
 - **Thursday:**
-  - [ ] Morning: In depth Rails demo: Most common helpers - Amber
-  - [ ] Afternoon: Validations in Rails and instance methods - Raoul
+  - [ ] Morning: Validations in Rails and instance methods - Raoul
+  - [ ] Afternoon: Adding associaions and nested routes (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge). - Raoul
 - **Friday:**
-  - [ ] Morning: In depth Rails demo: Devise and user authentication - Skip?? (Move to week 6)
-  - [ ] Introduce the Weekend Challenge - Thomas (if @office) or Amber
+  - [ ] Introduce the Weekend Challenge - Thomas (if @office) or Raoul
   - [ ] [Assessment](https://github.com/CraftAcademy/coach-guides/blob/master/miscellaneous/assessments/week_5_assessment.md)
