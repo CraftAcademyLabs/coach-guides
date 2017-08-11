@@ -23,8 +23,6 @@ The 'Think-aloud' protocol involve the participant thinking aloud as he are perf
 **Not to be shared with students!**
 
 There are many ways to retrieve the tweets for a user but here’s the simplest one using `.search`. 
-In order for it to work you need to have configured a `client` That is the main part of the challenge. ```
-
 In order for it to work you need to have configured a `client` That is the main part of the challenge. 
 
 ```shell
