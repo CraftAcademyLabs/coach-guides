@@ -9,7 +9,7 @@ As you work on this exercise, please 'think aloud.' That means verbally describi
 
 ### Resources
 * The twitter gem can be found on [https://github.com/sferik/twitter](https://github.com/sferik/twitter)
-* The user name you want to search for is @heyamberwilkie
+* The user name you want to search for is @ThomasOchman or @CraftAcademySE
 * you need to register an application with Twitter here: [https://apps.twitter.com/](https://apps.twitter.com/)
 * If you are facing a choice what method to use you should go with the “REST Client” (you’ll understand when you’ve read the gem documentation)
 
