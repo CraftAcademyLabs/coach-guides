@@ -3,7 +3,7 @@ This is the challenge that the coach should Slack the student. Time: 20 - 30 (to
 
 ## Instructions
 
-“Today we want to assess your ability to read documentation, research and make use of gems and use third party services. We want you to use of a gem called “twitter”  and use it to access the TwitterAPI in order to get the 5 last tweets from CraftAcademy (@@CraftAcademySE) or Thomas (@ThomasOchman).
+“Today we want to assess your ability to read documentation, research and make use of gems and use third party services. We want you to use of a gem called “twitter”  and use it to access the TwitterAPI in order to get the 5 last tweets from CraftAcademy (@CraftAcademySE) or Thomas (@ThomasOchman).
 
 As you work on this exercise, please 'think aloud.' That means verbally describing your mental process as it develops, including the doubts and questions you have, the solution strategies you consider, and the reasons that justify your decisions.”
 
