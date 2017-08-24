@@ -31,17 +31,18 @@ Cooper Challenge - Logic (think about doing this for the February cohort. In Nov
 
 ### Guide
 - **Monday:**
-  - [ ] Javascript introduction with FizzBuzz
+  - [ ] Javascript introduction with FizzBuzz (Andy)
     - basics: most common datatypes, how functions structured, "classes", declaring and using variables, conditionals, loops
-  - [ ] Introduce the week lab (Amber)
+  - [ ] Introduce the week lab (Andy)
 - **Tuesday:**
-  - [ ] Introduce JQuery (Raoul)
-  - [ ] Git and GitHub (Raoul)
+  - [ ] Refresher on jQuery (Andy)
+  - [ ] Debugging with chrome console (Andy)
 - **Wednesday:**
+  - [ ] Introduction to Agile methodologies XP and Scrum - (Thomas)
   - [ ] Individually review pull requests from Ruby weekend challenge and code so far on BMI challenge (all coaches)
 - **Thursday:**
   - [ ] Whoever we didn't have time to get to with reviews on Thursday
-  - [ ] Introduction to Agile methodologies XP and Scrum - (Thomas)
+  - [ ] Demo: Add some styling to BMI app using a a front-end framework (Andy)
 - **Friday:**
-  - [ ] Introduce the Weekend Challenge
-  - [ ] Hold a Retrospective Meeting with the entire cohort. A good thing to do is to pull in some Seniors. ([See separate document](../miscellaneous/retro.md)) - (Amber & Raoul)
+  - [ ] Introduce the Weekend Challenge (Andy)
+  - [ ] [First assessment](../miscellaneous/assessments/week_1_assessment.md) (All coaches)
