@@ -20,9 +20,7 @@ Your project team will be starting a new project - a crowdsourced transportation
 **Description**
 
 >As a developmet team
-
 >In order to be able to collectively work on the same codebase
-
 >We would like to have a main repository on GitHub we all can use as the upstream repository_
 
 **Tasks (Acceptance Criteria)**
@@ -36,9 +34,7 @@ Your project team will be starting a new project - a crowdsourced transportation
 **Description**
 
 >As a developent team
-
 >In order to be able to start adding features
-
 >We would like to have an basic application structure_ 
 
 **Tasks (Acceptance Criteria)**
@@ -52,9 +48,9 @@ Your project team will be starting a new project - a crowdsourced transportation
 
 **Description**
 
-_As a developent team
-In order to be able to make sure my code is doing what it is supposed to do
-We would like to be able to write and run automated tests_
+>As a developent team
+>In order to be able to make sure my code is doing what it is supposed to do
+>We would like to be able to write and run automated tests_
 
 **Tasks (Acceptance Criteria)**
 
@@ -66,9 +62,9 @@ We would like to be able to write and run automated tests_
 
 **Description**
 
-_As a developent team
-In order to make sure that the code we add to the code base is functional
-We would like to run full test suite on a remote service_
+>As a developent team
+>In order to make sure that the code we add to the code base is functional
+>We would like to run full test suite on a remote service_
 
 **Tasks (Acceptance Criteria)**
 
@@ -77,9 +73,9 @@ We would like to run full test suite on a remote service_
 ### Set up Test Coverage Metrics
 **Description**
 
-_As a developent team
-In order to see how much of our code is covered in tests
-We would like to measure test coverage using a remote service__ 
+>As a developent team
+>In order to see how much of our code is covered in tests
+>We would like to measure test coverage using a remote service__ 
 
 **Tasks (Acceptance Criteria)**
 
@@ -90,9 +86,9 @@ We would like to measure test coverage using a remote service__
 ### Set up Continious Deployment
 **Description**
 
-_As a developent team
-In order to automate the deployment process during development
-We would like all code that has been merged in to the code base to be deployed to a server_
+>As a developent team
+>In order to automate the deployment process during development
+>We would like all code that has been merged in to the code base to be deployed to a server_
 
 **Tasks (Acceptance Criteria)**
 
