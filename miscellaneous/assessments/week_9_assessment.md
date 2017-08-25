@@ -5,23 +5,26 @@ This week we would like to assess your ability to scaffold a new Rails project.
 
 **Assessment time - up to 45 minutes**
 
-As you work on this exercise, please 'think aloud.' That means verbally describing your mental process as it develops, including the doubts and questions you have, the solution strategies you consider, and the reasons that justify your decisions.”
+As you work on this exercise, please '_**think aloud**_'. That means verbally describing your mental process as it develops, including the doubts and questions you have, the solution strategies you consider, and the reasons that justify your decisions.
 
 ### Think Aloud Clarification
 
-The 'Think-aloud' protocol involve the participant thinking aloud as he are performing a set of specified tasks or working on an excercise. The participant are asked to say whatever comes into his mind as he complete the task. This might include what he is looking at, thinking, doing, and feeling. This gives the coach valuable insight into the participant's cognitive processes (rather than only their final product), to make thought processes as explicit as possible during task performance. Sessions should be recorded so that coaches can go back and refer to what participants did and how they reacted.
+The 'Think-aloud' protocol involve the participant thinking aloud as s/he is performing a set of specified tasks or working on an excercise. The participant is asked to say whatever comes into mind as s/he completes the task. This might include what s/he is looking at, thinking, doing, and feeling. This gives the coach valuable insight into the participant's cognitive processes (rather than only their final product), to make thought processes as explicit as possible during task performance. Sessions should be recorded so that coaches can go back and refer to what participants did and how they reacted.
 
 
 ## Challenge
 
-Your project team will be starting a new project - a crowdsourced transportation platform called **Unter**. You ware assigned the following chores by your team:
+Your project team will be starting a new project - a crowdsourced transportation platform called **Unter**. You were assigned the following chores by your team:
 
 ### Set up main repository
 **Description**
 
->As a developmet team
->In order to be able to collectively work on the same codebase
->We would like to have a main repository on GitHub we all can use as the upstream repository_
+
+```gherkin
+As a development team
+In order to be able to collectively work on the same codebase
+We would like to have a main repository on GitHub we all can use as the upstream repository
+```
 
 **Tasks (Acceptance Criteria)**
 
@@ -33,9 +36,11 @@ Your project team will be starting a new project - a crowdsourced transportation
 
 **Description**
 
->As a developent team
->In order to be able to start adding features
->We would like to have an basic application structure_ 
+```gherkin
+As a development team
+In order to be able to start adding features
+We would like to have an basic application structure 
+```
 
 **Tasks (Acceptance Criteria)**
 
@@ -48,9 +53,11 @@ Your project team will be starting a new project - a crowdsourced transportation
 
 **Description**
 
->As a developent team
->In order to be able to make sure my code is doing what it is supposed to do
->We would like to be able to write and run automated tests_
+```gherkin
+As a development team
+In order to be able to make sure our code is doing what it is supposed to do
+We would like to be able to write and run automated tests
+```
 
 **Tasks (Acceptance Criteria)**
 
@@ -62,9 +69,11 @@ Your project team will be starting a new project - a crowdsourced transportation
 
 **Description**
 
->As a developent team
->In order to make sure that the code we add to the code base is functional
->We would like to run full test suite on a remote service_
+```gherkin
+As a development team
+In order to make sure that the code we add to the code base is functional
+We would like to run full test suite on a remote service
+```
 
 **Tasks (Acceptance Criteria)**
 
@@ -73,9 +82,11 @@ Your project team will be starting a new project - a crowdsourced transportation
 ### Set up Test Coverage Metrics
 **Description**
 
->As a developent team
->In order to see how much of our code is covered in tests
->We would like to measure test coverage using a remote service__ 
+```gherkin
+As a development team
+In order to see how much of our code is covered in tests
+We would like to measure test coverage using a remote service 
+```
 
 **Tasks (Acceptance Criteria)**
 
@@ -86,9 +97,11 @@ Your project team will be starting a new project - a crowdsourced transportation
 ### Set up Continious Deployment
 **Description**
 
->As a developent team
->In order to automate the deployment process during development
->We would like all code that has been merged in to the code base to be deployed to a server_
+```gherkin
+As a development team
+In order to automate the deployment process during development
+We would like all code that has been merged into the main code base, to be deployed to a server
+```
 
 **Tasks (Acceptance Criteria)**
 
