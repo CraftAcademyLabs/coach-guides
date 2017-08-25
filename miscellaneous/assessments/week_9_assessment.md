@@ -1,5 +1,5 @@
 # Setting up a project
-## Rails with testing frameworks and CI
+## Rails with testing frameworks and CI/CD
 
 This week we would like to assess your ability to scaffold a new Rails project. 
 
