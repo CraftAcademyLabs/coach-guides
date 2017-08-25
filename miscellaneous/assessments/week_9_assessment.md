@@ -14,7 +14,7 @@ The 'Think-aloud' protocol involve the participant thinking aloud as he are perf
 
 ## Challenge
 
-Your project team will be starting a new project - a crowdsourced transportation platform called ** Unter **. You ware assigned the following chores by your team:
+Your project team will be starting a new project - a crowdsourced transportation platform called **Unter**. You ware assigned the following chores by your team:
 
 ### Set up main repository
 **Description**
