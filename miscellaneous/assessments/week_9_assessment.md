@@ -19,9 +19,11 @@ Your project team will be starting a new project - a crowdsourced transportation
 ### Set up main repository
 **Description**
 
-_As a developmet team 
-In order to be able to collectively work on the same codebase
-We would like to have a main repository on GitHub we all can use as the upstream repository_
+>As a developmet team
+
+>In order to be able to collectively work on the same codebase
+
+>We would like to have a main repository on GitHub we all can use as the upstream repository_
 
 **Tasks (Acceptance Criteria)**
 
@@ -33,9 +35,11 @@ We would like to have a main repository on GitHub we all can use as the upstream
 
 **Description**
 
-_As a developent team
-In order to be able to start adding features
-We would like to have an basic application structure_ 
+>As a developent team
+
+>In order to be able to start adding features
+
+>We would like to have an basic application structure_ 
 
 **Tasks (Acceptance Criteria)**
 
