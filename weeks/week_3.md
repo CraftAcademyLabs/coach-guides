@@ -56,14 +56,14 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   
 - **Tuesday:**
   - [ ] During Staff meeting: Compleate Sinatra excercises - Students
-  - [ ] Morning: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Raoul (Is there a recording?)
+  - [ ] Morning: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Raoul ([Part1 ](https://youtu.be/7412qUm4HAI), [Part 2](https://youtu.be/5ln33hy4zxQ))
   - [ ] Afternoon: An Acceptance-Unit test demo - Thomas
   
 - **Wednesday:**
   - [ ] Morning: Introduce Heroku, walkthrough of how to deploy - Raoul - Recording? 
   
 - **Thursday:**
-  - [ ] Morning: Review of Git & GitHub - Raoul - Recording? (Or do a more advances GH Pong session? /Thomas)
+  - [ ] Morning: Review of Git & GitHub - Raoul - Recording? ([Git-Pong Demo](https://youtu.be/eYpebIsXCKE) Or do a more advances GH Pong session? /Thomas)
   
 - **Friday:**
   - [ ] Introduce the Weekend Challenge - Andy
