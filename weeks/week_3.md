@@ -50,23 +50,22 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 
 ### Guide
 - **Monday:**
-  - [ ] Morning: Introduce the week lab right after stand-up - Andy
-  - [ ] Noonish: Introduce Sinatra - the important parts and what they do - Thomas (First chapters in Week3 materials)
-  - [ ] Afternoon: Lead a Design Sprint workshop. - Andy
+  - [ ] Weekend: Watch the Sinatra recording (Students)
+  - [ ] Morning: Follow up of Sintra intro and introducton to first Sinatra challenge - Thomas
+  - [ ] Afternoon: Lead a "Simple Design Sprint" workshop - focus on User Stories and Lo-Fi's. Use GH Issues - Thomas
   
 - **Tuesday:**
   - [ ] During Staff meeting: Compleate Sinatra excercises - Students
-  - [ ] Morning: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Raoul
+  - [ ] Morning: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Raoul (Is there a recording?)
   - [ ] Afternoon: An Acceptance-Unit test demo - Thomas
   
 - **Wednesday:**
-  - [ ] Morning: Introduce Heroku, walkthrough of how to deploy - Raoul
+  - [ ] Morning: Introduce Heroku, walkthrough of how to deploy - Raoul - Recording? 
   
 - **Thursday:**
-  - [ ] Morning: Review of Git & GitHub - Raoul
-  - [ ] Afternoon: Do a brief introduction to Rack and talk about the different Rack based frameworks (Sinatra, Rails, etc). - Thomas
+  - [ ] Morning: Review of Git & GitHub - Raoul - Recording? (Or do a more advances GH Pong session? /Thomas)
   
 - **Friday:**
   - [ ] Introduce the Weekend Challenge - Andy
-  - [ ] Individual assessments - with https://github.com/CraftAcademy/week3-assessment
+  - [ ] Retrospective
   
