@@ -1,5 +1,5 @@
-## Week 1 Assessment
-You have 30 minutes to complete the assessment. You can look wherever they want for help with your answers (Google, StackOverflow, course materials, etc.), as long as you do not ask me (the coach) for help. Create a folder named `week_1_assessment` and a text file where you can write down your answers.
+## Week 1/2 Assessment
+You have 30 minutes to complete the assessment. You can look wherever they want for help with your answers (Google, StackOverflow, course materials, etc.), as long as you do not ask me (the coach) for help. Create a folder named `week_1_assessment` (or `week_2_assessment`) and a text file where you can write down your answers.
 
 
 As you work on this exercise, please 'think aloud.' That means verbally describing your mental process as it develops, including the doubts and questions you have, the solution strategies you consider, and the reasons that justify your decisions.”
