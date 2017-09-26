@@ -41,4 +41,4 @@ Put all of the skills you have picked up to use in a group project.
   
   ### Resources
   
-  @tochman Update this section
+  * [Devise Introduction](https://youtu.be/BBKiHPotInA)
