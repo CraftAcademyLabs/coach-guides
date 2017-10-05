@@ -42,7 +42,7 @@ challenge
   
 - **Wednesday:**
   - [ ] Design spring day 3 - Complete with a workshop on story prioritization and voting - Thomas + Faraz
-  - [ ] Geocoding + GMaps - Thomas
+  - [ ] Geocoding + GMaps - Thomas Resource: [https://youtu.be/DJ7SCFwMPho](https://youtu.be/DJ7SCFwMPho)
   
 - **Thursday:**
   - [ ] OAuth with FB/Google - Raoul
