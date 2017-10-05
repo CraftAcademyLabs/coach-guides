@@ -46,7 +46,7 @@ challenge
   
 - **Thursday:**
   - [ ] OAuth with FB/Google - Raoul
-  - [ ] Internationalization (i18n) - Faraz
+  - [ ] Internationalization (i18n) - Faraz [Part 1](https://youtu.be/eBwjN5drg-Q) | [Part 2](https://youtu.be/0Nen6z0cIbo)
 
 - **Friday:**
   - [ ] Retro/Assessment - Hanna + Faraz for setting up recordings
