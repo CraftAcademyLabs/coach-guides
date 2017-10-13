@@ -57,16 +57,16 @@ challenge
   - [ ] Afternoon: Practice Sprint Review - Facilitated by Faraz
 
 - **Tuesday:**
-  - [ ] Stripe payment - Done for august cohort. Refer them back to recordings [Part 1](https://youtu.be/_wl9Vs4Jid4) | [Part 2](https://youtu.be/BWpzSxzInLk)
-  - [ ] Mob session: Implementing Stripe - Faraz
+  - [ ] Stripe payment - Done for august cohort. Refer them back to recordings [Part 1](https://youtu.be/_wl9Vs4Jid4) | [Part 2](https://youtu.be/BWpzSxzInLk) + follow up discussion facilitated by Thomas **TODO: Create timeline diagram of events**
+  - [ ] Mob session: Implementing Stripe - Thomas and Faraz
 
 - **Wednesday:**
-  - [ ] Morning: File attachements (Local FS) - Thomas
-  - [ ] After scrum: File attachements using Cloud storage (AWS S3) - Thomas
+  - [ ] Morning: File attachements (Local FS) - Thomas and Faraz
+  - [ ] After scrum: File attachements using Cloud storage (AWS S3) - Thomas and Faraz
 
 - **Thursday:**
-  - [ ] Software Craftsmanship talk - Thomas
-  - [ ] RESTful APIs - Thomas
+  - [ ] Software Craftsmanship talk - Thomas and Faraz
+  - [ ] RESTful APIs - Thomas and Faraz
 
 - **Friday:**
   - [ ] Assessment - [Twitter Challenge](../miscellaneous/assessments/week_7_assessment.md)
