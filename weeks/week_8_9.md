@@ -72,3 +72,18 @@ challenge
   - [ ] Assessment - [Twitter Challenge](../miscellaneous/assessments/week_7_assessment.md)
  
 
+### Week 10
+Extending SlowFood with API and Mobile Client
+- **Monday:**
+  - [ ] File Attachments - File system storage
+  - [ ] File Attachments - AWS storage (S3)
+
+- **Tuesday:**
+  - [ ] User Authentication using tokens (theory and Devise Token Auth as example)
+  - [ ] Google Maps on Mobile (native plugin) - Faraz 
+  
+- **Wednesday:**
+  - [ ] RESTful API's in Rails (theory and demo) - Thomas (if not done)
+
+  
+  
