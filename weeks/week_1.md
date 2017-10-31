@@ -37,7 +37,7 @@ So the first week is all about giving the students their first time experience i
   - [ ] Planning demo - the ATM challenge - Faraz
   - [ ] Programming demo - the ATM class - Faraz
 - **Tuesday:**
-  - [ ] Introduction to testing with RSpec (background with TDD) - Thomas
+  - [ ] Introduction to testing with RSpec (background with TDD) - Thomas ([Slides](https://docs.google.com/presentation/d/1M_0ZyaA3S3I-6tSm3E85aSBL4BzDICJZ03ZNHJiAl0s/edit?usp=sharing) [Recording](https://youtu.be/DDNhl3pxfPw)) 
   - [ ] Basic programming recap - Raoul (see week 1 assessment for topics to cover) 
 - **Wednesday:**
   - [ ] "Cash is King" demo - iterating over arrays - Thomas
