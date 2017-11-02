@@ -35,6 +35,7 @@ Cooper Challenge - Logic
     - basics: most common datatypes, how functions structured, "classes", declaring and using variables, conditionals, loops
     - work in remote pairs on the js exercises
   - [ ] Introduce the week lab - Faraz
+  
 ( - [ ] Coaches review students code )
 - **Tuesday:**
   - [ ] Refresher on jQuery - Raoul
