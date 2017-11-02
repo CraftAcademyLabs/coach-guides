@@ -1,4 +1,4 @@
-## Week 1/2 Assessment
+## Week 1 Assessment
 You have 30 minutes to complete the assessment. You can look wherever they want for help with your answers (Google, StackOverflow, course materials, etc.), as long as you do not ask me (the coach) for help. Create a folder named `week_1_assessment` (or `week_2_assessment`) and a text file where you can write down your answers.
 
 
