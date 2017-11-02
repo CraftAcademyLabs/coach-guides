@@ -24,25 +24,27 @@ BMI-challenge
   - Understand difference between running code on the server vs. in the browser
 
 ### Weekend challenge
-Cooper Challenge - Logic (think about doing this for the February cohort. In November we stuck with FizzBuzz for weekend and the first two tests in the BMI for first-day lecture)
+Cooper Challenge - Logic
 
 ### Learning objectives
 - Practice JS skills with more advanced logic
 
 ### Guide
 - **Monday:**
-  - [ ] Javascript introduction with FizzBuzz (Andy)
+  - [ ] Javascript recap with focus on ES6 - Raoul
     - basics: most common datatypes, how functions structured, "classes", declaring and using variables, conditionals, loops
-  - [ ] Introduce the week lab (Andy)
+    - work in remote pairs on the js exercises
+  - [ ] Introduce the week lab - Faraz
+( - [ ] Coaches review students code )
 - **Tuesday:**
-  - [ ] Refresher on jQuery (Andy)
-  - [ ] Debugging with chrome console (Andy)
+  - [ ] Refresher on jQuery - Raoul
+  - [ ] Debugging with chrome console - Faraz
 - **Wednesday:**
-  - [ ] Introduction to Agile methodologies XP and Scrum - (Thomas)
-  - [ ] Individually review pull requests from Ruby weekend challenge and code so far on BMI challenge (all coaches)
+  - [ ] Introduction to Agile methodologies XP and Scrum - Thomas
+  - [ ] Individually review pull requests from Ruby weekend challenge and code so far on BMI challenge (all coaches) 
 - **Thursday:**
   - [ ] Whoever we didn't have time to get to with reviews on Thursday
-  - [ ] Demo: Add some styling to BMI app using a a front-end framework (Andy)
+  - [ ] Demo: Add some styling to BMI app using a a front-end CSS framework - Faraz (Materialize and Boostrap)
 - **Friday:**
-  - [ ] Introduce the Weekend Challenge (Andy)
+  - [ ] Introduce the Weekend Challenge - Thomas
   - [ ] [First assessment](../miscellaneous/assessments/week_1_assessment.md) (All coaches)
