@@ -27,16 +27,18 @@ Put all of the skills you have picked up to use in a group project.
 
 - **Monday:**
   - [ ] Introduce the week lab - Thomas
-  - [ ] Design sprint
+  - [ ] Design sprint - Thomas + Faraz
+  - [ ] In depth Rails demo: Authentication & Authorization (Devise + Pundit) - Thomas
 - **Tuesday:**
-  - [ ] Morning: How to consume an API - Thomas
-  - [ ] Afternoon: How to get paid - Thomas
+  - [ ] Morning: How to consume an API - Raoul
+  - [ ] Afternoon: How to get paid (Stripe) - Thomas
 - **Wednesday:**
-  - [ ] Geocoder gem intro - Amber
-  - [ ] Google Maps - Thomas
+  - [ ] Geocoder + Google Maps - Thomas
 - **Thursday:**
-  - [ ] Authentication talk (Devise) - Amber
-  - [ ] Authorization talk (CanCanCan) - Thomas
   - [ ] OAuth demo (facebook) - Thomas
 - **Friday:**
-  - [ ] Retrospective meeting
+  - [ ] Assessment [Week 6](../miscellaneous/assessments/week_5_assessment.md)
+  
+  ### Resources
+  
+  * [Devise Introduction](https://youtu.be/BBKiHPotInA)

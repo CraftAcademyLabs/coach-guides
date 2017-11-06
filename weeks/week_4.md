@@ -50,8 +50,8 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 
 ### Guide
 - **Monday:**
-  - [ ] Morning: Introduce the week lab right after stand-up - Amber
-  - [ ] Morning: Do a basic overview of a Design Sprint. - Amber
+  - [ ] Morning: Introduce the week lab right after stand-up - Thomas
+  - [ ] Morning: Do a basic overview of a Design Sprint. - Thomas
   - [ ] Afternoon: Re-introduce Sinatra - the important parts and what they do - Amber
 - **Tuesday:**
   - [ ] Morning: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Raoul
@@ -60,7 +60,7 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   - [ ] Morning: Introduce Heroku, walkthrough of how to deploy - Raoul
 - **Thursday:**
   - [ ] Morning: Review of Git & GitHub - Raoul
-  - [ ] Afternoon: Do a brief introduction to Rack and talk about the different Rack based frameworks (Sinatra, Rails, etc). - Thomas
+  - [ ] Afternoon: Do a brief introduction to Rack and talk about the different Rack based frameworks (Sinatra, Rails, etc). - Thomas (not sure about this one)
 - **Friday:**
-  - [ ] Introduce the Weekend Challenge - Amber
+  - [ ] Introduce the Weekend Challenge - Faraz
   - [ ] Individual assessments - with https://github.com/CraftAcademy/week3-assessment

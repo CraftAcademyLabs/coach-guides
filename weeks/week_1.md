@@ -29,24 +29,25 @@ So the first week is all about giving the students their first time experience i
 
 ### Guide
 - **Monday:**
-  - [ ] First-day logistics: bricka, tour of the building, who-is-who and their availability - Amber
+  - [ ] First-day logistics: bricka, tour of the building, who-is-who and their availability - Thomas (Gothenburg), Rodrigo (Stockholm)
   - [ ] Overview lecture on Craft Academy, etc. - Thomas
-  - [ ] Get-to-know-you intro "game" - Amber
-  - [ ] Introduce the week lab after Day One activities by going over the materials in EdX - Amber
-  - [ ] Planning demo - the ATM challenge - Amber
-  - [ ] Programming demo - the ATM class - Amber
+  - [ ] Team presentations - Raoul, Faraz, Thomas, Rodrigo, Hanna
+  - [ ] Get-to-know-you intro "game" - Rodrigo
+  - [ ] Introduce the week lab after Day One activities by going over the materials in EdX - Faraz
+  - [ ] Planning demo - the ATM challenge - Faraz
+  - [ ] Programming demo - the ATM class - Faraz
 - **Tuesday:**
-  - [ ] Introduction to testing with RSpec (background with TDD) - Thomas
-  - [ ] Terminal commands and file management - Raoul
+  - [ ] Introduction to testing with RSpec (background with TDD) - Thomas ([Slides](https://docs.google.com/presentation/d/1M_0ZyaA3S3I-6tSm3E85aSBL4BzDICJZ03ZNHJiAl0s/edit?usp=sharing) [Recording](https://youtu.be/DDNhl3pxfPw)) 
+  - [ ] Basic programming recap - Raoul (see week 1 assessment for topics to cover) 
 - **Wednesday:**
-  - [ ] "Cash is King" demo - iterating over arrays - Amber
+  - [ ] "Cash is King" demo - iterating over arrays - Thomas
   - [ ] Debugging demo - both in code and spec tests - Raoul
 - **Thursday:**
   - [ ] The right way to search the internet for information (using the docs, Stack Overflow) - Raoul
-  - [ ] Git & GitHub demo - pull request, forking, cloning, etc. - Amber
+  - [ ] Git & GitHub talk and demo - pull requests, forking, cloning, etc. - Faraz
 - **Friday:**
-  - [ ] Introduce the Weekend Challenge by going over the materials in EdX - Amber
-  - [ ] Do a programming demo with focus on - Amber
+  - [ ] Introduce the Weekend Challenge by going over the materials in EdX - Thomas
+  - [ ] Do a programming demo with focus on - Thomas
     - reading from and writing to a YAML file
     - searching a hash using `select` and `detect` methods
   - [ ] Afternoon: Individual assessments

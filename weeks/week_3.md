@@ -36,14 +36,14 @@ Add a CV page to your portfolio using a YAML file. (Also, wrap up the Library ch
 
 ### Guide
 - **Monday:**
-  - [ ] Introduce the week lab - Amber
+  - [ ] Introduce the week lab - Raoul
     - Middleman: structure
     - Example sites
     - How to use partials
     - How to use YAML files for data
-  - [ ] Afternoon: Haml (Thomas)
+  - [ ] Afternoon: Haml - Thomas
 - **Tuesday:**
-  - [ ] Foundation grid - Rodrigo
+  - [ ] CSS Frameworks - Faraz
   - [ ] Deploying with Middleman - Raoul
 - **Wednesday:**
   - [ ] Introduction to SASS and tips for use - Raoul
@@ -51,6 +51,5 @@ Add a CV page to your portfolio using a YAML file. (Also, wrap up the Library ch
 - **Thursday:**
   - [ ] Agile - Thomas
 - **Friday:**
-  - [ ] Introduce weekend challenge briefly with examples. - Amber
-  - [ ]
+  - [ ] Introduce weekend challenge briefly with examples. - Faraz
   - [ ] Retrospective meeting
