@@ -45,7 +45,7 @@ Cooper Challenge - Logic
   - [ ] Individually review pull requests from Ruby weekend challenge and code so far on BMI challenge (all coaches) 
 - **Thursday:**
   - [ ] Whoever we didn't have time to get to with reviews on Thursday
-  - [ ] Demo: Add some styling to BMI app using a a front-end CSS framework - Faraz (Materialize and Boostrap)
+  - [ ] Demo: Add some styling to BMI app using a a front-end CSS framework [intrduce the idea of frameworks but focus on Bootstrap]- Faraz 
 - **Friday:**
   - [ ] Introduce the Weekend Challenge - Thomas
   - [ ] [First assessment](../miscellaneous/assessments/week_1_assessment.md) (All coaches)
