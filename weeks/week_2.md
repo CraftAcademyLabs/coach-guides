@@ -46,4 +46,4 @@ Cooper Challenge - Logic
   - [ ] Demo: Add some styling to BMI app using a a front-end CSS framework [intrduce the idea of frameworks but focus on Bootstrap]- Faraz 
 - **Friday:**
   - [ ] Introduce the Weekend Challenge - Thomas
-  - [ ] FizzBuzz Js Challenge (All coaches)
+  - [ ] [FizzBuzz Js Challenge](../miscellaneous/assessments/week_2_assessment.md) (All coaches)
