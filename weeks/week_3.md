@@ -9,7 +9,7 @@ Under den här veckan bygger vi en personlig site (Portfolio Challenge) med ramv
 #### English
 **Static sites and programming techniques**
 
-During Week Four, you'll build your own portfolio site using a static website framework called Middleman. We go in-depth with HTML, learn a markup language called [HAML](http://haml.info/), introduce the Javascript framework JQuery and style portfolios with a CSS framework. At the end of the week, you'll have a professional portfolio site, which you will fill with the projects you complete over the rest of the course.
+During Week 3, you'll build your own portfolio site using a static website framework called Middleman. We go in-depth with HTML, learn a markup language called [HAML](http://haml.info/), introduce the Javascript framework JQuery and style portfolios with a CSS framework. At the end of the week, you'll have a professional portfolio site, which you will fill with the projects you complete over the rest of the course.
 
 ### Week Lab
 Middleman challenge
@@ -36,20 +36,21 @@ Add a CV page to your portfolio using a YAML file. (Also, wrap up the Library ch
 
 ### Guide
 - **Monday:**
-  - [ ] Introduce the week lab - Raoul
+  - [ ] Morning: Introduce the week lab - Raoul
     - Middleman: structure
     - Example sites
     - How to use partials
     - How to use YAML files for data
-  - [ ] Afternoon: Haml - Thomas
+  - [ ] Workshop: Planning your work [Lo-Fi's, Wireframes, a TODO list, etc.] - Raoul
+  - [ ] Afternoon: Introduction to HAML - Thomas
 - **Tuesday:**
-  - [ ] CSS Frameworks - Faraz
-  - [ ] Deploying with Middleman - Raoul
+  - [ ] Morning: Introduction to SASS and tips for use - Raoul
+  - [ ] Afternoon: CSS Frameworks using SASS [focus on Materialize (tell them it's a Google thing...] - Faraz
 - **Wednesday:**
-  - [ ] Introduction to SASS and tips for use - Raoul
-  - [ ] Agile - Thomas
+  - [ ] Morning: Deploying with Middleman [Introduce Surge]- Raoul
+  - [ ] Afternoon: CodeWars Hour - Raoul
 - **Thursday:**
-  - [ ] Agile - Thomas
+  - [ ] Afternoon: Software Craftsmanship - Thomas
 - **Friday:**
-  - [ ] Introduce weekend challenge briefly with examples. - Faraz
-  - [ ] Retrospective meeting
+  - [ ] Morning: Introduce weekend challenge briefly with examples. - Faraz
+  - [ ] Afternoon: Retrospective meeting
