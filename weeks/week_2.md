@@ -35,9 +35,7 @@ Cooper Challenge - Logic
     - basics: most common datatypes, how functions structured, "classes", declaring and using variables, conditionals, loops
     - work in remote pairs on the js exercises
   - [ ] Introduce the week lab - Faraz
-  
-( - [ ] Coaches review students code )
-- **Tuesday:**
+  - **Tuesday:**
   - [ ] Refresher on jQuery - Raoul
   - [ ] Debugging with chrome console - Faraz
 - **Wednesday:**
@@ -48,4 +46,4 @@ Cooper Challenge - Logic
   - [ ] Demo: Add some styling to BMI app using a a front-end CSS framework [intrduce the idea of frameworks but focus on Bootstrap]- Faraz 
 - **Friday:**
   - [ ] Introduce the Weekend Challenge - Thomas
-  - [ ] [First assessment](../miscellaneous/assessments/week_1_assessment.md) (All coaches)
+  - [ ] FizzBuzz Js Challenge (All coaches)
