@@ -47,6 +47,7 @@ Extending the basic Rails application that you created at the beginning  of the 
  - `has_many`
 * Learn about nested routes in Rails
 
+### Head coach: Thomas ?? 
 
 ### Guide
 - **Monday:**
@@ -66,5 +67,5 @@ Extending the basic Rails application that you created at the beginning  of the 
   - [ ] Morning: Validations in Rails and instance methods - Raoul
   - [ ] Afternoon: Adding associaions and nested routes (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge). - Raoul
 - **Friday:**
-  - [ ] Introduce the Weekend Challenge - Thomas (if @office) or Raoul
+  - [ ] Introduce the Weekend Challenge - Thomas 
   - [ ] [Assessment](https://github.com/CraftAcademy/coach-guides/blob/master/miscellaneous/assessments/week_5_assessment.md)
