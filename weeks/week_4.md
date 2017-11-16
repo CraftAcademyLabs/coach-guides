@@ -20,24 +20,22 @@ This is a group challenge and the students are supposed to work as a team.
   - self organizing teams
   - the importance of planning your work
 * Learn about Sinatra
-  - understand the concept of ORM's vs SQL (DataMapper)
-  - understand the structure of a Sinatra app
+  - understand the concept of ORM's vs SQL (ActiveRecord)
+  - understand the MVC structure
     - controllers
     - routes
     - models
     - relation between models
     - concept of `params` (See: https://www.youtube.com/watch?v=y57OnWV6dRE)
-* Learn about the basics of working with Legacy code
-* Learn about User Authentication
+* Learn about User Authentication using Warden
 * Learn about the hardships that will occur if we can't read documentation for libraries we use in our projects (gems).
-* Basics of Test- and Behavior Driven Development or Acceptance - Unit Test cycle (Do we want to introduce this change at the moment?)
+* Basics of Test- and Behavior Driven Development or Acceptance - Unit Test cycle.
 * Really embrace and understand the benefits of Pair Programming && collaboration using Git and GitHub
-* understand Rack based applications
-* learn about deployment to Heroku and the benefits of services like Heroku, DigitalOcean and AWS
+* Learn about deployment to Heroku and the benefits of services like Heroku, DigitalOcean and AWS
 
 ### Weekend challenge
 SlowFood (Sinatra) (User Interface/UX) - Note: group challenge
-The weekend is devoted to focus on the User experience of the app. Here we start looking at the styling. We want them to notice that the planning they did in the initial stage was not detailed enough and that they missed he focus on the user.
+The weekend is devoted to focus on the User experience of the app. Here we start looking at the styling. We want them to notice that the planning they did in the initial stage was not detailed enough and that they missed to focus on the user.
 ### Learning objectives
 * All of the above
 * Also learn about:
@@ -46,21 +44,22 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 * Front-end technologies
   - CSS frameworks
   - jQuery
-  - CDN's ??
+  - CDN's vs Gems vs Manually including the CSS framework code (repetition)
 
 ### Guide
 - **Monday:**
-  - [ ] Morning: Introduce the week lab right after stand-up - Thomas
-  - [ ] Morning: Do a basic overview of a Design Sprint. - Thomas
-  - [ ] Afternoon: Re-introduce Sinatra - the important parts and what they do - Amber
+  - [ ] Morning: Re-introduce Sinatra - the important parts and what they do - Faraz
+  - [ ] Afternoon: Introduce the week lab - Thomas
+  - [ ] Afternoon: Do a basic overview of a Design Sprint. - Faraz
+  
 - **Tuesday:**
   - [ ] Morning: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Raoul
-  - [ ] Afternoon: An Acceptance-Unit test demo - Thomas
+  - [ ] Afternoon: An Acceptance-Unit test demo - Thomas [Create a view to display dishes and create a Product model]
 - **Wednesday:**
-  - [ ] Morning: Introduce Heroku, walkthrough of how to deploy - Raoul
+  - [ ] Morning: Review of Pair Programming concepts and Git & GitHub - Thomas & Faraz [Demo]
+  - [ ] Afternoon: Introduce Heroku, walkthrough of how to deploy - Raoul
 - **Thursday:**
-  - [ ] Morning: Review of Git & GitHub - Raoul
-  - [ ] Afternoon: Do a brief introduction to Rack and talk about the different Rack based frameworks (Sinatra, Rails, etc). - Thomas (not sure about this one)
+  - [ ] Afternoon: Do a brief introduction toframeworks (Sinatra, Rails, Node, JS based frameworks, etc). - Thomas
 - **Friday:**
   - [ ] Introduce the Weekend Challenge - Faraz
-  - [ ] Individual assessments - with https://github.com/CraftAcademy/week3-assessment
+  - [ ] Individual assessments - with https://github.com/CraftAcademy/week3-assessment [TODO: Update code to ActiveRecord]
