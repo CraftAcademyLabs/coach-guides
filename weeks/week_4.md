@@ -46,6 +46,8 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   - jQuery
   - CDN's vs Gems vs Manually including the CSS framework code (repetition)
 
+### Head Coach: Thomas
+
 ### Guide
 - **Monday:**
   - [ ] Morning: Re-introduce Sinatra - the important parts and what they do - Faraz
