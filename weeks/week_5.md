@@ -51,21 +51,22 @@ Extending the basic Rails application that you created at the beginning  of the 
 
 ### Guide
 - **Monday:**
-  - [ ] Morning: How Rails is different than Sinatra. - Raoul
-    - Why you used Sinatra in week 3 - Thomas
-    - Brief overview of where things are in Rails. - Faraz
-    - Introduce the Acceptance-Unit Test Cycle in Rails w/ challenge - Raoul
+  - [ ] How Rails is different than Sinatra and why you used Sinatra in week 4 - Thomas
+  - [ ] Brief overview of where things are in Rails. - Faraz
+  - [ ] Introduce the Acceptance-Unit Test Cycle in Rails w/ challenge - Raoul
 - **Tuesday:**
   - [ ] Morning: Check the submissions of the AUT code on GitHub - All Coaches
   - [ ] Morning: Introduce the Legacy Code Challenge - Faraz
   - [ ] Rails demo: routing (plus resources) and params (plus sanitation) - Raoul
-  - [ ] Afternoon: Rails demo: Active Record (migrations, associations, CRUD functions) - Raoul
 - **Wednesday:**
-  - [ ] Morning: In depth Rails demo: `form_for` vs `form_tag` - Raoul **Is it relevant?**
-  - [ ] Afternoon: In depth Rails demo: Most common helpers - Raoul
+  - [ ] Morning: Rails demo: Active Record (migrations, associations, CRUD functions) - Raoul
+  - [ ] Afternoon: In depth Rails demo: Most common helpers (focus on forms) - Thomas
+      - https://m.patrikonrails.com/rails-5-1s-form-with-vs-old-form-helpers-3a5f72a8c78a?gi=c7e478d9361b
 - **Thursday:**
   - [ ] Morning: Validations in Rails and instance methods - Raoul
-  - [ ] Afternoon: Adding associaions and nested routes (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge). - Raoul
+  - [ ] Afternoon: Adding associaions and nested routes (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge). - Thomas
 - **Friday:**
   - [ ] Introduce the Weekend Challenge - Thomas 
-  - [ ] [Assessment](https://github.com/CraftAcademy/coach-guides/blob/master/miscellaneous/assessments/week_5_assessment.md)
+  - [ ] Retro - All coaches
+  
+  
