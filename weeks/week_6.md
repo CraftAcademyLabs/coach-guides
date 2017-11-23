@@ -25,9 +25,11 @@ Put all of the skills you have picked up to use in a group project.
 
 ### Guide
 
+### Head Coach : Thomas
+
 - **Monday:**
   - [ ] Introduce the week lab - Thomas
-  - [ ] Design sprint - Thomas + Faraz
+  - [ ] Design sprint led by team coach - Faraz & Raoul (NOT Thomas)
   - [ ] In depth Rails demo: Authentication & Authorization (Devise + Pundit) - Thomas
 - **Tuesday:**
   - [ ] Morning: How to consume an API - Raoul
@@ -37,7 +39,7 @@ Put all of the skills you have picked up to use in a group project.
 - **Thursday:**
   - [ ] OAuth demo (facebook) - Thomas
 - **Friday:**
-  - [ ] Assessment [Week 6](../miscellaneous/assessments/week_5_assessment.md)
+  - [ ] Project Retro - All Coaches
   
   ### Resources
   
