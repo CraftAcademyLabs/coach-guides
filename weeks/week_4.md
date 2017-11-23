@@ -59,9 +59,10 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   - [ ] Afternoon: An Acceptance-Unit test demo - Thomas [Create a view to display dishes and create a Product model]
 - **Wednesday:**
   - [ ] Morning: Review of Pair Programming concepts and Git & GitHub - Thomas & Faraz [Demo]
-  - [ ] Afternoon: Introduce Heroku, walkthrough of how to deploy - Raoul
 - **Thursday:**
+  - [ ] Afternoon: Introduce Heroku, walkthrough of how to deploy - Raoul
   - [ ] Afternoon: Do a brief introduction toframeworks (Sinatra, Rails, Node, JS based frameworks, etc). - Thomas
+  - [ ] Afternoon: Three tier Architecture - Raoul
 - **Friday:**
   - [ ] Introduce the Weekend Challenge - Faraz
   - [ ] Individual assessments - with https://github.com/CraftAcademy/week3-assessment [TODO: Update code to ActiveRecord]
