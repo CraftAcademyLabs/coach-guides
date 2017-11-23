@@ -65,6 +65,7 @@ Extending the basic Rails application that you created at the beginning  of the 
 - **Thursday:**
   - [ ] Morning: Validations in Rails and instance methods - Raoul
   - [ ] Afternoon: Adding associaions and nested routes (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge). - Thomas
+  - [ ] Talk about the final project - Thomas
 - **Friday:**
   - [ ] Introduce the Weekend Challenge - Thomas 
   - [ ] Retro - All coaches
