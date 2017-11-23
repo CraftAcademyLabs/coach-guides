@@ -41,24 +41,24 @@ Comments Challenge
 Extending the basic Rails application that you created at the beginning  of the week. Your task is to add a feature that allows visitors to comment on published articles. Visitors should be able to comment on an article and optionally provide their email address that will be displayed together with the comment.
 
 ### Learning objectives
-* Practive the Acceptance - Unit test Cycle
+* Practice the Acceptance - Unit test Cycle
 * Learn about adding associations between models
  - `belongs_to`
  - `has_many`
 * Learn about nested routes in Rails
 
-### Head coach: Thomas ?? 
+### Head coach: Thomas
 
 ### Guide
 - **Monday:**
   - [ ] Morning: How Rails is different than Sinatra. - Raoul
-    - Why you used Sinatra in week 3
-    - Brief overview of where things are in Rails.
-    - Introduce the Acceptance-Unit Test Cycle in Rails w/ challenge
+    - Why you used Sinatra in week 3 - Thomas
+    - Brief overview of where things are in Rails. - Faraz
+    - Introduce the Acceptance-Unit Test Cycle in Rails w/ challenge - Raoul
 - **Tuesday:**
-  - [ ] Morning: Check the submissions of the AUT code on GitHub - Philip, Sigu and Raoul
-  - [ ] Morning: Introduce the Legacy Code Challenge - Raoul
-    - Rails demo: routing (plus resources) and params (plus sanitation)
+  - [ ] Morning: Check the submissions of the AUT code on GitHub - All Coaches
+  - [ ] Morning: Introduce the Legacy Code Challenge - Faraz
+  - [ ] Rails demo: routing (plus resources) and params (plus sanitation) - Raoul
   - [ ] Afternoon: Rails demo: Active Record (migrations, associations, CRUD functions) - Raoul
 - **Wednesday:**
   - [ ] Morning: In depth Rails demo: `form_for` vs `form_tag` - Raoul **Is it relevant?**
