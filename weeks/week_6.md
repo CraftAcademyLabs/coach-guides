@@ -39,7 +39,7 @@ Put all of the skills you have picked up to use in a group project.
 - **Thursday:**
   - [ ] OAuth demo (facebook) - Thomas
 - **Friday:**
-  - [ ] Project Retro - All Coaches
+  - [ ] Project Retro and UX/function review  (give feedback for the weekend) - All Coaches
   
   ### Resources
   
