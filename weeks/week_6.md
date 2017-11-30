@@ -26,6 +26,8 @@ Put all of the skills you have picked up to use in a group project.
 ### Guide
 
 ### Head Coach : Thomas
+#### St:Erik Team: Faraz
+#### Lion & Crown Team: Raoul
 
 - **Monday:**
   - [ ] Introduce the week lab - Thomas
