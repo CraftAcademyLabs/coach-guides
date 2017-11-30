@@ -10,12 +10,22 @@ Du måste få en solid kunskapsbas att stå på inför själva kursen. Därför 
 **Everything you need before bootcamp begins**
 
 You must develop a solid grasp of programming fundamentals before the course begins to reap the greatest benefit from the intense, thorough course plan. During the prep course, you'll work from home with our materials. With the help of our coaches and your fellow cohort members, you'll cover the most important background skills to hit the ground running from Day One. Expect to spend about 15 to 20 hours each week in the month before bootcamp begins.
+
+## Overview of the PrepCourse 
+
+#### Week 1
+The Terminal, Development Environment, Version Control
+#### Week 2
+Introduction to Ruby
+#### Week 3
+Testing with Rspec
+#### Week 4
+JavaScript, JQuery and Wrap-up
+
 ### Labs
-- challenge
-- challenge
-- challenge
-- challenge
-- challenge
+- Your first website
+- Basic Git
+- FizzBuzz & RSpec
 
 ### Learning objectives
 * Learn about...

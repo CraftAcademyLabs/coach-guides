@@ -8,7 +8,6 @@ We'll also set up our developer environment so we can start coding and work with
 ### Demos
 * Thursday - Version control (Git, GitHub...)
 * Friday - File management and terminal commands demo & Developer Environment Setup
-
 ### Resources
 First hand we want to host our own talks but also share prerecorded sessions with the students. Watch and find inspiration. 
 
