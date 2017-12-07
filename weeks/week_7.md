@@ -35,13 +35,16 @@ Note: Amanda will be joining as a student
 
 ### Guide
 - **Monday:** (Angular)
-  - [ ] Intro to Typescript (TS vs JS) - Raoul
-  - [ ] Getting to know Angular - Raoul + Faraz
+  - [ ] Project Retro - Thomas (9:30am)
+  - [ ] Intro to Typescript (TS vs JS) - Raoul (11:00am)
+  - [ ] Getting to know Angular - Raoul + Faraz (1:15pm)
 - **Tuesday:** (Angular w/ Ionic)
-  - [ ] Introduce Ionic & BMI mobile - Raoul
+  - [ ] Introduce Ionic & BMI mobile - Raoul (9:20am)
 - **Wednesday:** (Start Cooper challenge)
-  - [ ] Introduce Cooper challenge - give students the logic - Raoul
+  - [ ] Introduce Cooper challenge - give students the logic - Raoul (9:30am)
 - **Thursday:**
-  - [ ] How to publish to Ionic view - Faraz
+  - [ ] How to publish to Ionic view - Faraz (9:30am)
+  - [ ] Afternoon: RESTful APIs in Rails - Thomas (2:00pm)
 - **Friday:**
-  - [ ] Give them something specific to try to add to the app
+  - [ ] Cover more angular/JS/TS concepts (Observables, Promises, etc...)
+  - [ ] Retro - All coaches
