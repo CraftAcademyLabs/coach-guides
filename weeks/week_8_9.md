@@ -16,57 +16,53 @@ Slow Food Online challenge
 
 ## Learning objectives
 
-- Learn about...
+- Build a system
 
 ## Weekend challenge
 
 challenge
 
-## Learning objectives
-
-- Learn about...
+### Week owner = Thomas
 
 ## Guide
 
 ### Week 8
 - **Monday:**
-  - [ ] Mid-course project retro (Should we do it on week 7 or at beginning of SF Online)
-  - [ ] Introduction to SlowFood Online Challenge
-  - [ ] Students start design sprint - Intro to Epics
-  - [ ] Product owner intro (Recorded video for students to watch)
+  - [ ] Introduction to SlowFood Online Challenge - Thomas
+  - [ ] Students start design sprint - Intro to Epics - Faraz
+  - [ ] Product owner intro (Recorded video for students to watch) - Recording
   
 - **Tuesday:**
-  - [ ] Design sprint day 2 (Students)
-  - [ ] Handout [Scrum guide](http://www.scrumguides.org/) to student 
+  - [ ] Design sprint day 2 (Students) - All coaches
+  - [ ] Handout [Scrum guide](http://www.scrumguides.org/) to student - Thomas
   - [ ] Afternoon: Agile Methodologies Intro - Thomas
   
 - **Wednesday:**
-  - [ ] Design spring day 3 - Complete with a workshop on story prioritization and voting - Thomas + Faraz
+  - [ ] Design spring day 3 - Complete with a workshop on story prioritization and voting - Raoul + Faraz
   - [ ] Geocoding + GMaps - Thomas Resource: [https://youtu.be/DJ7SCFwMPho](https://youtu.be/DJ7SCFwMPho)
   
 - **Thursday:**
-  - [ ] OAuth with FB/Google - Raoul
+  - [ ] OAuth with Google - Raoul
   - [ ] Internationalization (i18n) - Faraz [Part 1](https://youtu.be/eBwjN5drg-Q) | [Part 2](https://youtu.be/0Nen6z0cIbo)
 
 - **Friday:**
-  - [ ] Retro/Assessment - Hanna + Faraz for setting up recordings
+  - [ ] Assessment - Add author rails - All Coaches
   
 ### Week 9
 - **Monday:**
   - [ ] Intro to Scrum & XP - Thomas
-  - [ ] Afternoon: Practice Sprint Review - Facilitated by Faraz
+  - [ ] Afternoon: Practice Sprint Review - Facilitated by Faraz + All Coaches
 
 - **Tuesday:**
-  - [ ] Stripe payment - Done for august cohort. Refer them back to recordings [Part 1](https://youtu.be/_wl9Vs4Jid4) | [Part 2](https://youtu.be/BWpzSxzInLk) + follow up discussion facilitated by Thomas **TODO: Create timeline diagram of events**
   - [ ] Mob session: Implementing Stripe - Thomas and Faraz
 
 - **Wednesday:**
-  - [ ] Morning: File attachements (Local FS) - Thomas and Faraz
+  - [ ] Morning: File attachements (Active Storage or Paperclip on local file system) - Thomas and Faraz
   - [ ] After scrum: File attachements using Cloud storage (AWS S3) - Thomas and Faraz
 
 - **Thursday:**
   - [ ] Software Craftsmanship talk - Thomas and Faraz
-  - [ ] RESTful APIs - Thomas and Faraz
+  - [ ] Active Model Serializers and JSON:API Standard - Thomas and Faraz
 
 - **Friday:**
   - [ ] Assessment - [Twitter Challenge](../miscellaneous/assessments/week_7_assessment.md)
@@ -75,15 +71,12 @@ challenge
 ### Week 10
 Extending SlowFood with API and Mobile Client
 - **Monday:**
-  - [ ] File Attachments - File system storage
-  - [ ] File Attachments - AWS storage (S3)
+  - [ ] User Authentication using tokens (theory and Devise Token Auth as example) Extending an existing device with tokens - Raoul
 
 - **Tuesday:**
-  - [ ] User Authentication using tokens (theory and Devise Token Auth as example)
   - [ ] Google Maps on Mobile (native plugin) - Faraz 
   
 - **Wednesday:**
-  - [ ] RESTful API's in Rails (theory and demo) - Thomas (if not done)
 
   
   
