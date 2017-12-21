@@ -18,7 +18,7 @@ BMI-challenge
 * Learn about...
   - practice Pair Programming && collaboration using Git and GitHub
   - Basic understanding of JavaScript
-  - Introduction to JQuery and DOM manipulation
+  - Introduction to ~~JQuery and~~ DOM manipulation
   - Jasmine testing framework & comparison to RSpec
   - Observe differences and similarities between Ruby and Javascript
   - Understand difference between running code on the server vs. in the browser
@@ -36,14 +36,14 @@ Cooper Challenge - Logic
     - work in remote pairs on the js exercises
   - [ ] Afternoon: Introduce the week lab - Faraz
 - **Tuesday:**
-  - [ ] Morning: Refresher on jQuery - Raoul
+  - [ ] ~~Morning: Refresher on jQuery - Raoul~~
   - [ ] Afternoon: Debugging with chrome console - Faraz
 - **Wednesday:**
   - [ ] Morning: Introduction to Agile methodologies XP and Scrum - Thomas
   - [ ] Afternoon: Individually review pull requests from Ruby weekend challenge and code so far on BMI challenge (all coaches) 
 - **Thursday:**
   - [ ] Morning: Whoever we didn't have time to get to with reviews on Thursday
-  - [ ] Afternoon: Demo: Add some styling to BMI app using a a front-end CSS framework [intrduce the idea of frameworks but focus on Bootstrap]- Faraz 
+  - [ ] Afternoon: Demo: Add some styling to BMI app using a a front-end CSS framework [introduce the idea of frameworks but focus on Bootstrap]- Faraz 
 - **Friday:**
   - [ ] Morning: Introduce the Weekend Challenge - Thomas
   - [ ] Afternoon: [FizzBuzz Js Challenge](../miscellaneous/assessments/week_2_assessment.md) (All coaches)
