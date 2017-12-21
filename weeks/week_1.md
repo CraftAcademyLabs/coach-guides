@@ -31,10 +31,10 @@ So the first week is all about giving the students their first time experience i
 - **Monday:**
   - [ ] First-day logistics: bricka, tour of the building, who-is-who and their availability - Thomas (Gothenburg), Rodrigo (Stockholm)
   - [ ] Overview lecture on Craft Academy, etc. - Thomas
-  - [ ] Team presentations - Raoul, Faraz, Thomas, Rodrigo, Hanna
-  - [ ] Get-to-know-you intro "game" - Rodrigo
-  - [ ] Introduce the week lab after Day One activities by going over the materials in EdX - Faraz
-  - [ ] Planning demo - the ATM challenge - Faraz
+  - [ ] Team presentations - Raoul, Faraz, Thomas, Hanna
+  - [ ] Get-to-know-you intro "game" - ?
+  - [ ] Introduce the week lab after Day One activities by going over the materials in EdX - Faraz (See curriculum 2.0 document)
+  - [ ] Planning demo - the ATM challenge - Faraz (See curriculum 2.0 document)
   - [ ] Programming demo - the ATM class - Faraz
 - **Tuesday:**
   - [ ] Introduction to testing with RSpec (background with TDD) - Thomas ([Slides](https://docs.google.com/presentation/d/1M_0ZyaA3S3I-6tSm3E85aSBL4BzDICJZ03ZNHJiAl0s/edit?usp=sharing) [Recording](https://youtu.be/DDNhl3pxfPw)) 
