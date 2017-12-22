@@ -34,10 +34,10 @@ In Week 7 we deepen your knowledge of Javascript by introducing Angular, a web f
 Note: Amanda will be joining as a student
 
 ### Guide
-- **Monday:** (Angular)
+~~- **Monday:** (Angular)
   - [ ] Project Retro - Thomas (9:30am)
   - [ ] Intro to Typescript (TS vs JS) - Raoul (11:00am)
-  - [ ] Getting to know Angular - Raoul + Faraz (1:15pm)
+  - [ ] Getting to know Angular - Raoul + Faraz (1:15pm)~~
 - **Tuesday:** (Angular w/ Ionic)
   - [ ] Introduce Ionic & BMI mobile - Raoul (9:20am)
 - **Wednesday:** (Start Cooper challenge)
