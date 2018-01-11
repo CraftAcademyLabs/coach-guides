@@ -40,7 +40,7 @@ Feature: List articles on landing page
 
 2. We want you to add a debugger to your application (unless it's already added) and demonstrate that you know how to set a break point in:
   * A step definition. (What kind of objects can you see?)
-  * In the model. (Can you Access `self` and what is that?)
+  * In the model. (Can you access `self` and what is that?)
 
 3. Describe why the scenarios will not pass if you run them tomorrow?
 
