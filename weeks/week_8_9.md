@@ -64,13 +64,13 @@ challenge
   ~~- [ ] Software Craftsmanship talk - Thomas and Faraz~~
   ~~- [ ] Active Model Serializers and JSON:API Standard - Thomas and Faraz~~
 
-  _- [ ] Morning: File attachements (Active Storage or Paperclip on local file system) - Thomas and Faraz_
-  _- [ ] After scrum: File attachements using Cloud storage (AWS S3) - Thomas and Faraz_
+  - [ ] _Morning: File attachements (Active Storage or Paperclip on local file system) - Thomas and Faraz_
+  - [ ] _After scrum: File attachements using Cloud storage (AWS S3) - Thomas and Faraz_
 
 - **Friday:**
 
-  _- [ ] Software Craftsmanship talk - Thomas and Faraz_
-  _- [ ] Active Model Serializers and JSON:API Standard - Thomas and Faraz_
+  - [ ] _Software Craftsmanship talk - Thomas and Faraz_
+  - [ ] _Active Model Serializers and JSON:API Standard - Thomas and Faraz_
   - [ ] Assessment - [Twitter Challenge](../miscellaneous/assessments/week_7_assessment.md)
  
 
