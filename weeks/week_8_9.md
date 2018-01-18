@@ -47,7 +47,7 @@ challenge
 
 - **Friday:**
   - [ ] Assessment - Add author rails - All Coaches
-  
+
 ### Week 9
 - **Monday:**
   - [ ] Intro to Scrum & XP - Thomas
@@ -57,14 +57,20 @@ challenge
   - [ ] Mob session: Implementing Stripe - Thomas and Faraz
 
 - **Wednesday:**
-  - [ ] Morning: File attachements (Active Storage or Paperclip on local file system) - Thomas and Faraz
-  - [ ] After scrum: File attachements using Cloud storage (AWS S3) - Thomas and Faraz
+  ~~- [ ] Morning: File attachements (Active Storage or Paperclip on local file system) - Thomas and Faraz~~
+  ~~- [ ] After scrum: File attachements using Cloud storage (AWS S3) - Thomas and Faraz~~ (Temporarily moved to other dates)
 
 - **Thursday:**
-  - [ ] Software Craftsmanship talk - Thomas and Faraz
-  - [ ] Active Model Serializers and JSON:API Standard - Thomas and Faraz
+  ~~- [ ] Software Craftsmanship talk - Thomas and Faraz~~
+  ~~- [ ] Active Model Serializers and JSON:API Standard - Thomas and Faraz~~
+
+  _- [ ] Morning: File attachements (Active Storage or Paperclip on local file system) - Thomas and Faraz_
+  _- [ ] After scrum: File attachements using Cloud storage (AWS S3) - Thomas and Faraz_
 
 - **Friday:**
+
+  _- [ ] Software Craftsmanship talk - Thomas and Faraz_
+  _- [ ] Active Model Serializers and JSON:API Standard - Thomas and Faraz_
   - [ ] Assessment - [Twitter Challenge](../miscellaneous/assessments/week_7_assessment.md)
  
 
@@ -72,11 +78,17 @@ challenge
 Extending SlowFood with API and Mobile Client
 - **Monday:**
   - [ ] User Authentication using tokens (theory and Devise Token Auth as example) Extending an existing device with tokens - Raoul
+  - [ ] Demo: Setup Devise Token auth on an existing Rails app with Devise already present - Raoul
 
 - **Tuesday:**
-  - [ ] Google Maps on Mobile (native plugin) - Faraz 
+  - [ ] Google Maps on Mobile (ionic native plugin) - Faraz 
   
 - **Wednesday:**
+  - [ ] OAuth Demo on mobile (FB/Google+) - Raoul _Will try to deliver this_
+  
+- **Thursday:**
+  - [ ]
 
-  
-  
+- **Friday:**
+  - [ ] Retro - All coaches + Hanna
+
