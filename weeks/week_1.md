@@ -29,32 +29,32 @@ So the first week is all about giving the students their first time experience i
 
 ### Guide
 - **Monday:**
-  - [ ] First-day logistics: bricka, tour of the building, who-is-who and their availability - Thomas (Gothenburg), Rodrigo (Stockholm)
+  - [ ] First-day logistics: bricka, tour of the building, who-is-who and their availability - Thomas (Gothenburg), Faraz (Stockholm)
   - [ ] Overview lecture on Craft Academy, etc. - Thomas
-  - [ ] Team presentations - Raoul, Faraz, Thomas, Rodrigo, Hanna
-  - [ ] Get-to-know-you intro "game" - Rodrigo
+  - [ ] Team presentations - Raoul, Faraz, Thomas, Hanna
+  - [ ] Get-to-know-you intro "game" - Faraz
   - [ ] Introduce the week lab after Day One activities by going over the materials in EdX - Faraz
-  - [ ] Planning demo - the ATM challenge - Faraz
-  - [ ] Programming demo - the ATM class - Faraz
+    - [ ] Communicate Pairing groups
+  - [ ] Understanding the problem statement (Planning demo) - the ATM challenge - Thomas & Faraz
+  - [ ] Programming demo - "... The should be an ATM I can use" - Faraz (Emphasize on the transition from User story to actual code)
 - **Tuesday:**
-  - [ ] Introduction to testing with RSpec (background with TDD) - Thomas ([Slides](https://docs.google.com/presentation/d/1M_0ZyaA3S3I-6tSm3E85aSBL4BzDICJZ03ZNHJiAl0s/edit?usp=sharing) [Recording](https://youtu.be/DDNhl3pxfPw)) 
-  - [ ] Basic programming recap - Raoul (see week 1 assessment for topics to cover) 
+  - [ ] Intermediate topics to testing with RSpec (Doubles, Dynamic Matchers, etc...) - Thomas 
+  - [ ] Basic programming recap - Raoul (see week 1 assessment for topics to cover) _Look for recordings_
 - **Wednesday:**
-  - [ ] "Cash is King" demo - iterating over arrays - Thomas
-  - [ ] Debugging demo - both in code and spec tests - Raoul
+  - [ ] "Cash is King" demo - iterating over arrays - Thomas [Recording] _Thomas will look for this_
+  - [ ] Debugging demo - both in code and spec tests - Raoul [Recording] _Look up the link to the recording_
 - **Thursday:**
-  - [ ] The right way to search the internet for information (using the docs, Stack Overflow) - Raoul
-  - [ ] Git & GitHub talk and demo - pull requests, forking, cloning, etc. - Faraz
+  - [ ] The right way to search the internet for information (using the docs, Stack Overflow) - Raoul (Discussion - How are they doing it now... Give our suggestions)
+  - [ ] Git & GitHub talk and demo - pull requests, forking, cloning, etc. - Faraz [Recording + Feedback session]
 - **Friday:**
-  - [ ] Introduce the Weekend Challenge by going over the materials in EdX - Thomas
+  - [ ] Introduce the Weekend Challenge by going over the materials in EdX (Same pairs) - Thomas
   - [ ] Do a programming demo with focus on - Thomas
     - reading from and writing to a YAML file
     - searching a hash using `select` and `detect` methods
-  - [ ] Afternoon: Individual assessments
+  - [ ] Afternoon: [Individual Technical Interview Training](../miscellaneous/assessments/week_1_assessment.md)
 
 ### Day One Things
 - Notebooks and pens for all participants (I'd like to do a really nice thing with printed pages but for now, just a notebook with a sticker on it is good.)
 - Buy lunch for them
 - Introduce the entire team. If you don't want to be available at all hours of the day, give them hours of your availability.
-- As much as possible, have logistics already set up: cohort and Galaxy rooms clean and ready to work in, monitors and cables ready, headphones, brickar for the students.
-- Map of things in the area would be really nice - just something hand-drawn or a Google map with useful stores and things.
+- As much as possible, have logistics already set up: cohort and Atlantis rooms clean and ready to work in, monitors and cables ready, headphones, brickar for the students. (Faraz Book F5 Rooms - Stockholm)
