@@ -57,18 +57,16 @@ challenge
   - [ ] Mob session: Implementing Stripe - Thomas and Faraz
 
 - **Wednesday:**
-  ~~- [ ] Morning: File attachements (Active Storage or Paperclip on local file system) - Thomas and Faraz~~
-  ~~- [ ] After scrum: File attachements using Cloud storage (AWS S3) - Thomas and Faraz~~ (Temporarily moved to other dates)
+  - [ ] ~~Morning: File attachements (Active Storage or Paperclip on local file system) - Thomas and Faraz~~
+  - [ ] ~~After scrum: File attachements using Cloud storage (AWS S3) - Thomas and Faraz~~ (Temporarily moved to other dates)
 
 - **Thursday:**
-  ~~- [ ] Software Craftsmanship talk - Thomas and Faraz~~
-  ~~- [ ] Active Model Serializers and JSON:API Standard - Thomas and Faraz~~
-
+  - [ ] ~~Software Craftsmanship talk - Thomas and Faraz~~
+  - [ ] ~~Active Model Serializers and JSON:API Standard - Thomas and Faraz~~
   - [ ] _Morning: File attachements (Active Storage or Paperclip on local file system) - Thomas and Faraz_
   - [ ] _After scrum: File attachements using Cloud storage (AWS S3) - Thomas and Faraz_
 
 - **Friday:**
-
   - [ ] _Software Craftsmanship talk - Thomas and Faraz_
   - [ ] _Active Model Serializers and JSON:API Standard - Thomas and Faraz_
   - [ ] Assessment - [Twitter Challenge](../miscellaneous/assessments/week_7_assessment.md)
