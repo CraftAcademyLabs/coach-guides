@@ -42,7 +42,7 @@ So the first week is all about giving the students their first time experience i
   - [ ] Basic programming recap - Raoul (see week 1 assessment for topics to cover) _Look for recordings_
   - [ ] Git & GitHub talk and demo - pull requests, forking, cloning, etc. - Faraz [Recording + Feedback session]
 - **Wednesday:**
-  - [ ] "Cash is King" demo - iterating over arrays - Thomas [Recording] _Thomas will look for this_
+  - [ ] "Cash is King" demo - iterating over arrays - Thomas [Recording](https://youtu.be/8Rm0YrVicIc)
   - [ ] Debugging demo - both in code and spec tests - Raoul [Recording] _Look up the link to the recording_
 - **Thursday:**
   - [ ] The right way to search the internet for information (using the docs, Stack Overflow) - Raoul (Discussion - How are they doing it now... Give our suggestions)
