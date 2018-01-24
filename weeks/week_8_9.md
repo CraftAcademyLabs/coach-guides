@@ -79,7 +79,7 @@ Extending SlowFood with API and Mobile Client
   - [ ] Demo: Setup Devise Token auth on an existing Rails app with Devise already present - Raoul
 
 - **Tuesday:**
-  - [ ] Google Maps on Mobile (ionic native plugin) - Faraz 
+  - [ ] Google Maps on Mobile (ionic native plugin) - [Recording] Faraz 
   
 - **Wednesday:**
   - [ ] OAuth Demo on mobile (FB/Google+) - Raoul _Will try to deliver this_
