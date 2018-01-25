@@ -23,8 +23,10 @@ BMI-challenge
   - Observe differences and similarities between Ruby and Javascript
   - Understand difference between running code on the server vs. in the browser
 
+### Head coach: Raoul!!!!!
 ### Weekend challenge
 Cooper Challenge - Logic
+Extra challenge  - FizzBuzz Js Challenge - Please include in Edx
 
 ### Learning objectives
 - Practice JS skills with more advanced logic
@@ -46,4 +48,4 @@ Cooper Challenge - Logic
   - [ ] Afternoon: Demo: Add some styling to BMI app using a front-end CSS framework [introduce the idea of frameworks but focus on Bootstrap]- Faraz & Magnus
 - **Friday:**
   - [ ] Morning: Introduce the Weekend Challenge - Thomas 
-  - [ ] Afternoon: [FizzBuzz Js Challenge](../miscellaneous/assessments/week_2_assessment.md) (All coaches)
+  - [ ] Afternoon: Retrospective - Faraz, Hanna
