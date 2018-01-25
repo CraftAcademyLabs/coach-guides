@@ -31,19 +31,19 @@ Cooper Challenge - Logic
 
 ### Guide
 - **Monday:**
-  - [ ] Morning: Javascript recap with focus on ES6 - Raoul
+  - [ ] Morning: Javascript recap with focus on ES6 - Raoul & Magnus
     - basics: most common datatypes, how functions structured, "classes", declaring and using variables, conditionals, loops
     - work in remote pairs on the js exercises
-  - [ ] Afternoon: Introduce the week lab - Faraz
+  - [ ] Afternoon: Introduce the week lab - Faraz & Magnus
 - **Tuesday:**
-  - [ ] Morning: Refresher on jQuery - Raoul
-  - [ ] Afternoon: Debugging with chrome console - Faraz
+  - [ ] Morning: CCCC Demo in pure js - Raoul & Magnus - [Source code](https://gist.github.com/tochman/f2a3822fcd8483cd4fe3dcaff3e4f847)
+  - [ ] Afternoon: Debugging with chrome console - [Recording]()
 - **Wednesday:**
   - [ ] Morning: Introduction to Agile methodologies XP and Scrum - Thomas
   - [ ] Afternoon: Individually review pull requests from Ruby weekend challenge and code so far on BMI challenge (all coaches) 
 - **Thursday:**
   - [ ] Morning: Whoever we didn't have time to get to with reviews on Thursday
-  - [ ] Afternoon: Demo: Add some styling to BMI app using a a front-end CSS framework [intrduce the idea of frameworks but focus on Bootstrap]- Faraz 
+  - [ ] Afternoon: Demo: Add some styling to BMI app using a front-end CSS framework [introduce the idea of frameworks but focus on Bootstrap]- Faraz & Magnus
 - **Friday:**
-  - [ ] Morning: Introduce the Weekend Challenge - Thomas
+  - [ ] Morning: Introduce the Weekend Challenge - Thomas 
   - [ ] Afternoon: [FizzBuzz Js Challenge](../miscellaneous/assessments/week_2_assessment.md) (All coaches)
