@@ -45,6 +45,7 @@ Add a CV page to your portfolio using a YAML file. (Also, wrap up the Library ch
   - [ ] Afternoon: Introduction to HAML - Thomas
   - [ ] Afternoon: CodeWars Hour - Raoul (Would really be good to do this everyday of this week)
 - **Tuesday:**
+  - [ ] Morning: Introduction to CSS Grid - Magnus
   - [ ] Morning: Introduction to SASS and tips for use - Raoul [Recording]()
   - [ ] Afternoon: CSS Frameworks [focus on Materialize] - Faraz
   - [ ] Afternoon: CodeWars Hour - Raoul
