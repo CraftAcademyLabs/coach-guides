@@ -43,14 +43,17 @@ Add a CV page to your portfolio using a YAML file. (Also, wrap up the Library ch
     - How to use YAML files for data
   - [ ] Workshop: Planning your work [Lo-Fi's, Wireframes, a TODO list, etc.] - Raoul
   - [ ] Afternoon: Introduction to HAML - Thomas
+  - [ ] Afternoon: CodeWars Hour - Raoul (Would really be good to do this everyday of this week)
 - **Tuesday:**
-  - [ ] Morning: Introduction to SASS and tips for use - Raoul
-  - [ ] Afternoon: CSS Frameworks using SASS [focus on Materialize (tell them it's a Google thing...] - Faraz
+  - [ ] Morning: Introduction to SASS and tips for use - Raoul [Recording]()
+  - [ ] Afternoon: CSS Frameworks [focus on Materialize] - Faraz
+  - [ ] Afternoon: CodeWars Hour - Raoul
 - **Wednesday:**
-  - [ ] Morning: Deploying with Middleman [Introduce Surge]- Raoul
+  - [ ] Morning: Deploying with Middleman [Introduce Netlify]- Raoul
   - [ ] Afternoon: CodeWars Hour - Raoul
 - **Thursday:**
   - [ ] Afternoon: Software Craftsmanship - Thomas
+  - [ ] Afternoon: CodeWars Hour - Raoul
 - **Friday:**
   - [ ] Morning: Introduce weekend challenge briefly with examples. - Faraz
   - [ ] Afternoon: Retrospective meeting
