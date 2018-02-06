@@ -21,28 +21,34 @@ To quote Albert Einstein, *‘If you can’t explain it simply, you don’t unde
 
 ## Joel Test
 
-The Joel Test For Programmers (The Simple Programmer Test) A while back—the year 2000 to be exact—Joel Spolsky wrote a blog post entitled: “The Joel Test: 12 Steps to Better Code.” Many software engineers and developers use this test for evaluating a company to determine if a company is a good company to work for.
+The Joel Test For Programmers (The Simple Programmer Test) A while back, in the year 2000 to be exact, Joel Spolsky (currently CEO of StackOverflow) wrote a blog post entitled: “The Joel Test: 12 Steps to Better Code.” Many software engineers and developers use this test for evaluating a company to determine if a company is a good company to work for.
 
 * Do you use source control?
-
 * Can you make a build in one step?
-
 * Do you make daily builds?
-
 * Do you have a bug database?
-
 * Do you fix bugs before writing new code?
-
 * Do you have an up-to-date schedule?
-
 * Do you have a spec?
-
 * Do programmers have quiet working conditions?
-
 * Do you use the best tools money can buy?
-
 * Do you have testers?
-
 * Do new candidates write code during their interview?
-
 * Do you do hallway usability testing?
+
+A lot of changed since then.
+
+Here is a suggestion of The Joel Test for today:
+
+* Do you fulfill all 12 requirements from The Joel Test?
+* Do you have unit tests?
+* Do you have integration tests?
+* Are you doing Code Reviews?
+* Do you have Continuous Integration?
+* Do you have Continuous Delivery?
+* Can you deploy new version every day?
+* Is every area of “project specific expertise” covered by at least 2 people?
+* Can you setup developer environment automatically?
+* Can every developer run full test suite in less than 1 hour (locally or remotely)?
+* Do you have telemetry and logging to reproduce users’ behavior?
+* Are you making decisions based on data?
