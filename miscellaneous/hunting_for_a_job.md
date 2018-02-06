@@ -18,3 +18,31 @@ To quote Albert Einstein, *‘If you can’t explain it simply, you don’t unde
 * [Databases, ORM's, etc.](self_assessment/databases.md)
 
 **While it’s great to be able to speak to all of these concepts and show that you can carry an in-depth technical conversation, there’s probably nothing more valuable than having a solid portfolio of apps and a demonstrable level of skill.**
+
+## Joel Test
+
+The Joel Test For Programmers (The Simple Programmer Test) A while back—the year 2000 to be exact—Joel Spolsky wrote a blog post entitled: “The Joel Test: 12 Steps to Better Code.” Many software engineers and developers use this test for evaluating a company to determine if a company is a good company to work for.
+
+* Do you use source control?
+
+* Can you make a build in one step?
+
+* Do you make daily builds?
+
+* Do you have a bug database?
+
+* Do you fix bugs before writing new code?
+
+* Do you have an up-to-date schedule?
+
+* Do you have a spec?
+
+* Do programmers have quiet working conditions?
+
+* Do you use the best tools money can buy?
+
+* Do you have testers?
+
+* Do new candidates write code during their interview?
+
+* Do you do hallway usability testing?
