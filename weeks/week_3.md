@@ -58,4 +58,3 @@ Add a CV page to your portfolio using a YAML file. (Also, wrap up the Library ch
 - **Friday:**
   - [ ] Morning: Introduce weekend challenge briefly with examples. - Faraz
   - [ ] Afternoon: Tech interview training - fizzbuzz js
-  - [ ] Afternoon: Retrospective meeting
