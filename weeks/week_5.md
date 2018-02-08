@@ -46,26 +46,28 @@ Extending the basic Rails application that you created at the beginning  of the 
  - `belongs_to`
  - `has_many`
 * Learn about nested routes in Rails
+* Group challenge
+* Acceptance-Unit Test challenge is a pair programming challenge
 
 ### Head coach: Thomas
 
 ### Guide
 - **Monday:**
   - [ ] How Rails is different than Sinatra and why you used Sinatra in week 4 - Thomas
-  - [ ] Brief overview of where things are in Rails. - Faraz
-  - [ ] Introduce the Acceptance-Unit Test Cycle in Rails w/ challenge - Raoul
+  - [ ] Brief overview of where things are in Rails. - Faraz (convention over configuration)
+  - [ ] Introduce the Acceptance-Unit Test Cycle in Rails w/ challenge - Raoul (split up in pairs)
 - **Tuesday:**
-  - [ ] Morning: Check the submissions of the AUT code on GitHub - All Coaches
-  - [ ] Morning: Introduce the Legacy Code Challenge - Faraz
+  - [ ] Morning: Check the submissions of the AUT code on GitHub - All Coaches 
+  - [ ] Morning: Introduce the Legacy Code Challenge - Magnus
   - [ ] Rails demo: routing (plus resources) and params (plus sanitation) - Raoul
 - **Wednesday:**
   - [ ] Morning: Rails demo: Active Record (migrations, associations, CRUD functions) - Raoul
   - [ ] Afternoon: In depth Rails demo: Most common helpers (focus on forms) - Thomas
       - https://m.patrikonrails.com/rails-5-1s-form-with-vs-old-form-helpers-3a5f72a8c78a?gi=c7e478d9361b
 - **Thursday:**
-  - [ ] Morning: Validations in Rails and instance methods - Raoul
+  - [ ] Morning: Validations (conditional and custom) in Rails and instance methods - Raoul
   - [ ] Afternoon: Adding associaions and nested routes (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge). - Thomas
-  - [ ] Talk about the final project - Thomas
+  - [ ] Talk about the midcourse project - Thomas
 - **Friday:**
   - [ ] Introduce the Weekend Challenge - Thomas 
   - [ ] Retro - All coaches
