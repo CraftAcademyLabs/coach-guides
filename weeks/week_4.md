@@ -51,19 +51,20 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 ### Guide
 - **Monday:**
   - [ ] Morning: Three tier Architecture - Raoul
-  - [ ] Morning: Introduce Sinatra - the important parts and what they do - Faraz
-  - [ ] Afternoon: Introduce the week lab - Thomas
-  - [ ] Afternoon: Do a basic overview of a Design Sprint. - Faraz
+  - [ ] Morning: Introduce the week lab - Thomas
+  - [ ] Afternoon: Introduce Sinatra - the important parts and what they do - Faraz (talk from MVC perspective restaurant   example)
+  - [ ] Afternoon: Do a basic overview of a Design Sprint. - Faraz (provide a checklist for the system EdX)
 - **Tuesday:**
   - [ ] Morning: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Raoul
-  - [ ] Afternoon: An Acceptance-Unit test demo - Thomas [Create a view to display dishes and create a Product model]
+  - [ ] Afternoon: Associations - Raoul
 - **Wednesday:**
+  - [ ] Morning: An Acceptance-Unit test demo - Thomas (Create a view to display dishes, create association and create a Product model)
   - [ ] Morning: Review of Pair Programming concepts and Git & GitHub - Thomas & Faraz [Demo] -- Not really needed for this cohort
   - [ ] Afternoon: CodeWars Hour - Raoul
 - **Thursday:**
   - [ ] Morning: Introduce Heroku, walkthrough of how to deploy - Raoul
   - [ ] Afternoon: Do a brief introduction to frameworks (Sinatra, Rails, Node, JS based frameworks, etc). - Thomas
 - **Friday:**
-  - [ ] Introduce the Weekend Challenge - Faraz
-  - [ ] Tech Interview Training - with https://github.com/CraftAcademy/week3-assessment [TODO: Update code to ActiveRecord]
+  - [ ] Introduce the Weekend Challenge - Faraz (UX of the slowfood challenge)
+  - [ ] Tech Interview Training - with https://github.com/CraftAcademy/week3-assessment
   - [ ] Retro - Faraz + Hanna
