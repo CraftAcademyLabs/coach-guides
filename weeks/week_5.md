@@ -53,13 +53,12 @@ Extending the basic Rails application that you created at the beginning  of the 
 
 ### Guide
 - **Monday:**
-  - [ ] How Rails is different than Sinatra and why you used Sinatra in week 4 - Thomas
-  - [ ] Brief overview of where things are in Rails. - Faraz (convention over configuration)
-  - [ ] Introduce the Acceptance-Unit Test Cycle in Rails w/ challenge - Raoul (split up in pairs)
+  - [ ] Morning: How Rails is different than Sinatra and why you used Sinatra in week 4 incl. overview of where things are in Rails - Thomas
+  - [ ] Morning: Introduce the Acceptance-Unit Test Cycle in Rails w/ challenge - Raoul (split up in pairs)
 - **Tuesday:**
   - [ ] Morning: Check the submissions of the AUT code on GitHub - All Coaches 
   - [ ] Morning: Introduce the Legacy Code Challenge - Magnus
-  - [ ] Rails demo: routing (plus resources) and params (plus sanitation) - Raoul
+  - [ ] Rails demo: routing (plus resources) and params (plus sanitation) - Raoul (resource: https://www.youtube.com/watch?v=y57OnWV6dRE)
 - **Wednesday:**
   - [ ] Morning: Rails demo: Active Record (migrations, associations, CRUD functions) - Raoul
   - [ ] Afternoon: In depth Rails demo: Most common helpers (focus on forms) - Thomas
