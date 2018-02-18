@@ -65,7 +65,7 @@ Extending the basic Rails application that you created at the beginning  of the 
       - https://m.patrikonrails.com/rails-5-1s-form-with-vs-old-form-helpers-3a5f72a8c78a?gi=c7e478d9361b
 - **Thursday:**
   - [ ] Morning: Validations (conditional and custom) in Rails and instance methods - Raoul
-  - [ ] Afternoon: Adding associaions and nested routes (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge). - Thomas
+  - [ ] Afternoon: Adding associations and nested routes (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge). - Thomas
   - [ ] Talk about the midcourse project - Thomas
 - **Friday:**
   - [ ] Introduce the Weekend Challenge - Thomas 
