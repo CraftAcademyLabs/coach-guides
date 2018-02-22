@@ -26,23 +26,24 @@ Put all of the skills you have picked up to use in a group project.
 ### Guide
 
 ### Head Coach : Thomas
-#### St:Erik Team: Faraz
-#### Lion & Crown Team: Raoul
+#### Romulus: Faraz
+#### Remus: Magnus
+https://en.wikipedia.org/wiki/Romulus_and_Remus
 
 - **Monday:**
-  - [ ] Introduce the week lab - Thomas
-  - [ ] Design sprint led by team coach - Faraz & Raoul (NOT Thomas)
-  - [ ] In depth Rails demo: Authentication & Authorization (Devise + Pundit) - Thomas
+  - [ ] Morning: Introduce the week lab - Thomas
+  - [ ] Morning: Design sprint led by team coach - Faraz & Magnus (NOT Thomas, Raoul)
+  - [ ] Afternoon: Introduce Pivotal Tracker - Thomas
 - **Tuesday:**
-  - [ ] Morning: How to consume an API - Raoul
-  - [ ] Afternoon: How to get paid (Stripe) - Thomas
+  - [ ] Morning: In depth Rails demo: Authentication & Authorization (Devise + Pundit) - Thomas
+  - [ ] Afternoon: How to consume an API - Raoul
 - **Wednesday:**
-  - [ ] Geocoder + Google Maps - Thomas
+  - [ ] Morning: Continious Integration - Raoul
+  - [ ] Afternoon: How to get paid (Stripe) - Thomas
 - **Thursday:**
-  - [ ] OAuth demo (facebook) - Thomas
+  - [ ] Morning: OAuth demo (facebook) - Thomas
 - **Friday:**
-  - [ ] Project Retro and UX/function review  (give feedback for the weekend) - All Coaches
+  - [ ] Afternoon: Project Retro and UX/function review (give feedback for the weekend) - All Coaches
   
   ### Resources
-  
   * [Devise Introduction](https://youtu.be/BBKiHPotInA)
