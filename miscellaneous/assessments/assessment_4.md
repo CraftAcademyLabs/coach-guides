@@ -30,10 +30,10 @@ Feature: List articles on landing page
     When I am on the landing page
     Then I should see "A breaking news item"
     And I should see "Some really breaking action"
-    And I should see "Written by Thomas at 2018-01-12"
+    And I should see "Written by Thomas at 2018-02-23"
     And I should see "Learn Rails 5"
     And I should see "Build awesome rails applications"
-    And I should see "by Faraz at 2018-01-12"
+    And I should see "by Faraz at 2018-08-23"
 ```
 
 1. Your primary task is to make these scenarios pass. You WILL get errors running the background steps so you need to address that using the Acceptance-Unit Test approach.
