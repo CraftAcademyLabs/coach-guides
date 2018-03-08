@@ -4,84 +4,94 @@
 #### Swedish
 **Avancerad Rails, API'er och Agila utvecklingsmetoder**
 
-Allt handlar om att plocka på sig erfarenhet och kompetens (som vi definierar kunskap omsatt i praktik). Under tre veckor bygger vi en avancerad marketplace-applikation som en fortsättning på vår SlowFood utmaning. Vi fördjupar oss i konceptet med API'r som hjälper oss att öppna upp vårt system för andra utvecklare, jobbar med mer avancerade planeringsverktyg, följer de agila arbetsmetoderna och sjösäter en fullvärdig lösning.
+Allt handlar om att plocka på sig erfarenhet och kompetens (som vi definierar kunskap omsatt i praktik). Under tre veckor bygger vi en avancerad marketplace-applikation som en fortsättning på vår News Room utmaning. Vi fördjupar oss i konceptet med API'r som hjälper oss att öppna upp vårt system för andra utvecklare, jobbar med mer avancerade planeringsverktyg, följer de agila arbetsmetoderna och sjösäter en fullvärdig lösning.
 
 #### English
 **Advanced Rails, APIs and Agile development methods**
 
-These weeks strengthen and deepen your competence and experience with a large project that tests the knowledge you have gained thus far. During these three weeks, you'll build a complex and detailed application, based on the prototype you develop in Week Three. This time, you will add multiple layers of complexity, and work in Rails as Slow Food Online becomes a marketplace with several user types. We will practice Agile workflow, pushing you to work efficiently. At the end of these weeks, you will have a large, complicated, and impressive project to add to your portfolio.
+These weeks strengthen and deepen your competence and experience with a large project that tests the knowledge you have gained thus far. During these three weeks, you'll build a complex and detailed application, based on the prototype you develop in Week Three. This time, you will add multiple layers of complexity, and work in Rails as News Room becomes a marketplace with several user types. We will practice Agile workflow, pushing you to work efficiently. At the end of these weeks, you will have a large, complicated, and impressive project to add to your portfolio.
 ## Week Lab
 
-Slow Food Online challenge
+News Room challenge
 
 ## Learning objectives
 
 - Build a system
+- Practice project collaboration - planning, organizing ideas and tasks, capturing requirements 
+- Onboarding new team members, joining a new team
+- Learn more about Agile practices (Scrum + XP - Software Craftsmanship)
+- Practice more on CI & CD, Devops (set up a VPS with DB, application server)
+- Practice CloudStorage (Move to Active Storage?? If not, keep Paperclip and AWS setup we've used before)
 
 ## Weekend challenge
 
-challenge
+No challenge - just work on the News Room Challenge
 
-### Week owner = Thomas
+### Week owner: Thomas
 
 ## Guide
 
 ### Week 8
 - **Monday:**
-  - [ ] Introduction to SlowFood Online Challenge - Thomas
-  - [ ] Students start design sprint - Intro to Epics - Faraz
-  - [ ] Product owner intro (Recorded video for students to watch) - Recording
+  - [ ] Morning: Introduction to News Room Challenge - Thomas
+  - [ ] Morning: Students start design sprint - Recap of the Design Sprint and intro to Epics (mention prio and voting) - Faraz
+
   
 - **Tuesday:**
-  - [ ] Design sprint day 2 (Students) - All coaches
-  - [ ] Handout [Scrum guide](http://www.scrumguides.org/) to student - Thomas
-  - [ ] Afternoon: Agile Methodologies Intro - Thomas
+  - [ ] Design sprint day 2 (2 teams) - All coaches
+  - [ ] Morning: Agile Methodologies Intro - Thomas (Agile Mindset slides) 
+  - [ ] Afternoon: Product owner intro (Recorded video for students to watch) - Recording
+  - [ ] Afternoon: Workshop on story prioritization and voting - Raoul + Faraz
+
   
 - **Wednesday:**
-  - [ ] Design spring day 3 - Complete with a workshop on story prioritization and voting - Raoul + Faraz
-  - [ ] Geocoding + GMaps - Thomas Resource: [https://youtu.be/DJ7SCFwMPho](https://youtu.be/DJ7SCFwMPho)
+  - [ ] Design sprint day 2 (2 teams) - All coaches
+  - [ ] Morning: Workshop on [Scrum](http://www.scrumguides.org/) to student - Thomas
+  - [ ] Afternoon: Teams present their project plans (PT, lo-fi's)
   
 - **Thursday:**
-  - [ ] OAuth with Google - Raoul
-  - [ ] Internationalization (i18n) - Faraz [Part 1](https://youtu.be/eBwjN5drg-Q) | [Part 2](https://youtu.be/0Nen6z0cIbo)
+  - [ ] Morning: Multiple OAuth providers - Raoul or Thomas 
+  - [ ] Afternoon: Internationalization (i18n) - Faraz [Part 1](https://youtu.be/eBwjN5drg-Q) | [Part 2](https://youtu.be/0Nen6z0cIbo)
 
 - **Friday:**
-  - [ ] Assessment - Add author rails - All Coaches
+  - [ ] Morning: Geocoding + GMaps - Thomas Resource: [https://youtu.be/DJ7SCFwMPho](https://youtu.be/DJ7SCFwMPho)
+  - [ ] Student retro
 
 ### Week 9
 - **Monday:**
-  - [ ] Intro to Scrum & XP - Thomas
-  - [ ] Afternoon: Practice Sprint Review - Facilitated by Faraz + All Coaches
+  - [ ] Morning: Intro to Scrum & XP - Thomas
+  - [ ] Afternoon: Practice Sprint Review - Facilitated by Faraz + All Coaches (Ship some code)
 
 - **Tuesday:**
   - [ ] Mob session: Implementing Stripe - Thomas and Faraz
 
 - **Wednesday:**
-  - [ ] ~~Morning: File attachements (Active Storage or Paperclip on local file system) - Thomas and Faraz~~
-  - [ ] ~~After scrum: File attachements using Cloud storage (AWS S3) - Thomas and Faraz~~ (Temporarily moved to other dates)
+  - [ ] Morning: The Shuffle!
+  - [ ] Teams onboard new members - No coach support
 
 - **Thursday:**
-  - [ ] ~~Software Craftsmanship talk - Thomas and Faraz~~
-  - [ ] ~~Active Model Serializers and JSON:API Standard - Thomas and Faraz~~
-  - [ ] _Morning: File attachements (Active Storage or Paperclip on local file system) - Thomas and Faraz_
-  - [ ] _After scrum: File attachements using Cloud storage (AWS S3) - Thomas and Faraz_
+  - [ ] Morning: File attachements (Active Storage or Paperclip on local file system) - Thomas and Faraz
+  - [ ] Afternoon: File attachements using Cloud storage (AWS S3) - Thomas and Faraz
 
 - **Friday:**
-  - [ ] _Software Craftsmanship talk - Thomas and Faraz_
-  - [ ] _Active Model Serializers and JSON:API Standard - Thomas and Faraz_
-  - [ ] Assessment - [Twitter Challenge](../miscellaneous/assessments/week_7_assessment.md)
+  - [ ] Morning: Software Craftsmanship talk - Thomas and Faraz
+  - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers, Presenters) - Thomas
+  - [ ] Assessment - [Setting up a project](../miscellaneous/assessments/assessment_6.md)
  
 
 ### Week 10
-Extending SlowFood with API and Mobile Client
+Extending News Room with API and Mobile Client
 - **Monday:**
-  - [ ] User Authentication using tokens (theory and Devise Token Auth as example) Extending an existing device with tokens - Raoul
-  - [ ] Demo: Setup Devise Token auth on an existing Rails app with Devise already present - Raoul
+  - [ ] User Authentication using tokens (theory and Devise Token Auth as example) Extending an existing device with tokens - Raoul - RECORDING
+  - [ ] Demo: Setup Devise Token auth on an existing Rails app with Devise already present - Raoul - LIVE
 
 - **Tuesday:**
-  - [ ] Google Maps on Mobile (ionic native plugin) - [Recording] Faraz 
+  - [ ] Morning: Active Model Serializers and JSON:API Standard - Thomas and Faraz
+  - [ ] Google Maps on Mobile (Ionic native plugin) - [Recording] Faraz ?? (No invite)
+  - [ ] Afternoon: DevOps with Raoul (Rolle) - Part 1 (Set-up droplet, add db, add Passenger, etc)
   
 - **Wednesday:**
+  - [ ] Morning: DevOps with Raoul (Rolle) - Part 2 (if needed) (ansible??)
   - [ ] OAuth Demo on mobile (FB/Google+) - Raoul _Will try to deliver this_
   
 - **Thursday:**
