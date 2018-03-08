@@ -1,4 +1,4 @@
-# Week 8 - 9 Slow Food Online
+# Week 8 - 9 News Room
 ### Introduction to this week
 
 #### Swedish
