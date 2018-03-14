@@ -75,8 +75,8 @@ No challenge - just work on the News Room Challenge
 
 - **Friday:**
   - [ ] Morning: Software Craftsmanship talk - Thomas and Faraz
-  - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers, Presenters) - Thomas
-  - [ ] Assessment - [Setting up a project](../miscellaneous/assessments/assessment_6.md)
+  - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers, Presenters) - Thomas
+  - [ ] Assessment - [Setting up a project](../miscellaneous/assessments/assessment_6.md)
  
 
 ### Week 10
