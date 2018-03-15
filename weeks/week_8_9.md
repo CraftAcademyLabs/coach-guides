@@ -59,7 +59,7 @@ No challenge - just work on the News Room Challenge
 
 ### Week 9
 - **Monday:**
-  - [ ] Morning: Intro to Scrum & XP - Thomas
+  - [ ] ~~Morning: Intro to Scrum & XP - Thomas~~ - ???
   - [ ] Afternoon: Practice Sprint Review - Facilitated by Faraz + All Coaches (Ship some code)
 
 - **Tuesday:**
@@ -70,8 +70,8 @@ No challenge - just work on the News Room Challenge
   - [ ] Teams onboard new members - No coach support
 
 - **Thursday:**
-  - [ ] Morning: File attachements (Active Storage or Paperclip on local file system) - Thomas and Faraz
-  - [ ] Afternoon: File attachements using Cloud storage (AWS S3) - Thomas and Faraz
+  - [ ] Morning: File attachements (Active Storage ~~or Paperclip on local file system~~) - Thomas and Faraz
+  - [ ] Afternoon: File attachements using Cloud storage (AWS S3, Use Encrypted Credentials Rails 5.2) - Thomas and Faraz
 
 - **Friday:**
   - [ ] Morning: Software Craftsmanship talk - Thomas and Faraz
