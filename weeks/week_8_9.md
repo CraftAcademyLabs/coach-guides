@@ -82,8 +82,10 @@ No challenge - just work on the News Room Challenge
 ### Week 10
 Extending News Room with API and Mobile Client
 - **Monday:**
-  - [ ] User Authentication using tokens (theory and Devise Token Auth as example) Extending an existing device with tokens - Raoul - RECORDING
-  - [ ] Demo: Setup Devise Token auth on an existing Rails app with Devise already present - Raoul - LIVE
+  - [ ] Morning: Sprint Review for each team
+  - [ ] User Authentication using tokens (theory and Devise Token Auth as example) Extending an existing device with tokens - Raoul - RECORDING - Upload slides on edX
+  - [ ] Afternoon Demo: Setup Devise Token auth on an existing Rails app with Devise already present - Raoul - LIVE
+    * Thomas will look at writing a guide
 
 - **Tuesday:**
   - [ ] Morning: Active Model Serializers and JSON:API Standard - Thomas and Faraz
@@ -92,11 +94,11 @@ Extending News Room with API and Mobile Client
   
 - **Wednesday:**
   - [ ] Morning: DevOps with Raoul (Rolle) - Part 2 (if needed) (ansible??)
-  - [ ] OAuth Demo on mobile (FB/Google+) - Raoul _Will try to deliver this_
   
 - **Thursday:**
-  - [ ]
+  - [ ] OAuth Demo on mobile (FB/Google+) - Oliver (Raoul) _Will try to deliver this_
+  - [ ] Retro - All coaches + Hanna (Just for this instance, Friday is a bank holiday)
 
 - **Friday:**
-  - [ ] Retro - All coaches + Hanna
+  - [ ] ~~Retro - All coaches + Hanna~~
 
