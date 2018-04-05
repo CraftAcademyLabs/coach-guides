@@ -2,17 +2,18 @@
 ### Introduction to this week
 
 #### Swedish
-**Introduktion till JavaScript**
+**Mera JavaScript**
 
 Vi forsätter med att introducera ytterligare ett programmeringsspråk med tillhörande testverktyg - JavaScript och Jasmine. Samtidigt går vi igenom grunderna i HTML och CSS och bygger en applikation som räknar ut din Body Mass Index (BMI challenge) och publicerar vår första app på internet.
 
 #### English
-**Introduction to JavaScript**
+**More to JavaScript**
 
+We continue to build your JavaScript, HTML and CSS skills. Together we'll build an Address Book application with rich functionality and look into simple strategies for storing and persisting information. We'll also continue our journey into Test Driven Development and introduce more advanced testing strategies  
 We introduce another programming language and associated testing framework - JavaScript and Jasmine. We also go through the basics of HTML and CSS and build an application that calculates your Body Mass Index (BMI Challenge) and deploy our first app on the Internet. Once again, you will have a Weekend Challenge to complete.
 
 ### Week Lab
-BMI-challenge
+Address Book-challenge
 
 ### Learning objectives
 * Learn about...
