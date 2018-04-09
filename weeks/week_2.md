@@ -19,6 +19,7 @@ Address Book-challenge
   - Advanced Javascript concepts and ES6+ Features
   - Asynchronous Programming with Javascript
   - DOM manipulation using vanilla Javascript APIs
+  - Persisting data using LocalStorage
   - Unit testing in JS using Mocha and Chai
   - Introduction to BDD using cucumber
   - practice Pair Programming && collaboration using Git and GitHub
