@@ -21,6 +21,8 @@ Portfolio challenge in Angular (Whoever finishes the Library challenge on time c
 * Basics of SPA development in Angular
 * Learn and make use of Local storage
 
+_Note: The following guide is only temporary since we're running Middleman again for this iteration_
+
 ### Guide
 - **Monday:**
   - [ ] Morning: Introduce the week lab - Raoul
@@ -30,14 +32,18 @@ Portfolio challenge in Angular (Whoever finishes the Library challenge on time c
     - How to use YAML files for data
   - [ ] Workshop: Planning your work [Lo-Fi's, Wireframes, a TODO list, etc.] - Raoul
   - [ ] Afternoon: Introduction to HAML - Thomas
+  - [ ] Afternoon: CodeWars Hour - Raoul (Would really be good to do this everyday of this week)
 - **Tuesday:**
-  - [ ] Morning: Introduction to SASS and tips for use - Raoul
-  - [ ] Afternoon: CSS Frameworks using SASS [focus on Materialize (tell them it's a Google thing...] - Faraz
+  - [ ] Morning: Introduction to CSS Grid - Magnus
+  - [ ] Morning: Introduction to SASS and tips for use - Raoul [Recording]()
+  - [ ] Afternoon: CSS Frameworks [focus on Materialize] - Faraz
+  - [ ] Afternoon: CodeWars Hour - Raoul
 - **Wednesday:**
-  - [ ] Morning: Deploying with Middleman [Introduce Surge]- Raoul
+  - [ ] Morning: Deploying with Middleman [Introduce Netlify]- Raoul
   - [ ] Afternoon: CodeWars Hour - Raoul
 - **Thursday:**
   - [ ] Afternoon: Software Craftsmanship - Thomas
+  - [ ] Afternoon: CodeWars Hour - Raoul
 - **Friday:**
   - [ ] Morning: Introduce weekend challenge briefly with examples. - Faraz
-  - [ ] Afternoon: Retrospective meeting
+  - [ ] Afternoon: Tech interview training - fizzbuzz js
