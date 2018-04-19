@@ -34,7 +34,7 @@ This is a group challenge and the students are supposed to work as a team.
 * Learn about deployment to Heroku and the benefits of services like Heroku, DigitalOcean and AWS
 
 ### Weekend challenge
-SlowFood (Sinatra) (User Interface/UX) - Note: group challenge
+SlowFood (Rails) (User Interface/UX) - Note: group challenge
 The weekend is devoted to focus on the User experience of the app. Here we start looking at the styling. We want them to notice that the planning they did in the initial stage was not detailed enough and that they missed to focus on the user.
 ### Learning objectives
 * All of the above
@@ -43,26 +43,28 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   - the true benefit of working with Lo-Fi's as a way to foresee what the user will experience when using the app and how much that helps in our development process.
 * Front-end technologies
   - CSS frameworks
-  - jQuery
   - CDN's vs Gems vs Manually including the CSS framework code (repetition)
 
 ### Head Coach: Thomas
 
 ### Guide
 - **Monday:**
-  - [ ] Morning: Re-introduce Sinatra - the important parts and what they do - Faraz
-  - [ ] Afternoon: Introduce the week lab - Thomas
-  - [ ] Afternoon: Do a basic overview of a Design Sprint. - Faraz
-  
+  - [ ] Morning: Introduce Rails - Thomas
+    - Basic application structure
+    - Rails doctrine, etc...
+  - [ ] Morning: Introduce the Acceptance-Unit Test Cycle in Rails (Slow Food) - Thomas
+  - [ ] Students work on AUT Exercise
 - **Tuesday:**
-  - [ ] Morning: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Raoul
-  - [ ] Afternoon: An Acceptance-Unit test demo - Thomas [Create a view to display dishes and create a Product model]
+  - [ ] Morning: Introduce Slowfood Challenge - Thomas
+  - [ ] Morning: Do a basic overview of a Design Sprint. - Faraz
+  - [ ] Afternoon: Rails params hash [Use this as reference](https://www.youtube.com/watch?v=y57OnWV6dRE) - Faraz
+  - [ ] Afternoon: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Raoul
 - **Wednesday:**
-  - [ ] Morning: Review of Pair Programming concepts and Git & GitHub - Thomas & Faraz [Demo]
+  - [ ] Morning: Rails demo: Active Record (migrations, associations, CRUD functions) - Raoul
+  - [ ] Afternoon: Rails demo: routing (plus resources) [Slides](https://docs.google.com/presentation/d/1Eu_x1eO9Zkmkb1RyflUONTipOjnDUtfUmSabO8-jyoQ) - Faraz
 - **Thursday:**
-  - [ ] Afternoon: Introduce Heroku, walkthrough of how to deploy - Raoul
-  - [ ] Afternoon: Do a brief introduction toframeworks (Sinatra, Rails, Node, JS based frameworks, etc). - Thomas
-  - [ ] Afternoon: Three tier Architecture - Raoul
+  - [ ] Afternoon: Introduce Heroku, walkthrough of how to deploy [For Reference](https://devcenter.heroku.com/articles/getting-started-with-ruby)- Magnus
 - **Friday:**
   - [ ] Introduce the Weekend Challenge - Faraz
-  - [ ] Individual assessments - with https://github.com/CraftAcademy/week3-assessment [TODO: Update code to ActiveRecord]
+  - [ ] AUT demo using Sails - Oliver
+  - [ ] Retro - All coaches
