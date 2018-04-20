@@ -3,13 +3,12 @@
 
 #### Swedish
 **Mera JavaScript**
-
-Proof-read english version and translate to swedish~~Vi forsätter med att introducera ytterligare ett programmeringsspråk med tillhörande testverktyg - JavaScript och Jasmine. Samtidigt går vi igenom grunderna i HTML och CSS och bygger en applikation som räknar ut din Body Mass Index (BMI challenge) och publicerar vår första app på internet.~~
+Under vecka 2 fortsätter vi att utveckla dina JavaScript, HTML och CSS färdigheter. Tillsammans, bygger vi en adressbok applikation med rik funktionalitet och utforskar grundläggande metoder för datalagring. Vi fortsätter att jobba med testdriven utveckling och introducerar Behavior Driven Design (BDD). Under tiden vi jobban med vår adressbok, går även igonom grundläggande HTML och CSS. Du får även en första inblick i hur man publicerar applikationer på internet. Även denna vecka för du som student en helgutmaning att jobba med.
 
 #### English
 **More to JavaScript**
 
-This week, we continue to build your JavaScript, HTML and CSS skills. Together we'll build an Address Book application with rich functionality and look into simple strategies for storing and persisting information. We'll also continue our journey into Test Driven Development and introduce you to Behavior Driven Development (BDD). We also go through the basics of HTML and CSS as we build this week's challenge. You will also get to deploy your first app on the Internet. Once again, you will have a Weekend Challenge to complete.
+This week, we continue to build your JavaScript, HTML and CSS skills. Together we'll build an Address Book application with rich functionality and look into simple strategies for storing and persisting information. We'll also continue our journey into Test Driven Development and introduce you to Behavior Driven Design (BDD). We also go through the basics of HTML and CSS as we build this week's challenge. You will also get to deploy your first app on the Internet. Once again, you will have a Weekend Challenge to complete.
 
 ### Week Lab
 Address Book-challenge
@@ -21,7 +20,7 @@ Address Book-challenge
   - DOM manipulation using vanilla Javascript APIs
   - Persisting data using LocalStorage
   - Unit testing in JS using Mocha and Chai
-  - Introduction to BDD using cucumber
+  - Introduction to BDD using Cucumber
   - practice Pair Programming && collaboration using Git and GitHub
   - Deploying a static site to the web
   - Observe differences and similarities between Ruby and Javascript
