@@ -4,12 +4,12 @@
 #### Swedish
 **Parprogrammering och Användarorienterad utveckling**
 
-Vi inleder denna vecka med att lägga grunden för ett onlinesystem som låter användarna beställa mat online (SlowFood Challenge). Vi introducerar ett ramverk för webbaserade applikationer ([Sinatra](http://www.sinatrarb.com/)) och ger deltagarna en första inblick i hur man jobbar med agila utvecklingsmetoder med fokus på Behavior Driven Development. SlowFood Challenge handlar även om designmönstret Model-View-Controller, relationsdatabaser och funktioner för användarregistrering, autentisering och auktorisering. Vid veckans slut är vi redo att gå live med SlowFood Online och vi publicerar vårt system med hjälp av Heroku. För att underlätta och automatisera vår deploy-process använder tekniker som Continuous Integration och Continuous Deployment.
+Software as a Service - Work the web! Vi inleder denna vecka med att lägga grunden för ett onlinesystem som låter användarna beställa mat online (SlowFood Challenge). Vi introducerar Ruby on Rails, ett ramverk för webbaserade applikationer och ger deltagarna en första inblick i hur man jobbar med agila utvecklingsmetoder med fokus på Behavior Driven Development. SlowFood Challenge handlar även om designmönstret Model-View-Controller, relationsdatabaser och funktioner för användarregistrering, autentisering och auktorisering. Vid veckans slut är vi redo att gå live med SlowFood Online och vi publicerar vårt system med hjälp av Heroku. För att underlätta och automatisera vår deploy-process använder tekniker som Continuous Integration och Continuous Deployment.
 
 #### English
 **Pair Programming and User-Oriented Development**
 
-This week we begin to lay the foundation for an online system that allows users to order food online. We introduce Sinatra, a framework for web based applications, and give you your first insight into Agile practices, focusing on Behavior Driven Development. The Slow Food Challenge is also about thinking more deeply about how the pieces of an application fit together, using advanced techniques such as user registration, authentication and authorization. At the end of the week, we are ready to go live with the Slow Food Online application and we deploy our system using Heroku. To facilitate and automate our deploy process we use techniques such as Continuous Integration and Continuous Deployment.
+Software as a Service - Work the web! This week we begin to lay the foundation for an online system that allows users to order food online. We introduce Ruby on Rails, a framework for web based applications, and give you your first insight into Agile practices, focusing on Behavior Driven Development. The Slow Food Challenge is also about thinking more deeply about how the pieces of an application fit together, using advanced techniques such as user registration, authentication and authorization. At the end of the week, we are ready to go live with the Slow Food Online application and we deploy our system using Heroku. To facilitate and automate our deploy process we use techniques such as Continuous Integration and Continuous Deployment.
 
 ### Week Lab
 [SlowFood (Sinatra)](https://craftacademy.gitbooks.io/coding-as-a-craft/content/slow_food/slow_food.html)
@@ -19,7 +19,7 @@ This is a group challenge and the students are supposed to work as a team.
 * Learn about basic Agile principles
   - self organizing teams
   - the importance of planning your work
-* Learn about Sinatra
+* Learn about Ruby on Rails
   - understand the concept of ORM's vs SQL (ActiveRecord)
   - understand the MVC structure
     - controllers
