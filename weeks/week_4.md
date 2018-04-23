@@ -51,6 +51,7 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   - [ ] Morning: Introduce Rails - Thomas
     - Basic application structure
     - Rails doctrine, etc...
+    - Boilerplate (https://github.com/CraftAcademy/boilerplate)
   - [ ] Morning: Introduce the Acceptance-Unit Test Cycle in Rails (Slow Food) - Thomas
   - [ ] Students work on AUT Exercise
 - **Tuesday:**
