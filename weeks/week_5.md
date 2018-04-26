@@ -51,23 +51,23 @@ Extending the basic Rails application that you created at the beginning  of the 
 
 ### Guide
 - **Monday:**
-  - [ ] How Rails is different than Sinatra and why you used Sinatra in week 4 - Thomas
-  - [ ] Brief overview of where things are in Rails. - Faraz
-  - [ ] Introduce the Acceptance-Unit Test Cycle in Rails w/ challenge - Raoul
-- **Tuesday:**
+  - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC, config). - Faraz
+  - [ ] Introduce the Acceptance-Unit Test Cycle in Rails (intro to Articles challenge, Factorybot, Fixtures) - Thomas
   - [ ] Morning: Check the submissions of the AUT code on GitHub - All Coaches
   - [ ] Morning: Introduce the Legacy Code Challenge - Faraz
-  - [ ] Rails demo: routing (plus resources) and params (plus sanitation) - Raoul
+
+- **Tuesday:** (Bank Holiday 1st May)
+
 - **Wednesday:**
-  - [ ] Morning: Rails demo: Active Record (migrations, associations, CRUD functions) - Raoul
+  - [ ] Morning: Params, sanitation - Raoul
+  - [ ] Morning: Rails demo: Advanced Routing (plus resources, nested routes, associations) (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge)- Raoul
   - [ ] Afternoon: In depth Rails demo: Most common helpers (focus on forms) - Thomas
       - https://m.patrikonrails.com/rails-5-1s-form-with-vs-old-form-helpers-3a5f72a8c78a?gi=c7e478d9361b
 - **Thursday:**
   - [ ] Morning: Validations in Rails and instance methods - Raoul
-  - [ ] Afternoon: Adding associaions and nested routes (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge). - Thomas
-  - [ ] Talk about the final project - Thomas
+  - [ ] Talk about the midcourse project - Thomas
 - **Friday:**
   - [ ] Introduce the Weekend Challenge - Thomas 
-  - [ ] Retro - All coaches
+  - [ ] Tech interview training - All coaches
   
   
