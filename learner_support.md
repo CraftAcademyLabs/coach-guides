@@ -1,4 +1,4 @@
-## Learner Support Policy
+## WIP Learner Support Policy
 
 ### Introduction
 This policy aim to provide the coaching staff of Craft Academy with a detailed guide on how we give support to lerners attending our courses. 
@@ -26,11 +26,11 @@ Other resources: Coach 3
 
 Support schedule
 
-Monday: First line: Coach 1, Second line: Senior Coach
-Tuesday: First line: Coach 2, Second line: Senior Coach
-Wednesday: First line: Coach 1, Second line: Senior Coach
-Thursday: First line: Coach 2, Second line: Senior Coach
-Friday: First line: Coach 1, Coach 2, Second line: Senior coach
+- Monday: First line: Coach 1, Second line: Senior Coach
+- Tuesday: First line: Coach 2, Second line: Senior Coach
+- Wednesday: First line: Coach 1, Second line: Senior Coach
+- Thursday: First line: Coach 2, Second line: Senior Coach
+- Friday: First line: Coach 1, Coach 2, Second line: Senior coach
 
 The theory is that Friday is rather hecktic in terms of delivery and the cohort need more extensive support.
 
