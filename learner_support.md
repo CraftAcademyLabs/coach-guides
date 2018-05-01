@@ -32,7 +32,7 @@ Support schedule
 - Thursday: First line: Coach 2, Second line: Senior Coach
 - Friday: First line: Coach 1, Coach 2, Second line: Senior coach
 
-The theory is that Friday is rather hecktic in terms of delivery and the cohort need more extensive support.
+The theory is that Friday is rather hectic in terms of delivery and the cohort need more extensive support.
 
 
 
