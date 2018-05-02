@@ -40,11 +40,25 @@ The theory is that Friday is rather hectic in terms of delivery and the cohort n
 
 We have a separate document with guidelines for how we give support in order to follow the agile process. 
 
-General guideline are:
+#### Unblocking flow:
+- Check syntax and naming
+- Use Pry for debugging
+- Make sure that you are in the right folder/project
+- Go through the scenario, feature or unit specs again make sure they are correct
+- Cross check it with the story, make sure that you are in scope
+- Google the error message displayed in the terminal or console
+- Ask fellow students in the cohort slack channel
+- Read the course documentation if there are any steps missing or overlooked
+- Read through official documentation for the gem/framework
+- Rephrase the question and google the problem, take special note on StackOverflow (check the date of the answers)
+- Post the question/problem on Slack in the cohort channel
+- Write a CraftOverflow issue using the template
+- Ask a Coach
+
 Try -> Research -> Fellow students -> First line support -> Second line support
 
-**Do NOT give support if:**
-* Learner did not go through the first 3 support sources (Try -> Research -> Fellow students) 
+**Support will not be given if:**
+* Learner did not go through the unblocking flow
 * The implementation is developed solo (no Pair Programming)
 * There are no tests (unless the learner specifically communicates she/he is working on a Spike) 
 
