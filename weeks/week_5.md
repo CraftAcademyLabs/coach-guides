@@ -70,5 +70,6 @@ Extending the basic Rails application that you created at the beginning  of the 
 - **Friday:**
   - [ ] Introduce the Weekend Challenge - Thomas 
   - [ ] Tech interview training - All coaches
+  https://github.com/CraftAcademyLabs/coach-guides/blob/curriculum-2.0/miscellaneous/assessments/week_5_assessment.md
   
   
