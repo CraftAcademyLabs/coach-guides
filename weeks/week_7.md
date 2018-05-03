@@ -31,20 +31,29 @@ In Week 7 we deepen your knowledge of Javascript by introducing Angular, a web f
 * See main Learning objectives
 
 ### Head Coach: Raoul
-Note: Amanda will be joining as a student
 
 ### Guide
-~~- **Monday:** (Angular)
+- **Monday:** (Angular)
+Senior coach: Raoul
+Junior coach: Magnus
   - [ ] Project Retro - Thomas (9:30am)
   - [ ] Intro to Typescript (TS vs JS) - Raoul (11:00am)
-  - [ ] Getting to know Angular - Raoul + Faraz (1:15pm)~~
+  - [ ] Getting to know Angular - Raoul + Faraz (1:15pm)
 - **Tuesday:** (Angular w/ Ionic)
-  - [ ] Introduce Ionic & BMI mobile - Raoul (9:20am)
+Senior coach: Raoul
+Junior coach: Olivér
+  - [ ] Introduce Ionic & BMI mobile - Raoul (9:20am)
 - **Wednesday:** (Start Cooper challenge)
+Senior coach: Raoul
+Junior coach: Faraz
   - [ ] Introduce Cooper challenge - give students the logic - Raoul (9:30am)
 - **Thursday:**
+Senior coach: Raoul/Thomas
+Junior coach: Magnus
   - [ ] How to publish to Ionic view - Faraz (9:30am)
   - [ ] Afternoon: RESTful APIs in Rails - Thomas (2:00pm)
 - **Friday:**
+Senior coach: Raoul
+Junior coach: Olivér
   - [ ] Cover more angular/JS/TS concepts (Observables, Promises, etc...)
-  - [ ] Retro - All coaches
+  - [ ] Tech interview training - All coaches https://github.com/CraftAcademyLabs/coach-guides/blob/curriculum-2.0/miscellaneous/assessments/week_7_assessment.md
