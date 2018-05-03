@@ -26,23 +26,35 @@ Put all of the skills you have picked up to use in a group project.
 ### Guide
 
 ### Head Coach : Thomas
-#### St:Erik Team: Faraz
-#### Lion & Crown Team: Raoul
+#### 
 
-- **Monday:**
+
+- **Monday:** 
+  Senior coach: Thomas 
+  Junior coach: Faraz
   - [ ] Introduce the week lab - Thomas
-  - [ ] Design sprint led by team coach - Faraz & Raoul (NOT Thomas)
+  - [ ] Design sprint led by team coach - Faraz & Oliver (NOT Thomas)
   - [ ] In depth Rails demo: Authentication & Authorization (Devise + Pundit) - Thomas
+  - [ ] Mobsession CI - Raoul
+  
 - **Tuesday:**
-  - [ ] Morning: How to consume an API - Raoul
+  Senior coach: Thomas 
+  Junior coach: Magnus (Faraz on backup)
+  - [ ] Morning: How to consume an API - Raoul/Thomas (StarWars API)
   - [ ] Afternoon: How to get paid (Stripe) - Thomas
+  
 - **Wednesday:**
-  - [ ] Geocoder + Google Maps - Thomas
-- **Thursday:**
+Senior coach: Thomas
+Junior coach: Oliver
+  ~~- [ ] Geocoder + Google Maps - Thomas~~ Moved to week 8 or 9
   - [ ] OAuth demo (facebook) - Thomas
+- **Thursday:** Bank holiday
+
 - **Friday:**
+
+Senior coach: Thomas
+Junior coach: Faraz
   - [ ] Project Retro and UX/function review  (give feedback for the weekend) - All Coaches
   
   ### Resources
-  
   * [Devise Introduction](https://youtu.be/BBKiHPotInA)
