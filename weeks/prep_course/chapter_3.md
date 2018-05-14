@@ -10,8 +10,8 @@ This week, we'll learn how to use testing to keep our code concise, structured a
 * Learn how to unit test 
 
 ### Demos
-* Thursday - Our first unit tests with RSpec
-* Friday - FizzBuzz demo - Thomas
+ - Our first unit tests with RSpec
+ - FizzBuzz demo
 
 ### Resources
 Course material 
