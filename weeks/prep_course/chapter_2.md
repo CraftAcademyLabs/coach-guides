@@ -1,4 +1,4 @@
-## Week 2
+## Week 1 & 2
 
 ### Introduction to Ruby
 This week, we'll learn the basics of Ruby. Ruby is one of the best programming languages to start with when you are first 
