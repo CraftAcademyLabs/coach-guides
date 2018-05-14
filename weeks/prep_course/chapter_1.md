@@ -1,4 +1,4 @@
-## Week 1
+## Week 1 & 2
 
 ### The Terminal, Development Environment, & Version Control
 
