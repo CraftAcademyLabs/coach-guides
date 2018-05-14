@@ -1,4 +1,4 @@
-## Week 3
+## Week 1 & 2
 
 ### Testing with RSpec
 This week, we'll learn how to use testing to keep our code concise, structured and adaptable. 
