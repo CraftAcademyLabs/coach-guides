@@ -6,8 +6,8 @@ This week, we'll learn to use our terminal - a way to give our computer commands
 We'll also set up our developer environment so we can start coding and work with version control for good project management.
 
 ### Demos
-* Thursday - Version control (Git, GitHub...)
-* Friday - File management and terminal commands demo & Developer Environment Setup
+- Version control (Git, GitHub...)
+- File management and terminal commands demo & Developer Environment Setup
 ### Resources
 First hand we want to host our own talks but also share prerecorded sessions with the students. Watch and find inspiration. 
 
