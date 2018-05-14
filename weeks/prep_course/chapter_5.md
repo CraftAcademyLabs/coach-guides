@@ -1,4 +1,5 @@
-## Week 3 JavaScript & BMI-challenge
+## Week 3 & 4
+JavaScript & BMI-challenge
 
 ### JavaScript
 This week, we deepen our knowledge in Javascript. 
