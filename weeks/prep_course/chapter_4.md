@@ -1,7 +1,8 @@
 ## Week 4 JavaScript
 
 ### JavaScript
-This week, we pick up a second programming language: Javascript. We'll also learn some simple JQuery commands that will allow us to manipulate elements on a website.
+This week, we pick up a second programming language: Javascript
+
 ### Learning objectives
 * Practice pair programming & collaboration using Git and GitHub
 * Basic understanding of JavaScript
