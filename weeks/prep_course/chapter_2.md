@@ -13,8 +13,8 @@ create games, and as part of the popular Ruby on Rails web framework.
 * Explore how objects and classes are used to organize information and behavior
 
 ### Demos
-* Thursday - Get to know Ruby  Slides: [Get To Know Ruby](http://slides.craftacademy.se/slides/get_to_know_ruby.html#1)
-* Friday - Our first Ruby program 
+ - Get to know Ruby  Slides: [Get To Know Ruby](http://slides.craftacademy.se/slides/get_to_know_ruby.html#1)
+ - Our first Ruby program 
 
 ### Resources
 First hand we want to host our own talks but also share prerecorded sessions with the students. Watch and find inspiration. 
