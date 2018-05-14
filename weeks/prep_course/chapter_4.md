@@ -1,4 +1,4 @@
-## Week 4 JavaScript
+## Week 1 & 2
 
 ### JavaScript
 This week, we pick up a second programming language: Javascript
