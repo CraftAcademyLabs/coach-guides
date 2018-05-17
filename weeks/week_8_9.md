@@ -18,64 +18,76 @@ News Room challenge
 
 - Build a system
 - Practice project collaboration - planning, organizing ideas and tasks, capturing requirements 
-- Onboarding new team members, joining a new team
+(- Onboarding new team members, joining a new team)
 - Learn more about Agile practices (Scrum + XP - Software Craftsmanship)
-- Practice more on CI & CD, Devops (set up a VPS with DB, application server)
-- Practice CloudStorage (Move to Active Storage?? If not, keep Paperclip and AWS setup we've used before)
+- Practice more on CI & CD, Devops (set up a VPS with DB, application server - Digital Ocean)
+- Practice Cloud Storage - Active Storage in Rails
+- Alternatives to Rails & Active Record - Sails (Node based framework) & Waterline 
 
 ## Weekend challenge
 
 No challenge - just work on the News Room Challenge
 
-### Week owner: Thomas
+### Head Coach: Thomas
+### Supporting Coaches: Faraz and Magnus
+### Resources: Raoul (Dev Ops & CI & CD), Oliver (Sails demo) 
+
+
 
 ## Guide
 
 ### Week 8
 - **Monday:**
-  - [ ] Morning: Introduction to News Room Challenge - Thomas
-  - [ ] Morning: Students start design sprint - Recap of the Design Sprint and intro to Epics (mention prio and voting) - Faraz
+Firstline: Faraz
+  - [ ] Morning: Introduction to News Room Challenge - Thomas (Create slides)
+  - [ ] Morning: Students start design sprint - Recap of the Design Sprint and intro to Epics (introduce prioritization and voting) - Faraz 
+  - [ ] Afternoon: OAuth with Facebook - Thomas Slides + Coding demo (Create slides)
 
   
 - **Tuesday:**
-  - [ ] Design sprint day 2 (2 teams) - All coaches
+Firstline: Magnus
+  - [ ] Design sprint day 2 (1 team) - Support coach and Head coach
   - [ ] Morning: Agile Methodologies Intro - Thomas (Agile Mindset slides) 
   - [ ] Afternoon: Product owner intro (Recorded video for students to watch) - Recording
-  - [ ] Afternoon: Workshop on story prioritization and voting - Raoul + Faraz
+  - [ ] Afternoon: Workshop on story prioritization and voting - Thomas + Faraz
 
   
 - **Wednesday:**
-  - [ ] Design sprint day 2 (2 teams) - All coaches
-  - [ ] Morning: Workshop on [Scrum](http://www.scrumguides.org/) to student - Thomas
+Firstline: Faraz
+  - [ ] Design sprint day 3 (1 team) - Support coach and Head coach
+  - [ ] Morning: Workshop on [Scrum](http://www.scrumguides.org/) to student (Quiz? on Edx?) - Thomas
   - [ ] Afternoon: Teams present their project plans (PT, lo-fi's)
   
 - **Thursday:**
-  - [ ] Morning: Multiple OAuth providers - Raoul or Thomas 
+Firstline: Magnus
+  - [ ] Morning: Multiple OAuth providers - Thomas  Code review demo
   - [ ] Afternoon: Internationalization (i18n) - Faraz [Part 1](https://youtu.be/eBwjN5drg-Q) | [Part 2](https://youtu.be/0Nen6z0cIbo)
 
 - **Friday:**
+Firstline: Faraz
   - [ ] Morning: Geocoding + GMaps - Thomas Resource: [https://youtu.be/DJ7SCFwMPho](https://youtu.be/DJ7SCFwMPho)
+    Introduce local based events (crimes from Brottsplatskartan API?)
   - [ ] Student retro
 
 ### Week 9
 - **Monday:**
-  - [ ] ~~Morning: Intro to Scrum & XP - Thomas~~ - ???
+  - [ ] Morning: Intro to Scrum & XP - Thomas
   - [ ] Afternoon: Practice Sprint Review - Facilitated by Faraz + All Coaches (Ship some code)
 
 - **Tuesday:**
   - [ ] Mob session: Implementing Stripe - Thomas and Faraz
 
 - **Wednesday:**
-  - [ ] Morning: The Shuffle!
-  - [ ] Teams onboard new members - No coach support
+  - [ ] ~~Morning: The Shuffle!~~ Hide in Edx
+  - [ ] ~~Teams onboard new members - No coach support~~
 
 - **Thursday:**
-  - [ ] Morning: File attachements (Active Storage ~~or Paperclip on local file system~~) - Thomas and Faraz
-  - [ ] Afternoon: File attachements using Cloud storage (AWS S3, Use Encrypted Credentials Rails 5.2) - Thomas and Faraz
+  - [ ] Morning: File attachements (Active Storage) - Thomas
+  - [ ] Afternoon: File attachements using Cloud storage (AWS S3, Use Encrypted Credentials Rails 5.2) - Thomas
 
 - **Friday:**
-  - [ ] Morning: Software Craftsmanship talk - Thomas and Faraz
-  - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers, Presenters) - Thomas
+  - [ ] Morning: Software Craftsmanship talk - Thomas
+  - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers, Presenters?) - Thomas
   - [ ] Assessment - [Setting up a project](../miscellaneous/assessments/assessment_6.md)
  
 
@@ -93,12 +105,13 @@ Extending News Room with API and Mobile Client
   - [ ] Afternoon: DevOps with Raoul (Rolle) - Part 1 (Set-up droplet, add db, add Passenger, etc)
   
 - **Wednesday:**
-  - [ ] Morning: DevOps with Raoul (Rolle) - Part 2 (if needed) (ansible??)
+  Bank holiday in Sweden
+  
   
 - **Thursday:**
-  - [ ] OAuth Demo on mobile (FB/Google+) - Oliver (Raoul) _Will try to deliver this_
-  - [ ] Retro - All coaches + Hanna (Just for this instance, Friday is a bank holiday)
+  - [ ] Morning: DevOps with Raoul (Rolle) - Part 2 (if needed) (ansible??)
+  - [ ] Afternoon: OAuth Demo on mobile (FB/Google+) - Oliver (Raoul) _Will try to deliver this_
 
 - **Friday:**
-  - [ ] ~~Retro - All coaches + Hanna~~
+  - [ ] Retro - All coaches
 
