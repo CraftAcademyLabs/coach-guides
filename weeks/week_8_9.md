@@ -66,28 +66,28 @@ Firstline: Magnus
 - **Friday:**
 Firstline: Faraz
   - [ ] Morning: Geocoding + GMaps - Thomas Resource: [https://youtu.be/DJ7SCFwMPho](https://youtu.be/DJ7SCFwMPho)
-    Introduce local based events (crimes from Brottsplatskartan API?)
+    Introduce local based events (crimes from Brottsplatskartan API?) (mobsession - coding)
   - [ ] Student retro
 
 ### Week 9
 - **Monday:**
-  - [ ] Morning: Intro to Scrum & XP - Thomas
+  - [ ] Morning: Intro to Scrum & XP - Thomas (slides demo)
   - [ ] Afternoon: Practice Sprint Review - Facilitated by Faraz + All Coaches (Ship some code)
 
 - **Tuesday:**
-  - [ ] Mob session: Implementing Stripe - Thomas and Faraz
+  - [ ] Implementing Stripe with custom forms - Thomas and Faraz (mobsession - coding)
 
 - **Wednesday:**
   - [ ] ~~Morning: The Shuffle!~~ Hide in Edx
   - [ ] ~~Teams onboard new members - No coach support~~
 
 - **Thursday:**
-  - [ ] Morning: File attachements (Active Storage) - Thomas
-  - [ ] Afternoon: File attachements using Cloud storage (AWS S3, Use Encrypted Credentials Rails 5.2) - Thomas
+  - [ ] Morning: File attachements (Active Storage) - Thomas (mobsession - coding)
+  - [ ] Afternoon: File attachements using Cloud storage (AWS S3, Use Encrypted Credentials Rails 5.2) - Thomas (mobsession - coding)
 
 - **Friday:**
-  - [ ] Morning: Software Craftsmanship talk - Thomas
-  - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers, Presenters?) - Thomas
+  - [ ] Morning: Software Craftsmanship talk - Thomas? (slides demo)
+  - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers, Presenters?) - Thomas (slides + coding demo)
   - [ ] Assessment - [Setting up a project](../miscellaneous/assessments/assessment_6.md)
  
 
@@ -96,21 +96,21 @@ Extending News Room with API and Mobile Client
 - **Monday:**
   - [ ] Morning: Sprint Review for each team
   - [ ] User Authentication using tokens (theory and Devise Token Auth as example) Extending an existing device with tokens - Raoul - RECORDING - Upload slides on edX
-  - [ ] Afternoon Demo: Setup Devise Token auth on an existing Rails app with Devise already present - Raoul - LIVE
+  - [ ] Afternoon Demo: Setup Devise Token auth on an existing Rails app with Devise already present - Thomas (slides + coding demo)
     * Thomas will look at writing a guide
 
 - **Tuesday:**
-  - [ ] Morning: Active Model Serializers and JSON:API Standard - Thomas and Faraz
-  - [ ] Google Maps on Mobile (Ionic native plugin) - [Recording] Faraz ?? (No invite)
+  - [ ] Morning: Active Model Serializers and JSON:API Standard - Thomas and Faraz (slides + coding demo)
+  - [ ] Google Maps on Mobile (Ionic native plugin) - [Recording] Faraz (slides + coding demo)
   - [ ] Afternoon: DevOps with Raoul (Rolle) - Part 1 (Set-up droplet, add db, add Passenger, etc)
   
 - **Wednesday:**
-  Bank holiday in Sweden
+  Bank holiday in Sweden (national day)
   
   
 - **Thursday:**
   - [ ] Morning: DevOps with Raoul (Rolle) - Part 2 (if needed) (ansible??)
-  - [ ] Afternoon: OAuth Demo on mobile (FB/Google+) - Oliver (Raoul) _Will try to deliver this_
+  - [ ] Afternoon: OAuth Demo on mobile (FB/Google+) - Oliver/Thomas (mobsession - coding)
 
 - **Friday:**
   - [ ] Retro - All coaches
