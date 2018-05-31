@@ -101,8 +101,8 @@ Extending News Room with API and Mobile Client
 
 - **Tuesday:**
   - [ ] Morning: Active Model Serializers and JSON:API Standard - Thomas and Faraz (slides + coding demo)
-  - [ ] Google Maps on Mobile (Ionic native plugin) - [Recording] Faraz (slides + coding demo)
-  - [ ] Afternoon: DevOps with Raoul (Rolle) - Part 1 (Set-up droplet, add db, add Passenger, etc)
+  - [ ] Google Maps on Mobile (Ionic native plugin) - Faraz (slides + coding demo)
+  - [ ] Afternoon: DevOps with Raoul (Rolle) - Part 1 (Set-up droplet, add db, add Passenger, etc)
   
 - **Wednesday:**
   Bank holiday in Sweden (national day)
