@@ -31,13 +31,15 @@ So the first week is all about giving the students their first time experience i
 - **Monday:**
   - [ ] First-day logistics: bricka, tour of the building, who-is-who and their availability - Thomas (Gothenburg), Faraz (Stockholm)
   - [ ] Overview lecture on Craft Academy, etc. - Thomas
-  - [ ] Team presentations - Raoul, Faraz, Thomas, Hanna
+  - [ ] Team presentations - Magnus, Faraz, Thomas, Hanna
   - [ ] Get-to-know-you intro "game" - Faraz
   - [ ] Introduce the week lab after Day One activities by going over the materials in EdX - Faraz
-    - [ ] Communicate Pairing groups
+  - [ ] Learning strategies - Faraz
+  - [ ] Communication - Sophie
   - [ ] Understanding the problem statement (Planning demo) - the ATM challenge - Thomas & Faraz
   - [ ] Programming demo - "... The should be an ATM I can use" - Faraz (Emphasize on the transition from User story to actual code)
 - **Tuesday:**
+  - [ ] Advanced Gitpong (Coding Demo) - Oliver & Magnus
   - [ ] Intermediate topics to testing with RSpec (Doubles, Dynamic Matchers, etc...) - Thomas 
   - [ ] Basic programming recap - Raoul (see week 1 assessment for topics to cover) _Look for recordings_
   - [ ] Git & GitHub talk and demo - pull requests, forking, cloning, etc. - Faraz [Recording + Feedback session]
