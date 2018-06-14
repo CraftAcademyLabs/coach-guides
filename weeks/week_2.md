@@ -32,23 +32,29 @@ Library Challenge - Logic
 ### Learning objectives
 - Practice JS skills with more advanced logic
 
+### Head Coach 
+Faraz
+
+### Support and extra resource
+Thomas
+
 ### Guide
 - **Monday:**
-  - [ ] Morning: Javascript recap with focus on ES6 - Raoul
+  - [ ] Morning: Javascript recap with focus on ES6 - Faraz
     - basics: most common datatypes, how functions structured, "classes", declaring and using variables, conditionals, loops
     - work in remote pairs on the js exercises
-  - [ ] Afternoon: Asynchronous Programing with JS (Promises)
+  - [ ] Afternoon: Asynchronous Programing with JS (Promises) - Faraz
 - **Tuesday:**
-  - [ ] Morning: Introduce the week lab (Address Book) do a demo where we scaffold the project - Raoul
-  - [ ] Afternoon: Debugging with chrome console - Faraz
-  - [ ] Afternoon: More Address boook demo - Raoul
+  - [ ] Morning: Introduce the week lab (Address Book) do a demo where we scaffold the project - Faraz
+  - [ ] Afternoon: More Address boook demo (Debugging with Chrome) - Faraz
 - **Wednesday:**
-  - [ ] Morning: More Address boook demo - Raoul
+  - [ ] Morning: More Address boook demo - Faraz
   - [ ] Afternoon: Introduction to Agile methodologies XP and Scrum - Thomas
-  - [ ] Afternoon: Individually review pull requests from Ruby weekend challenge and code so far on BMI challenge (all coaches) 
+  - [ ] Afternoon: Individually review pull requests from Ruby weekend challenge (Library Challenge, BMI Challenge and Address Book Challenge)  (all coaches) 
 - **Thursday:**
   - [ ] Morning: Whoever we didn't have time to get to with reviews on Thursday
-  - [ ] Afternoon: Demo: Add some styling to BMI app using a a front-end CSS framework []- Faraz 
-- **Friday:**
-  - [ ] Morning: Introduce the Weekend Challenge - Thomas
-  - [ ] Afternoon: [FizzBuzz Js Challenge](../miscellaneous/assessments/week_2_assessment.md) (All coaches)
+  - [ ] Afternoon: Demo: Add some styling to BMI app using a a front-end CSS framework []- Faraz
+  - [ ] Afternoon: Introduce the Weekend Challenge [FizzBuzz Js Challenge ](../miscellaneous/assessments/week_2_assessment.md) (All coaches) Note: We want to use the Training Wheels package (https://www.npmjs.com/package/e2e_training_wheels)
+  - [ ] Retrospective - Old format - Sophie
+- **Friday: (Midsommarafton)** 
+
