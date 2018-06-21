@@ -36,25 +36,24 @@ Add a CV page to your portfolio using a YAML file. (Also, wrap up the Library ch
 
 ### Guide
 - **Monday:**
-  - [ ] Morning: Introduce the week lab - Raoul
+  - [ ] Morning: Introduce the week lab - Thomas
     - Middleman: structure
     - Example sites
     - How to use partials
     - How to use YAML files for data
-  - [ ] Workshop: Planning your work [Lo-Fi's, Wireframes, a TODO list, etc.] - Raoul
+  - [ ] Workshop: Planning your work [Lo-Fi's, Wireframes, a TODO list, etc.] - Faraz
   - [ ] Afternoon: Introduction to HAML - Thomas
-  - [ ] Afternoon: CodeWars Hour - Raoul (Would really be good to do this everyday of this week)
+  - [ ] Afternoon: CodeWars Hour - Faraz (Would really be good to do this everyday of this week)
 - **Tuesday:**
-  - [ ] Morning: Introduction to CSS Grid - Magnus
-  - [ ] Morning: Introduction to SASS and tips for use - Raoul [Recording]()
-  - [ ] Afternoon: CSS Frameworks [focus on Materialize] - Faraz
-  - [ ] Afternoon: CodeWars Hour - Raoul
+  - [ ] Morning: Introduction to CSS Grid - Magnus (Coding demo)
+  - [ ] Morning: Introduction to SASS and tips for use - Magnus (Coding + Slides)
+  - [ ] Afternoon: CodeWars Hour - Faraz
 - **Wednesday:**
-  - [ ] Morning: Deploying with Middleman [Introduce Netlify]- Raoul
-  - [ ] Afternoon: CodeWars Hour - Raoul
+  - [ ] Morning: Deploying with Middleman [Introduce Netlify]- Faraz
+  - [ ] Afternoon: CodeWars Hour - Faraz
 - **Thursday:**
   - [ ] Afternoon: Software Craftsmanship - Thomas
-  - [ ] Afternoon: CodeWars Hour - Raoul
+  - [ ] Afternoon: CodeWars Hour - Faraz
 - **Friday:**
-  - [ ] Morning: Introduce weekend challenge briefly with examples. - Faraz
+  - [ ] Morning: Introduce weekend challenge briefly with examples (Add CV). - Faraz
   - [ ] Afternoon: Tech interview training - fizzbuzz js
