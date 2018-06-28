@@ -1,5 +1,9 @@
 ## Checklist for weekly content owner
 
+### Two weeks before/ Responsibilities of the content owner
+- Maintaining and adding new content 
+- Go through learning objectives and make sure that the content meets them 
+
 ### The week before 
 - Read through the material
 - Set up project and make sure that instructions aren't outdated.
