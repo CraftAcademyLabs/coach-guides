@@ -49,6 +49,7 @@ Extending the basic Rails application that you created at the beginning  of the 
 * Learn about nested routes in Rails
 
 ### Head coach: Thomas
+#### First Line: Faraz
 
 ### Guide
 - **Monday:**
