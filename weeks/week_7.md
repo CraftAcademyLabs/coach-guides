@@ -34,16 +34,40 @@ In Week 7 we deepen your knowledge of Javascript by introducing Angular, a web f
 
 ### Guide
 - **Monday:** (Angular)
-  - [ ] Morning: Intro to Typescript (TS vs JS) - Raoul (10:00am)
-  - [ ] Morning: Getting to know Angular - Raoul + Faraz (11:15pm)
+
+  Senior coach: Raoul
+  Junior coach: Magnus
+  
+  - [ ] Project Retro - Thomas (9:30am)
+  - [ ] Getting to know Angular - Raoul + Magnus (11:00pm)
+  - [ ] Intro to Typescript (TS vs JS) - Raoul - _Raoul: Review recording of this and publish for students_
+  - [ ] Cover more angular/TS concepts (Observables, Using Services)
+
 - **Tuesday:** (Angular w/ Ionic)
-  - [ ] Morning: Introduce Ionic & BMI mobile - Raoul (9:30am)
+
+  Senior coach: Raoul
+  Junior coach: Faraz
+  
+  - [ ] Introduce Ionic & BMI mobile - Raoul (9:20am)
+
 - **Wednesday:** (Start Cooper challenge)
-  - [ ] Morning: Introduce Cooper challenge - give students the logic - Raoul (9:30am)
-  - [ ] Afternoon: Overview of Rails APIs only application - Thomas (1:30pm)
+
+  Senior coach: Raoul
+  Junior coach: Magnus
+  
+  - [ ] Introduce Cooper challenge - give students the logic - Raoul (9:30am)
+
 - **Thursday:**
-  - [ ] Morning: RESTful APIs in Rails - Thomas (11:15am)
-  - [ ] Afternoon: How to publish to Ionic view - Faraz (1:30pm)
+
+  Senior coach: Raoul/Thomas
+  Junior coach: Faraz
+  
+  - [ ] How to publish to Ionic view - Faraz (9:30am)
+  - [ ] Afternoon: RESTful APIs in Rails - Thomas (2:00pm)
+
 - **Friday:**
-  - [ ] Cover more angular/JS/TS concepts (Observables, Promises, etc...)
-  - [ ] Tech interview training - All coaches - Twitter Challenge
+
+  Senior coach: Raoul
+  Junior coach: Magnus
+  
+  - [ ] Tech interview training - All coaches https://github.com/CraftAcademyLabs/coach-guides/blob/curriculum-2.0/miscellaneous/assessments/week_7_assessment.md
