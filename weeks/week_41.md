@@ -47,23 +47,26 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 
 ### Guide
 - **Monday:**
-  - [ ] Morning: Introduce Rails - Thomas
+    - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC, config). - Faraz
+
     - Basic application structure
     - Rails doctrine, etc...
     - Boilerplate (https://github.com/CraftAcademy/boilerplate)
   - [ ] Morning: Introduce the Acceptance-Unit Test Cycle in Rails (Slow Food) - Thomas
   - [ ] Students work on AUT Exercise
 - **Tuesday:**
+  - [ ] Morning: Params, sanitation - Thomas
   - [ ] Morning: Introduce Slowfood Challenge - Thomas
   - [ ] Morning: Do a basic overview of a Design Sprint. - Faraz
-  - [ ] Afternoon: Rails params hash [Use this as reference](https://www.youtube.com/watch?v=y57OnWV6dRE) - Faraz
   - [ ] Afternoon: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Raoul
 - **Wednesday:**
+  - [ ] Morning: Rails demo: Advanced Routing (plus resources, nested routes, associations) (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge)- Raoul
   - [ ] Morning: Rails demo: Active Record (migrations, associations, CRUD functions) - Raoul
-  - [ ] Afternoon: Rails demo: routing (plus resources) [Slides](https://docs.google.com/presentation/d/1Eu_x1eO9Zkmkb1RyflUONTipOjnDUtfUmSabO8-jyoQ) - Faraz
+
 - **Thursday:**
-  - [ ] Afternoon: Introduce Heroku, walkthrough of how to deploy [For Reference](https://devcenter.heroku.com/articles/getting-started-with-ruby)- Magnus
+    - [ ] Talk about the midcourse project - Thomas
+
 - **Friday:**
   - [ ] Introduce the Weekend Challenge - Faraz
   - [ ] AUT demo using Sails - Oliver
-  - [ ] Retro - All coaches
+  - [ ] Tech interview training - All coaches
