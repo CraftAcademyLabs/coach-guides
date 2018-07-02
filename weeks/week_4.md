@@ -52,24 +52,24 @@ Extending the basic Rails application that you created at the beginning  of the 
 
 ### Guide
 - **Monday:**
-  - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC, config). - Faraz
+  - [ ] Morning: Introduce Rails - Thomas
   - [ ] Introduce the Acceptance-Unit Test Cycle in Rails (intro to Articles challenge, Factorybot, Fixtures) - Thomas
-  - [ ] Morning: Check the submissions of the AUT code on GitHub - All Coaches
-  - [ ] Morning: Introduce the Legacy Code Challenge - Faraz
+  - [ ] Introduce to web architecture (MVC) - Thomas
 
-- **Tuesday:** (Bank Holiday 1st May)
+- **Tuesday:** 
+  - [ ] Morning: Check the submissions of the AUT code on GitHub - All Coaches
+  - [ ] Morning: Introduce the Legacy Code Challenge - Thomas
 
 - **Wednesday:**
-  - [ ] Morning: Params, sanitation - Raoul
-  - [ ] Morning: Rails demo: Advanced Routing (plus resources, nested routes, associations) (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge)- Raoul
-  - [ ] Afternoon: In depth Rails demo: Most common helpers (focus on forms) - Thomas
-      - https://m.patrikonrails.com/rails-5-1s-form-with-vs-old-form-helpers-3a5f72a8c78a?gi=c7e478d9361b
+  - [ ] Morning: The concept of the params hash [Use this as reference](https://www.youtube.com/watch?v=y57OnWV6dRE) - Thomas
+  - [ ] Afternoon: Introduce Heroku, walkthrough of how to deploy [For Reference](https://devcenter.heroku.com/articles/getting-started-with-ruby)- Thomas
+
 - **Thursday:**
-  - [ ] Morning: Validations in Rails and instance methods - Raoul
-  - [ ] Talk about the midcourse project - Thomas
+  - [ ] Morning: Validations in Rails and instance methods - Thomas
+  - [ ] Afternoon: In depth Rails demo: Most common helpers (focus on forms) - Thomas
+      - https://m.patrikonrails.com/rails-5-1s-form-with-vs-old-form-helpers-3a5f72a8c78a?gi=c7e478d9361b      
 - **Friday:**
+  - [ ] Afternoon: Rails demo: routing (plus resources) [Slides](https://docs.google.com/presentation/d/1Eu_x1eO9Zkmkb1RyflUONTipOjnDUtfUmSabO8-jyoQ) - Thomas
   - [ ] Introduce the Weekend Challenge - Thomas 
-  - [ ] Tech interview training - All coaches
-  https://github.com/CraftAcademyLabs/coach-guides/blob/curriculum-2.0/miscellaneous/assessments/week_5_assessment.md
-  
+  - [ ] Retro - All coaches  
   
