@@ -48,17 +48,18 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 ### Guide
 - **Monday:**
     - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC, config). - Faraz
-
-    - Basic application structure
-    - Rails doctrine, etc...
+        - Basic application structure
+        - Rails doctrine, etc...
     - Boilerplate (https://github.com/CraftAcademy/boilerplate)
   - [ ] Morning: Introduce the Acceptance-Unit Test Cycle in Rails (Slow Food) - Thomas
   - [ ] Students work on AUT Exercise
+  
 - **Tuesday:**
   - [ ] Morning: Params, sanitation - Thomas
   - [ ] Morning: Introduce Slowfood Challenge - Thomas
   - [ ] Morning: Do a basic overview of a Design Sprint. - Faraz
   - [ ] Afternoon: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Raoul
+  
 - **Wednesday:**
   - [ ] Morning: Rails demo: Advanced Routing (plus resources, nested routes, associations) (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge)- Raoul
   - [ ] Morning: Rails demo: Active Record (migrations, associations, CRUD functions) - Raoul
