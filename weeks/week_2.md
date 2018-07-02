@@ -2,50 +2,58 @@
 ### Introduction to this week
 
 #### Swedish
-**Introduktion till JavaScript**
-
-Vi forsätter med att introducera ytterligare ett programmeringsspråk med tillhörande testverktyg - JavaScript och Jasmine. Samtidigt går vi igenom grunderna i HTML och CSS och bygger en applikation som räknar ut din Body Mass Index (BMI challenge) och publicerar vår första app på internet.
+**Mera JavaScript**
+Under vecka 2 fortsätter vi att utveckla dina JavaScript, HTML och CSS färdigheter. Tillsammans, bygger vi en adressbok applikation med rik funktionalitet och utforskar grundläggande metoder för datalagring. Vi fortsätter att jobba med testdriven utveckling och introducerar Behavior Driven Design (BDD). Under tiden vi jobban med vår adressbok, går även igonom grundläggande HTML och CSS. Du får även en första inblick i hur man publicerar applikationer på internet. Även denna vecka för du som student en helgutmaning att jobba med.
 
 #### English
-**Introduction to JavaScript**
+**More to JavaScript**
 
-We introduce another programming language and associated testing framework - JavaScript and Jasmine. We also go through the basics of HTML and CSS and build an application that calculates your Body Mass Index (BMI Challenge) and deploy our first app on the Internet. Once again, you will have a Weekend Challenge to complete.
+This week, we continue to build your JavaScript, HTML and CSS skills. Together we'll build an Address Book application with rich functionality and look into simple strategies for storing and persisting information. We'll also continue our journey into Test Driven Development and introduce you to Behavior Driven Design (BDD). We also go through the basics of HTML and CSS as we build this week's challenge. You will also get to deploy your first app on the Internet. Once again, you will have a Weekend Challenge to complete.
 
 ### Week Lab
-BMI-challenge
+Address Book-challenge
 
 ### Learning objectives
 * Learn about...
+  - Advanced Javascript concepts and ES6+ Features
+  - Asynchronous Programming with Javascript
+  - DOM manipulation using vanilla Javascript APIs
+  - Persisting data using LocalStorage
+  - Unit testing in JS using Mocha and Chai
+  - Introduction to BDD using Cucumber
   - practice Pair Programming && collaboration using Git and GitHub
-  - Basic understanding of JavaScript
-  - Introduction to JQuery and DOM manipulation
-  - Jasmine testing framework & comparison to RSpec
+  - Deploying a static site to the web
   - Observe differences and similarities between Ruby and Javascript
   - Understand difference between running code on the server vs. in the browser
 
-### Head coach: Raoul!!!!!
 ### Weekend challenge
-Cooper Challenge - Logic
-Extra challenge  - FizzBuzz Js Challenge - Please include in Edx
+Library Challenge - Logic
 
 ### Learning objectives
 - Practice JS skills with more advanced logic
 
+### Head Coach 
+Faraz
+
+### Support and extra resource
+Thomas
+
 ### Guide
 - **Monday:**
-  - [ ] Morning: Javascript recap with focus on ES6 - Raoul & Magnus
+  - [ ] Morning: Javascript recap with focus on ES6 - Faraz
     - basics: most common datatypes, how functions structured, "classes", declaring and using variables, conditionals, loops
     - work in remote pairs on the js exercises
-  - [ ] Afternoon: Introduce the week lab - Faraz & Magnus
+  - [ ] Afternoon: Asynchronous Programing with JS (Promises) - Faraz
 - **Tuesday:**
-  - [ ] Morning: CCCC Demo in pure js - Raoul & Magnus - [Source code](https://gist.github.com/tochman/f2a3822fcd8483cd4fe3dcaff3e4f847)
-  - [ ] Afternoon: Debugging with chrome console - [Recording]()
+  - [ ] Morning: Introduce the week lab (Address Book) do a demo where we scaffold the project - Faraz
+  - [ ] Afternoon: More Address boook demo (Debugging with Chrome) - Faraz
 - **Wednesday:**
-  - [ ] Morning: Introduction to Agile methodologies XP and Scrum - Thomas
-  - [ ] Afternoon: Individually review pull requests from Ruby weekend challenge and code so far on BMI challenge (all coaches) 
+  - [ ] Morning: More Address boook demo - Faraz
+  - [ ] Afternoon: Introduction to Agile methodologies XP and Scrum - Thomas
+  - [ ] Afternoon: Individually review pull requests from Ruby weekend challenge (Library Challenge, BMI Challenge and Address Book Challenge)  (all coaches) 
 - **Thursday:**
   - [ ] Morning: Whoever we didn't have time to get to with reviews on Thursday
-  - [ ] Afternoon: Demo: Add some styling to BMI app using a front-end CSS framework [introduce the idea of frameworks but focus on Bootstrap]- Faraz & Magnus
-- **Friday:**
-  - [ ] Morning: Introduce the Weekend Challenge - Thomas 
-  - [ ] Afternoon: Retrospective - Faraz, Hanna
+  - [ ] Afternoon: Demo: Add some styling to BMI app using a a front-end CSS framework []- Faraz
+  - [ ] Afternoon: Introduce the Weekend Challenge [FizzBuzz Js Challenge ](../miscellaneous/assessments/week_2_assessment.md) (All coaches) Note: We want to use the Training Wheels package (https://www.npmjs.com/package/e2e_training_wheels)
+  - [ ] Retrospective - Old format - Sophie
+- **Friday: (Midsommarafton)** 
