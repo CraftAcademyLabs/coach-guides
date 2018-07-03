@@ -13,18 +13,19 @@ You must develop a solid grasp of programming fundamentals before the course beg
 
 ## Overview of the PrepCourse 
 
-#### Week 1
+#### Chapter 1
 The Terminal, Development Environment, Version Control
-#### Week 2
+#### Chapter 2
 Introduction to Ruby
-#### Week 3
-Testing with Rspec
-#### Week 4
-JavaScript, JQuery and Wrap-up
-
+#### Chapter 3
+Introduction to JavaScript
+#### Chapter 4
+TDD with Rspec
+#### Chapter 5
+BMI Challenge in JavaScript
 ### Labs
 - Your first website
-- Basic Git
+- Git Pong
 - FizzBuzz & RSpec
 
 ### Learning objectives
