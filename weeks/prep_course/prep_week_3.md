@@ -1,17 +1,19 @@
 ## Chapter 3
 
-### Testing with RSpec
-This week, we'll learn how to use testing to keep our code concise, structured and adaptable. 
+### Introduction to JavaScript
+This week, we pick up a second programming language: Javascript.
 
 ### Learning objectives
-* Learn the benefits with TDD
-* Learn the fundamentals of RSpec
-* Learn the difference between unit and acceptance tests
-* Learn how to unit test 
+* Practice pair programming & collaboration using Git and GitHub
+* Basic understanding of JavaScript
+* Introduction to JQuery and DOM manipulation
+* Observe differences and similarities between Ruby and Javascript
+* Understand the difference between running code on the server vs. in the browser
 
 ### Demos
-* Monday - Our first unit tests with RSpec - Sophie
-* Thursday - FizzBuzz demo - Thomas
+* Monday - FizzBuzz with Javascript
+* Thursday - 
 
 ### Resources
+Course material 
 
