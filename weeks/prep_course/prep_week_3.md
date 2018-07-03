@@ -1,4 +1,4 @@
-## Week 3
+## Chapter 3
 
 ### Testing with RSpec
 This week, we'll learn how to use testing to keep our code concise, structured and adaptable. 
@@ -14,4 +14,4 @@ This week, we'll learn how to use testing to keep our code concise, structured a
 * Thursday - FizzBuzz demo - Thomas
 
 ### Resources
-Chapter 4
+
