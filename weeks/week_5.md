@@ -43,31 +43,31 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   - CSS frameworks
   - CDN's vs Gems vs Manually including the CSS framework code (repetition)
 
-### Head Coach: Thomas
+### Head Coach: Faraz
 
 ### Guide
 - **Monday:**
     - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC, config). - Faraz
         - Basic application structure
         - Rails doctrine, etc...
-    - Boilerplate (https://github.com/CraftAcademy/boilerplate)
-  - [ ] Morning: Introduce the Acceptance-Unit Test Cycle in Rails (Slow Food) - Thomas
-  - [ ] Students work on AUT Exercise
+    - Point to set up rails guide in course documentation
+  - [ ] Morning: Do a Overview of a Design Sprint. - Faraz
+  - [ ] Students work on design sprint
   
 - **Tuesday:**
-  - [ ] Morning: Params, sanitation - Thomas
-  - [ ] Morning: Introduce Slowfood Challenge - Thomas
-  - [ ] Morning: Do a basic overview of a Design Sprint. - Faraz
-  - [ ] Afternoon: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Raoul
+  - [ ] Morning: (Send out Gorails) Intro to Params - Faraz
+  - [ ] Morning: Introduce Slowfood Challenge - Faraz
+  - [ ] Afternoon: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Faraz
+    - Send out slides before
   
 - **Wednesday:**
-  - [ ] Morning: Rails demo: Advanced Routing (plus resources, nested routes, associations) (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge)- Raoul
-  - [ ] Morning: Rails demo: Active Record (migrations, associations, CRUD functions) - Raoul
+  - [ ] Morning: Rails demo: Advanced Routing (plus resources, nested routes, associations) (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge)- Faraz
+  - [ ] Morning: Rails demo: Active Record (migrations, associations, CRUD functions) - Faraz
 
 - **Thursday:**
-    - [ ] Talk about the midcourse project - Thomas
+    - [ ] Talk about the midcourse project - Faraz
+    - [ ] AUT demo using Sails - Oliver
 
 - **Friday:**
-  - [ ] Introduce the Weekend Challenge - Faraz
-  - [ ] AUT demo using Sails - Oliver
-  - [ ] Tech interview training - All coaches
+  - [ ] Introduce the Weekend Challenge (Styling) - Faraz
+  - [ ] Tech interview training AUT - Faraz & Oliver
