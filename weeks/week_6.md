@@ -26,35 +26,38 @@ Put all of the skills you have picked up to use in a group project.
 ### Guide
 
 ### Head Coach : Thomas
-#### 
+#### First line: Magnus
 
 
 - **Monday:** 
   Senior coach: Thomas 
-  Junior coach: Faraz
+  Junior coach: Magnus
   - [ ] Introduce the week lab - Thomas
-  - [ ] Design sprint led by team coach - Faraz & Oliver (NOT Thomas)
-  - [ ] In depth Rails demo: Authentication & Authorization (Devise + Pundit) - Thomas
-  - [ ] Mobsession CI - Raoul
-  
+  - [ ] Design sprint led by team coach - Magnus
+  - [ ] Morning: How to consume an API both in Rails and JS - Thomas (StarWars API)
+
 - **Tuesday:**
   Senior coach: Thomas 
-  Junior coach: Magnus (Faraz on backup)
-  - [ ] Morning: How to consume an API - Raoul/Thomas (StarWars API)
-  - [ ] Afternoon: How to get paid (Stripe) - Thomas
+  Junior coach: Magnus
+  - [ ] In depth Rails demo: Authentication & Authorization (Devise + Pundit) - Thomas
+  - [ ] Mobsession CI - Magnus
   
 - **Wednesday:**
 Senior coach: Thomas
-Junior coach: Oliver
+Junior coach: Magnus
   ~~- [ ] Geocoder + Google Maps - Thomas~~ Moved to week 8 or 9
   - [ ] OAuth demo (facebook) - Thomas
-- **Thursday:** Bank holiday
+
+- **Thursday:**
+Senior coach: Thomas
+Junior coach: Magnus
+ - [ ] Software Craftmanship - Thomas
+ - [ ] Afternoon: How to get paid (Stripe) - Thomas
 
 - **Friday:**
-
 Senior coach: Thomas
-Junior coach: Faraz
-  - [ ] Project Retro and UX/function review  (give feedback for the weekend) - All Coaches
+Junior coach: Magnus
+ - [ ] Project Retro and UX/function review  (give feedback for the weekend) - All Coaches
   
   ### Resources
   * [Devise Introduction](https://youtu.be/BBKiHPotInA)
