@@ -30,44 +30,45 @@ In Week 7 we deepen your knowledge of Javascript by introducing Angular, a web f
 ### Learning objectives
 * See main Learning objectives
 
-### Head Coach: Raoul
+### Head Coach: Magnus 
 
 ### Guide
 - **Monday:** (Angular)
 
-  Senior coach: Raoul
-  Junior coach: Magnus
+  Senior coach: Magnus
+  Junior coach: Faraz & Oliver
   
-  - [ ] Project Retro - Thomas (9:30am)
-  - [ ] Getting to know Angular - Raoul + Magnus (11:00pm)
-  - [ ] Intro to Typescript (TS vs JS) - Raoul - _Raoul: Review recording of this and publish for students_
-  - [ ] Cover more angular/TS concepts (Observables, Using Services)
+  - [ ] Project Retro - Thomas (9:30am, max 30 min)
+  - [ ] Getting to know Angular & Intro to Typescript & Introduce the Heros guide - Magnus (10:30pm)
+  
 
 - **Tuesday:** (Angular w/ Ionic)
-
-  Senior coach: Raoul
-  Junior coach: Faraz
   
-  - [ ] Introduce Ionic & BMI mobile - Raoul (9:20am)
+  Senior coach: Magnus
+  Junior coach: Faraz & Oliver
+  
+  - [ ] Recap of Heros guide (9:30) 
+  - [ ] Introduce Ionic & BMI mobile - Magnus (11:30am)(Give them lot of support on setting up Ionic) 
 
 - **Wednesday:** (Start Cooper challenge)
-
-  Senior coach: Raoul
-  Junior coach: Magnus
   
-  - [ ] Introduce Cooper challenge - give students the logic - Raoul (9:30am)
+  Senior coach: Magnus
+  Junior coach: Faraz & Oliver
+  
+  - [ ] Introduce Cooper challenge - give students the logic - Magnus (9:30am)
+  - [ ] Setting up Ionic testing environment - Magnus (1:30pm)
 
 - **Thursday:**
 
-  Senior coach: Raoul/Thomas
-  Junior coach: Faraz
+  Senior coach: Magnus
+  Junior coach: Faraz & Oliver
   
-  - [ ] How to publish to Ionic view - Faraz (9:30am)
+  - [ ] How to publish to Ionic view - Faraz (9:30am)(Can we publish the app directly from XCode to the IOS device) 
   - [ ] Afternoon: RESTful APIs in Rails - Thomas (2:00pm)
 
 - **Friday:**
 
-  Senior coach: Raoul
-  Junior coach: Magnus
+  Senior coach: Magnus
+  Junior coach: Faraz & Oliver
   
   - [ ] Tech interview training - All coaches https://github.com/CraftAcademyLabs/coach-guides/blob/curriculum-2.0/miscellaneous/assessments/week_7_assessment.md
