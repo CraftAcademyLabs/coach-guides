@@ -41,14 +41,13 @@ No challenge - just work on the News Room Challenge
 Firstline: Faraz
   - [ ] Morning: Introduction to News Room Challenge - Thomas (Create slides)
   - [ ] Morning: Students start design sprint - Recap of the Design Sprint and intro to Epics (introduce prioritization and voting) - Faraz 
-  - [ ] Afternoon: OAuth with Facebook - Thomas Slides + Coding demo (Create slides)
 
   
 - **Tuesday:**
 Firstline: Magnus
   - [ ] Design sprint day 2 (1 team) - Support coach and Head coach
-  - [ ] Morning: Agile Methodologies Intro - Thomas (Agile Mindset slides) 
-  - [ ] Afternoon: Product owner intro (Recorded video for students to watch) - Recording
+  - [ ] Morning: Agile Methodologies Intro - Thomas (Agile Mindset slides) **?? Sophie will investigate what order we do this in**
+  - [ ] Afternoon: Product owner intro (Recorded video for students to watch) - Recording **Link??**
   - [ ] Afternoon: Workshop on story prioritization and voting - Thomas + Faraz
 
   
@@ -71,7 +70,7 @@ Firstline: Faraz
 
 ### Week 9
 - **Monday:**
-  - [ ] Morning: Intro to Scrum & XP - Thomas (slides demo)
+  - [ ] Morning: Intro to Scrum & XP - Thomas (slides demo) **?? Sophie will investigate what order we do this in**
   - [ ] Afternoon: Practice Sprint Review - Facilitated by Faraz + All Coaches (Ship some code)
 
 - **Tuesday:**
