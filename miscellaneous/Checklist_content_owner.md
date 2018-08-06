@@ -12,6 +12,7 @@
 - Go through recordings of demos that you want to share with the students.
 - Prepare your own demos and try to make them more concise. 
 - Don't forget to check extra material, weekend challenge, SALPs (open assesment) etc. 
+- Schedule all Demos and other meets in the google calendar. 
 
 ### During the week
 - Take lots of notes - write down problems with the course material, reflections from student, other coaches etc.
