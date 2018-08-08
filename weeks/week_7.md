@@ -70,5 +70,7 @@ In Week 7 we deepen your knowledge of Javascript by introducing Angular, a web f
 
   Senior coach: Magnus
   Junior coach: Faraz & Oliver
+  - [ ] [Introduce the weekend challenge](https://class.craftacademy.co/courses/course-v1:CraftAcademy+CA-CC-01+2018/courseware/96bf29b196214229a1f5b420c670ac7f/71f526bca64d410abab417bd304e68f6/?activate_block_id=block-v1%3ACraftAcademy%2BCA-CC-01%2B2018%2Btype%40sequential%2Bblock%4071f526bca64d410abab417bd304e68f6) - Magnus (09:30)
+
   
   - [ ] Tech interview training - All coaches https://github.com/CraftAcademyLabs/coach-guides/blob/curriculum-2.0/miscellaneous/assessments/week_7_assessment.md
