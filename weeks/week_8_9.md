@@ -93,6 +93,8 @@ Firstline: Magnus
  
 
 ### Week 10
+Headcoach: Thomas
+Firstline: Magnus
 Remember juniors are starting this week
 Extending News Room with API and Mobile Client
 - **Monday:**
