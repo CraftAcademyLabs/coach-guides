@@ -28,6 +28,8 @@ So the first week is all about giving the students their first time experience i
   - Understand the three data layers and how to use a simple "database": a YAML file
 
 ### Guide
+HeadCoach: Faraz
+Firstline: Sophie
 - **Monday:**
 We start at 9.30
   - [ ] First-day logistics: bricka, tour of the building, who-is-who and their availability - Thomas (Gothenburg), Faraz (Stockholm)
