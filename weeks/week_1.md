@@ -29,34 +29,34 @@ So the first week is all about giving the students their first time experience i
 
 ### Guide
 - **Monday:**
+We start at 9.30
   - [ ] First-day logistics: bricka, tour of the building, who-is-who and their availability - Thomas (Gothenburg), Faraz (Stockholm)
   - [ ] Overview lecture on Craft Academy, etc. - Thomas
-  - [ ] Team presentations - Magnus, Faraz, Thomas, Hanna
+  - [ ] Team presentations - Magnus, Faraz, Thomas, Sophie and seniors
   - [ ] Get-to-know-you intro "game" - Faraz
+  - [ ] Learning strategies - Faraz (sophie & thomas buys pizzas)
   - [ ] Introduce the week lab after Day One activities by going over the materials in EdX - Faraz
-  - [ ] Learning strategies - Faraz
-  - [ ] Communication - Sophie
-  - [ ] Understanding the problem statement (Planning demo) - the ATM challenge - Thomas & Faraz
   - [ ] Programming demo - "... The should be an ATM I can use" - Faraz (Emphasize on the transition from User story to actual code)
 - **Tuesday:**
-  - [ ] Advanced Gitpong (Coding Demo) - Oliver & Magnus
+  - [ ] Understanding the problem statement (Planning demo) - the ATM challenge - Thomas & Faraz
   - [ ] Intermediate topics to testing with RSpec (Doubles, Dynamic Matchers, etc...) - Thomas 
-  - [ ] Basic programming recap - Raoul (see week 1 assessment for topics to cover) _Look for recordings_
-  - [ ] Git & GitHub talk and demo - pull requests, forking, cloning, etc. - Faraz [Recording + Feedback session]
+  - [ ] Basic programming recap - Recording 
+  - [ ] Git & GitHub talk and demo - pull requests, forking, cloning, etc. - Faraz [Recording]
 - **Wednesday:**
+  - [ ] Communication - Sophie
   - [ ] "Cash is King" demo - iterating over arrays - Thomas [Recording](https://youtu.be/8Rm0YrVicIc)
-  - [ ] Debugging demo - both in code and spec tests - Raoul [Recording] _Look up the link to the recording_
+  - [ ] Debugging demo - both in code and spec tests - Faraz [Recording] _Look up the link to the recording_
 - **Thursday:**
-  - [ ] The right way to search the internet for information (using the docs, Stack Overflow) - Raoul (Discussion - How are they doing it now... Give our suggestions)
+  - [ ] The right way to search the internet for information (using the docs, Stack Overflow) - Faraz (Discussion - How are they doing it now... Give our suggestions)
 - **Friday:**
-  - [ ] Introduce the Weekend Challenge by going over the materials in EdX (Same pairs) - Thomas
-  - [ ] Do a programming demo with focus on - Thomas
+  - [ ] Introduce the Weekend Challenge by going over the materials in EdX (Same pairs) - Faraz
+  - [ ] Do a programming demo with focus on - Faraz
     - reading from and writing to a YAML file
     - searching a hash using `select` and `detect` methods
-  - [ ] Afternoon: [Individual Technical Interview Training](../miscellaneous/assessments/week_1_assessment.md)
+  - [ ] Afternoon: [Individual Technical Interview Training](../miscellaneous/assessments/week_1_assessment.md) - All coaches
 
 ### Day One Things
 - Notebooks and pens for all participants (I'd like to do a really nice thing with printed pages but for now, just a notebook with a sticker on it is good.)
-- Buy lunch for them
+- Buy lunch for them Pizzaz
 - Introduce the entire team. If you don't want to be available at all hours of the day, give them hours of your availability.
-- As much as possible, have logistics already set up: cohort and Atlantis rooms clean and ready to work in, monitors and cables ready, headphones, brickar for the students. (Faraz Book F5 Rooms - Stockholm)
+- As much as possible, have logistics already set up: cohort and Atlantis rooms clean and ready to work in, monitors and cables ready, headphones, brickar for the students. (Sophie has booked room - Stockholm)
