@@ -30,8 +30,6 @@ No challenge - just work on the News Room Challenge
 
 ### Head Coach: Thomas
 ### Supporting Coaches: Faraz and Magnus
-### Resources: Raoul (Dev Ops & CI & CD), Oliver (Sails demo) 
-
 
 
 ## Guide
@@ -40,22 +38,20 @@ No challenge - just work on the News Room Challenge
 - **Monday:**
 Firstline: Faraz
   - [ ] Morning: Introduction to News Room Challenge - Thomas (Create slides)
-  - [ ] Morning: Students start design sprint - Recap of the Design Sprint and intro to Epics (introduce prioritization and voting) - Faraz 
-
-  
+  - [ ] Morning: Students start design sprint - Recap of the Design Sprint and intro to Epics (introduce prioritization and voting, tasks = AC) - Faraz 
+   
 - **Tuesday:**
 Firstline: Magnus
-  - [ ] Design sprint day 2 (1 team) - Support coach and Head coach
+  - [ ] Design sprint day 2 (1 team)
   - [ ] Morning: Agile Methodologies Intro - Thomas (Agile Mindset slides) **?? Sophie will investigate what order we do this in**
-  - [ ] Afternoon: Product owner intro (Recorded video for students to watch) - Recording **Link??**
+  - [ ] Afternoon: Product owner intro (Recorded video for students to watch) - Recording 
   - [ ] Afternoon: Workshop on story prioritization and voting - Thomas + Faraz
 
-  
 - **Wednesday:**
 Firstline: Faraz
-  - [ ] Design sprint day 3 (1 team) - Support coach and Head coach
-  - [ ] Morning: Workshop on [Scrum](http://www.scrumguides.org/) to student (Quiz? on Edx?) - Thomas
-  - [ ] Afternoon: Teams present their project plans (PT, lo-fi's)
+  - [ ] Design sprint day 3 
+  - [ ] Morning: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz on EdX) - Thomas
+  - [ ] Afternoon: Teams present their project plans (PT, lo-fi's) - All coaches
   
 - **Thursday:**
 Firstline: Magnus
@@ -70,27 +66,34 @@ Firstline: Faraz
 
 ### Week 9
 - **Monday:**
+Firstline: Magnus
   - [ ] Morning: Intro to Scrum & XP - Thomas (slides demo) **?? Sophie will investigate what order we do this in**
-  - [ ] Afternoon: Practice Sprint Review - Facilitated by Faraz + All Coaches (Ship some code)
+  - [ ] Afternoon: Practice Sprint Review - Facilitated by Faraz + All Coaches (Ship some code, Simulation CEO and CTO )
 
 - **Tuesday:**
+Firstline: Faraz
   - [ ] Implementing Stripe with custom forms - Thomas and Faraz (mobsession - coding)
 
 - **Wednesday:**
+Firstline: Magnus
+  - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers, Presenters?) - Thomas (slides + coding demo)
   - [ ] ~~Morning: The Shuffle!~~ Hide in Edx
   - [ ] ~~Teams onboard new members - No coach support~~
+  - [ ] Going Mobile (Mobile news reader) - Thomas
 
 - **Thursday:**
-  - [ ] Morning: File attachements (Active Storage) - Thomas (mobsession - coding)
-  - [ ] Afternoon: File attachements using Cloud storage (AWS S3, Use Encrypted Credentials Rails 5.2) - Thomas (mobsession - coding)
+Firstline: Faraz
+  - [ ] Morning: File attachements (Active Storage) - Thomas (mobsession - coding(Students need to code with coach))
+  - [ ] Afternoon: File attachements using Cloud storage (AWS S3, Use Encrypted Credentials Rails 5.2) - Thomas (mobsession - coding(Students need to code with coach))
 
 - **Friday:**
-  - [ ] Morning: Software Craftsmanship talk - Thomas? (slides demo)
-  - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers, Presenters?) - Thomas (slides + coding demo)
-  - [ ] Assessment - [Setting up a project](../miscellaneous/assessments/assessment_6.md)
+Firstline: Magnus
+  - [ ] Morning: Software Craftsmanship talk - Thomas? (slides demo) **?? Sophie will investigate what order we do this in**
+  - [ ] Assessment - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md)
  
 
 ### Week 10
+Remember juniors are starting this week
 Extending News Room with API and Mobile Client
 - **Monday:**
   - [ ] Morning: Sprint Review for each team
