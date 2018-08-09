@@ -43,7 +43,7 @@ Firstline: Faraz
 - **Tuesday:**
 Firstline: Magnus
   - [ ] Design sprint day 2 (1 team)
-  - [ ] Morning: Agile Methodologies Intro - Thomas (Agile Mindset slides) **?? Sophie will investigate what order we do this in**
+  - [ ] Morning: Agile Methodologies Intro - Thomas (Agile Mindset slides) **Crafting an MVP slides on drive/Agile**
   - [ ] Afternoon: Product owner intro (Recorded video for students to watch) - Recording 
   - [ ] Afternoon: Workshop on story prioritization and voting - Thomas + Faraz
 
@@ -67,7 +67,7 @@ Firstline: Faraz
 ### Week 9
 - **Monday:**
 Firstline: Magnus
-  - [ ] Morning: Intro to Scrum & XP - Thomas (slides demo) **?? Sophie will investigate what order we do this in**
+  ~~- [ ] Morning: Intro to Scrum & XP - Thomas (slides demo)~~ **This cohort already had this talk**
   - [ ] Afternoon: Practice Sprint Review - Facilitated by Faraz + All Coaches (Ship some code, Simulation CEO and CTO )
 
 - **Tuesday:**
@@ -88,7 +88,7 @@ Firstline: Faraz
 
 - **Friday:**
 Firstline: Magnus
-  - [ ] Morning: Software Craftsmanship talk - Thomas? (slides demo) **?? Sophie will investigate what order we do this in**
+  - [ ] Morning: Software Craftsmanship talk - Thomas? (slides demo) **Slides available on drive/ Agile**
   - [ ] Assessment - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md)
  
 
