@@ -68,7 +68,7 @@ Firstline: Faraz
 - **Monday:**
 Firstline: Magnus
   ~~- [ ] Morning: Intro to Scrum & XP - Thomas (slides demo)~~ **This cohort already had this talk**
-  - [ ] Afternoon: Practice Sprint Review - Facilitated by Faraz + All Coaches (Ship some code, Simulation CEO and CTO )
+  - [ ] Afternoon: Practice Sprint Review - Facilitated by Faraz + All Coaches (Ship some code, Simulation (Faraz CEO and Thomas CTO)
 
 - **Tuesday:**
 Firstline: Faraz
@@ -79,7 +79,7 @@ Firstline: Magnus
   - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers, Presenters?) - Thomas (slides + coding demo)
   - [ ] ~~Morning: The Shuffle!~~ Hide in Edx
   - [ ] ~~Teams onboard new members - No coach support~~
-  - [ ] Going Mobile (Mobile news reader) - Thomas
+  - [ ] Going Mobile (Mobile news reader, introduce them to the changed requirements) - Thomas
 
 - **Thursday:**
 Firstline: Faraz
@@ -89,32 +89,29 @@ Firstline: Faraz
 - **Friday:**
 Firstline: Magnus
   - [ ] Morning: Software Craftsmanship talk - Thomas? (slides demo) **Slides available on drive/ Agile**
-  - [ ] Assessment - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md)
+  https://docs.google.com/presentation/d/1lo8EFDeQr6kCayHWYtAsPYhm3ONkjRirJW2_U504wrY/edit
+  - [ ] Tech interview training - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md)
  
 
 ### Week 10
-Headcoach: Thomas
-Firstline: Magnus
 Remember juniors are starting this week
+
 Extending News Room with API and Mobile Client
 - **Monday:**
   - [ ] Morning: Sprint Review for each team
-  - [ ] User Authentication using tokens (theory and Devise Token Auth as example) Extending an existing device with tokens - Raoul - RECORDING - Upload slides on edX
-  - [ ] Afternoon Demo: Setup Devise Token auth on an existing Rails app with Devise already present - Thomas (slides + coding demo)
-    * Thomas will look at writing a guide
-
+  - [ ] User Authentication using tokens (theory and Devise Token Auth as example) Extending an existing device with tokens - Oliver 
+  - [ ] Afternoon Demo: Setup Devise Token auth on an existing Rails app with Devise already present - Oliver (slides + coding demo)
+  
 - **Tuesday:**
-  - [ ] Morning: Active Model Serializers and JSON:API Standard - Thomas and Faraz (slides + coding demo)
+  - [ ] Morning: In depth Active Model Serializers usage - Thomas and Faraz (slides + coding demo)
   - [ ] Google Maps on Mobile (Ionic native plugin) - Faraz (slides + coding demo)
-  - [ ] Afternoon: DevOps with Raoul (Rolle) - Part 1 (Set-up droplet, add db, add Passenger, etc)
+  - [ ] Afternoon: DevOps with Magnus - Part 1 (Set-up droplet, add db, add Passenger, etc)
   
 - **Wednesday:**
-  Bank holiday in Sweden (national day)
-  
+   - [ ] Morning: DevOps with Magnus - Part 2 ansible
   
 - **Thursday:**
-  - [ ] Morning: DevOps with Raoul (Rolle) - Part 2 (if needed) (ansible??)
-  - [ ] Afternoon: OAuth Demo on mobile (FB/Google+) - Oliver/Thomas (mobsession - coding)
+  - [ ] Afternoon: OAuth Demo on mobile (FB) - Oliver (mobsession - coding)
 
 - **Friday:**
   - [ ] Retro - All coaches
