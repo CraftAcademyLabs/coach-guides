@@ -34,9 +34,9 @@ Firstline: Sophie
 We start at 9.30
   - [ ] First-day logistics: bricka, tour of the building, who-is-who and their availability - Thomas (Gothenburg), Faraz (Stockholm)
   - [ ] Overview lecture on Craft Academy, etc. - Thomas
-  - [ ] Team presentations - Magnus, Faraz, Thomas, Sophie and seniors
+  - [ ] Team presentations - Magnus, Faraz, Thomas, Sophie, Oliver and seniors
   - [ ] Get-to-know-you intro "game" - Faraz
-  - [ ] Learning strategies - Faraz (sophie & thomas buys pizzas)
+  - [ ] Communication (Faraz & Thomas buys pizzas)
   - [ ] Introduce the week lab after Day One activities by going over the materials in EdX - Faraz
   - [ ] Programming demo - "... The should be an ATM I can use" - Faraz (Emphasize on the transition from User story to actual code)
 - **Tuesday:**
@@ -45,7 +45,7 @@ We start at 9.30
   - [ ] Basic programming recap - Recording 
   - [ ] Git & GitHub talk and demo - pull requests, forking, cloning, etc. - Faraz [Recording]
 - **Wednesday:**
-  - [ ] Communication - Sophie
+  - [ ] Learning strategies - Faraz
   - [ ] "Cash is King" demo - iterating over arrays - Thomas [Recording](https://youtu.be/8Rm0YrVicIc)
   - [ ] Debugging demo - both in code and spec tests - Faraz [Recording] _Look up the link to the recording_
 - **Thursday:**
@@ -61,4 +61,4 @@ We start at 9.30
 - Notebooks and pens for all participants (I'd like to do a really nice thing with printed pages but for now, just a notebook with a sticker on it is good.)
 - Buy lunch for them Pizzaz
 - Introduce the entire team. If you don't want to be available at all hours of the day, give them hours of your availability.
-- As much as possible, have logistics already set up: cohort and Atlantis rooms clean and ready to work in, monitors and cables ready, headphones, brickar for the students. (Sophie has booked room - Stockholm)
+- As much as possible, have logistics already set up: cohort and Atlantis rooms clean and ready to work in, monitors and cables ready, headphones, brickor for the students. (Sophie has booked The Room - Stockholm)
