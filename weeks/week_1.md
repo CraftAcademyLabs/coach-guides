@@ -34,22 +34,22 @@ Firstline: Sophie
 We start at 9.30
   - [ ] First-day logistics: bricka, tour of the building, who-is-who and their availability - Thomas (Gothenburg), Faraz (Stockholm)
   - [ ] Overview lecture on Craft Academy, etc. - Thomas
-  - [ ] Team presentations - Magnus, Faraz, Thomas, Sophie, Oliver and seniors
-  - [ ] Get-to-know-you intro "game" - Faraz
+  - [ ] Get-to-know-you intro "game" - Faraz & all coaches & seniors 
+  - [ ] Presentations - everyone 
   - [ ] Communication (Faraz & Thomas buys pizzas)
   - [ ] Introduce the week lab after Day One activities by going over the materials in EdX - Faraz
   - [ ] Programming demo - "... The should be an ATM I can use" - Faraz (Emphasize on the transition from User story to actual code)
 - **Tuesday:**
   - [ ] Understanding the problem statement (Planning demo) - the ATM challenge - Thomas & Faraz
-  - [ ] Intermediate topics to testing with RSpec (Doubles, Dynamic Matchers, etc...) - Thomas 
-  - [ ] Basic programming recap - Recording 
-  - [ ] Git & GitHub talk and demo - pull requests, forking, cloning, etc. - Faraz [Recording]
+  - [ ] Intermediate topics to testing with RSpec (Doubles, Dynamic Matchers, etc...) - Faraz 
+  - [ ] Basic programming recap - Recording **Do this one live?** Sophie or Faraz
+  - [ ] Git & GitHub talk and demo - pull requests, forking, cloning, etc. - Faraz [Recording]or live
 - **Wednesday:**
   - [ ] Learning strategies - Faraz
-  - [ ] "Cash is King" demo - iterating over arrays - Thomas [Recording](https://youtu.be/8Rm0YrVicIc)
+  - [ ] "Cash is King" demo - iterating over arrays - Magnus [Recording](https://youtu.be/8Rm0YrVicIc)
   - [ ] Debugging demo - both in code and spec tests - Faraz [Recording] _Look up the link to the recording_
 - **Thursday:**
-  - [ ] The right way to search the internet for information (using the docs, Stack Overflow) - Faraz (Discussion - How are they doing it now... Give our suggestions)
+  - [ ] The right way to search the internet for information (using the docs, Stack Overflow, research) - Faraz (Discussion - How are they doing it now... Give our suggestions)
 - **Friday:**
   - [ ] Introduce the Weekend Challenge by going over the materials in EdX (Same pairs) - Faraz
   - [ ] Do a programming demo with focus on - Faraz
