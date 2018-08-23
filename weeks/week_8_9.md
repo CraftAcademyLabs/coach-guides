@@ -98,12 +98,12 @@ Remember juniors are starting this week
 
 Extending News Room with API and Mobile Client
 - **Monday:**
-  - [ ] Morning: Sprint Review for each team
   - [ ] User Authentication using tokens (theory and Devise Token Auth as example) Extending an existing device with tokens - Oliver 
+  - [ ] Afternoon: Sprint Review for each team - Thomas & Magnus 
   - [ ] Afternoon Demo: Setup Devise Token auth on an existing Rails app with Devise already present - Oliver (slides + coding demo)
   
 - **Tuesday:**
-  - [ ] Morning: In depth Active Model Serializers usage - Thomas and Faraz (slides + coding demo)
+  - [ ] Morning: In depth Active Model Serializers usage - Thomas (slides + coding demo)
   - [ ] Google Maps on Mobile (Ionic native plugin) - Faraz (slides + coding demo)
   - [ ] Afternoon: DevOps with Magnus - Part 1 (Set-up droplet, add db, add Passenger, etc)
   
@@ -114,5 +114,6 @@ Extending News Room with API and Mobile Client
   - [ ] Afternoon: OAuth Demo on mobile (FB) - Oliver (mobsession - coding)
 
 - **Friday:**
+  - [ ] Pepp talk before Final Project - All coaches
   - [ ] Retro - All coaches
 
