@@ -27,7 +27,7 @@ Address Book-challenge
   - Understand difference between running code on the server vs. in the browser
 
 ### Weekend challenge
-Library Challenge - Logic
+FizzBuzz js
 
 ### Learning objectives
 - Practice JS skills with more advanced logic
@@ -52,7 +52,7 @@ Thomas
   - [ ] Afternoon: Overview on Agile methodologies - Thomas
   - [ ] Afternoon: Individually review pull requests from Ruby weekend challenge (Library Challenge, BMI Challenge and Address Book Challenge)  (all coaches) 
 - **Thursday:**
-  - [ ] Morning: Demo: Add some styling to BMI app using a a front-end CSS framework- Oliver
+  - [ ] Morning: Demo: Add some styling to Adress book app using a a front-end CSS framework- Oliver(show them with cdn for CSS and js)
   - [ ] Afternoon: Introduce the Weekend Challenge [FizzBuzz Js Challenge ](../miscellaneous/assessments/week_2_assessment.md) (All coaches) Note: We want to use the Training Wheels package (https://www.npmjs.com/package/e2e_training_wheels)
 - **Friday:**
   - [ ] Retrospective - Old format - Sophie
