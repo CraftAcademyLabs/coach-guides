@@ -54,6 +54,7 @@ Magnus
   - [ ] Afternoon: CodeWars Hour - Faraz
 - **Wednesday:**
   - [ ] Morning: Deploying a Middleman site on Netlify - Faraz
+  - [ ] Vanilla JS vs jQuery - Thomas (based on http://youmightnotneedjquery.com/)
   - [ ] Afternoon: CodeWars Hour - Faraz
 - **Thursday:**
   - [ ] Afternoon: Software Craftsmanship - Thomas
