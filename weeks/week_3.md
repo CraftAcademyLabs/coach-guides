@@ -4,12 +4,12 @@
 #### Swedish
 **Statiska siter och programmeringstekniker**
 
-Under den här veckan bygger vi en personlig site (Portfolio Challenge) med ramverket Middleman. Vi introducerar även [HAML](http://haml.info/) - en HTML markup som underlättar skapandet och underhållet av HTML kod. Vi introducerar mer avancerade JavaScript-baserade ramverk (jQuery) och CSS ramverk (Foundation, Bootstrap) och visat hur vi kan förbättra användarupplevelsen i våra applikationer.
+Under den här veckan bygger vi en personlig site (Portfolio Challenge) med ramverket Middleman. Vi introducerar även [HAML](http://haml.info/) - en HTML markup som underlättar skapandet och underhållet av HTML kod. Vi jobbar mer med JavaScript och CSS ramverk (Tailwind) och visat hur vi kan förbättra användarupplevelsen i våra applikationer.
 
 #### English
 **Static sites and programming techniques**
 
-During Week 3, you'll build your own portfolio site using a static website framework called Middleman. We go in-depth with HTML, learn a markup language called [HAML](http://haml.info/), introduce the Javascript framework JQuery and style portfolios with a CSS framework. At the end of the week, you'll have a professional portfolio site, which you will fill with the projects you complete over the rest of the course.
+During Week 3, you'll build your own portfolio site using a static website framework called Middleman. We go in-depth with HTML, learn a markup language called [HAML](http://haml.info/), work more with JavaScript and style portfolios with a CSS framework (Tailwind). At the end of the week, you'll have a professional portfolio site, which you will fill with the projects you complete over the rest of the course.
 
 ### Week Lab
 Middleman challenge
@@ -32,11 +32,15 @@ b) introduce a new level of complexity when working with templates
 Add a CV page to your portfolio using a YAML file. (Also, wrap up the Library challenge and work on any other outstanding challenges.)
 
 ### Learning objectives
-* Using templates
+* Solidify Middleman skills.
+* Catch-up on Ruby and RSpec
+
+### Head Coach
+Magnus
 
 ### Guide
 - **Monday:**
-  - [ ] Morning: Introduce the week lab - Thomas
+  - [ ] Morning: Introduce the week lab - Magnus
     - Middleman: structure
     - Example sites
     - How to use partials
@@ -49,11 +53,11 @@ Add a CV page to your portfolio using a YAML file. (Also, wrap up the Library ch
   - [ ] Morning: Introduction to SASS and tips for use - Magnus (Coding + Slides)
   - [ ] Afternoon: CodeWars Hour - Faraz
 - **Wednesday:**
-  - [ ] Morning: Deploying with Middleman [Introduce Netlify]- Faraz
+  - [ ] Morning: Deploying a Middleman site on Netlify - Faraz
   - [ ] Afternoon: CodeWars Hour - Faraz
 - **Thursday:**
   - [ ] Afternoon: Software Craftsmanship - Thomas
   - [ ] Afternoon: CodeWars Hour - Faraz
 - **Friday:**
-  - [ ] Morning: Introduce weekend challenge briefly with examples (Add CV). - Faraz
-  - [ ] Afternoon: Tech interview training - fizzbuzz js
+  - [ ] Morning: Introduce weekend challenge briefly with examples (Add CV). - Magnus
+  - [ ] Afternoon: Tech interview training - Rock Paper Scissors - theory
