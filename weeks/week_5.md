@@ -43,7 +43,8 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   - CSS frameworks
   - CDN's vs Gems vs Manually including the CSS framework code (repetition)
 
-### Head Coach: Faraz
+### Head Coach: Thomas
+### Support coach: Faraz & Magnus
 
 ### Guide
 - **Monday:**
