@@ -1,5 +1,7 @@
 # Rock - Paper - Scissors
 
+**Note: This is a simulation of a work interview. Please act accordingly.**
+
 In order to assess your coding skills, we want you to accept an programming challenge as part of the hiring process. Your challenge is to build a Rock, Paper, Scissors game. 
 
 ![](./assets/rock_paper_scissors.png)
