@@ -4,7 +4,7 @@
 
 In order to assess your coding skills, we want you to accept an programming challenge as part of the hiring process. Your challenge is to build a Rock, Paper, Scissors game. 
 
-![](./assets/rock_paper_scissors.png)
+![](https://github.com/CraftAcademyLabs/coach-guides/raw/master/miscellaneous/assessments/assets/rock_paper_scissors.png)
 
 Rules are well known to everyone, but in case you don't remember, they are as follows:
 
