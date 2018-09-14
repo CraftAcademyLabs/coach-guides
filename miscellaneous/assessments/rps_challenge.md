@@ -28,7 +28,7 @@ Rock vs Scissors-> Rock wins
 Paper vs Scissor-> Scissor wins
 ```
 
-This is a two part challenge that will span over 14 days. There are no right or wrong answers or deliveries. It is totally up to you HOW you want to work, what programming language you want to use, if you want to deliver game logic only or if you want to build a web based interface where a player is challenge by the computer or where two players can play against eachother. 
+This is a two part challenge that will span over 14 days. There are no right or wrong answers or deliveries. It is totally up to you HOW you want to work, what programming language you want to use, if you want to deliver game logic only or if you want to build a web based interface where a player is challenge by the computer or where two players can play against each other. 
 
 
 ####  What do we expect from you is:
