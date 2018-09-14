@@ -1,3 +1,17 @@
+---
+title: "Rock - Paper - Scissors Challenge"
+author: [Craft Academy]
+date: Version 1 - 2018
+subject: "Career Training"
+keywords: [Ruby, JavaScript, Web based applications, Example, Learn To Code]
+subtitle: "Career Training"
+titlepage: true
+titlepage-color: f28e24
+titlepage-text-color: "FFFFFF"
+titlepage-rule-color: "FFFFFF"
+titlepage-rule-height: 2
+...
+
 # Rock - Paper - Scissors
 
 **Note: This is a simulation of a work interview. Please act accordingly.**
