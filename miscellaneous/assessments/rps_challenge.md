@@ -38,7 +38,7 @@ This is a two part challenge that will span over 14 days. There are no right or 
 
 2. Sometime during the period between the two inteviews we would need you to deliver the code to us. How would you do that? 
 
-3. During the second inteview, we would need you to talk us through the problem, what challeges did you encounter, how did you go about to write the implementation, what are the main features you think make your game interesting and how can it be expanded upon in the next iteration. We also want you to demo the code and show us how the game works. 
+3. During the second inteview, we would need you to talk us through the problem, what challenges did you encounter, how did you go about to write the implementation, what are the main features you think make your game interesting and how can it be expanded upon in the next iteration. We also want you to demo the code and show us how the game works. 
 
 This is a challenge that will show us your level of ambition and your ability to execute your plans. It's a solo project and you are not supposed to collaborate with any other students other than for benchmarking purposes. Talk, discuss, get inspired but write your own code. 
 
