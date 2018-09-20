@@ -25,15 +25,16 @@ This is a group challenge and the students are supposed to work as a team.
     - models
     - relation between models
     - concept of `params` (See: https://www.youtube.com/watch?v=y57OnWV6dRE)
-* Learn about User Authentication using Warden
+* Learn more about User Authentication
 * Learn about the hardships that will occur if we can't read documentation for libraries we use in our projects (gems).
-* Basics of Test- and Behavior Driven Development or Acceptance - Unit Test cycle.
+* Learn more about Test- and Behavior Driven Development or Acceptance - Unit Test cycle.
 * Really embrace and understand the benefits of Pair Programming && collaboration using Git and GitHub
 * Learn about deployment to Heroku and the benefits of services like Heroku, DigitalOcean and AWS
 
 ### Weekend challenge
 SlowFood (Rails) (User Interface/UX) - Note: group challenge
 The weekend is devoted to focus on the User experience of the app. Here we start looking at the styling. We want them to notice that the planning they did in the initial stage was not detailed enough and that they missed to focus on the user.
+
 ### Learning objectives
 * All of the above
 * Also learn about:
@@ -48,27 +49,26 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 
 ### Guide
 - **Monday:**
-    - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC, config). - Faraz
-        - Basic application structure
-        - Rails doctrine, etc...
+  - [ ] Morning: Introduce Slowfood Challenge - Faraz
     - Point to set up rails guide in course documentation
   - [ ] Morning: Do a Overview of a Design Sprint. - Faraz
   - [ ] Students work on design sprint
   
 - **Tuesday:**
-  - [ ] Morning: (Send out Gorails) Intro to Params - Faraz
-  - [ ] Morning: Introduce Slowfood Challenge - Faraz
+  - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC, config). - Faraz
+        - Basic application structure
+        - Rails doctrine, etc...
   - [ ] Afternoon: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Faraz
     - Send out slides before
   
 - **Wednesday:**
-  - [ ] Morning: Rails demo: Advanced Routing (plus resources, nested routes, associations) (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge)- Faraz
-  - [ ] Morning: Rails demo: Active Record (migrations, associations, CRUD functions) - Faraz
+  - [ ] Morning: Rails demo: Advanced Routing (plus resources, nested routes, associations) (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge)- Thomas
+  - [ ] Afternoon: Rails demo: Active Record (migrations, associations, CRUD functions) - Magnus
 
 - **Thursday:**
-    - [ ] Talk about the midcourse project - Faraz
-    - [ ] AUT demo using Sails - Oliver
+    - [ ] Morning: Talk about the midcourse project - Thomas
+    - [ ] Afternoon: AUT demo using Sails - Oliver
 
 - **Friday:**
-  - [ ] Introduce the Weekend Challenge (Styling) - Faraz
-  - [ ] Tech interview training AUT - Faraz & Oliver
+  - [ ] Morning: Introduce the Weekend Challenge (Styling) - Faraz
+  - [ ] Afternoon: Tech interview training AUT - Second part of the RPS Challenge (Dry run Thomas/Rupert before everyone else gets started) 
