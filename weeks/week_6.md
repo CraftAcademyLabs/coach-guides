@@ -48,6 +48,7 @@ Mob Discussion sessions will be held every other day.
 - **Thursday:**
  - [ ] Morning: How to get paid (Stripe)  Part 1 - Thomas
  - [ ] Afternoon: How to get paid (Stripe) Part 2 - Thomas
+ - [ ] Introduction to Angular - Adress Book Challenge - Magnus (see week 7)
 
 - **Friday:**
  - [ ] Project Retro and UX/function review  (give feedback for the weekend) - All Coaches
