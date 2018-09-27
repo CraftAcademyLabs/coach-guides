@@ -12,7 +12,7 @@ Den här veckan fördjupar vi deltagarnas kunskaper inom JavaScript genom att in
 In Week 7 we deepen your knowledge of Javascript by introducing Angular, a web framework for front-end development, and Ionic, a framework that enables programmers to write for mobile devices, without having to work with native iOS or Android languages. At the end of the week, you will have deployed two applications to online servers that can be viewed on your mobile device.
 
 ### Week Lab
-* Hello World in Angular
+* Address Book in Angular - moved to week 6
 * Mobile BMI Challenge in Ionic
 * Cooper test challenge in Ionic and Ruby on Rails
 
@@ -31,45 +31,31 @@ In Week 7 we deepen your knowledge of Javascript by introducing Angular, a web f
 * See main Learning objectives
 
 ### Head Coach: Magnus 
+### Assistant coaches: Faraz, Oliver
+Let's be strict with the support protocol AND who is giving support. Communicate who is in charge in morning scrum AND on Slack.
+
+Mob Discussion sessions will be held every other day.
+
+Add a session on how to run a Ionic app on a Mobile Device - connect the phone to localhost and push. Faraz: iOS, Magnus: Android
 
 ### Guide
-- **Monday:** (Angular)
+- **Monday:** (Angular w/ Ionic)  
+  - [ ] Morning: Project Retro (Mid course project) - Thomas (9:30am, max 30 min)
+  - [ ] Morning: Recap of Address book Challenge
+  - [ ] Afternoon: Introduce Ionic & BMI mobile - Magnus (11:30am)(Give them lot of support on setting up Ionic) 
 
-  Senior coach: Magnus
-  Junior coach: Faraz & Oliver
-  
-  - [ ] Project Retro - Thomas (9:30am, max 30 min)
-  - [ ] Getting to know Angular & Intro to Typescript & Introduce the Heros guide - Magnus (10:30pm)
-  
+- **Tuesday:** (Start Cooper challenge) 
+  - [ ] Morning: Recap of BMI mobile (9:30) 
+  - [ ] Morning: Setting up Ionic testing environment - Magnus (10:30pm)
+  - [ ] Afternoon: Introduce Cooper challenge - give students the logic - Magnus (9:30am)
 
-- **Tuesday:** (Angular w/ Ionic)
-  
-  Senior coach: Magnus
-  Junior coach: Faraz & Oliver
-  
-  - [ ] Recap of Heros guide (9:30) 
-  - [ ] Introduce Ionic & BMI mobile - Magnus (11:30am)(Give them lot of support on setting up Ionic) 
-
-- **Wednesday:** (Start Cooper challenge)
-  
-  Senior coach: Magnus
-  Junior coach: Faraz & Oliver
-  
-  - [ ] Introduce Cooper challenge - give students the logic - Magnus (9:30am)
-  - [ ] Setting up Ionic testing environment - Magnus (1:30pm)
-
-- **Thursday:**
-
-  Senior coach: Magnus
-  Junior coach: Faraz & Oliver
-  
-  - [ ] How to publish to Ionic view - Faraz (9:30am)(Can we publish the app directly from XCode to the IOS device) 
+- **Wednesday:**  
   - [ ] Afternoon: RESTful APIs in Rails - Thomas (2:00pm)
 
-- **Friday:**
+- **Thursday:**  
+  - [ ] Afternoon: How to publish to Ionic view - Faraz (9:30am)(Can we publish the app directly from XCode to the IOS device?) 
 
-  Senior coach: Magnus
-  Junior coach: Faraz & Oliver
+- **Friday:**
   - [ ] [Introduce the weekend challenge](https://class.craftacademy.co/courses/course-v1:CraftAcademy+CA-CC-01+2018/courseware/96bf29b196214229a1f5b420c670ac7f/71f526bca64d410abab417bd304e68f6/?activate_block_id=block-v1%3ACraftAcademy%2BCA-CC-01%2B2018%2Btype%40sequential%2Bblock%4071f526bca64d410abab417bd304e68f6) - Magnus (09:30)
 
   
