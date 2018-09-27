@@ -26,37 +26,30 @@ Put all of the skills you have picked up to use in a group project.
 ### Guide
 
 ### Head Coach : Thomas
-#### First line: Magnus
+#### First line: Magnus and Faraz
+Let's be strict with the support protocol AND who is giving support. Communicate who is in charge in morning scrum AND on Slack.
+
+Mob Discussion sessions will be held every other day.
 
 
 - **Monday:** 
-  Senior coach: Thomas 
-  Junior coach: Magnus
   - [ ] Introduce the week lab - Thomas
-  - [ ] Design sprint led by team coach - Magnus
-  - [ ] Morning: How to consume an API both in Rails and JS - Thomas (StarWars API)
+  - [ ] Design sprint led by team coach - ??
+  - [ ] Afternoon: How to consume an API both in Rails and JS - Thomas (StarWars API)
 
 - **Tuesday:**
-  Senior coach: Thomas 
-  Junior coach: Magnus
-  - [ ] In depth Rails demo: Authentication & Authorization (Devise + Pundit) - Thomas
-  - [ ] Mobsession CI - Magnus
+  - [ ] Morning: In depth Rails demo: Authentication & Authorization (Devise + Pundit) - Thomas
+  - [ ] Afternoon: Mobsession CI (Semaphore, mention Travis and CircleCI) - Magnus
   
 - **Wednesday:**
-Senior coach: Thomas
-Junior coach: Magnus
-  ~~- [ ] Geocoder + Google Maps - Thomas~~ Moved to week 8 or 9
-  - [ ] OAuth demo (facebook) - Thomas
+  - [ ] OAuth demo (Facebook - very basic OAuth for web apps) - Oliver
+  - [ ] Advanced associations with ActiveRecord - Magnus
 
 - **Thursday:**
-Senior coach: Thomas
-Junior coach: Magnus
- - [ ] Software Craftmanship - Thomas
- - [ ] Afternoon: How to get paid (Stripe) - Thomas
+ - [ ] Morning: How to get paid (Stripe)  Part 1 - Thomas
+ - [ ] Afternoon: How to get paid (Stripe) Part 2 - Thomas
 
 - **Friday:**
-Senior coach: Thomas
-Junior coach: Magnus
  - [ ] Project Retro and UX/function review  (give feedback for the weekend) - All Coaches
   
   ### Resources
