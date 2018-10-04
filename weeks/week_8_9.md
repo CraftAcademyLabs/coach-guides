@@ -9,20 +9,20 @@ Allt handlar om att plocka på sig erfarenhet och kompetens (som vi definierar k
 #### English
 **Advanced Rails, APIs and Agile development methods**
 
-These weeks strengthen and deepen your competence and experience with a large project that tests the knowledge you have gained thus far. During these three weeks, you'll build a complex and detailed application, based on the prototype you develop in Week Three. This time, you will add multiple layers of complexity, and work in Rails as News Room becomes a marketplace with several user types. We will practice Agile workflow, pushing you to work efficiently. At the end of these weeks, you will have a large, complicated, and impressive project to add to your portfolio.
-## Week Lab
+These weeks strengthen and deepen your competence and experience with a large project that tests the knowledge you have gained thus far. During these three weeks, you'll build a complex and detailed application, based on the prototype you develop in Week Four. This time, you will add multiple layers of complexity, and work in Rails as News Room becomes a fully featured news and editorial platform with several user types and roles. We will practice Agile workflow, pushing you to work efficiently. At the end of these weeks, you will have a large, complicated, and impressive project to add to your portfolio.
 
-News Room challenge
+## Week Lab
+News Room Challenge
 
 ## Learning objectives
 
 - Build a system
 - Practice project collaboration - planning, organizing ideas and tasks, capturing requirements 
-(- Onboarding new team members, joining a new team)
+- Onboarding new team members, joining a new team
 - Learn more about Agile practices (Scrum + XP - Software Craftsmanship)
 - Practice more on CI & CD, Devops (set up a VPS with DB, application server - Digital Ocean)
 - Practice Cloud Storage - Active Storage in Rails
-- Alternatives to Rails & Active Record - Sails (Node based framework) & Waterline 
+(- Alternatives to Rails & Active Record - Sails (Node based framework) & Waterline - Thomas and Oliver will discuss this)
 
 ## Weekend challenge
 
