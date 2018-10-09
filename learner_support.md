@@ -1,4 +1,4 @@
-## WIP Learner Support Policy
+## Learner Support Policy
 
 ### Introduction
 This policy aims to provide the coaching staff of Craft Academy with a detailed guide on how we give support to learners attending our courses. 
@@ -68,3 +68,9 @@ Try -> Research -> Fellow students -> First line support -> Second line support
 * Go through Unit tests
 * Comment on the tests before moving on 
 * Go through the implemented code and leave comments and push the students in the right direction rather than solving the problem.
+
+**Office Hours Support flow:**
+* Open up a single hangout that anyone can join and post the link in #general on Slack. 
+* Encourage them to create an issue on CraftOverflow 
+* Questions should be posted in their camp channel or in their group channels on Slack. No private messages, no joining students' private Hangouts. 
+* Office hours are for tech support only. 
