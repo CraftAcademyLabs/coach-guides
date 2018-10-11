@@ -9,7 +9,7 @@ Allt handlar om att plocka på sig erfarenhet och kompetens (som vi definierar k
 #### English
 **Advanced Rails, APIs and Agile development methods**
 
-These weeks strengthen and deepen your competence and experience with a large project that tests the knowledge you have gained thus far. During these three weeks, you'll build a complex and detailed application, based on the prototype you develop in Week Four. This time, you will add multiple layers of complexity, and work in Rails as News Room becomes a fully featured news and editorial platform with several user types and roles. We will practice Agile workflow, pushing you to work efficiently. At the end of these weeks, you will have a large, complicated, and impressive project to add to your portfolio.
+Welcome to the News Room Challenge. These weeks strengthen and deepen your competence and experience with a large project that tests the knowledge you have gained thus far. During these three weeks, you'll build a complex and detailed application. This time, you will add multiple layers of complexity, and work in Rails as News Room becomes a fully featured news and editorial platform with several user types and roles. We will practice Agile workflow, pushing you to work efficiently. At the end of these weeks, you will have a large, complex, and impressive project to add to your portfolio.
 
 ## Week Lab
 News Room Challenge
@@ -36,38 +36,35 @@ No challenge - just work on the News Room Challenge
 
 ### Week 8
 - **Monday:**
-Firstline: Faraz
   - [ ] Morning: Introduction to News Room Challenge - Thomas (Create slides)
-  - [ ] Morning: Students start design sprint - Recap of the Design Sprint and intro to Epics (introduce prioritization and voting, tasks = AC) - Faraz 
+  - [ ] Morning: Students start the Design Sprint - Recap of the Design Sprint and intro to Epics (introduce prioritization and voting, tasks = AC) - Faraz (Tell them about including lo-fi/mock up in PT but also to the PR once they have worked on it) 
    
 - **Tuesday:**
-Firstline: Magnus
   - [ ] Design sprint day 2 (1 team)
   - [ ] Morning: Agile Methodologies Intro - Thomas (Agile Mindset slides) **Crafting an MVP slides on drive/Agile**
   - [ ] Afternoon: Product owner intro (Recorded video for students to watch) - Recording 
   - [ ] Afternoon: Workshop on story prioritization and voting - Thomas + Faraz
+  
+  - [ ] Early Birds finishes their design Sprint and present their project plans (PT, lo-fi's and Mock Up's)
 
 - **Wednesday:**
-Firstline: Faraz
   - [ ] Design sprint day 3 
-  - [ ] Morning: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz on EdX) - Thomas
-  - [ ] Afternoon: Teams present their project plans (PT, lo-fi's) - All coaches
+  - [ ] Morning: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz on CaX) - Thomas
+  - [ ] Afternoon: Teams present their project plans (PT, lo-fi's and Mock Up's) - All coaches
   
 - **Thursday:**
-Firstline: Magnus
-  - [ ] Morning: Multiple OAuth providers - Thomas  Code review demo
+  - [ ] Morning: Multiple OAuth providers - Oliver - Code review demo
   - [ ] Afternoon: Internationalization (i18n) - Faraz [Part 1](https://youtu.be/eBwjN5drg-Q) | [Part 2](https://youtu.be/0Nen6z0cIbo)
 
 - **Friday:**
-Firstline: Faraz
-  - [ ] Morning: Geocoding + GMaps - Thomas Resource: [https://youtu.be/DJ7SCFwMPho](https://youtu.be/DJ7SCFwMPho)
-    Introduce local based events (crimes from Brottsplatskartan API?) (mobsession - coding)
+  - [ ] Morning: Geocoding - determine what edition the user is served - Thomas Resource: [https://youtu.be/DJ7SCFwMPho](https://youtu.be/DJ7SCFwMPho)
   - [ ] Student retro
 
 ### Week 9
 - **Monday:**
 Firstline: Magnus
   ~~- [ ] Morning: Intro to Scrum & XP - Thomas (slides demo)~~ **This cohort already had this talk**
+  - [ ] Morning: Introduce local based events (crimes from Brottsplatskartan API?) (mobsession - coding) - Thomas
   - [ ] Afternoon: Practice Sprint Review - Facilitated by Faraz + All Coaches (Ship some code, Simulation (Faraz CEO and Thomas CTO)
 
 - **Tuesday:**
