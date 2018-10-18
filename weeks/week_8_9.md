@@ -69,24 +69,27 @@ Firstline: Magnus
 
 - **Tuesday:**
 Firstline: Faraz
-  - [ ] Implementing Stripe with custom forms - Thomas and Faraz (mobsession - coding)
+  - [ ] Morning: File attachements (Active Storage) - Thomas (mobsession - coding(Students need to code with coach))
+  - [ ] Afternoon: File attachements using Cloud storage (AWS S3, Use Encrypted Credentials Rails 5.2) - Thomas (mobsession - coding(Students need to code with coach))
 
 - **Wednesday:**
 Firstline: Magnus
+  - [ ] Implementing Stripe with custom forms - Thomas and Faraz (mobsession - coding)
+
+- **Thursday:**
+Firstline: Faraz
   - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers, Presenters?) - Thomas (slides + coding demo)
+  
   - [ ] ~~Morning: The Shuffle!~~ Hide in Edx
   - [ ] ~~Teams onboard new members - No coach support~~
   - [ ] Going Mobile (Mobile news reader, introduce them to the changed requirements) - Thomas
 
-- **Thursday:**
-Firstline: Faraz
-  - [ ] Morning: File attachements (Active Storage) - Thomas (mobsession - coding(Students need to code with coach))
-  - [ ] Afternoon: File attachements using Cloud storage (AWS S3, Use Encrypted Credentials Rails 5.2) - Thomas (mobsession - coding(Students need to code with coach))
 
 - **Friday:**
 Firstline: Magnus
-  - [ ] Morning: Software Craftsmanship talk - Thomas? (slides demo) **Slides available on drive/ Agile**
-  https://docs.google.com/presentation/d/1lo8EFDeQr6kCayHWYtAsPYhm3ONkjRirJW2_U504wrY/edit
+  - [ ] ~~Morning: Software Craftsmanship talk - Thomas? (slides demo) **Slides available on drive/ Agile**~~
+  ~~https://docs.google.com/presentation/d/1lo8EFDeQr6kCayHWYtAsPYhm3ONkjRirJW2_U504wrY/edit~~ ??? 
+  - [ ] Create a new Agile talk perhaps Career talk??
   - [ ] Tech interview training - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md)
  
 
@@ -95,7 +98,7 @@ Remember juniors are starting this week
 
 Extending News Room with API and Mobile Client
 - **Monday:**
-  - [ ] User Authentication using tokens (theory and Devise Token Auth as example) Extending an existing device with tokens - Oliver 
+  - [ ] Morning: User Authentication using tokens - API only - new app with RSpec.  - Oliver 
   - [ ] Afternoon: Sprint Review for each team - Thomas & Magnus 
   - [ ] Afternoon Demo: Setup Devise Token auth on an existing Rails app with Devise already present - Oliver (slides + coding demo)
   
@@ -108,7 +111,7 @@ Extending News Room with API and Mobile Client
    - [ ] Morning: DevOps with Magnus - Part 2 ansible
   
 - **Thursday:**
-  - [ ] Afternoon: OAuth Demo on mobile (FB) - Oliver (mobsession - coding)
+  - [ ] Afternoon: OAuth Demo on mobile (FB) - Oliver (mobsession - coding on backend - use the api only code you created on Monday and grab an Ionic app we have and implement OAuth)
 
 - **Friday:**
   - [ ] Pepp talk before Final Project - All coaches
