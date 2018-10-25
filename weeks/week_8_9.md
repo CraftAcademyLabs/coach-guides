@@ -94,17 +94,18 @@ Firstline: Magnus
  
 
 ### Week 10
+
 Remember juniors are starting this week
 
 Extending News Room with API and Mobile Client
 - **Monday:**
   - [ ] Morning: User Authentication using tokens - API only - new app with RSpec.  - Oliver 
-  - [ ] Afternoon: Sprint Review for each team - Thomas & Magnus 
+  - [ ] Afternoon: Sprint Review for each team - Thomas & Magnus (The teams need to calll this meeting) 
   - [ ] Afternoon Demo: Setup Devise Token auth on an existing Rails app with Devise already present - Oliver (slides + coding demo)
   
 - **Tuesday:**
   - [ ] Morning: In depth Active Model Serializers usage - Thomas (slides + coding demo)
-  - [ ] Google Maps on Mobile (Ionic native plugin) - Faraz (slides + coding demo)
+  - [ ] Google Maps on Mobile (Ionic native plugin) - Faraz (Guide + recording)
   - [ ] Afternoon: DevOps with Magnus - Part 1 (Set-up droplet, add db, add Passenger, etc)
   
 - **Wednesday:**
