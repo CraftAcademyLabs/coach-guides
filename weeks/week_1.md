@@ -40,18 +40,18 @@ We start at 9.30
   - [ ] Introduce the week lab after Day One activities by going over the materials in EdX - Faraz
   - [ ] Programming demo - "... The should be an ATM I can use" - Faraz (Emphasize on the transition from User story to actual code)
 - **Tuesday:**
-  - [ ] Understanding the problem statement (Planning demo) - the ATM challenge - Thomas & Faraz
+  - [ ] Understanding the problem statement (Planning demo) - the ATM challenge - Faraz
   - [ ] Intermediate topics to testing with RSpec (Doubles, Dynamic Matchers, etc...) - Faraz 
-  - [ ] Basic programming recap - Recording **Do this one live?** Sophie or Faraz
+  - [ ] Basic programming recap - Recording **Do this one live?** Faraz
   - [ ] Git & GitHub talk and demo - pull requests, forking, cloning, etc. - Faraz [Recording]or live
 - **Wednesday:**
   - [ ] Learning strategies - Faraz
-  - [ ] "Cash is King" demo - iterating over arrays - Magnus [Recording](https://youtu.be/8Rm0YrVicIc)
+  - [ ] "Cash is King" demo - iterating over arrays - Faraz [Recording](https://youtu.be/8Rm0YrVicIc)
   - [ ] Debugging demo - both in code and spec tests - Faraz [Recording] _Look up the link to the recording_
 - **Thursday:**
   - [ ] The right way to search the internet for information (using the docs, Stack Overflow, research) - Faraz (Discussion - How are they doing it now... Give our suggestions)
 - **Friday:**
-  - [ ] Introduce the Weekend Challenge by going over the materials in EdX (Same pairs) - Faraz
+  - [ ] Introduce the Weekend Challenge by going over the materials in CraftEd (Same pairs) - Faraz
   - [ ] Do a programming demo with focus on - Faraz
     - reading from and writing to a YAML file
     - searching a hash using `select` and `detect` methods
