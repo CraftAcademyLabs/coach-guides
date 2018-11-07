@@ -25,3 +25,7 @@ No (or limited) coding?
 Solving problems together
 
 Used at the end of the camp to trigger more discussions and collaborative problem solving.
+
+
+### 2-coaches-talk 
+Talk about various topics related to tech with two coaches that can give different insights
