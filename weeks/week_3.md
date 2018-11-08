@@ -9,7 +9,7 @@ Under den här veckan bygger vi en personlig site (Portfolio Challenge) med ramv
 #### English
 **Static sites and programming techniques**
 
-During Week 3, you'll build your own portfolio site using a static website framework called Middleman. We go in-depth with HTML, learn a markup language called [HAML](http://haml.info/), work more with JavaScript and style portfolios with a CSS framework (Tailwind). At the end of the week, you'll have a professional portfolio site, which you will fill with the projects you complete over the rest of the course.
+During Week 3, you'll build your own portfolio site using a static website framework called Middleman. We go in-depth with HTML, learn a markup language called [HAML](http://haml.info/), work more with JavaScript and style portfolios with SASS. At the end of the week, you'll have a professional portfolio site, which you will fill with the projects you complete over the rest of the course.
 
 ### Week Lab
 Middleman challenge
@@ -24,6 +24,8 @@ b) introduce a new level of complexity when working with templates
 * HAML
   - How can HAML improve your workflow
   - Write less code and avoid the html mess
+* SASS 
+  - How can SASS improve your workflow
 * Deployment
   - learn about deployment of static sites.
 
@@ -50,7 +52,7 @@ Magnus
   - [ ] Afternoon: CodeWars Hour - Faraz (Would really be good to do this everyday of this week)
 - **Tuesday:**
   - [ ] Morning: Introduction to CSS Grid - Magnus (Coding demo)
-  - [ ] Morning: Introduction to SASS and tips for use - Magnus (Coding + Slides)
+  - [ ] Afternoon: Introduction to SASS and tips for use - Magnus (Coding + Slides)
   - [ ] Afternoon: CodeWars Hour - Faraz
 - **Wednesday:**
   - [ ] Morning: Deploying a Middleman site on Netlify - Faraz
