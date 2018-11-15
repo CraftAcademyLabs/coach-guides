@@ -9,6 +9,9 @@
 7. Ask the student as a CA student why he thinks we chose this challenge
 8. Spend a few minutes in a feedback session
 
+## Development
+The student should work independently but ask coaches specific question if they are blocked. However, thie interviewer is OFF-LIMITS, unless they need to ask for clarification (non-technical questions).
+
 ## Second part - Delivery
 1. Challenge - 14 days - communication since then - follow ups
 2. How did you think this challenge went over all
