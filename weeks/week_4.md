@@ -59,20 +59,20 @@ Extending the basic Rails application that you created at the beginning  of the 
   - [ ] Introduce to web architecture (MVC) - Thomas or Faraz (make it a discussion)
 
 - **Tuesday:** 
-  - [ ] Morning: Check the submissions of the AUT code on GitHub - Sophie is in charge All Coaches
+  - [ ] Morning: Check the submissions of the AUT code on GitHub - All Coaches
   - [ ] Morning: Introduce the Legacy Code Challenge - Faraz
   - [ ] Afternoon: Mobsession making and reviewing PRs - Faraz, Magnus & Thomas
 
 - **Wednesday:**
   - [ ] Morning: The concept of the params hash [Use this as reference](https://www.youtube.com/watch?v=y57OnWV6dRE) - Faraz
-  - [ ] Afternoon: Introduce Heroku, walkthrough of how to deploy [For Reference](https://devcenter.heroku.com/articles/getting-started-with-ruby)- Magnus
+  - [ ] Afternoon: Introduce Heroku, walkthrough of how to deploy [For Reference](https://devcenter.heroku.com/articles/getting-started-with-ruby)- Magnus - Make them deploy the AUT challenge
 
 - **Thursday:**
   - [ ] Morning: Validations in Rails and instance methods - Thomas
-  - [ ] Afternoon: In depth Rails demo: Most common helpers (focus on forms) - Thomas
-      - https://m.patrikonrails.com/rails-5-1s-form-with-vs-old-form-helpers-3a5f72a8c78a?gi=c7e478d9361b      
+  ~~- [ ] Afternoon: In depth Rails demo: Most common helpers (focus on forms) - Thomas~~
+      ~~- https://m.patrikonrails.com/rails-5-1s-form-with-vs-old-form-helpers-3a5f72a8c78a?gi=c7e478d9361b~~      
 - **Friday:**
-  - [ ] Afternoon: Rails demo: routing (plus resources) [Slides](https://docs.google.com/presentation/d/1Eu_x1eO9Zkmkb1RyflUONTipOjnDUtfUmSabO8-jyoQ) - Faraz
+  - [ ] Afternoon: Rails demo: routing (plus resources) [Slides](https://docs.google.com/presentation/d/1Eu_x1eO9Zkmkb1RyflUONTipOjnDUtfUmSabO8-jyoQ) - Faraz (`--skip-routes` `--skip-views`)
   - [ ] Introduce the Weekend Challenge - Faraz 
   - [ ] Retro - All coaches  
   
