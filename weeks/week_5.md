@@ -9,7 +9,7 @@ Vi inleder denna vecka med att lägga grunden för ett onlinesystem som låter a
 #### English
 **Pair Programming and User-Oriented Development**
 
-This week we begin to lay the foundation for an online system that allows users to order food online. We introduce Ruby on Rails,  a popular and in-demand framework that allows programmers to build complex, exciting web applications, and give you your first insight into Agile practices, focusing on Behavior Driven Development. The Slow Food Challenge is also about thinking more deeply about how the pieces of an application fit together, using advanced techniques such as user registration, authentication and authorization. At the end of the week, we are ready to go live with the Slow Food Online application and we deploy our system using Heroku. To facilitate and automate our deploy process we use techniques such as Continuous Integration and Continuous Deployment.
+This week we begin to lay the foundation for an online system that allows users to order food online. We dive deeper into Ruby on Rails,  a popular and in-demand framework that allows programmers to build complex, exciting web applications, and give you your first insight into Agile practices, focusing on Behavior Driven Development. The Slow Food Challenge is also about thinking more deeply about how the pieces of an application fit together, using advanced techniques such as user registration, authentication and authorization. At the end of the week, we are ready to go live with the Slow Food Online application and we deploy our system using Heroku. To facilitate and automate our deploy process we use techniques such as Continuous Integration and Continuous Deployment.
 
 
 ### Learning objectives
@@ -51,11 +51,12 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 - **Monday:**
   - [ ] Morning: Introduce Slowfood Challenge - Faraz
     - Point to set up rails guide in course documentation
-  - [ ] Morning: Do a Overview of a Design Sprint. - Faraz
-  - [ ] Students work on design sprint
+  - [ ] Morning: Do a Overview of a Design Sprint. - Faraz & Oliver
+  - [ ] Students go through stories and create lofis
+  - [ ] Setting up Semaphore and Continious deployment - Magnus [CI and CD slides](https://docs.google.com/presentation/d/1Y0YBeRV9Da9exfEQXZFyJob0d6pbBKofPj3fjHp_yMQ/edit#slide=id.p9)
   
 - **Tuesday:**
-  - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC, config). - Faraz
+  - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC (restaurant), config). - Faraz
         - Basic application structure
         - Rails doctrine, etc...
   - [ ] Afternoon: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Faraz
@@ -67,8 +68,8 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 
 - **Thursday:**
     - [ ] Morning: Talk about the midcourse project - Thomas
-    - [ ] Afternoon: AUT demo using Sails - Oliver
+    - [ ] Afternoon: AUT demo using Sails - Oliver?
 
 - **Friday:**
   - [ ] Morning: Introduce the Weekend Challenge (Styling) - Faraz
-  - [ ] Afternoon: Tech interview training AUT - Second part of the RPS Challenge (Dry run Thomas/Rupert before everyone else gets started) 
+  - [ ] Afternoon: Tech interview training AUT - Second part of the RPS Challenge
