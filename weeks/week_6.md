@@ -22,6 +22,7 @@ Put all of the skills you have picked up to use in a group project.
 - Third-party services
 - Understand user authentication vs authorization and put that into practice
 - How to consume APIs
+- Payment gateway
 
 ### Guide
 
@@ -31,24 +32,24 @@ Let's be strict with the support protocol AND who is giving support. Communicate
 
 Mob Discussion sessions will be held every other day.
 
-
 - **Monday:** 
   - [ ] Introduce the week lab - Thomas
-  - [ ] Design sprint led by team coach - ??
+  - [ ] Design sprint led by team coach - Magnus and Faraz
   - [ ] Afternoon: How to consume an API both in Rails and JS - Thomas (StarWars API)
 
 - **Tuesday:**
   - [ ] Morning: In depth Rails demo: Authentication & Authorization (Devise + Pundit) - Thomas
-  - [ ] Afternoon: Mobsession CI (Semaphore, mention Travis and CircleCI) - Magnus
+  - [ ] Afternoon: Mobsession CI (Semaphore, mention Travis and CircleCI) - Magnus ? (already done in week 5?)
   
 - **Wednesday:**
-  - [ ] OAuth demo (Facebook - very basic OAuth for web apps) - Oliver
-  - [ ] Advanced associations with ActiveRecord - Magnus
+  - [ ] OAuth demo (Facebook - very basic OAuth for web apps) - Oliver (will use one of the teams codebase but prepare a boilerplate just in case)
+  - [ ] Advanced associations with ActiveRecord - Magnus (same slide deck as part 1)
 
 - **Thursday:**
- - [ ] Morning: How to get paid (Stripe)  Part 1 - Thomas
- - [ ] Afternoon: How to get paid (Stripe) Part 2 - Thomas
- - [ ] Introduction to Angular - Adress Book Challenge - Magnus (see week 7)
+ - [ ] Morning: How to get paid (Stripe)  Part 1 - Thomas + Faraz (prepare these talks during week 5)
+ - [ ] Afternoon: How to get paid (Stripe) Part 2 - Thomas + Faraz
+ 
+ - [ ] Introduction to Angular - Adress Book Challenge - Magnus (see week 7) ? (or use React)
 
 - **Friday:**
  - [ ] Project Retro and UX/function review  (give feedback for the weekend) - All Coaches
