@@ -27,6 +27,7 @@ BMI Challenge in JavaScript
 - Your first website
 - Git Pong
 - FizzBuzz & RSpec
+- BMI Challenge
 
 ### Learning objectives
 * Learn about...
