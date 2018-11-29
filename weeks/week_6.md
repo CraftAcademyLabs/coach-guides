@@ -5,10 +5,12 @@
 **Mid Course Project**
 
 Halvvägs genom kursen är det dags att omsätta dina kunskaper i praktik och släppa taget om coachens trygga vägledning. Det är dags för dig att tänka ut, planera för, och bygga ditt eget projekt. Syftet är självklart att konsolidera dina kunskaper och börja bygga upp en egen projektportfölj. Du jobbar i team och bestämma själva vilken kod ni ska skriva och vilka funktioner som ska utvecklas, men även fatta beslut om vilka planeringsverktyg ni vill använda och när och hur man delegerar och fördelar arbetet. Det är teamet håller i spakarna - coacherna håller ett vakande öga för att se till att alla gör framsteg och hjälper till när det behövs. Det är en stor vecka här på Craft Academy.
+
 #### English
 **Mid Course Project**
 
 Halfway through the course, it is time for you to test your knowledge and take a step away from coach-led exercises. It is time for you to dream up, plan for, and build your own project. Working in teams or groups, you will not only decide what code to write and which features to implement, but also which planning tools to utilize and when and how to delegate assignments, while we keep a watchful eye to make sure everyone is making progress. It's a big week here at Craft Academy.
+
 ### Week Lab
 Mid course project
 
@@ -27,19 +29,18 @@ Put all of the skills you have picked up to use in a group project.
 ### Guide
 
 ### Head Coach : Thomas
-#### First line: Magnus and Faraz
+#### First line: Oliver and Faraz
 Let's be strict with the support protocol AND who is giving support. Communicate who is in charge in morning scrum AND on Slack.
 
 Mob Discussion sessions will be held every other day.
 
 - **Monday:** 
-  - [ ] Introduce the week lab - Thomas
-  - [ ] Design sprint led by team coach - Magnus and Faraz
-  - [ ] Afternoon: How to consume an API both in Rails and JS - Thomas (StarWars API)
+  - [ ] Morning: Design sprint led by team coach - Oliver and Faraz
+  - [ ] Afternoon: How to consume an API's both in Rails and JS - Thomas (StarWars API - start with pure ruby, then Rails, then JS)
 
 - **Tuesday:**
-  - [ ] Morning: In depth Rails demo: Authentication & Authorization (Devise + Pundit) - Thomas
-  - [ ] Afternoon: Mobsession CI (Semaphore, mention Travis and CircleCI) - Magnus ? (already done in week 5?)
+  - [ ] Morning: In depth Rails demo: Authentication & Authorization (Devise + basic authorization using booleans) - Thomas Part 1
+  - [ ] Afternoon: In depth Rails demo: Authentication & Authorization (Pundit) - Thomas Part 2
   
 - **Wednesday:**
   - [ ] OAuth demo (Facebook - very basic OAuth for web apps) - Oliver (will use one of the teams codebase but prepare a boilerplate just in case)
@@ -49,7 +50,7 @@ Mob Discussion sessions will be held every other day.
  - [ ] Morning: How to get paid (Stripe)  Part 1 - Thomas + Faraz (prepare these talks during week 5)
  - [ ] Afternoon: How to get paid (Stripe) Part 2 - Thomas + Faraz
  
- - [ ] Introduction to Angular - Adress Book Challenge - Magnus (see week 7) ? (or use React)
+ - [ ] Introduction to Angular - Address Book Challenge - Magnus (This is just a demo - see week 7)
 
 - **Friday:**
  - [ ] Project Retro and UX/function review  (give feedback for the weekend) - All Coaches
