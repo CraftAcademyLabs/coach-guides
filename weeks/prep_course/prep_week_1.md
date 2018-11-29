@@ -14,15 +14,9 @@ We'll also set up our developer environment so we can start coding and work with
 * Building a first basic web site with HTML and CSS 
 
 ### Demos
-* Monday - File management and terminal commands demo & Developer Environment Setup 4pm 
-* Thursday - Version control (Git, GitHub & Intro to Git Pong) 4pm
+* Monday - File management and terminal commands demo  4pm - Sophie & Noel 
+* Thursday - Version control (Git, GitHub & Intro to Git Pong) 4pm - Sophie & Noel 
+
 ### Resources
 First hand we want to host our own talks but also share prerecorded sessions with the students. Watch and find inspiration. 
 
-
-Newer versions found on our Drive
-* [CLI Demo](https://youtu.be/AzQKwgMPoIA)
-* [Intro to Version Control](https://youtu.be/A0Xg4Qe4taM)
-* [GitPong Demo](https://youtu.be/eYpebIsXCKE)
-* [Git Collaboration Demo](https://youtu.be/txdN95QFG_0)
-* [Git, GitHub collaboration and version control](https://youtu.be/bDmluEcTM2A)
