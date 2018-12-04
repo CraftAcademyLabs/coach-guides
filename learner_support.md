@@ -63,6 +63,7 @@ Try -> Research -> Fellow students -> First line support -> Second line support
 * There are no tests (unless the learner specifically communicates she/he is working on a Spike) 
 
 **Support flow:**
+* Always go through the MVC and AUT patterns(when project calls for it) with the students to cement those concepts. 
 * Check story on PT or PR description (if there is a PR pending). Are the learners in scope?   
 * Go through Acceptance tests - are they in line with the story? 
 * Go through Unit tests
