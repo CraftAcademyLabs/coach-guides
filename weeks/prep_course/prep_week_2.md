@@ -24,7 +24,7 @@ learning to code. It's general purpose and flexible language can be used in web/
 * Working in the browser compared to IRB 
 
 ### Demos
-* Monday - Get to know Ruby  Slides: [Get To Know Ruby] 4pm - Thomas (http://slides.craftacademy.se/slides/get_to_know_ruby.html#1)
+* Monday - Get to know Ruby  Slides: [Get To Know Ruby] 4pm - Thomas 
 * Wednesday - Mob session Ruby exercises 4pm - Sophie 
 * Thursday - Introduction to JavaScript 4pm - Sophie
 
