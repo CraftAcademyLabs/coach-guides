@@ -36,21 +36,22 @@ No challenge - just work on the News Room Challenge
 
 ### Week 8
 - **Monday:**
-  - [ ] Morning: Introduction to News Room Challenge - Thomas (Create slides)
-  - [ ] Morning: Students start the Design Sprint - Recap of the Design Sprint and intro to Epics (introduce prioritization and voting, tasks = AC) - Faraz (Tell them about including lo-fi/mock up in PT but also to the PR once they have worked on it) 
-   
+  - [ ] Morning: Go over the check list from the Christmas break - all coaches [focus on if they finished the React portfolio] 
+  - [ ] Morning: Introduction to Cooper challenge in React - Thomas + all coaches 
+  - [ ] Afternoon: Introduction to testing? 
+
 - **Tuesday:**
-  - [ ] Design sprint day 2 (1 team)
-  - [ ] Morning: Agile Methodologies Intro - Thomas (Agile Mindset slides) **Crafting an MVP slides on drive/Agile**
-  - [ ] Afternoon: Product owner intro (Recorded video for students to watch) - Recording 
-  - [ ] Afternoon: Workshop on story prioritization and voting - Thomas + Faraz
-  
-  - [ ] Early Birds finishes their design Sprint and present their project plans (PT, lo-fi's and Mock Up's)
+  - [ ] **TBA** 
+
 
 - **Wednesday:**
-  - [ ] Design sprint day 3 
-  - [ ] Morning: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz on CaX) - Thomas
+  - [ ] Morning: Introduction to News Room Challenge - Thomas (Create slides)
+  - [ ] Morning: Students start the Design Sprint - Recap of the Design Sprint and intro to Epics (introduce prioritization and voting, tasks = AC) - Faraz (Tell them about including lo-fi/mock up in PT but also to the PR once they have worked on it) 
+  - [ ] Morning: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz on CraftEd) - Thomas
   - [ ] Afternoon: Teams present their project plans (PT, lo-fi's and Mock Up's) - All coaches
+   - [ ] Morning: Agile Methodologies Intro - Thomas (Agile Mindset slides) **Crafting an MVP slides on drive/Agile**
+  - [ ] Afternoon: Product owner intro (Recorded video for students to watch) - Recording 
+  - [ ] Afternoon: Workshop on story prioritization and voting - Thomas + Faraz
   
 - **Thursday:**
   - [ ] Morning: Multiple OAuth providers - Oliver - Code review demo
