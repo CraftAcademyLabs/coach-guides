@@ -45,20 +45,20 @@ No challenge - just work on the News Room Challenge
 
 
 - **Wednesday:**
-  - [ ] Morning: Introduction to News Room Challenge - Thomas (Create slides)
-  - [ ] Morning: Students start the Design Sprint - Recap of the Design Sprint and intro to Epics (introduce prioritization and voting, tasks = AC) - Faraz (Tell them about including lo-fi/mock up in PT but also to the PR once they have worked on it) 
   - [ ] Morning: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz on CraftEd) - Thomas
-  - [ ] Afternoon: Teams present their project plans (PT, lo-fi's and Mock Up's) - All coaches
-   - [ ] Morning: Agile Methodologies Intro - Thomas (Agile Mindset slides) **Crafting an MVP slides on drive/Agile**
-  - [ ] Afternoon: Product owner intro (Recorded video for students to watch) - Recording 
-  - [ ] Afternoon: Workshop on story prioritization and voting - Thomas + Faraz
+  - [ ] Afternoon: Introduction to News Room Challenge - Thomas (Create slides)
   
 - **Thursday:**
+  - [ ] Morning: Students start the Design Sprint - Recap of the Design Sprint and intro to Epics (introduce prioritization and voting, tasks = AC) - Faraz (Tell them about including lo-fi/mock up in PT but also to the PR once they have worked on it) 
   - [ ] Morning: Multiple OAuth providers - Oliver - Code review demo
   - [ ] Afternoon: Internationalization (i18n) - Faraz [Part 1](https://youtu.be/eBwjN5drg-Q) | [Part 2](https://youtu.be/0Nen6z0cIbo)
+  - [ ] Afternoon: Product owner intro (Recorded video for students to watch) - Recording 
+  - [ ] Afternoon: Workshop on story prioritization and voting - Thomas + Faraz
 
 - **Friday:**
   - [ ] Morning: Geocoding - determine what edition the user is served - Thomas Resource: [https://youtu.be/DJ7SCFwMPho](https://youtu.be/DJ7SCFwMPho)
+  - [ ] Morning: Teams present their project plans (PT, lo-fi's and Mock Up's) - All coaches
+  - [ ] Afternoon: Agile Methodologies Intro - Thomas (Agile Mindset slides) **Crafting an MVP slides on drive/Agile**
   - [ ] Student retro
 
 ### Week 9
