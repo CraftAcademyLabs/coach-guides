@@ -50,9 +50,9 @@ No challenge - just work on the News Room Challenge
   
 - **Thursday:**
   - [ ] Morning: Students start the Design Sprint - Recap of the Design Sprint and intro to Epics (introduce prioritization and voting, tasks = AC) - Faraz (Tell them about including lo-fi/mock up in PT but also to the PR once they have worked on it) 
+  - [ ] Morning: Product owner intro (Recorded video for students to watch) - Recording (Have them watch it during coach meeting?)
   - [ ] Morning: Multiple OAuth providers - Oliver - Code review demo
   - [ ] Afternoon: Internationalization (i18n) - Faraz [Part 1](https://youtu.be/eBwjN5drg-Q) | [Part 2](https://youtu.be/0Nen6z0cIbo)
-  - [ ] Afternoon: Product owner intro (Recorded video for students to watch) - Recording 
   - [ ] Afternoon: Workshop on story prioritization and voting - Thomas + Faraz
 
 - **Friday:**
