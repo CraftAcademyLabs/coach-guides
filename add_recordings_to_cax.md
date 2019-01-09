@@ -1,4 +1,4 @@
-Add a Recording on CaX
+Add a Recording on CraftEd
 
 1) Find the video on Google Drive
 2) Choose more actions
