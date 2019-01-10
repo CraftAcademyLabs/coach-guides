@@ -63,36 +63,26 @@ No challenge - just work on the News Room Challenge
 
 ### Week 9
 - **Monday:**
-Firstline: Magnus
   ~~- [ ] Morning: Intro to Scrum & XP - Thomas (slides demo)~~ **This cohort already had this talk**
   - [ ] Morning: Introduce local based events (crimes from Brottsplatskartan API?) (mobsession - coding) - Thomas
   - [ ] Afternoon: Practice Sprint Review - Facilitated by Faraz + All Coaches (Ship some code, Simulation (Faraz CEO and Thomas CTO)
 
 - **Tuesday:**
-Firstline: Faraz
   - [ ] Morning: File attachements (Active Storage) - Thomas (mobsession - coding(Students need to code with coach))
   - [ ] Afternoon: File attachements using Cloud storage (AWS S3, Use Encrypted Credentials Rails 5.2) - Thomas (mobsession - coding(Students need to code with coach))
 
 - **Wednesday:**
-Firstline: Magnus
-  - [ ] Implementing Stripe with custom forms - Thomas and Faraz (mobsession - coding)
+  - [ ] Implementing Stripe with stripe elements - Thomas and Faraz (mobsession - coding)
 
 - **Thursday:**
-Firstline: Faraz
-  - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers, Presenters?) - Thomas (slides + coding demo)
-  
-  - [ ] ~~Morning: The Shuffle!~~ Hide in Edx
-  - [ ] ~~Teams onboard new members - No coach support~~
-  - [ ] Going Mobile (Mobile news reader, introduce them to the changed requirements) - Thomas
-
+  - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers, Presenters?) - Thomas (slides + coding demo) Thomas will look into this. https://github.com/Netflix/fast_jsonapi
+  - [ ] Morning: The Shuffle! Hide in Edx - Faraz
+  - [ ] Teams onboard new members - No coach support
 
 - **Friday:**
-Firstline: Magnus
-  - [ ] ~~Morning: Software Craftsmanship talk - Thomas? (slides demo) **Slides available on drive/ Agile**~~
-  ~~https://docs.google.com/presentation/d/1lo8EFDeQr6kCayHWYtAsPYhm3ONkjRirJW2_U504wrY/edit~~ ??? 
-  - [ ] Create a new Agile talk perhaps Career talk??
-  - [ ] Tech interview training - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md)
- 
+  - [ ] Morning: Software Craftsmanship talk - Thomas? (slides demo) **Slides available on drive/ Agile**
+  https://docs.google.com/presentation/d/1lo8EFDeQr6kCayHWYtAsPYhm3ONkjRirJW2_U504wrY/edit port slide deck to new style. 
+  - [ ] Tech interview training - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md) 
 
 ### Week 10
 
