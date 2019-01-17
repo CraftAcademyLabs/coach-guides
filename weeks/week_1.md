@@ -29,26 +29,29 @@ So the first week is all about giving the students their first time experience i
 
 ### Guide
 HeadCoach: Faraz
-Firstline: Sophie
+Firstline: Noel
 - **Monday:**
-We start at 9.30
+We start at 9.00
   - [ ] First-day logistics: bricka, tour of the building, who-is-who and their availability - Thomas (Gothenburg), Faraz (Stockholm)
   - [ ] Overview lecture on Craft Academy, etc. - Thomas
-  - [ ] Get-to-know-you intro "game" - Faraz & all coaches & seniors 
+  - [ ] Get-to-know-you intro "game" - Faraz & all coaches & seniors 11:00
   - [ ] Presentations - everyone 
-  - [ ] Communication (Faraz & Thomas buys pizzas)
+  - [ ] Communication (Noel & Oliver buys pizzas)
   - [ ] Introduce the week lab after Day One activities by going over the materials in EdX - Faraz
   - [ ] Programming demo - "... The should be an ATM I can use" - Faraz (Emphasize on the transition from User story to actual code)
-- **Tuesday:**
-  - [ ] Understanding the problem statement (Planning demo) - the ATM challenge - Faraz
-  - [ ] Intermediate topics to testing with RSpec (Doubles, Dynamic Matchers, etc...) - Faraz 
-  - [ ] Basic programming recap - Recording **Do this one live?** Faraz
-  - [ ] Git & GitHub talk and demo - pull requests, forking, cloning, etc. - Faraz [Recording]or live
-- **Wednesday:**
+  
+**Tuesday:**
+  - [ ] Understanding the problem statement (Planning demo) - the ATM challenge - Oliver - Noel
+  - [ ] Basic programming recap - Recording **Do this one live = no** Oliver find and post recording
+  - [ ] Git & GitHub talk and demo - pull requests, forking, cloning, etc. - Oliver & Noel 
+  
+**Wednesday:**
   - [ ] Learning strategies - Faraz
+  - [ ] Intermediate topics to testing with RSpec (Doubles, Dynamic Matchers, etc...) - Faraz 
   - [ ] "Cash is King" demo - iterating over arrays - Faraz [Recording](https://youtu.be/8Rm0YrVicIc)
   - [ ] Debugging demo - both in code and spec tests - Faraz [Recording] _Look up the link to the recording_
-- **Thursday:**
+
+**Thursday:**
   - [ ] The right way to search the internet for information (using the docs, Stack Overflow, research) - Faraz (Discussion - How are they doing it now... Give our suggestions)
 - **Friday:**
   - [ ] Introduce the Weekend Challenge by going over the materials in CraftEd (Same pairs) - Faraz
