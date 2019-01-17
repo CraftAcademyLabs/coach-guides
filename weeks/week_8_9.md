@@ -83,27 +83,28 @@ No challenge - just work on the News Room Challenge
   - [ ] Morning: Software Craftsmanship talk - Thomas? (slides demo) **Slides available on drive/ Agile**
   https://docs.google.com/presentation/d/1lo8EFDeQr6kCayHWYtAsPYhm3ONkjRirJW2_U504wrY/edit port slide deck to new style. 
   - [ ] Tech interview training - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md) 
+  - [ ] Start a designsprint for the mobile client (Objectives: Showing all articles, showing articles in categories, Show specific articles, authentication, payment flow) - Oliver
 
 ### Week 10
 
 Remember juniors are starting this week
 
 Extending News Room with API and Mobile Client
+
 - **Monday:**
-  - [ ] Morning: User Authentication using tokens - API only - new app with RSpec.  - Oliver 
-  - [ ] Afternoon: Sprint Review for each team - Thomas & Magnus (The teams need to calll this meeting) 
-  - [ ] Afternoon Demo: Setup Devise Token auth on an existing Rails app with Devise already present - Oliver (slides + coding demo)
-  
+  - [ ] Morning: Instead of morning scrum: Sprint Review for each team - Thomas & Magnus (The teams need to call this meeting) 
+    
 - **Tuesday:**
   - [ ] Morning: In depth Active Model Serializers usage - Thomas (slides + coding demo)
-  - [ ] Google Maps on Mobile (Ionic native plugin) - Faraz (Guide + recording)
-  - [ ] Afternoon: DevOps with Magnus - Part 1 (Set-up droplet, add db, add Passenger, etc)
+  - [ ] Afternoon: DevOps with Magnus - Part 1 (Set-up droplet, add db, add Passenger, etc rbenv)
   
 - **Wednesday:**
-   - [ ] Morning: DevOps with Magnus - Part 2 ansible
+   - [ ] Morning Demo: Part 1 Setup Devise Token auth on an existing Rails app with Devise already present - Oliver (slides + coding demo)
+   - [ ] Afternoon: DevOps with Magnus - Part 2 ansible
   
 - **Thursday:**
-  - [ ] Afternoon: OAuth Demo on mobile (FB) - Oliver (mobsession - coding on backend - use the api only code you created on Monday and grab an Ionic app we have and implement OAuth)
+  - [ ] Morning: Part 2 User Authentication using tokens - API only - ( new app with RSpec )   - Oliver 
+  - [ ] Afternoon: OAuth Demo on mobile (FB) - Oliver (mobsession - coding on backend - use the api only code you created on Wednesday and grab an Ionic app we have and implement OAuth)?
 
 - **Friday:**
   - [ ] Pepp talk before Final Project - All coaches
