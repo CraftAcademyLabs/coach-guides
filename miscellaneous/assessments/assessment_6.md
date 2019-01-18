@@ -65,7 +65,7 @@ We would like to be able to write and run automated tests
 - [ ] Add and configure Rspec for Unit and Request specs
 
 
-### Set up Continious Ingegration
+### Set up Continuous integration
 
 **Description**
 
