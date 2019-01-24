@@ -40,19 +40,18 @@ Thomas
 
 ### Guide
 - **Monday:**
-  - [ ] Morning: Javascript recap with focus on ES6 - Faraz
+  - [ ] Morning: Javascript recap with focus on ES6 and introduce Debugging with Chrome - Faraz
     - basics: most common datatypes, how functions structured, "classes", declaring and using variables, conditionals, loops
     - work in remote pairs on the js exercises
   - [ ] Afternoon: Asynchronous Programing with JS (Promises) - Faraz (async, await) 
 - **Tuesday:**
-  - [ ] Morning: Introduce the week lab (Address Book) do a demo where we scaffold the project - Oliver
-  - [ ] Afternoon: More Address boook demo (Debugging with Chrome) - Faraz
+  - [ ] Morning: Introduce the week lab (Address Book) do a demo where we scaffold the project - Oliver - Show the finished product. Give a brief intro to BDD
+  - [ ] Afternoon: Demo: Add some styling to Address book app using a a front-end CSS framework - Oliver (show them with cdn for CSS and js. Tell them that this is the ONLY time we can use cdn)
 - **Wednesday:**
-  - [ ] Morning: Demo: Add some styling to Address book app using a a front-end CSS framework - Oliver (show them with cdn for CSS and js)
   - [ ] Afternoon: Individually review (1-on-1 or pairs) pull requests/submissions from Ruby weekend challenge (ATM Challenge and Library Challenge)  (all coaches) 
 - **Thursday:**
   - [ ] Morning: Intro on Agile methodologies (Crafting an MVP - Scrum, mention Kanban??? ) - Thomas
-  - [ ] Afternoon: Introduce the Weekend Challenge [FizzBuzz Js Challenge ](../miscellaneous/assessments/week_2_assessment.md) (All coaches) Note: We want to use the Training Wheels package (https://www.npmjs.com/package/e2e_training_wheels)
+  - [ ] Afternoon: Introduce the Weekend Challenge [FizzBuzz Js Challenge ](../miscellaneous/assessments/week_2_assessment.md) (All coaches) Note: We want to use the e2e Training Wheels package (https://www.npmjs.com/package/e2e_training_wheels)
 - **Friday:**
   - [ ] Retrospective - Old format - Faraz (Thomas)
 
