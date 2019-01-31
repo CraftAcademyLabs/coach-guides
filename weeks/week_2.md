@@ -51,7 +51,8 @@ Thomas
   - [ ] Afternoon: Individually review (1-on-1 or pairs) pull requests/submissions from Ruby weekend challenge (ATM Challenge and Library Challenge)  (all coaches) 
 - **Thursday:**
   - [ ] Morning: Intro on Agile methodologies (Crafting an MVP - Scrum, mention Kanban??? ) - Thomas
-  - [ ] Afternoon: Introduce the Weekend Challenge [FizzBuzz Js Challenge ](../miscellaneous/assessments/week_2_assessment.md) (All coaches) Note: We want to use the e2e Training Wheels package (https://www.npmjs.com/package/e2e_training_wheels)
+ 
 - **Friday:**
-  - [ ] Retrospective - Old format - Faraz (Thomas)
+  - [ ] Afternoon: Introduce the Weekend Challenge [FizzBuzz Js Challenge ](../miscellaneous/assessments/week_2_assessment.md) (All coaches) Note: We want to use the e2e Training Wheels package (https://www.npmjs.com/package/e2e_training_wheels)
+   - [ ] Retrospective - Old format - Faraz (Thomas)
 
