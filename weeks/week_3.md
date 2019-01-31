@@ -1,4 +1,4 @@
-## Week 3 - Static sites and programming techniques
+## Week 3 - Introduction to React
 ### Introduction to this week
 
 #### Swedish
