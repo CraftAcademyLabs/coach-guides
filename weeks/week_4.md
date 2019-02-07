@@ -53,24 +53,22 @@ Extending the basic Rails application that you created at the beginning  of the 
 
 ### Guide
 - **Monday:**
-  - [ ] Morning: Introduce Rails - Faraz
-  - [ ] Introduce the Acceptance-Unit Test Cycle in Rails (intro to Articles challenge, Factorybot, Fixtures) - Thomas
-      Talk about flow, and support 
-  - [ ] Introduce to web architecture (MVC) - Thomas or Faraz (make it a discussion)
+  - [ ] Morning: Introduce Rails & AUT Part 1 (intro to Articles challenge, Factorybot, Fixtures) - Thomas
+  - [ ] Morning: Introduce Rails & AUT Part 2 (intro to Articles challenge, Factorybot, Fixtures) - Thomas
+  - [ ] Introduce to web architecture (MVC) - Thomas or Faraz (make it a discussion) - Faraz
 
 - **Tuesday:** 
   - [ ] Morning: Check the submissions of the AUT code on GitHub - All Coaches
   - [ ] Morning: Introduce the Legacy Code Challenge - Faraz
-  - [ ] Afternoon: Mobsession making and reviewing PRs - Faraz, Magnus & Thomas
+  - [ ] Afternoon: Mobsession making and reviewing PRs - Faraz, Oliver & Thomas (timebox for max 30 min 15 min coding 15 min review)
 
 - **Wednesday:**
   - [ ] Morning: The concept of the params hash [Use this as reference](https://www.youtube.com/watch?v=y57OnWV6dRE) - Faraz
-  - [ ] Afternoon: Introduce Heroku, walkthrough of how to deploy [For Reference](https://devcenter.heroku.com/articles/getting-started-with-ruby)- Magnus - Make them deploy the AUT challenge
+  - [ ] Afternoon: Introduce Heroku, walkthrough of how to deploy [For Reference](https://devcenter.heroku.com/articles/getting-started-with-ruby)- Oliver - Make them deploy the AUT challenge ( problem with buildpack for bundler 2 add a specific buildpack) - Make sure by the end of the day
 
 - **Thursday:**
   - [ ] Morning: Validations in Rails and instance methods - Thomas
-  ~~- [ ] Afternoon: In depth Rails demo: Most common helpers (focus on forms) - Thomas~~
-      ~~- https://m.patrikonrails.com/rails-5-1s-form-with-vs-old-form-helpers-3a5f72a8c78a?gi=c7e478d9361b~~      
+      
 - **Friday:**
   - [ ] Afternoon: Rails demo: routing (plus resources) [Slides](https://docs.google.com/presentation/d/1Eu_x1eO9Zkmkb1RyflUONTipOjnDUtfUmSabO8-jyoQ) - Faraz (`--skip-routes` `--skip-views`)
   - [ ] Introduce the Weekend Challenge - Faraz 
