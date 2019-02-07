@@ -50,10 +50,10 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 ### Guide
 - **Monday:**
   - [ ] Morning: Introduce Slowfood Challenge - Faraz
-    - Point to set up rails guide in course documentation
+    - Point to set up rails guide in course documentation (boilerplate)
   - [ ] Morning: Do a Overview of a Design Sprint. - Faraz & Oliver
-  - [ ] Students go through stories and create lofis
-  - [ ] Setting up Semaphore and Continious deployment - Magnus [CI and CD slides](https://docs.google.com/presentation/d/1Y0YBeRV9Da9exfEQXZFyJob0d6pbBKofPj3fjHp_yMQ/edit#slide=id.p9)
+  - [ ] Students go through stories and create lofis - From PT board
+  - [ ] Setting up Semaphore and Continious deployment Also talk about coveralls - Magnus [CI and CD slides](https://docs.google.com/presentation/d/1Y0YBeRV9Da9exfEQXZFyJob0d6pbBKofPj3fjHp_yMQ/edit#slide=id.p9)
   
 - **Tuesday:**
   - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC (restaurant), config). - Faraz
@@ -73,5 +73,3 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 - **Friday:**
   - [ ] Morning: Introduce the Weekend Challenge (Styling) - Faraz
   - [ ] Afternoon: Tech interview training AUT - Second part of the RPS Challenge
-  - [ ] Afternoon: In depth Rails demo: Most common helpers (focus on forms) - Thomas
-     - https://m.patrikonrails.com/rails-5-1s-form-with-vs-old-form-helpers-3a5f72a8c78a?gi=c7e478d9361b
