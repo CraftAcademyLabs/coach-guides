@@ -65,6 +65,12 @@ Extending the basic Rails application that you created at the beginning  of the 
 - **Wednesday:**
   - [ ] Morning: The concept of the params hash [Use this as reference](https://www.youtube.com/watch?v=y57OnWV6dRE) - Faraz
   - [ ] Afternoon: Introduce Heroku, walkthrough of how to deploy [For Reference](https://devcenter.heroku.com/articles/getting-started-with-ruby)- Oliver - Make them deploy the AUT challenge ( problem with buildpack for bundler 2 add a specific buildpack) - Make sure by the end of the day
+  
+  This is the buildpack you need to use (if you add it from CLI): 
+
+  ```
+  heroku create --buildpack https://github.com/bundler/heroku-buildpack-bundler2.git
+  ```
 
 - **Thursday:**
   - [ ] Morning: Validations in Rails and instance methods - Thomas
