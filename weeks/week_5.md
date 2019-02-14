@@ -23,13 +23,13 @@ This is a group challenge and the students are supposed to work as a team.
     - controllers
     - routes
     - models
-    - relation between models
+    - relations between models
     - concept of `params` (See: https://www.youtube.com/watch?v=y57OnWV6dRE)
 * Learn more about User Authentication
-* Learn about the hardships that will occur if we can't read documentation for libraries we use in our projects (gems).
+* Learn about the hardships that will occur if we can't read documentation for libraries (gems) we use in our projects.
 * Learn more about Test- and Behavior Driven Development or Acceptance - Unit Test cycle.
-* Really embrace and understand the benefits of Pair Programming && collaboration using Git and GitHub
-* Learn about deployment to Heroku and the benefits of services like Heroku, DigitalOcean and AWS
+* Really embrace and understand the benefits of Pair Programming & collaboration using Git and GitHub
+* Learn about deployment to Heroku and the benefits of services like Heroku, DigitalOcean and AWS.
 
 ### Weekend challenge
 SlowFood (Rails) (User Interface/UX) - Note: group challenge
@@ -44,8 +44,8 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   - CSS frameworks
   - CDN's vs Gems vs Manually including the CSS framework code (repetition)
 
-### Head Coach: Thomas
-### Support coach: Faraz & Magnus
+### Head Coach: Faraz
+### Support coach: Oliver & Magnus
 
 ### Guide
 - **Monday:**
@@ -53,10 +53,10 @@ The weekend is devoted to focus on the User experience of the app. Here we start
     - Point to set up rails guide in course documentation (boilerplate)
   - [ ] Morning: Do a Overview of a Design Sprint. - Faraz & Oliver
   - [ ] Students go through stories and create lofis - From PT board
-  - [ ] Setting up Semaphore and Continious deployment Also talk about coveralls - Magnus [CI and CD slides](https://docs.google.com/presentation/d/1Y0YBeRV9Da9exfEQXZFyJob0d6pbBKofPj3fjHp_yMQ/edit#slide=id.p9)
+  - [ ] Afternoon: Setting up Semaphore and Continious deployment Also talk about coveralls - Magnus [CI and CD slides](https://docs.google.com/presentation/d/1Y0YBeRV9Da9exfEQXZFyJob0d6pbBKofPj3fjHp_yMQ/edit#slide=id.p9)
   
 - **Tuesday:**
-  - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC (restaurant), config). - Faraz
+  - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC, config). - Faraz
         - Basic application structure
         - Rails doctrine, etc...
   - [ ] Afternoon: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Faraz
@@ -68,10 +68,10 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 
 - **Thursday:**
     - [ ] Morning: Talk about the midcourse project - Thomas
-    - [ ] Afternoon: AUT demo using Sails - Oliver?
+    - [ ] Afternoon: AUT demo using Sails - Oliver
 
 - **Friday:**
-  - [ ] Morning: Introduce the Weekend Challenge (Styling) - Faraz
+  - [ ] Morning: Introduce the Weekend Challenge (Styling as a group + Comments challenge individually) - Faraz
    - [ ] Afternoon: In depth Rails demo: Most common helpers (focus on forms) - Thomas
     - https://m.patrikonrails.com/rails-5-1s-form-with-vs-old-form-helpers-3a5f72a8c78a?gi=c7e478d9361b
    - [ ] Afternoon: Tech interview training AUT - Second part of the RPS Challenge
