@@ -63,12 +63,14 @@ The weekend is devoted to focus on the User experience of the app. Here we start
     - Send out slides before
   
 - **Wednesday:**
-  - [ ] Morning: Rails demo: Advanced Routing (plus resources, nested routes, associations) (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge)- Thomas
-  - [ ] Afternoon: Rails demo: Active Record (migrations, associations, CRUD functions) - Magnus
+  - [ ] Morning: Cartify demo
+  - [ ] Afternoon: Rails demo: Advanced Routing (plus resources, nested routes, associations) (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge)- Thomas
 
 - **Thursday:**
-    - [ ] Morning: Talk about the midcourse project - Thomas
+    - [ ] Morning: Rails demo: Active Record (migrations, associations, CRUD functions) - Magnus
     - [ ] Afternoon: AUT demo using Sails - Oliver
+    - [ ] Afternoon: Talk about the midcourse project - Thomas
+
 
 - **Friday:**
   - [ ] Morning: Introduce the Weekend Challenge (Styling as a group + Comments challenge individually) - Faraz
