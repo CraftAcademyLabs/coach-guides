@@ -35,25 +35,25 @@ Let's be strict with the support protocol AND who is giving support. Communicate
 Mob Discussion sessions will be held every other day.
 
 - **Monday:** 
-  - [ ] Morning: Design sprint led by team coach - Oliver and Faraz
-  - [ ] Afternoon: How to consume an API's both in Rails and JS - Thomas (StarWars API - start with pure ruby, then Rails, then JS)
+  - [ ] Morning 09:30: Design sprint led by team coach - Oliver and Faraz
+  - [ ] Afternoon 14:00: How to consume an API's both in Rails and JS - Thomas (StarWars API - start with pure ruby, then Rails, then JS)
 
 - **Tuesday:**
-  - [ ] Morning: In depth Rails demo: Authentication & Authorization (Devise + basic authorization using booleans) - Thomas Part 1
-  - [ ] Afternoon: In depth Rails demo: Authentication & Authorization (Pundit) - Thomas Part 2
+  - [ ] Morning 11:15: In depth Rails demo: Authentication & Authorization (Devise + basic authorization using booleans) - Thomas Part 1
+  - [ ] Afternoon 14:00: In depth Rails demo: Authentication & Authorization (Pundit) - Thomas Part 2
   
 - **Wednesday:**
-  - [ ] OAuth demo (Facebook - very basic OAuth for web apps) - Oliver (will use one of the teams codebase but prepare a boilerplate just in case)
-  - [ ] Advanced associations with ActiveRecord - Magnus (same slide deck as part 1)
+  - [ ] Morning 10:00: OAuth demo (Facebook - very basic OAuth for web apps) - Oliver (will use one of the teams codebase but prepare a boilerplate just in case)
+  - [ ] Afternoon 14:00: Advanced associations with ActiveRecord - Magnus (same slide deck as part 1)
 
 - **Thursday:**
- - [ ] Morning: How to get paid (Stripe)  Part 1 - Thomas + Faraz (prepare these talks during week 5)
- - [ ] Afternoon: How to get paid (Stripe) Part 2 - Thomas + Faraz
+ - [ ] Morning 11:00: How to get paid (Stripe)  Part 1 - Thomas + Faraz (prepare these talks during week 5)
+ - [ ] Afternoon 14:00: How to get paid (Stripe) Part 2 - Thomas + Faraz
  
- - [ ] Introduction to Angular - Address Book Challenge - Magnus (This is just a demo - see week 7)
+ ~~- [ ] Introduction to Angular - Address Book Challenge - Magnus (This is just a demo - see week 7)~~
 
 - **Friday:**
- - [ ] Project Retro and UX/function review  (give feedback for the weekend) - All Coaches
+ - [ ] Afternoon 15:30: Project Retro and UX/function review  (give feedback for the weekend) - All Coaches
   
   ### Resources
   * [Devise Introduction](https://youtu.be/BBKiHPotInA)
