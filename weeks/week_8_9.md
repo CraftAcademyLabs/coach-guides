@@ -36,53 +36,52 @@ No challenge - just work on the News Room Challenge
 
 ### Week 8
 - **Monday:**
-  - [ ] Morning: Go over the check list from the Christmas break - all coaches [focus on if they finished the React portfolio] 
-  - [ ] Morning: Introduction to Cooper challenge in React - Thomas + all coaches 
-  - [ ] Afternoon: Introduction to testing? 
+  - [ ] Morning: Introduction to News Room Challenge - Thomas (Create slides) give them PT but sell that idea
+    - [ ] Oliver sets up new PT boards
+  - [ ] Morning: Students start the Design Sprint - Recap of the Design Sprint and intro to Epics (introduce prioritization and voting, tasks = AC) - Faraz (Tell them about including lo-fi/mock up in PT but also to the PR once they have worked on it)
 
 - **Tuesday:**
-  - [ ] **TBA** 
-
+  - [ ] Morning: Product owner intro (Recorded video for students to watch) - Recording (Have them watch it during staff meeting?)
+   - [ ] Afternoon: Workshop on story prioritization and voting - Thomas + Faraz
+   - [ ] Morning: Teams present their project plans (PT, lo-fi's and Mock Up's) - Shift teams (Ultra and Faraz)
 
 - **Wednesday:**
-  - [ ] Morning: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz on CraftEd) - Thomas
-  - [ ] Afternoon: Introduction to News Room Challenge - Thomas (Create slides)
-  
-- **Thursday:**
-  - [ ] Morning: Students start the Design Sprint - Recap of the Design Sprint and intro to Epics (introduce prioritization and voting, tasks = AC) - Faraz (Tell them about including lo-fi/mock up in PT but also to the PR once they have worked on it) 
-  - [ ] Morning: Product owner intro (Recorded video for students to watch) - Recording (Have them watch it during coach meeting?)
   - [ ] Morning: Multiple OAuth providers - Oliver - Code review demo
   - [ ] Afternoon: Internationalization (i18n) - Faraz [Part 1](https://youtu.be/eBwjN5drg-Q) | [Part 2](https://youtu.be/0Nen6z0cIbo)
-  - [ ] Afternoon: Workshop on story prioritization and voting - Thomas + Faraz
+  
+- **Thursday:**
+   - [ ] Afternoon: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz on CraftEd) - Thomas
+   - [ ] Morning: Geocoding - determine what edition the user is served - Thomas Resource: [https://youtu.be/DJ7SCFwMPho](https://youtu.be/DJ7SCFwMPho)
 
 - **Friday:**
-  - [ ] Morning: Geocoding - determine what edition the user is served - Thomas Resource: [https://youtu.be/DJ7SCFwMPho](https://youtu.be/DJ7SCFwMPho)
-  - [ ] Morning: Teams present their project plans (PT, lo-fi's and Mock Up's) - All coaches
   - [ ] Afternoon: Agile Methodologies Intro - Thomas (Agile Mindset slides) **Crafting an MVP slides on drive/Agile**
   - [ ] Student retro
 
 ### Week 9
 - **Monday:**
   ~~- [ ] Morning: Intro to Scrum & XP - Thomas (slides demo)~~ **This cohort already had this talk**
-  - [ ] Morning: Introduce local based events (crimes from Brottsplatskartan API?) (mobsession - coding) - Thomas
-  - [ ] Afternoon: Practice Sprint Review - Facilitated by Faraz + All Coaches (Ship some code, Simulation (Faraz CEO and Thomas CTO)
+   - [ ] Morning: File attachements (Active Storage) - Thomas (mobsession - coding(Students need to code with coach))
+   - [ ] Afternoon: File attachements using Cloud storage (AWS S3, Use Encrypted Credentials Rails 5.2) - Thomas (mobsession - coding(Students need to code with coach))
+
 
 - **Tuesday:**
-  - [ ] Morning: File attachements (Active Storage) - Thomas (mobsession - coding(Students need to code with coach))
-  - [ ] Afternoon: File attachements using Cloud storage (AWS S3, Use Encrypted Credentials Rails 5.2) - Thomas (mobsession - coding(Students need to code with coach))
+  - [ ] Morning: insteadof morning scrum: Sprint Review - Facilitated by Faraz + All Coaches (Ship some code, Simulation (Faraz CEO and Thomas CTO)
+  - [ ] Afternoon: Introduce local based events (crimes from Brottsplatskartan API?) (mobsession - coding) - Thomas
+  - [ ] Dry Run Advanced Stripe
 
 - **Wednesday:**
-  - [ ] Implementing Stripe with stripe elements - Thomas and Faraz (mobsession - coding)
+  - [ ] Revisiting Stripe with stripe elements (subscriptions, recurring payments, styling ) - Thomas and Faraz (mobsession - coding)  
+  - [ ] Morning: The Shuffle! Hide in Edx - Faraz
+  - [ ] Teams onboard new members - No coach support
 
 - **Thursday:**
   - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers, Presenters?) - Thomas (slides + coding demo) Thomas will look into this. https://github.com/Netflix/fast_jsonapi
-  - [ ] Morning: The Shuffle! Hide in Edx - Faraz
-  - [ ] Teams onboard new members - No coach support
+  - [ ] Workshop on a new framework/tool Cypress - Thomas & Faraz 
 
 - **Friday:**
   - [ ] Morning: Software Craftsmanship talk - Thomas? (slides demo) **Slides available on drive/ Agile**
   https://docs.google.com/presentation/d/1lo8EFDeQr6kCayHWYtAsPYhm3ONkjRirJW2_U504wrY/edit port slide deck to new style. 
-  - [ ] Tech interview training - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md) 
+  - [ ] Tech interview training - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md) - Go over Unter 
   - [ ] Start a designsprint for the mobile client (Objectives: Showing all articles, showing articles in categories, Show specific articles, authentication, payment flow) - Oliver
 
 ### Week 10
@@ -92,7 +91,8 @@ Remember juniors are starting this week
 Extending News Room with API and Mobile Client
 
 - **Monday:**
-  - [ ] Morning: Instead of morning scrum: Sprint Review for each team - Thomas & Magnus (The teams need to call this meeting) 
+  - [ ] Morning: Instead of morning scrum: Sprint Review for each team - Thomas & Magnus (The teams need to call this meeting)
+  - [ ] React Native (Create slidedeck)- Magnus
     
 - **Tuesday:**
   - [ ] Morning: In depth Active Model Serializers usage - Thomas (slides + coding demo)
