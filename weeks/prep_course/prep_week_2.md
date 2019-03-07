@@ -25,8 +25,8 @@ learning to code. It's general purpose and flexible language can be used in web/
 
 ### Demos
 * Monday - Get to know Ruby  Slides: [Get To Know Ruby] 4pm - Thomas 
-* Wednesday - Mob session Ruby exercises 4pm - Sophie 
-* Thursday - Introduction to JavaScript 4pm - Sophie
+* Wednesday - Mob session Ruby exercises 4pm - Noel 
+* Thursday - Introduction to JavaScript 4pm - Tommy (aka BOB)
 
 
 ### Resources
