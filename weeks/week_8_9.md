@@ -83,6 +83,7 @@ No challenge - just work on the News Room Challenge
   https://docs.google.com/presentation/d/1lo8EFDeQr6kCayHWYtAsPYhm3ONkjRirJW2_U504wrY/edit port slide deck to new style. 
   - [ ] Tech interview training - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md) - Go over Unter 
   - [ ] Start a designsprint for the mobile client (Objectives: Showing all articles, showing articles in categories, Show specific articles, authentication, payment flow) - Oliver 
+  - [ ] Weekend assignment - Download Android Studio (Linux) and XCode (OsX)
 
 ### Week 10
 
@@ -91,8 +92,9 @@ Remember juniors are starting this week
 Extending News Room with API and Mobile Client
 
 - **Monday:**
+  - [ ] Morning: Getting React Native up and Running on Linux and Mac - Group session with students based on OS version.
   - [ ] Morning: Instead of morning scrum: Sprint Review for each team - Thomas & Magnus (The teams need to call this meeting)
-  - [ ] React Native (Create slidedeck)- Magnus
+  - [ ] React Native (Create slidedeck)- Magnus - Thomas creates a first version. 
     
 - **Tuesday:**
   - [ ] Morning: In depth Active Model Serializers usage - Thomas (slides + coding demo)
@@ -100,11 +102,11 @@ Extending News Room with API and Mobile Client
   
 - **Wednesday:**
    - [ ] Morning Demo: Part 1 Setup Devise Token auth on an existing Rails app with Devise already present - Oliver (slides + coding demo)
-   - [ ] Afternoon: DevOps with Magnus - Part 2 ansible
+   - [ ] Afternoon: DevOps with Magnus - Part 2 Ansible for deployment
   
 - **Thursday:**
   - [ ] Morning: Part 2 User Authentication using tokens - API only - ( new app with RSpec )   - Oliver 
-  - [ ] Afternoon: OAuth Demo on mobile (FB) - Oliver (mobsession - coding on backend - use the api only code you created on Wednesday and grab an Ionic app we have and implement OAuth)?
+  - [ ] Afternoon: OAuth Demo on mobile (FB) - Oliver (mobsession - coding on backend - use the api only code you created on Wednesday and grab an Ionic app we have and implement OAuth)????????
 
 - **Friday:**
   - [ ] Pepp talk before Final Project - All coaches
