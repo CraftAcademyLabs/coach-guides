@@ -27,32 +27,41 @@ So the first week is all about giving the students their first time experience i
   - debugging
   - Understand the three data layers and how to use a simple "database": a YAML file
 
+### Support guide: EVERY SUPPORT REQUEST NEEDS TO BE SUBMITTED TO CraftOverflow
+- Issue on https://github.com/CraftAcademy/CraftOverflow/issues
+  - read/search through old issues (closed) BEFORE posting a question
+  - post a question according to the template 
+  - a Slack notification will be posted and a coach will respond. 
+  
 ### Guide
-HeadCoach: Faraz
-Firstline: Noel
+HeadCoach: **Faraz**
+Firstline: **Noel**
+
 - **Monday:**
 We start at 9.00
   - [ ] First-day logistics: bricka, tour of the building, who-is-who and their availability - Thomas (Gothenburg), Faraz (Stockholm)
-  - [ ] Overview lecture on Craft Academy, etc. - Thomas
+  - [ ] Overview lecture on Craft Academy, 8 traits of a developer, etc. - Thomas (Last time as a default)
   - [ ] Get-to-know-you intro "game" - Faraz & all coaches & seniors 11:00
   - [ ] Presentations - everyone 
-  - [ ] Communication (Noel & Oliver buys pizzas)
+  - [ ] Communication talk - Faraz (Slack, Student letter & handbook!, Craft Overflow, (Noel & Oliver buys pizzas)
+  - [ ] 
   - [ ] Introduce the week lab after Day One activities by going over the materials in EdX - Faraz
   - [ ] Programming demo - "... The should be an ATM I can use" - Faraz (Emphasize on the transition from User story to actual code)
   
 **Tuesday:**
   - [ ] Understanding the problem statement (Planning demo) - the ATM challenge - Oliver - Noel
-  - [ ] Basic programming recap - Recording **Do this one live = no** Oliver find and post recording
+  - [ ] Basic programming recap - Live
   - [ ] Git & GitHub talk and demo - pull requests, forking, cloning, etc. - Oliver & Noel 
   
 **Wednesday:**
-  - [ ] Learning strategies - Faraz
+  - [ ] Learning strategies - Faraz ("You've been at it 2 days.. head hurts... big diff from prep course... find a good strategy.. or you'll die")
   - [ ] Intermediate topics to testing with RSpec (Doubles, Dynamic Matchers, etc...) - Faraz 
   - [ ] "Cash is King" demo - iterating over arrays - Faraz [Recording](https://youtu.be/8Rm0YrVicIc)
-  - [ ] Debugging demo - both in code and spec tests - Faraz [Recording] _Look up the link to the recording_
 
 **Thursday:**
   - [ ] The right way to search the internet for information (using the docs, Stack Overflow, research) - Faraz (Discussion - How are they doing it now... Give our suggestions)
+  - [ ] Debugging demo - both in code and spec tests - Faraz [Recording] _Look up the link to the recording_
+
 - **Friday:**
   - [ ] Introduce the Weekend Challenge by going over the materials in CraftEd (Same pairs) - Faraz
   - [ ] Do a programming demo with focus on - Faraz
