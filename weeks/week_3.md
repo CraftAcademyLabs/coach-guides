@@ -35,7 +35,7 @@ Add a CV page to your portfolio using JSON file AND add a contact form (using Ne
 * Solidify ReactJS skills.
 
 ### Head Coach
-Magnus
+Thomas
 
 ### Guide
 - **Monday:**
@@ -44,15 +44,14 @@ Magnus
   - [ ] Afternoon: CodeWars Hour - Faraz (Would really be good to do this everyday of this week)
 - **Tuesday:**
   - [ ] Morning: Portfolio Challenge - Coding demo (Thomas)
-  - [ ] Afternoon: Introduction to SASS and tips for use - Magnus (Coding + Slides)
   - [ ] Afternoon: CodeWars Hour - Faraz
 - **Wednesday:**
   - [ ] Morning: Deploying to Netlify - Faraz
-  - [ ] Vanilla JS vs jQuery - Thomas (based on http://youmightnotneedjquery.com/) (Oliver will update the slide layout)
+  - [ ] Vanilla JS vs jQuery - Thomas (based on http://youmightnotneedjquery.com/)
   - [ ] Afternoon: CodeWars Hour - Faraz
-- **Thursday:**
-  - [ ] Afternoon: Software Craftsmanship - Thomas
-  - [ ] Afternoon: CodeWars Hour - Faraz
-- **Friday:**
-  - [ ] Morning: Introduce weekend challenge briefly with examples (Add CV and Forms). - Magnus
+- **Thursday:** 
+  - [ ] Afternoon: Software Craftsmanship - Thomas??
+  - [ ] Morning: Introduce weekend challenge briefly with examples (Add CV and Forms). - Thomas
   - [ ] Afternoon: Tech interview training - Rock Paper Scissors - theory
+- **Friday:** RED day
+ 
