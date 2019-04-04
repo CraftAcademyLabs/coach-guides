@@ -52,28 +52,30 @@ Extending the basic Rails application that you created at the beginning  of the 
 #### First Line: Thomas
 
 ### Guide
-- **Monday:**
+- **Monday:** RED day
+
+
+- **Tuesday:** 
   - [ ] Morning: Introduce Rails & AUT Part 1 (intro to Articles challenge, Factorybot, Fixtures) - Thomas
   - [ ] Morning: Introduce Rails & AUT Part 2 (intro to Articles challenge, Factorybot, Fixtures) - Thomas
   - [ ] Introduce to web architecture (MVC) - Thomas or Faraz (make it a discussion) - Faraz
 
-- **Tuesday:** 
+
+- **Wednesday:**
   - [ ] Morning: Check the submissions of the AUT code on GitHub - All Coaches
   - [ ] Morning: Introduce the Legacy Code Challenge - Faraz
   - [ ] Afternoon: Mobsession making and reviewing PRs - Faraz, Oliver & Thomas (timebox for max 30 min 15 min coding 15 min review)
 
-- **Wednesday:**
+- **Thursday:**
+  - [ ] Morning: Validations in Rails and instance methods - Thomas
   - [ ] Morning: The concept of the params hash [Use this as reference](https://www.youtube.com/watch?v=y57OnWV6dRE) - Faraz
-  - [ ] Afternoon: Introduce Heroku, walkthrough of how to deploy [For Reference](https://devcenter.heroku.com/articles/getting-started-with-ruby)- Oliver - Make them deploy the AUT challenge ( problem with buildpack for bundler 2 add a specific buildpack) - Make sure by the end of the day
+  - [ ] Afternoon: Introduce Heroku, walkthrough of how to deploy [For Reference](https://devcenter.heroku.com/articles/getting-started-with-ruby)- Oliver - Make them deploy the AUT challenge ( problem with buildpack for bundler 2 add a specific buildpack) - Make sure by the end of the day through submissions OLIVERRR
   
   This is the buildpack you need to use (if you add it from CLI): 
 
   ```
   heroku create --buildpack https://github.com/bundler/heroku-buildpack-bundler2.git
   ```
-
-- **Thursday:**
-  - [ ] Morning: Validations in Rails and instance methods - Thomas
       
 - **Friday:**
   - [ ] Afternoon: Rails demo: routing (plus resources) [Slides](https://docs.google.com/presentation/d/1Eu_x1eO9Zkmkb1RyflUONTipOjnDUtfUmSabO8-jyoQ) - Faraz (`--skip-routes` `--skip-views`)
