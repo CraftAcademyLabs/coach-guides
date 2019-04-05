@@ -10,7 +10,7 @@ The 'Think-aloud' protocol involve the participant thinking aloud as he or she a
 
 
 ## Question 1 - Variables
-Create a variable and set it equal to 'variable'.  
+Create a variable and set it equal to `'variable'`.  
 What are some different data types? Write a few examples.
 
 ## Question 2 - Hashes and Arrays
