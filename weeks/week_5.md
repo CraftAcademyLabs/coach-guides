@@ -45,29 +45,28 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   - CDN's vs Gems vs Manually including the CSS framework code (repetition)
 
 ### Head Coach: Faraz
-### Support coach: Oliver & Magnus
-
+### Support coach: Oliver
 ### Guide
 - **Monday:**
   - [ ] Morning: Introduce Slowfood Challenge - Faraz
     - Point to set up rails guide in course documentation (boilerplate)
   - [ ] Morning: Do a Overview of a Design Sprint. - Faraz & Oliver
   - [ ] Students go through stories and create lofis - From PT board
-  - [ ] Afternoon: Setting up Semaphore and Continious deployment Also talk about coveralls - Magnus [CI and CD slides](https://docs.google.com/presentation/d/1Y0YBeRV9Da9exfEQXZFyJob0d6pbBKofPj3fjHp_yMQ/edit#slide=id.p9)
+  - [ ] Afternoon: Setting up Semaphore and Continious deployment Also talk about coveralls - Faraz [CI and CD slides](https://docs.google.com/presentation/d/1Y0YBeRV9Da9exfEQXZFyJob0d6pbBKofPj3fjHp_yMQ/edit#slide=id.p9)
   
 - **Tuesday:**
   - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC, config). - Faraz
         - Basic application structure
         - Rails doctrine, etc...
-  - [ ] Afternoon: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Faraz
+  - [ ] Afternoon: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Thomas
     - Send out slides before
   
 - **Wednesday:**
-  - [ ] Morning: Cartify demo
+  - [ ] Morning: Cartify demo - Faraz
   - [ ] Afternoon: Rails demo: Advanced Routing (plus resources, nested routes, associations) (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge)- Thomas
 
 - **Thursday:**
-    - [ ] Morning: Rails demo: Active Record (migrations, associations, CRUD functions) - Magnus
+    - [ ] Morning: Rails demo: Active Record (migrations, associations, CRUD functions) - Thomas & Faraz
     - [ ] Afternoon: AUT demo using Sails - Oliver
     - [ ] Afternoon: Talk about the midcourse project - Thomas
 
