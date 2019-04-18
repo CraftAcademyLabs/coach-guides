@@ -38,15 +38,17 @@ The Legacy Code Challenge aims at allowing students to write both acceptance tes
   - git flow in teams
 
 ### Weekend challenge
-Comments Challenge
-Extending the basic Rails application that you created at the beginning  of the week. Your task is to add a feature that allows visitors to comment on published articles. Visitors should be able to comment on an article and optionally provide their email address that will be displayed together with the comment.
+Authentication Challenge
+
+In order to read our articles. We need a user to sign up
+
 
 ### Learning objectives
-* Practice the Acceptance - Unit test Cycle
-* Learn about adding associations between models
- - `belongs_to`
- - `has_many`
-* Learn about nested routes in Rails
+* Install Devise gem
+* Feature test
+* Feature branches
+* Pull request
+* Read documentation
 
 ### Head coach: Faraz
 #### First Line: Thomas
@@ -79,7 +81,6 @@ Extending the basic Rails application that you created at the beginning  of the 
       
 - **Friday:**
   - [ ] Morning: Rails demo: routing (plus resources) [Slides](https://docs.google.com/presentation/d/1Eu_x1eO9Zkmkb1RyflUONTipOjnDUtfUmSabO8-jyoQ) - Faraz (`--skip-routes` `--skip-views`)
-  - [ ] Introduce the Weekend Challenge - Faraz 
-  - [ ] Afternoon: Basic associations - Faraz 
+  - [ ] Introduce the Weekend Challenge (Devise Gem) - Faraz 
   - [ ] Retro - All coaches  
   
