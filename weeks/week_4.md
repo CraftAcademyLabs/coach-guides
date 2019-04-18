@@ -78,7 +78,8 @@ Extending the basic Rails application that you created at the beginning  of the 
   ```
       
 - **Friday:**
-  - [ ] Afternoon: Rails demo: routing (plus resources) [Slides](https://docs.google.com/presentation/d/1Eu_x1eO9Zkmkb1RyflUONTipOjnDUtfUmSabO8-jyoQ) - Faraz (`--skip-routes` `--skip-views`)
+  - [ ] Morning: Rails demo: routing (plus resources) [Slides](https://docs.google.com/presentation/d/1Eu_x1eO9Zkmkb1RyflUONTipOjnDUtfUmSabO8-jyoQ) - Faraz (`--skip-routes` `--skip-views`)
   - [ ] Introduce the Weekend Challenge - Faraz 
+  - [ ] Afternoon: Basic associations - Faraz 
   - [ ] Retro - All coaches  
   
