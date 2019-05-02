@@ -44,14 +44,12 @@ Mob Discussion sessions will be held every other day.
   
 - **Wednesday:**
   - [ ] Morning 10:00: OAuth demo (Facebook - very basic OAuth for web apps) - Oliver (will use one of the teams codebase but prepare a boilerplate just in case)
-  - [ ] Afternoon 14:00: Advanced associations with ActiveRecord - Magnus (same slide deck as part 1)
+  - [ ] Afternoon 14:00: Advanced associations with ActiveRecord - Thomas (same slide deck as part 1)
 
 - **Thursday:**
  - [ ] Morning 11:00: How to get paid (Stripe)  Part 1 - Thomas + Faraz (prepare these talks during week 5)
  - [ ] Afternoon 14:00: How to get paid (Stripe) Part 2 - Thomas + Faraz
  
- ~~- [ ] Introduction to Angular - Address Book Challenge - Magnus (This is just a demo - see week 7)~~
-
 - **Friday:**
  - [ ] Afternoon 15:30: Project Retro and UX/function review  (give feedback for the weekend) - All Coaches
   
