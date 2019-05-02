@@ -1,4 +1,4 @@
-## Week 7 Going Mobile with Ionic
+## Week 7 Advanced React and Rails API
 ### Introduction to this week
 
 #### Swedish
@@ -28,23 +28,20 @@ In Week 7 we deepen your knowledge of Javascript by diving deeper into React, a 
 ### Learning objectives
 * See main Learning objectives
 
-### Head Coach: Magnus 
+### Head Coach: Thomas 
 ### Assistant coaches: Faraz, Oliver
 Let's be strict with the support protocol AND who is giving support. Communicate who is in charge in morning scrum AND on Slack.
 
-Mob Discussion sessions will be held every other day.
-
-Add a session on how to run a Ionic app on a Mobile Device - connect the phone to localhost and push. Faraz: iOS, Magnus: Android
-
 ### Guide
-- **Monday:** (React)  
-  - [ ] Morning 9.00: Project Retro (Mid course project) - Faraz & Magnus
+- **Monday:** (React)
+  - [ ] Morning 9.00: Project Retro (Mid course project) - Faraz & Oliver
     - Each team has their own retro, and team leaders give their report in this retrospective.
   - [ ] Morning 10.30 : Introduce BMI challenge (pairs up students)
+  - [ ] AUT in React (based on the outside in testing post - see Medium) - Thomas 
 
 - **Tuesday:** (Start Cooper challenge) 
   - [ ] [Semantic UI](https://react.semantic-ui.com/) - Thomas
-  - [ ] Afternoon (14:00): Introduce Cooper challenge - Magnus & Oliver
+  - [ ] Afternoon (14:00): Introduce Cooper challenge - Oliver
 
 - **Wednesday:**  
   - [ ] Morning: RESTful APIs in Rails - Thomas (10:30pm)
@@ -53,7 +50,7 @@ Add a session on how to run a Ionic app on a Mobile Device - connect the phone t
   - [ ] Afternoon: The simple truths - Thomas (14:00pm)
 
 - **Friday:**
-  - [ ] Data Visualization Challenge (Chartjs/Styling) 
+  - [ ] Data Visualization Challenge (ChartJS/Styling) 
   - [ ] [Introduce the weekend challenge](https://class.craftacademy.co/courses/course-v1:CraftAcademy+CA-CC-01+2018/courseware/96bf29b196214229a1f5b420c670ac7f/71f526bca64d410abab417bd304e68f6/?activate_block_id=block-v1%3ACraftAcademy%2BCA-CC-01%2B2018%2Btype%40sequential%2Bblock%4071f526bca64d410abab417bd304e68f6) - Magnus (09:30)
   
 - [ ] Tech interview training - All coaches https://github.com/CraftAcademyLabs/coach-guides/blob/curriculum-2.0/miscellaneous/assessments/week_7_assessment.md
