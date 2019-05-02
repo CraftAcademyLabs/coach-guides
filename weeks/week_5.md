@@ -75,4 +75,4 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   - [ ] Morning: Introduce the Weekend Challenge (Styling as a group + Comments challenge individually) - Faraz
   - [ ] Afternoon: In depth Rails demo: Most common helpers (focus on forms) - Thomas
     - https://m.patrikonrails.com/rails-5-1s-form-with-vs-old-form-helpers-3a5f72a8c78a?gi=c7e478d9361b
-  - [ ] Afternoon: Tech interview training AUT - Second part of the RPS Challenge
+  - [ ] Afternoon: Tech interview training - Second part of the RPS Challenge
