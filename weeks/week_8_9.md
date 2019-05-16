@@ -22,7 +22,20 @@ News Room Challenge
 - Learn more about Agile practices (Scrum + XP - Software Craftsmanship)
 - Practice more on CI & CD, Devops (set up a VPS with DB, application server - Digital Ocean)
 - Practice Cloud Storage - Active Storage in Rails
-(- Alternatives to Rails & Active Record - Sails (Node based framework) & Waterline - Thomas and Oliver will discuss this)
+(- Alternatives to Rails & Active Record - Sails (Node based framework) & Waterline - Thomas and Oliver will discuss this
+
+- API only Rails App for the entire logic and storage
+  - Serialization - OK
+  - Testing Serializers - 
+- ReactJs Client
+- No coding - just CONFIGURATION and SETUP (the chores), during the firs 3 days of the challenge
+- By wednesday night we need the following:
+  - Rails API-only app (with test framework - RSpec) - Pings controller + endpoint
+  - ReactJS app (with test framework - Cypress & Jest/Enzyme) - connect to back-end and display "Pong"
+  - CI & CD
+  - Both app deployed (Rails on Heroku, React on Netlify) 
+- Figure out (and document) OAuth on React
+
 
 ## Weekend challenge
 
@@ -36,25 +49,28 @@ No challenge - just work on the News Room Challenge
 
 ### Week 8
 - **Monday:**
-  - [ ] Morning: Introduction to News Room Challenge - Thomas (Create slides) give them PT but sell that idea
-    - [ ] Oliver sets up new PT boards
+  - [ ] Morning: Introduction to News Room Challenge - Faraz & Oliver give them PT but sell that idea
+    - [ ] Oliver sets up new PT board
   - [ ] Morning: Students start the Design Sprint - Recap of the Design Sprint and intro to Epics (introduce prioritization and voting, tasks = AC) - Faraz (Tell them about including lo-fi/mock up in PT but also to the PR once they have worked on it)
 
 - **Tuesday:**
   - [ ] Morning: Product owner intro (Recorded video for students to watch) - Recording (Have them watch it during staff meeting?)
-   - [ ] Afternoon: Workshop on story prioritization and voting - Thomas + Faraz
-   - [ ] Morning: Teams present their project plans (PT, lo-fi's and Mock Up's) - Shift teams (Ultra and Faraz)
+  - [ ] Afternoon: Agile Methodologies Intro - Thomas (Agile Mindset slides) **Crafting an MVP slides on drive/Agile**
+  - [ ] Afternoon: Workshop on story prioritization and voting - Faraz & Oliver
+
 
 - **Wednesday:**
-  - [ ] Morning: Multiple OAuth providers - Oliver - Code review demo
-  - [ ] Afternoon: Internationalization (i18n) - Faraz [Part 1](https://youtu.be/eBwjN5drg-Q) | [Part 2](https://youtu.be/0Nen6z0cIbo)
+  ~~- [ ] Morning: Multiple OAuth providers - Oliver - Code review demo~~
+  
+  - [ ] Afternoon: Teams present their project plans (PT, lo-fi's and Mock Up's) - Shift teams (Ultra and Faraz)
   
 - **Thursday:**
-   - [ ] Afternoon: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz on CraftEd) - Thomas
-   - [ ] Morning: Geocoding - determine what edition the user is served - Thomas Resource: [https://youtu.be/DJ7SCFwMPho](https://youtu.be/DJ7SCFwMPho)
+   - [ ] Authentication in Rails-React-Redux using a package (pick Greg's brain and then Thomas) - Oliver
+   - [ ] Afternoon: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz on CraftEd) - Thomas (Oliver will support)
+
 
 - **Friday:**
-  - [ ] Afternoon: Agile Methodologies Intro - Thomas (Agile Mindset slides) **Crafting an MVP slides on drive/Agile**
+   - [ ] Afternoon: Internationalization (i18n) - Faraz [Part 1](https://youtu.be/eBwjN5drg-Q) | [Part 2]     (https://youtu.be/0Nen6z0cIbo) https://medium.freecodecamp.org/setting-up-internationalization-in-react-from-start-to-finish-6cb94a7af725
   - [ ] Student retro
 
 ### Week 9
@@ -66,7 +82,8 @@ No challenge - just work on the News Room Challenge
 
 - **Tuesday:**
   - [ ] Morning: instead of morning scrum: Sprint Review - Facilitated by Faraz + All Coaches (Ship some code, Simulation (Faraz CEO and Thomas CTO)
-  - [ ] Afternoon: Introduce local based events (crimes from Brottsplatskartan API?) (mobsession - coding) - Thomas & Faraz
+   - [ ] Morning: Geocoding (Rails and React) - determine what edition the user is served - Thomas Resource: [https://youtu.be/DJ7SCFwMPho](https://youtu.be/DJ7SCFwMPho)
+ ~~- - [ ] Afternoon: Introduce local based events (crimes from Brottsplatskartan API?) (mobsession - coding) - Thomas & Faraz~~-
   - [ ] Dry Run Advanced Stripe All coaches 
 
 - **Wednesday:**
