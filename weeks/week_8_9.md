@@ -76,24 +76,25 @@ No challenge - just work on the News Room Challenge
 ### Week 9
 - **Monday:**
   ~~- [ ] Morning: Intro to Scrum & XP - Thomas (slides demo)~~ **This cohort already had this talk**
+   - [ ] Morning: instead of morning scrum: Sprint Review - Facilitated by Faraz + All Coaches (Ship some code, Simulation (Faraz CEO and Thomas CTO)
    - [ ] Morning: File attachements (Active Storage) - Thomas & Oliver (mobsession - coding(Students need to code with coach))
    - [ ] Afternoon: File attachements using Cloud storage (AWS S3, Use Encrypted Credentials Rails 5.2) - Thomas & Oliver (mobsession - coding(Students need to code with coach))
 
 
 - **Tuesday:**
-  - [ ] Morning: instead of morning scrum: Sprint Review - Facilitated by Faraz + All Coaches (Ship some code, Simulation (Faraz CEO and Thomas CTO)
+ 
    - [ ] Morning: Geocoding (Rails and React) - determine what edition the user is served - Thomas Resource: [https://youtu.be/DJ7SCFwMPho](https://youtu.be/DJ7SCFwMPho)
  ~~- - [ ] Afternoon: Introduce local based events (crimes from Brottsplatskartan API?) (mobsession - coding) - Thomas & Faraz~~-
+  - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers, Presenters?) - Thomas & Oliver & Faraz & ultra?? (slides + coding demo) Thomas will look into this. 
+  [resource for serializer testing](https://github.com/CraftAcademy/we_meet/tree/development/spec/serializers)
   - [ ] Dry Run Advanced Stripe All coaches 
 
 - **Wednesday:**
   - [ ] Revisiting Stripe with stripe elements (subscriptions, recurring payments, styling ) - Thomas and Faraz (mobsession - coding)  10am
-  - [ ] Morning: The Shuffle! Hide in Edx - Faraz
-  - [ ] Teams onboard new members - No coach support
+ ~~- - [ ] Morning: The Shuffle! Hide in Edx - Faraz
+  - [ ] Teams onboard new members - No coach support~~
 
-- **Thursday:**
-  - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers, Presenters?) - Thomas & Oliver & Faraz & ultra?? (slides + coding demo) Thomas will look into this. https://github.com/Netflix/fast_jsonapi
-  - [ ] Workshop on a new framework/tool Cypress ( students can join if they like ) - Thomas & Faraz 
+~~- **Thursday:**~~
 
 - **Friday:**
   - [ ] Morning: Software Craftsmanship talk - Thomas? (slides demo) **Slides available on drive/ Agile**
