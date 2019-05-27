@@ -11,7 +11,7 @@ This week, we'll learn how to use testing to keep our code concise, structured a
 
 ### Demos
 * Monday - Our first unit tests with RSpec - Noel 
-* Thursday - FizzBuzz demo - Thomas & Noel 
+* Thursday - FizzBuzz demo - Noel 
 
 ### Resources
 
