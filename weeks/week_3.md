@@ -35,23 +35,26 @@ Add a CV page to your portfolio using JSON file AND add a contact form (using Ne
 * Solidify ReactJS skills.
 
 ### Head Coach
-Thomas
+Oliver
 
 ### Guide
 - **Monday:**
-  - [ ] Morning: Introduction to ReactJS - 2 parts (Thomas - https://docs.google.com/presentation/d/1loDvAo_ji612mlLlBB-_Cb6WL-LxqDhXND7FYefQuUY/edit?usp=sharing)
-  - [ ] Afternoon: Introduction to Portfolio Challenge (Thomas)
-  - [ ] Afternoon: CodeWars Hour - Faraz (Would really be good to do this everyday of this week)
+  - [ ] Morning: Introduction to ReactJS - 2 parts (Oliver - https://docs.google.com/presentation/d/1loDvAo_ji612mlLlBB-_Cb6WL-LxqDhXND7FYefQuUY/edit?usp=sharing)
+  - [ ] Afternoon: Introduction to Portfolio Challenge (Oliver - https://docs.google.com/presentation/d/1-A4s8OwQRUJd2V7Lnot6JGhpKR-QHehKsraFRjt0pAw/edit?usp=sharing)
+  - [ ] Afternoon: CodeWars Hour - Faraz (Would really be good to do this everyday of this week) Create Slidedeck on why to use Katas
 - **Tuesday:**
-  - [ ] Morning: Portfolio Challenge - Coding demo (Thomas)
+  - [ ] Morning: Portfolio Challenge - Coding demo (Oliver)  
+  - [ ] Afternoon: Software Craftsmanship - Thomas??  
   - [ ] Afternoon: CodeWars Hour - Faraz
 - **Wednesday:**
-  - [ ] Morning: Deploying to Netlify - Faraz
-  - [ ] Vanilla JS vs jQuery - Thomas (based on http://youmightnotneedjquery.com/)
+  - [ ] Morning: Deploying to Netlify - Faraz- [ ] Morning: Introduction to ReactJS - 2 parts (Oliver - https://docs.google.com/presentation/d/1loDvAo_ji612mlLlBB-_Cb6WL-LxqDhXND7FYefQuUY/edit?usp=sharing)
+43
+  - [ ] Afternoon: Introduction to P
   - [ ] Afternoon: CodeWars Hour - Faraz
 - **Thursday:** 
-  - [ ] Afternoon: Software Craftsmanship - Thomas??
-  - [ ] Morning: Introduce weekend challenge briefly with examples (Add CV and Forms). - Thomas
+  - [ ] Afternoon: Vanilla JS vs jQuery - Thomas (based on http://youmightnotneedjquery.com/)
+- **Friday:**
+  - [ ] Morning: Introduce weekend challenge briefly with examples (Add CV and Forms). - Oliver
   - [ ] Afternoon: Tech interview training - Rock Paper Scissors - theory
-- **Friday:** RED day
- 
+
+
