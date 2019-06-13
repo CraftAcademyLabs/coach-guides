@@ -51,27 +51,28 @@ In order to read our articles. We need a user to sign up
 * Read documentation
 
 ### Head coach: Faraz
-#### First Line: Thomas
+#### First Line: Oliver
 
 ### Guide
-- **Monday:** RED day
-
+- **Monday:** 
+  - [ ] Morning: Introduce Rails & AUT Part 1 (intro to Articles challenge, Factorybot, Fixtures) - Faraz, Create Slidedeck
+  - [ ] Afternoon: Introduce Rails & AUT Part 2 (intro to Articles challenge, Factorybot, Fixtures) - Faraz
 
 - **Tuesday:** 
-  - [ ] Morning: Introduce Rails & AUT Part 1 (intro to Articles challenge, Factorybot, Fixtures) - Thomas
-  - [ ] Morning: Introduce Rails & AUT Part 2 (intro to Articles challenge, Factorybot, Fixtures) - Thomas
-  - [ ] Introduce to web architecture (MVC) - Thomas or Faraz (make it a discussion) - Faraz
+  - [ ] Morning: Introduce to web architecture (MVC) - Thomas or Faraz (make it a discussion) - Faraz
+  - [ ] Afternoon: Introduce the Legacy Code Challenge - Faraz + Oliver
+  - [ ] Afternoon: The concept of the params hash [Use this as reference](https://www.youtube.com/watch?v=y57OnWV6dRE) - Faraz
 
 
 - **Wednesday:**
   - [ ] Morning: Check the submissions of the AUT code on GitHub - All Coaches
-  - [ ] Morning: Introduce the Legacy Code Challenge - Faraz
   - [ ] Afternoon: Mobsession making and reviewing PRs - Faraz, Oliver & Thomas (timebox for max 30 min 15 min coding 15 min review)
 
 - **Thursday:**
-  - [ ] Morning: Validations in Rails and instance methods - Thomas
-  - [ ] Morning: The concept of the params hash [Use this as reference](https://www.youtube.com/watch?v=y57OnWV6dRE) - Faraz
-  - [ ] Afternoon: Introduce Heroku, walkthrough of how to deploy [For Reference](https://devcenter.heroku.com/articles/getting-started-with-ruby)- Oliver - Make them deploy the AUT challenge ( problem with buildpack for bundler 2 add a specific buildpack) - Make sure by the end of the day through submissions OLIVERRR
+  - [ ] Morning: Validations in Rails and instance methods - Faraz, Create slidedeck + Thomas
+  - [ ] Afternoon: Introduce Heroku, walkthrough of how to deploy [For Reference](https://devcenter.heroku.com/articles/getting-started-with-ruby)- Oliver - Make them deploy the AUT challenge ( problem with buildpack for bundler 2 add a specific buildpack) - Make sure by the end of the day through submissions 
+  
+  CREATE SLIDEDECK!
   
   This is the buildpack you need to use (if you add it from CLI): 
 
