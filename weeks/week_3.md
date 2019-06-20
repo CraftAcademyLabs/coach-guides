@@ -49,8 +49,6 @@ Oliver
 - **Wednesday:**
   - [ ] Morning: Deploying to Netlify - Faraz
   - [ ] Morning: Introduction to ReactJS - 2 parts (Oliver - https://docs.google.com/presentation/d/1loDvAo_ji612mlLlBB-_Cb6WL-LxqDhXND7FYefQuUY/edit?usp=sharing)
-43
-  - [ ] Afternoon: Introduction to P
   - [ ] Afternoon: CodeWars Hour - Faraz
 - **Thursday:** 
   - [ ] Afternoon: Vanilla JS vs jQuery - Thomas (based on http://youmightnotneedjquery.com/)
