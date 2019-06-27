@@ -61,18 +61,18 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   - [ ] Morning: Cartify demo - Faraz
 
 - **Wednesday:** Find recordings of every talk below (Oliver) 
-  - [ ] Afternoon: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Thomas
+  - [ ] Afternoon: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Oliver
     - Send out slides before (Tuesday)
-  - [ ] Afternoon: Rails demo: Advanced Routing (plus resources, nested routes, associations) (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge)- Thomas
+  - [ ] Afternoon: Rails demo: Advanced Routing (plus resources, nested routes, associations) (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge)- Oliver
 
 - **Thursday:**
-    - [ ] Morning: Rails demo: Active Record (migrations, associations, CRUD functions) - Thomas & Faraz
-    - [ ] Afternoon: AUT demo using Sails - Oliver
-    - [ ] Afternoon: Talk about the midcourse project - Thomas
+    - [ ] Morning: Rails demo: Active Record (migrations, associations, CRUD functions) - Faraz
+    - [ ] Afternoon: AUT demo using Sails - Oliver (update delivery)
+    - [ ] Afternoon: Talk about the midcourse project - Faraz & Oliver
 
 
 - **Friday:**
   - [ ] Morning: Introduce the Weekend Challenge (Styling as a group + Comments challenge individually) - Faraz
-  - [ ] Afternoon: In depth Rails demo: Most common helpers (focus on forms) - Thomas
+  - [ ] Afternoon: In depth Rails demo: Most common helpers (focus on forms) - Faraz
     - https://m.patrikonrails.com/rails-5-1s-form-with-vs-old-form-helpers-3a5f72a8c78a?gi=c7e478d9361b
   - [ ] Afternoon: Tech interview training - Second part of the RPS Challenge
