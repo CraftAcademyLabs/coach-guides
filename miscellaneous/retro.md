@@ -33,4 +33,4 @@ The stakeholders discuss the process that they are following and give any sugges
   - What went wrong during the period?
   - What could we do differently?
 - Identify and prioritize action points
-- Summarize what we have dicided upon.
+- Summarize what we have decided upon.
