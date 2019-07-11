@@ -1,4 +1,4 @@
-## Week 6
+Advanced## Week 6
 ### Introduction to this week
 
 #### Swedish
@@ -28,8 +28,8 @@ Put all of the skills you have picked up to use in a group project.
 
 ### Guide
 
-### Head Coach : Thomas
-#### First line: Oliver and Faraz
+### Head Coach : Oliver
+#### First line: Noel and Adi
 Let's be strict with the support protocol AND who is giving support. Communicate who is in charge in morning scrum AND on Slack.
 
 Mob Discussion sessions will be held every other day.
@@ -39,12 +39,12 @@ Mob Discussion sessions will be held every other day.
   - [ ] Afternoon 14:00: How to consume an API's both in Rails and JS - Oliver (StarWars API - start with pure ruby, then Rails, then JS. Prepare Rails application. Research JumpStart https://www.youtube.com/watch?v=ssOZpISfIfI&t=1s)
 
 - **Tuesday:**
-  - [ ] Morning 11:15: In depth Rails demo: Authentication & Authorization (Devise + basic authorization using booleans) - Thomas Part 1
-  - [ ] Afternoon 14:00: In depth Rails demo: Authentication & Authorization (Pundit) - Thomas Part 2
+  - [ ] Morning 11:15: In depth Rails demo: Authentication & Authorization (Devise + basic authorization using booleans) - Oliver Part 1
+  - [ ] Afternoon 14:00: In depth Rails demo: Authentication & Authorization (Pundit) - Oliver Part 2
   
 - **Wednesday:**
   - [ ] Morning 10:00: OAuth demo (Facebook - very basic OAuth for web apps) - Oliver (will use one of the teams codebase but prepare a boilerplate just in case)
-  - [ ] Afternoon 14:00: Advanced associations with ActiveRecord - Oliver (same slide deck as part 1)
+  ~~- [ ] Afternoon 14:00: Advanced associations with ActiveRecord - Oliver (same slide deck as part 1)~~
 
 - **Thursday:**
  - [ ] Morning 11:00: How to get paid (Stripe)  Part 1 - Thomas + Faraz (prepare pre-recording)
