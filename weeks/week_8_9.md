@@ -70,15 +70,14 @@ No challenge - just work on the News Room Challenge
 
 
 - **Friday:**
-   - [ ] Afternoon: Internationalization (i18n) - Faraz [Part 1](https://youtu.be/eBwjN5drg-Q) | [Part 2]     (https://youtu.be/0Nen6z0cIbo) https://medium.freecodecamp.org/setting-up-internationalization-in-react-from-start-to-finish-6cb94a7af725
   - [ ] Student retro
 
 ### Week 9
 - **Monday:**
   ~~- [ ] Morning: Intro to Scrum & XP - Thomas (slides demo)~~ **This cohort already had this talk**
    - [ ] Morning: instead of morning scrum: Sprint Review - Facilitated by Faraz + All Coaches (Ship some code, Simulation (Faraz CEO and Thomas CTO)
-   - [ ] Morning: File attachements (Active Storage) - Thomas & Oliver (mobsession - coding(Students need to code with coach))
-   - [ ] Afternoon: File attachements using Cloud storage (AWS S3, Use Encrypted Credentials Rails 5.2) - Thomas & Oliver (mobsession - coding(Students need to code with coach))
+   - [ ] Morning: File attachements (Active Storage) - Oliver (mobsession - coding(Students need to code with coach))
+   - [ ] Afternoon: File attachements using Cloud storage (AWS S3, Use Encrypted Credentials Rails 5.2) - Oliver (mobsession - coding(Students need to code with coach))
 
 
 - **Tuesday:**
@@ -95,13 +94,14 @@ No challenge - just work on the News Room Challenge
   - [ ] Teams onboard new members - No coach support~~
 
 ~~- **Thursday:**~~
+  - [ ] Afternoon: Internationalization (i18n) - Faraz [Part 1](https://youtu.be/eBwjN5drg-Q) | [Part 2]     (https://youtu.be/0Nen6z0cIbo) https://medium.freecodecamp.org/setting-up-internationalization-in-react-from-start-to-finish-6cb94a7af725
 
 - **Friday:**
   - [ ] Morning: Software Craftsmanship talk - Thomas? (slides demo) **Slides available on drive/ Agile**
   https://docs.google.com/presentation/d/1lo8EFDeQr6kCayHWYtAsPYhm3ONkjRirJW2_U504wrY/edit port slide deck to new style. 
   - [ ] Tech interview training - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md) - Go over Unter 
-  - [ ] Start a designsprint for the mobile client (Objectives: Showing all articles, showing articles in categories, Show specific articles, authentication, payment flow) - Oliver 
-  - [ ] Weekend assignment - Download Android Studio (Linux) and XCode (OsX)
+  - [ ] (Start a designsprint for the mobile client (Objectives: Showing all articles, showing articles in categories, Show specific articles, authentication, payment flow) - Oliver )
+  - [ ] (Weekend assignment - Download Android Studio (Linux) and XCode (OsX))
 
 ### Week 10
 
