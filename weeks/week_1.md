@@ -38,29 +38,30 @@ HeadCoach: **Faraz**
 Firstline: **Noel**
 
 - **Monday:**
-We start at 9.00
-  - [ ] First-day logistics: bricka, tour of the building, who-is-who and their availability - Thomas (Gothenburg), Faraz (Stockholm)
+We start at 9.30
+  - [ ] First-day logistics: Talk about openlab - Rebecca
   - [ ] Overview lecture on Craft Academy, 8 traits of a developer, etc. - Thomas (Last time as a default)
   - [ ] Get-to-know-you intro "game" - Faraz & all coaches & seniors 11:00
-  - [ ] Presentations - everyone 
+    - Who are you?
+    - Why are you here?
+    - Where are you going?
+  - [ ] Presentations - everyone 30 min max
   - [ ] Communication talk - Faraz (Slack, Student letter & handbook!, Craft Overflow, (Noel & Oliver buys pizzas)
-  - [ ] 
   - [ ] Introduce the week lab after Day One activities by going over the materials in EdX - Faraz
   - [ ] Programming demo - "... The should be an ATM I can use" - Faraz (Emphasize on the transition from User story to actual code)
   
 **Tuesday:**
-  - [ ] Understanding the problem statement (Planning demo) - the ATM challenge - Oliver - Noel
-  - [ ] Basic programming recap - Live
-  - [ ] Git & GitHub talk and demo - pull requests, forking, cloning, etc. - Oliver & Noel 
+  - [ ] Understanding the problem statement (Planning demo) - the ATM challenge - Thomas 
+  - [ ] Basic programming recap - Faraz
+  - [ ] Git & GitHub talk and demo - pull requests, forking, cloning, Focus on gitpong. - Faraz & Noel 
   
 **Wednesday:**
   - [ ] Learning strategies - Faraz ("You've been at it 2 days.. head hurts... big diff from prep course... find a good strategy.. or you'll die")
   - [ ] Intermediate topics to testing with RSpec (Doubles, Dynamic Matchers, etc...) - Faraz 
-  - [ ] "Cash is King" demo - iterating over arrays - Faraz [Recording](https://youtu.be/8Rm0YrVicIc)
 
 **Thursday:**
-  - [ ] The right way to search the internet for information (using the docs, Stack Overflow, research) - Faraz (Discussion - How are they doing it now... Give our suggestions)
-  - [ ] Debugging demo - both in code and spec tests - Faraz [Recording] _Look up the link to the recording_
+  - [ ] The right way to search the internet for information (using the docs, Stack Overflow, research) - Faraz (Discussion     - How are they doing it now... Give our suggestions)
+  - [ ] Debugging demo - both in code and spec tests - Thomas [Recording] _Look up the link to the recording_
 
 - **Friday:**
   - [ ] Introduce the Weekend Challenge by going over the materials in CraftEd (Same pairs) - Faraz
@@ -73,4 +74,4 @@ We start at 9.00
 - Notebooks and pens for all participants (I'd like to do a really nice thing with printed pages but for now, just a notebook with a sticker on it is good.)
 - Buy lunch for them Pizzaz
 - Introduce the entire team. If you don't want to be available at all hours of the day, give them hours of your availability.
-- As much as possible, have logistics already set up: cohort and Atlantis rooms clean and ready to work in, monitors and cables ready, headphones, brickor for the students. (Sophie has booked The Room - Stockholm)
+- As much as possible, have logistics already set up: cohort and Atlantis rooms clean and ready to work in, monitors and cables ready, headphones, brickor for the students. (Noel has booked The Room - Stockholm)
