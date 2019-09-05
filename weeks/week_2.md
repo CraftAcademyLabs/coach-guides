@@ -46,19 +46,19 @@ Thomas
   - [ ] Afternoon: Asynchronous Programing with JS (Promises) - Faraz (async, await), new slidedeck and pre-record 
   
 - **Tuesday:**
-  - [ ] Morning: Introduce the week lab (Address Book) do a demo where we scaffold the project - Oliver - Show the finished product. Give a brief intro to BDD - Create Slidedeck
+  - [ ] Morning: Introduce the week lab (Address Book) do a demo where we scaffold the project - Faraz - Show the finished product. Give a brief intro to BDD - Create Slidedeck
   - [ ] Afternoon: Introduce Debugging with Chrome - Faraz
   - [ ] Afternoon: Intro on Agile methodologies (Crafting an MVP - Scrum, mention Kanban??? ) - Thomas
   
 - **Wednesday:**
   - [ ] Afternoon: Individually review (1-on-1 or pairs) pull requests/submissions from Ruby weekend challenge (ATM Challenge and Library Challenge) - Faraz 
-   - [ ] Afternoon: Demo: Add some styling to Address book app using a a front-end CSS framework - Oliver (show them with cdn for CSS and js. Tell them that this is the ONLY time we can use cdn) - Create Slidedeck, focus on what CDN is, when to use it?
+   - [ ] Afternoon: Demo: Add some styling to Address book app using a a front-end CSS framework - Faraz (show them with cdn for CSS and js. Tell them that this is the ONLY time we can use cdn) - Create Slidedeck, focus on what CDN is, when to use it?
    
 - **Thursday:**
-  - [ ] Afternoon: Introduce the Weekend Challenge [FizzBuzz Js Challenge ](../miscellaneous/assessments/week_2_assessment.md) (Faraz) Note: We want to use the e2e Training Wheels package (https://www.npmjs.com/package/e2e_training_wheels)
-  - [ ] Retrospective - Faraz (Thomas)
+
 
  
-~~- **Friday:**~~
-  
-
+- **Friday:**
+ 
+  - [ ] Afternoon: Introduce the Weekend Challenge [FizzBuzz Js Challenge ](../miscellaneous/assessments/week_2_assessment.md) (Faraz) Note: We want to use the e2e Training Wheels package (https://www.npmjs.com/package/e2e_training_wheels)
+  - [ ] Retrospective - Faraz (Thomas)
