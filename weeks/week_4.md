@@ -60,17 +60,17 @@ In order to read our articles. We need a user to sign up
 
 - **Tuesday:** 
   - [ ] Morning: Introduce to web architecture (MVC) - Thomas or Faraz (make it a discussion) - Faraz
-  - [ ] Afternoon: Introduce the Legacy Code Challenge - Faraz + Oliver
-  - [ ] Afternoon: The concept of the params hash [Use this as reference](https://www.youtube.com/watch?v=y57OnWV6dRE) - Faraz
+  - [ ] Afternoon: Introduce the Legacy Code Challenge - Faraz 
+  - [ ] Morning: Check the submissions of the AUT code on GitHub - Oliver & Noel
 
 
 - **Wednesday:**
-  - [ ] Morning: Check the submissions of the AUT code on GitHub - Oliver & Noel
+  - [ ] Afternoon: The concept of the params hash [Use this as reference](https://www.youtube.com/watch?v=y57OnWV6dRE) - Faraz
   - [ ] Afternoon: Mobsession making and reviewing PRs - Faraz, Oliver & Noel (timebox for max 30 min 15 min coding 15 min review)
 
 - **Thursday:**
-  - [ ] Morning: Validations in Rails and instance methods - Faraz, Create slidedeck + Thomas
-  - [ ] Afternoon: Introduce Heroku, walkthrough of how to deploy [For Reference](https://devcenter.heroku.com/articles/getting-started-with-ruby)- Oliver - Make them deploy the AUT challenge ( problem with buildpack for bundler 2 add a specific buildpack) - Make sure by the end of the day through submissions - Create slidedeck
+  - [ ] Morning: Introduce Heroku, walkthrough of how to deploy [For Reference](https://devcenter.heroku.com/articles/getting-started-with-ruby)- Oliver - Make them deploy the AUT challenge ( problem with buildpack for bundler 2 add a specific buildpack) - Make sure by the end of the day through submissions - Create slidedeck
+  - [ ] Afternoon: Validations in Rails and instance methods - Faraz, Create slidedeck + Thomas
   
   This is the buildpack you need to use (if you add it from CLI): 
 
