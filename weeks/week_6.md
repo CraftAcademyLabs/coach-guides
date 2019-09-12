@@ -51,7 +51,7 @@ Mob Discussion sessions will be held every other day.
  - [ ] Afternoon 14:00: How to get paid (Stripe) Part 2 - Thomas + Faraz
  
 - **Friday:**
- - [ ] Afternoon 15:30: Project Retro and UX/function review  (give feedback for the weekend) - All Coaches
+ - [ ] Afternoon 15:30: Project Retro and UX/function review  (give feedback for the weekend) - All Coaches Do this on monday ollie
   
   ### Resources
   * [Devise Introduction](https://youtu.be/BBKiHPotInA)
