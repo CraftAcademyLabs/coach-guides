@@ -60,16 +60,14 @@ The weekend is devoted to focus on the User experience of the app. Here we start
       - Rails doctrine, etc...
   - [ ] Morning: Cartify demo - Faraz
 
-- **Wednesday:** Find recordings of every talk below (Oliver) 
+- **Wednesday:** 
   - [ ] Afternoon: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Oliver
     - Send out slides before (Tuesday)
   - [ ] Afternoon: Rails demo: Advanced Routing (plus resources, nested routes, associations) (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge)- Oliver
 
 - **Thursday:**
     - [ ] Morning: Rails demo: Active Record (migrations, associations, CRUD functions) - Faraz
-    - [ ] Afternoon: AUT demo using Sails - Oliver (update delivery)
     - [ ] Afternoon: Talk about the midcourse project - Faraz & Oliver
-
 
 - **Friday:**
   - [ ] Morning: Introduce the Weekend Challenge (Styling as a group + Comments challenge individually) - Faraz
