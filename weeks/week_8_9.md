@@ -127,6 +127,7 @@ Extending News Room with API and Mobile Client
   - [ ] Afternoon: OAuth Demo on mobile (FB) - Oliver (mobsession - coding on backend - use the api only code you created on Wednesday and grab an Ionic app we have and implement OAuth)????????
 
 - **Friday:**
+- [ ] Present Newsroom challenge to audience (Dry run for final project/ book big room & test recording equipment. )
   - [ ] Pepp talk before Final Project - All coaches
   - [ ] Retro - All coaches
 
