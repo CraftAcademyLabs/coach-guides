@@ -69,17 +69,18 @@ In order to read our articles. We need a user to sign up
   - [ ] Afternoon: Mobsession making and reviewing PRs - Faraz, Oliver & Noel (timebox for max 30 min 15 min coding 15 min review)
 
 - **Thursday:**
-  - [ ] Morning: Introduce Heroku, walkthrough of how to deploy [For Reference](https://devcenter.heroku.com/articles/getting-started-with-ruby)- Oliver - Make them deploy the AUT challenge ( problem with buildpack for bundler 2 add a specific buildpack) - Make sure by the end of the day through submissions - Create slidedeck
-  - [ ] Afternoon: Validations in Rails and instance methods - Faraz, Create slidedeck + Thomas
-  
+  - [ ] Morning: Introduce Heroku, walkthrough of how to deploy [For Reference](https://devcenter.heroku.com/articles/getting-started-with-ruby)- Oliver - Make them deploy the AUT challenge ( problem with buildpack for bundler 2 add a specific buildpack) - Make sure by the end of the hour through submissions
   This is the buildpack you need to use (if you add it from CLI): 
 
   ```
   heroku create --buildpack https://github.com/bundler/heroku-buildpack-bundler2.git
   ```
+  
+  - [ ] Afternoon: Validations in Rails and instance methods - Faraz, Create slidedeck
       
 - **Friday:**
   - [ ] Morning: Rails demo: routing (plus resources) [Slides](https://docs.google.com/presentation/d/1Eu_x1eO9Zkmkb1RyflUONTipOjnDUtfUmSabO8-jyoQ) - Faraz (`--skip-routes` `--skip-views`)
-  - [ ] Introduce the Weekend Challenge (Devise Gem) - Faraz 
+  - [ ] Introduce the Weekend Challenge (Devise Gem) - Faraz
+  - [ ] Mobsession to finish up AUT (edit & create articles) - Oliver
   - [ ] Retro - All coaches  
   
