@@ -35,20 +35,20 @@ Let's be strict with the support protocol AND who is giving support. Communicate
 ### Guide
 - **Monday:** (React)
   - [ ] Morning 10.30 : Introduce BMI challenge (pairs up students) - Oliver
-  - [ ] AUT in React (based on the outside in testing post - see Medium) - Thomas 
+  - [ ] AUT in React (based on the outside in testing post - see Medium) - Oliver 
 
 - **Tuesday:** (Start Cooper challenge) 
-  - [ ] [Semantic UI](https://react.semantic-ui.com/) - Thomas
+  - [ ] [Semantic UI](https://react.semantic-ui.com/) - Oliver
   - [ ] Afternoon (14:00): Introduce Cooper challenge - Oliver
 
 - **Wednesday:**  
-  - [ ] Morning: RESTful APIs in Rails - Thomas (10:30pm)
+  - [ ] Morning: RESTful APIs in Rails - Faraz (10:30pm)
 
 - **Thursday:**  
   - [ ] Afternoon: The simple truths - Thomas (14:00pm)
 
 - **Friday:**
   - [ ] Data Visualization Challenge (ChartJS/Styling) 
-  - [ ] [Introduce the weekend challenge](https://class.craftacademy.co/courses/course-v1:CraftAcademy+CA-CC-01+2018/courseware/96bf29b196214229a1f5b420c670ac7f/71f526bca64d410abab417bd304e68f6/?activate_block_id=block-v1%3ACraftAcademy%2BCA-CC-01%2B2018%2Btype%40sequential%2Bblock%4071f526bca64d410abab417bd304e68f6) - Thomas (09:30)
+  - [ ] [Introduce the weekend challenge](https://class.craftacademy.co/courses/course-v1:CraftAcademy+CA-CC-01+2018/courseware/96bf29b196214229a1f5b420c670ac7f/71f526bca64d410abab417bd304e68f6/?activate_block_id=block-v1%3ACraftAcademy%2BCA-CC-01%2B2018%2Btype%40sequential%2Bblock%4071f526bca64d410abab417bd304e68f6) - Oliver (09:30)
   
 - [ ] Tech interview training - All coaches https://github.com/CraftAcademyLabs/coach-guides/blob/curriculum-2.0/miscellaneous/assessments/week_7_assessment.md
