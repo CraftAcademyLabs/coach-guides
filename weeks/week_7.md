@@ -34,7 +34,8 @@ Let's be strict with the support protocol AND who is giving support. Communicate
 
 ### Guide
 - **Monday:** (React)
-  - [ ] Morning 10.30 : Introduce BMI challenge (pairs up students) - Oliver
+  - [ ] Morning: Noel pair up students
+  - [ ] Morning 10.30 : Introduce BMI challenge - Oliver
   - [ ] AUT in React (based on the outside in testing post - see Medium) - Oliver 
 
 - **Tuesday:** (Start Cooper challenge) 
