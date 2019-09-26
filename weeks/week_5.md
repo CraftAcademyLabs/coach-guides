@@ -49,10 +49,12 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 ### Guide
 - **Monday:**
   - [ ] Morning: Introduce Slowfood Challenge - Faraz
+    - Use Rails 6
+    - Release old video of Extracting info from user stories
     - Point to set up rails guide in course documentation (boilerplate)
   - [ ] Morning: Do a Overview of a Design Sprint. - Faraz & Oliver
   - [ ] Students go through stories and create lofis - From PT board
-  - [ ] Afternoon: Setting up Semaphore and Continious deployment Also talk about coveralls - Faraz [CI and CD slides](https://docs.google.com/presentation/d/1Y0YBeRV9Da9exfEQXZFyJob0d6pbBKofPj3fjHp_yMQ/edit#slide=id.p9)
+  - [ ] Afternoon: Setting up Semaphore and Continious deployment Also talk about coveralls - Oliver [CI and CD slides](https://docs.google.com/presentation/d/1Y0YBeRV9Da9exfEQXZFyJob0d6pbBKofPj3fjHp_yMQ/edit#slide=id.p9)
   
 - **Tuesday:**
   - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC, config). - Faraz
@@ -65,7 +67,7 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   - [ ] Afternoon: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Oliver
 
 - **Thursday:**
-    - [ ] Morning: Rails demo: Advanced Routing (plus resources, nested routes, associations) (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge)- Oliver
+    - [ ] Morning: Rails mobsession: Advanced Routing (associations, continuation on Active Record talk) (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge)- Oliver
     - [ ] Afternoon: Talk about the midcourse project - Faraz & Oliver
 
 - **Friday:**
