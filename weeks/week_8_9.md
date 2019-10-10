@@ -49,7 +49,7 @@ No challenge - just work on the News Room Challenge
 
 ### Week 8
 - **Monday:**
-  - [ ] Morning: Introduction to News Room Challenge - Faraz & Oliver give them PT but sell that idea
+  - [ ] Morning: Introduction to News Room Challenge - Faraz & Oliver give them PT and strict requirements from the client
     - [ ] Oliver sets up new PT board
   - [ ] Morning: Students start the Design Sprint - Recap of the Design Sprint and intro to Epics (introduce prioritization and voting, tasks = AC) - Faraz (Tell them about including lo-fi/mock up in PT but also to the PR once they have worked on it)
 
@@ -58,76 +58,67 @@ No challenge - just work on the News Room Challenge
   - [ ] Afternoon: Agile Methodologies Intro - Thomas (Agile Mindset slides) **Crafting an MVP slides on drive/Agile**
   - [ ] Afternoon: Workshop on story prioritization and voting - Faraz & Oliver
 
-
 - **Wednesday:**
-  ~~- [ ] Morning: Multiple OAuth providers - Oliver - Code review demo~~
-  
-  - [ ] Afternoon: Teams present their project plans (PT, lo-fi's and Mock Up's) - Shift teams (Ultra and Faraz)
-  
+  - [ ] Afternoon: Teams present their project plans (PT, lo-fi's and Mock Up's) - Shift teams
+  - [ ] Authentication in Rails-React-Redux using a package (pick Greg's brain and then Thomas) - Oliver
+ 
 - **Thursday:**
-   - [ ] Authentication in Rails-React-Redux using a package (pick Greg's brain and then Thomas) - Oliver
-   - [ ] Afternoon: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz on CraftEd) - Thomas (Oliver will support)
-
+ - [ ] Morning: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers, Presenters?) - Thomas & Oliver & Faraz & ultra?? (slides + coding demo) Thomas will look into this. 
+  [resource for serializer testing](https://github.com/CraftAcademy/we_meet/tree/development/spec/serializers)
+ - [ ] Afternoon: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz on CraftEd) - Thomas (Oliver will support)
 
 - **Friday:**
   - [ ] Student retro
+  - [ ] Morning: File attachements (Active Storage) - Oliver (RAILS mobsession - coding (Students need to code with coach))
+
 
 ### Week 9
 - **Monday:**
-  ~~- [ ] Morning: Intro to Scrum & XP - Thomas (slides demo)~~ **This cohort already had this talk**
-   - [ ] Morning: instead of morning scrum: Sprint Review - Facilitated by Faraz + All Coaches (Ship some code, Simulation (Faraz CEO and Thomas CTO)
-   - [ ] Morning: File attachements (Active Storage) - Oliver (mobsession - coding(Students need to code with coach))
-   - [ ] Afternoon: File attachements using Cloud storage (AWS S3, Use Encrypted Credentials Rails 5.2) - Oliver (mobsession - coding(Students need to code with coach))
-
+  - [ ] Morning: instead of morning scrum: Sprint Review - Facilitated by Faraz + All Coaches (Ship some code, Simulation (Faraz CEO and Thomas CTO)
+   - [ ] Afternoon: File attachements using Cloud storage (AWS S3, Use Encrypted Credentials Rails 5.2) - Oliver (mobsession - coding Rails + React (Students need to code with coach)) 
+   - [ ] Afternoon: Intro to Scrum & XP - Thomas (slides demo)
 
 - **Tuesday:**
- 
-   - [ ] Morning: Geocoding (Rails and React) - determine what edition the user is served - Thomas Resource: [https://youtu.be/DJ7SCFwMPho](https://youtu.be/DJ7SCFwMPho)
- ~~- - [ ] Afternoon: Introduce local based events (crimes from Brottsplatskartan API?) (mobsession - coding) - Thomas & Faraz~~-
-  - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers, Presenters?) - Thomas & Oliver & Faraz & ultra?? (slides + coding demo) Thomas will look into this. 
-  [resource for serializer testing](https://github.com/CraftAcademy/we_meet/tree/development/spec/serializers)
-  - [ ] Dry Run Advanced Stripe All coaches 
+   - [ ] THE Shuffle Change teams
+   - [ ] Teams onboard new members - No coach support
+   - [ ] Afternoon: Geocoding (Rails and React) - determine what edition the user is served - Thomas 
+      - Resource: https://youtu.be/DJ7SCFwMPho](https://youtu.be/DJ7SCFwMPho)
+        https://drive.google.com/file/d/1knQRoUF7GvdxrIlpVioIMbiPAlQXcpKK/view?usp=sharing
 
 - **Wednesday:**
+  - [ ] Dry Run Advanced Stripe All coaches 
   - [ ] Revisiting Stripe with stripe elements (subscriptions, recurring payments, styling ) - Thomas and Faraz (mobsession - coding)  10am
- ~~- - [ ] Morning: The Shuffle! Hide in Edx - Faraz
-  - [ ] Teams onboard new members - No coach support~~
 
-~~- **Thursday:**~~
-  - [ ] Afternoon: Internationalization (i18n) - Faraz [Part 1](https://youtu.be/eBwjN5drg-Q) | [Part 2]     (https://youtu.be/0Nen6z0cIbo) https://medium.freecodecamp.org/setting-up-internationalization-in-react-from-start-to-finish-6cb94a7af725
+- **Thursday:**
+  - [ ] Afternoon: Internationalization (i18n) in React - Faraz
 
 - **Friday:**
   - [ ] Morning: Software Craftsmanship talk - Thomas? (slides demo) **Slides available on drive/ Agile**
   https://docs.google.com/presentation/d/1lo8EFDeQr6kCayHWYtAsPYhm3ONkjRirJW2_U504wrY/edit port slide deck to new style. 
   - [ ] Tech interview training - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md) - Go over Unter 
   - [ ] (Start a designsprint for the mobile client (Objectives: Showing all articles, showing articles in categories, Show specific articles, authentication, payment flow) - Oliver )
-  - [ ] (Weekend assignment - Download Android Studio (Linux) and XCode (OsX))
+  - [ ] Weekend Challenge - Download Android Studio (Linux) and XCode (OsX))
 
 ### Week 10
-
-Remember juniors are starting this week
-
-Extending News Room with API and Mobile Client
+Extending News Room with Mobile Client
 
 - **Monday:**
   - [ ] Morning: Getting React Native up and Running on Linux and Mac - Group session with students based on OS version.
-  - [ ] Morning: Instead of morning scrum: Sprint Review for each team - Thomas & Magnus (The teams need to call this meeting)
-  - [ ] React Native (Create slidedeck)- Magnus - Thomas creates a first version. 
+  - [ ] Morning: Instead of morning scrum: Sprint Review for each team - Thomas & Faraz 
+        - (The teams need to call this meeting)
+  - [ ] React Native (Create slidedeck) - Faraz 
     
 - **Tuesday:**
-  - [ ] Morning: In depth Active Model Serializers usage - Thomas (slides + coding demo)
-  - [ ] Afternoon: DevOps with Magnus - Part 1 (Set-up droplet, add db, add Passenger, etc rbenv)
+  - [ ] Afternoon: DevOps with Oliver - Part 1 (Set-up droplet, add db, add Passenger, etc rbenv) or Amazon??
   
 - **Wednesday:**
-   - [ ] Morning Demo: Part 1 Setup Devise Token auth on an existing Rails app with Devise already present - Oliver (slides + coding demo)
-   - [ ] Afternoon: DevOps with Magnus - Part 2 Ansible for deployment
+  - [ ] Afternoon: DevOps with Oliver - Part 2 ( Ansible for deployment ) Amazon??
   
 - **Thursday:**
-  - [ ] Morning: Part 2 User Authentication using tokens - API only - ( new app with RSpec )   - Oliver 
-  - [ ] Afternoon: OAuth Demo on mobile (FB) - Oliver (mobsession - coding on backend - use the api only code you created on Wednesday and grab an Ionic app we have and implement OAuth)????????
+  - [ ] Afternoon: OAuth Demo on Client (FB) - Oliver
 
 - **Friday:**
-- [ ] Present Newsroom challenge to audience (Dry run for final project/ book big room & test recording equipment. )
+  - [ ] Present Newsroom challenge to audience (Dry run for final project/ book big room & test recording equipment. ) or move to monday with the new cohort?
   - [ ] Pepp talk before Final Project - All coaches
   - [ ] Retro - All coaches
 
