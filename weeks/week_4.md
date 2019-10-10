@@ -19,6 +19,8 @@ The Legacy Code Challenge aims at allowing students to write both acceptance tes
 1. Acceptance-Unit Test Cycle with Rails (individual assignment)
 2. Legacy Code challenge (pairing assignment)
 
+Get the cohort to create a Rails application that can be used throughout the rest of the bootcamp
+
 
 ### Learning objectives
 * Learn about Ruby on Rails
