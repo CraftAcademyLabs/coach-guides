@@ -44,6 +44,7 @@ Let's be strict with the support protocol AND who is giving support. Communicate
 
 - **Wednesday:**  
   - [ ] Morning: RESTful APIs in Rails - Faraz (10:30pm)
+     https://drive.google.com/a/craftacademy.se/file/d/1wSwoxHlctA81LgpM2weVKftbgpbVFadE/view?usp=sharing
 
 - **Thursday:**  
   - [ ] Afternoon: The simple truths - Thomas (14:00pm)
