@@ -51,7 +51,7 @@ No challenge - just work on the News Room Challenge
 - **Monday:**
   - [ ] Morning: Introduction to News Room Challenge - Faraz & Oliver give them PT and strict requirements from the client
     - [ ] Oliver sets up new PT board
-  - [ ] Morning: Students start the Design Sprint - Recap of the Design Sprint and intro to Epics (introduce prioritization and voting, tasks = AC) - Faraz (Tell them about including lo-fi/mock up in PT but also to the PR once they have worked on it)
+  - [ ] Morning: Students start the First Sprint(Desing Phase) - Recap of the the First Sprint(Desing Phase) and intro to Epics (introduce prioritization and voting, tasks = AC) - Faraz (Tell them about including lo-fi/mock up in PT but also to the PR once they have worked on it)
 
 - **Tuesday:**
   - [ ] Morning: Product owner intro (Recorded video for students to watch) - Recording (Have them watch it during staff meeting?)
@@ -63,13 +63,14 @@ No challenge - just work on the News Room Challenge
   - [ ] Authentication in Rails-React-Redux using a package (pick Greg's brain and then Thomas) - Oliver
  
 - **Thursday:**
- - [ ] Morning: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers, Presenters?) - Thomas & Oliver & Faraz & ultra?? (slides + coding demo) Thomas will look into this. 
+ - [ ] Morning: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers, Presenters?) - Thomas (coding demo)
   [resource for serializer testing](https://github.com/CraftAcademy/we_meet/tree/development/spec/serializers)
  - [ ] Afternoon: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz on CraftEd) - Thomas (Oliver will support)
 
 - **Friday:**
-  - [ ] Student retro
   - [ ] Morning: File attachements (Active Storage) - Oliver (RAILS mobsession - coding (Students need to code with coach))
+  - [ ] Assessment of the students (one on one)
+  - [ ] Student retro
 
 
 ### Week 9
