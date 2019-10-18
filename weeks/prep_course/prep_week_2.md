@@ -23,7 +23,20 @@ learning to code. It's general purpose and flexible language can be used in web/
 * Understand the difference between running code on the server vs. in the browser
 * Working in the browser compared to IRB 
 
-### Demos
+### Demos & FUP
+
+- [ ] **Monday**: Talking points:
+     - Extentension to VSCode for formatting (2 spaces = 1 tab)
+     - Importance of syntax
+     
+- [ ] **Wednesday**: Talking points:
+      - Error messages (the importance of them don't be scared of them, they are your friends)
+      - Coach hours in the evening, join if yu have problems
+      
+- [ ] **Friday** Talking points:
+    - hard week done
+    - Starting with testing next week
+    
 * Monday - Get to know Ruby  Slides: [Get To Know Ruby] 4pm - Thomas 
 * Wednesday - Mob session Ruby exercises 4pm - Noel 
 * Thursday - Introduction to JavaScript 4pm - Tommy (aka BOB)
