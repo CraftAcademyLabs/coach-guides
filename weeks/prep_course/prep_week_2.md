@@ -32,8 +32,9 @@ learning to code. It's general purpose and flexible language can be used in web/
      
 - [ ] **Wednesday**: Talking points:
 
-      - Error messages the importance of them don't be scared of them, they are your friends
-       - Coach hours in the evening, join if you have problems
+     - Error mesages are good things
+     - Importance of syntax
+     - Evening coach hours
       
 - [ ] **Friday** Talking points:
 
