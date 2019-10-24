@@ -81,6 +81,7 @@ No challenge - just work on the News Room Challenge
 
 - **Tuesday:**
    - [ ] THE Shuffle Change teams
+   
    - [ ] Teams onboard new members - No coach support
    - [ ] Afternoon: Geocoding (Rails and React) - determine what edition the user is served - Thomas 
       - Resource: https://youtu.be/DJ7SCFwMPho](https://youtu.be/DJ7SCFwMPho)
