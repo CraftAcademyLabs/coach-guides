@@ -84,21 +84,18 @@ No challenge - just work on the News Room Challenge
    
    - [ ] Teams onboard new members - No coach support
    - [ ] Afternoon: Geocoding (Rails and React) - determine what edition the user is served - Thomas 
-      - Resource: https://youtu.be/DJ7SCFwMPho](https://youtu.be/DJ7SCFwMPho)
-        https://drive.google.com/file/d/1knQRoUF7GvdxrIlpVioIMbiPAlQXcpKK/view?usp=sharing
+      - Resource: https://drive.google.com/file/d/1knQRoUF7GvdxrIlpVioIMbiPAlQXcpKK/view?usp=sharing
 
 - **Wednesday:**
   - [ ] Dry Run Advanced Stripe All coaches 
-  - [ ] Revisiting Stripe with stripe elements (subscriptions, recurring payments, styling ) - Thomas and Faraz (mobsession - coding)  10am
+  - [ ] Revisiting Stripe with stripe elements (subscriptions, recurring payments, styling ) - Thomas, Faraz and Oliver (mobsession - coding)  10am
 
 - **Thursday:**
   - [ ] Afternoon: Internationalization (i18n) in React - Faraz
 
-- **Friday:**
-  - [ ] Morning: Software Craftsmanship talk - Thomas? (slides demo) **Slides available on drive/ Agile**
-  https://docs.google.com/presentation/d/1lo8EFDeQr6kCayHWYtAsPYhm3ONkjRirJW2_U504wrY/edit port slide deck to new style. 
+- **Friday:** 
   - [ ] Tech interview training - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md) - Go over Unter 
-  - [ ] (Start a designsprint for the mobile client (Objectives: Showing all articles, showing articles in categories, Show specific articles, authentication, payment flow) - Oliver )
+  - [ ] Start a designsprint for the mobile client (Objectives: Showing all articles, showing articles in categories, Show specific articles, authentication, payment flow) - Oliver 
   - [ ] Weekend Challenge - Download Android Studio (Linux) and XCode (OsX))
 
 ### Week 10
