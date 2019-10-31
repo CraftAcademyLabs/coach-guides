@@ -46,6 +46,7 @@ We start at 9.30
     - Why are you here?
     - Where are you going?
   - [ ] Presentations - everyone 30 min max
+   - [ ] Seniors Present Newsroom challenge to audience (Dry run for final project/ book big room & test recording equipment. ) or move to monday with the new cohort?
   - [ ] Communication talk - Faraz (Slack, Student letter & handbook!, Craft Overflow, (Noel & Oliver buys pizzas)
   - [ ] Introduce the week lab after Day One activities by going over the materials in EdX - Faraz
   - [ ] Programming demo - "... The should be an ATM I can use" - Faraz (Emphasize on the transition from User story to actual code)
