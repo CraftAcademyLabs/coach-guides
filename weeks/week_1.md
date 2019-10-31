@@ -39,7 +39,6 @@ Firstline: **Noel**
 
 - **Monday:**
 We start at 9.30
-  - [ ] First-day logistics: Talk about openlab - Rebecca
   - [ ] Overview lecture on Craft Academy, 8 traits of a developer, etc. - Thomas (Last time as a default)
   - [ ] Get-to-know-you intro "game" - Faraz & all coaches & seniors 11:00
     - Who are you?
@@ -47,25 +46,25 @@ We start at 9.30
     - Where are you going?
   - [ ] Presentations - everyone 30 min max
    - [ ] Seniors Present Newsroom challenge to audience (Dry run for final project/ book big room & test recording equipment. ) or move to monday with the new cohort?
-  - [ ] Communication talk - Faraz (Slack, Student letter & handbook!, Craft Overflow, (Noel & Oliver buys pizzas)
+  - [ ] Communication talk - Faraz (Slack, Student letter & handbook!, Craft Overflow
   - [ ] Introduce the week lab after Day One activities by going over the materials in EdX - Faraz
-  - [ ] Programming demo - "... The should be an ATM I can use" - Faraz (Emphasize on the transition from User story to actual code)
+  - [ ] Programming demo - "... The should be an ATM I can use" - Faraz (Greg)(Emphasize on the transition from User story to actual code)
   
 **Tuesday:**
-  - [ ] Understanding the problem statement (Planning demo) - the ATM challenge - Thomas 
-  - [ ] Basic programming recap - Faraz
-  - [ ] Git & GitHub talk and demo - pull requests, forking, cloning, Focus on gitpong. - Faraz & Noel 
+  - [ ] Understanding the problem statement (Planning demo) - the ATM challenge - Faraz 
+  - [ ] Basic programming recap - Noel
+  - [ ] Git & GitHub talk and demo - pull requests, forking, cloning, Focus on gitpong. - Greg & Noel 
   
 **Wednesday:**
   - [ ] Learning strategies - Faraz ("You've been at it 2 days.. head hurts... big diff from prep course... find a good strategy.. or you'll die")
-  - [ ] Intermediate topics to testing with RSpec (Doubles, Dynamic Matchers, etc...) - Faraz 
+  - [ ] Intermediate topics to testing with RSpec (Doubles, Dynamic Matchers, etc...) - Faraz & Noel 
 
 **Thursday:**
-  - [ ] The right way to search the internet for information (using the docs, Stack Overflow, research) - Faraz (Discussion     - How are they doing it now... Give our suggestions)
-  - [ ] Debugging demo - both in code and spec tests - Thomas [Recording] _Look up the link to the recording_
+  - [ ] The right way to search the internet for information (using the docs, Stack Overflow, research) - Faraz & Greg (Discussion     - How are they doing it now... Give our suggestions)
+  - [ ] Debugging demo - both in code and spec tests - Noel [Recording] _Look up the link to the recording_
 
 - **Friday:**
-  - [ ] Introduce the Weekend Challenge by going over the materials in CraftEd (Same pairs) - Faraz
+  - [ ] Introduce the Weekend Challenge by going over the materials in CraftEd (Same pairs) - Noel
   - [ ] Do a programming demo with focus on - Faraz
     - reading from and writing to a YAML file
     - searching a hash using `select` and `detect` methods
@@ -73,6 +72,6 @@ We start at 9.30
 
 ### Day One Things
 - Notebooks and pens for all participants (I'd like to do a really nice thing with printed pages but for now, just a notebook with a sticker on it is good.)
-- Buy lunch for them Pizzaz
+- Buy lunch for them Pizzas
 - Introduce the entire team. If you don't want to be available at all hours of the day, give them hours of your availability.
 - As much as possible, have logistics already set up: cohort and Atlantis rooms clean and ready to work in, monitors and cables ready, headphones, brickor for the students. (Noel has booked The Room - Stockholm)
