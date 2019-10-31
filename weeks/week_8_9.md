@@ -102,22 +102,20 @@ No challenge - just work on the News Room Challenge
 Extending News Room with Mobile Client
 
 - **Monday:**
-  - [ ] Morning: Getting React Native up and Running on Linux and Mac - Group session with students based on OS version.
   - [ ] Morning: Instead of morning scrum: Sprint Review for each team - Thomas & Faraz 
         - (The teams need to call this meeting)
   - [ ] React Native (Create slidedeck) - Faraz 
     
 - **Tuesday:**
-  - [ ] Afternoon: DevOps with Oliver - Part 1 (Set-up droplet, add db, add Passenger, etc rbenv) or Amazon??
+~~- [ ] Afternoon: DevOps with Oliver - Part 1 (Set-up droplet, add db, add Passenger, etc rbenv) or Amazon??~~
   
 - **Wednesday:**
-  - [ ] Afternoon: DevOps with Oliver - Part 2 ( Ansible for deployment ) Amazon??
+  ~~- [ ] Afternoon: DevOps with Oliver - Part 2 ( Ansible for deployment ) Amazon??~~
   
 - **Thursday:**
   - [ ] Afternoon: OAuth Demo on Client (FB) - Oliver
 
 - **Friday:**
-  - [ ] Present Newsroom challenge to audience (Dry run for final project/ book big room & test recording equipment. ) or move to monday with the new cohort?
   - [ ] Pepp talk before Final Project - All coaches
   - [ ] Retro - All coaches
 
