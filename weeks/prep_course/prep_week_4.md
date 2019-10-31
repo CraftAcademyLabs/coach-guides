@@ -10,9 +10,17 @@ This week, we'll set up a BMI calculator using JavaScript and test it with e2e_t
 * Pushing forward without instructions
 * Reflecting in a larger group
 
+### Followups
+- Monday
+  - Put everything on github
+  - Gitponging
+ - Wednesday
+  - Look into Chrome console
+  - Go over things you don't understand and write it down.
+- Retro
+
 ### Demos
 * Monday - Setting up the project and e2e_training_wheels - Faraz 4pm
-* Thursday - Finalizing the challenge and deploying - Faraz 4pm 
 * Friday - Prep course retrospective 4pm - Noel 
 
 ### Resources
