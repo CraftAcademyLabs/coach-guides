@@ -33,32 +33,30 @@ FizzBuzz js (unit tests?)
 - Practice JS skills with more advanced logic
 
 ### Head Coach 
-Faraz
+Noel
 
 ### Support and extra resource
-Thomas
+Greg & Faraz
 
 ### Guide
 - **Monday:**
-  - [ ] Morning: Javascript recap with focus on ES6 and  - Faraz, new slidedeck 
+  - [ ] Morning: Javascript recap with focus on ES6 and  - Greg, new slidedeck 
     - basics: most common datatypes, how functions structured, "classes", declaring and using variables, conditionals, loops
     - work in remote pairs on the js exercises
-  - [ ] Afternoon: Asynchronous Programing with JS (Promises) - Faraz (async, await), new slidedeck and pre-record 
+  - [ ] Afternoon: Asynchronous Programing with JS (Promises) - Greg (async, await), new slidedeck and pre-record 
   
 - **Tuesday:**
-  - [ ] Morning: Introduce the week lab (Address Book) do a demo where we scaffold the project - Faraz - Show the finished product. Give a brief intro to BDD - Create Slidedeck
-  - [ ] Afternoon: Introduce Debugging with Chrome - Faraz
+  - [ ] Morning: Introduce the week lab (Address Book) do a demo where we scaffold the project - Noel - Show the finished product. Give a brief intro to BDD - Create Slidedeck
+  - [ ] Afternoon: Introduce Debugging with Chrome - Noel
   - [ ] Afternoon: Intro on Agile methodologies (Crafting an MVP - Scrum, mention Kanban??? ) - Thomas
   
 - **Wednesday:**
   - [ ] Afternoon: Individually review (1-on-1 or pairs) pull requests/submissions from Ruby weekend challenge (ATM Challenge and Library Challenge) - Faraz 
-   - [ ] Afternoon: Demo: Add some styling to Address book app using a a front-end CSS framework - Faraz (show them with cdn for CSS and js. Tell them that this is the ONLY time we can use cdn) - Create Slidedeck, focus on what CDN is, when to use it?
    
 - **Thursday:**
+   - [ ] Afternoon: Demo: Add some styling to Address book app using a a front-end CSS framework - Noel (show them with cdn for CSS and js. Tell them that this is the ONLY time we can use cdn) - Create Slidedeck, focus on what CDN is, when to use it?
 
-
- 
 - **Friday:**
  
-  - [ ] Afternoon: Introduce the Weekend Challenge [FizzBuzz Js Challenge ](../miscellaneous/assessments/week_2_assessment.md) (Faraz) Note: We want to use the e2e Training Wheels package (https://www.npmjs.com/package/e2e_training_wheels)
-  - [ ] Retrospective - Faraz (Thomas)
+  - [ ] Afternoon: Introduce the Weekend Challenge [FizzBuzz Js Challenge ](../miscellaneous/assessments/week_2_assessment.md) (Noel) Note: We want to use the e2e Training Wheels package (https://www.npmjs.com/package/e2e_training_wheels)
+  - [ ] Retrospective - Noel (Thomas)
