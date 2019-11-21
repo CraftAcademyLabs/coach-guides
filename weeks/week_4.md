@@ -57,32 +57,23 @@ In order to read our articles. We need a user to sign up
 
 ### Guide
 - **Monday:** 
-  - [ ] Morning: Introduce Rails & AUT Part 1 (intro to Articles challenge, Factorybot, Fixtures) - Faraz
-  - [ ] Afternoon: Introduce Rails & AUT Part 2 (intro to Articles challenge, Factorybot, Fixtures) - Faraz
+  - [ ] Morning: Introduce Rails & AUT Part 1 (intro to Articles challenge, Factorybot, Fixture, Deploy to Heroku, Add semaphore & coveralls, this is the begining of the Crafty News Project for this cohort) - Oliver
+  - [ ] Afternoon: Introduce Rails & AUT Part 2 (intro to Articles challenge, Factorybot, Fixtures) - Oliver
 
 - **Tuesday:** 
-  - [ ] Morning: Introduce to web architecture (MVC) - Thomas or Faraz (make it a discussion) - Faraz
-  - [ ] Afternoon: Introduce the Legacy Code Challenge - Faraz 
-  - [ ] Morning: Check the submissions of the AUT code on GitHub - Oliver & Noel
-
-
+  - [ ] Morning(pre staff meeting): Mobsession to finish up AUT (edit & create articles)(PREPARE) - Oliver
+  - [ ] Afternoon: Introduce the Legacy Code Challenge - Thomas 
+  
 - **Wednesday:**
-  - [ ] Afternoon: The concept of the params hash [Use this as reference](https://www.youtube.com/watch?v=y57OnWV6dRE) - Faraz
-  - [ ] Afternoon: Mobsession making and reviewing PRs - Faraz, Oliver & Noel (timebox for max 30 min 15 min coding 15 min review)
+  - [ ] Morning: Introduce to web architecture (MVC) - Thomas (make it a discussion)
+  - [ ] Afternoon: The concept of the params hash [Use this as reference](https://www.youtube.com/watch?v=y57OnWV6dRE) - Thomas (Make sure to use Rails demo application(Crafty News))
 
 - **Thursday:**
-  - [ ] Morning: Introduce Heroku, walkthrough of how to deploy [For Reference](https://devcenter.heroku.com/articles/getting-started-with-ruby)- Oliver - Make them deploy the AUT challenge ( problem with buildpack for bundler 2 add a specific buildpack) - Make sure by the end of the hour through submissions
-  This is the buildpack you need to use (if you add it from CLI): 
+   - [ ] Morning: Rails demo: routing (plus resources) [Slides](https://docs.google.com/presentation/d/1Eu_x1eO9Zkmkb1RyflUONTipOjnDUtfUmSabO8-jyoQ) - Oliver (`--skip-routes` `--skip-views`)
+   - [ ] Afternoon: Check the submissions of the AUT code on GitHub - Oliver & Thomas
 
-  ```
-  heroku create --buildpack https://github.com/bundler/heroku-buildpack-bundler2.git
-  ```
-  
-  - [ ] Afternoon: Validations in Rails and instance methods - Faraz, Create slidedeck
-      
 - **Friday:**
-  - [ ] Morning: Rails demo: routing (plus resources) [Slides](https://docs.google.com/presentation/d/1Eu_x1eO9Zkmkb1RyflUONTipOjnDUtfUmSabO8-jyoQ) - Faraz (`--skip-routes` `--skip-views`)
-  - [ ] Introduce the Weekend Challenge (Devise Gem) - Faraz
-  - [ ] Mobsession to finish up AUT (edit & create articles) - Oliver
+  - [ ] Introduce the Weekend Challenge (Devise Gem) - Oliver
+  - [ ] Afternoon: Validations in Rails and instance methods - Oliver
   - [ ] Retro - All coaches  
   
