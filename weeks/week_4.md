@@ -57,16 +57,18 @@ In order to read our articles. We need a user to sign up
 
 ### Guide
 - **Monday:** 
-  - [ ] Morning: Introduce Rails & AUT Part 1 (intro to Articles challenge, Factorybot, Fixture, Deploy to Heroku, Add semaphore & coveralls, this is the begining of the Crafty News Project for this cohort) - Oliver
-  - [ ] Afternoon: Introduce Rails & AUT Part 2 (intro to Articles challenge, Factorybot, Fixtures) - Oliver
+  - [ ] Morning: Introduce Rails & AUT Part 1 (intro to Articles challenge, Factorybot, Fixture, Deploy to Heroku, Add semaphore & coveralls, this is the begining of the **Crafty News** Project for this cohort) - Thomas & Oliver
+  https://docs.google.com/presentation/d/1QBSlHd6hlmfsHeLhP_R6H1xlfsyYjmN-JxTcF2zRbns/edit?usp=sharing
+  - [ ] Afternoon: Introduce Rails & AUT Part 2 (intro to Articles challenge, FactoryBot, Fixtures) - Thomas & Oliver
 
 - **Tuesday:** 
   - [ ] Morning(pre staff meeting): Mobsession to finish up AUT (edit & create articles)(PREPARE) - Oliver
-  - [ ] Afternoon: Introduce the Legacy Code Challenge - Thomas 
+  - [ ] Afternoon: Introduce the Legacy Code Challenge - Oliver 
   
 - **Wednesday:**
   - [ ] Morning: Introduce to web architecture (MVC) - Thomas (make it a discussion)
-  - [ ] Afternoon: The concept of the params hash [Use this as reference](https://www.youtube.com/watch?v=y57OnWV6dRE) - Thomas (Make sure to use Rails demo application(Crafty News))
+  https://docs.google.com/presentation/d/14Z4aPjdDTgeuQdup2MoiZrmUSSDce7R3I5dcotg7uyc/edit?usp=sharing Create a recording
+  - [ ] Afternoon: The concept of the Query Params [Use this as reference](https://www.youtube.com/watch?v=y57OnWV6dRE) - Thomas (Make sure to use Rails demo application(Crafty News)) Create a recording https://docs.google.com/presentation/d/1WQiq29ZR4rQvhyH7N2HelmCUeD2qzuaBo03O12Rjsp4/edit?usp=sharing
 
 - **Thursday:**
    - [ ] Morning: Rails demo: routing (plus resources) [Slides](https://docs.google.com/presentation/d/1Eu_x1eO9Zkmkb1RyflUONTipOjnDUtfUmSabO8-jyoQ) - Oliver (`--skip-routes` `--skip-views`)
