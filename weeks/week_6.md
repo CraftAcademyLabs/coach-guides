@@ -1,4 +1,4 @@
-Advanced## Week 6
+Advanced ## Week 6
 ### Introduction to this week
 
 #### Swedish
@@ -35,24 +35,24 @@ Let's be strict with the support protocol AND who is giving support. Communicate
 Mob Discussion sessions will be held every other day.
 
 - **Monday:** 
-  - [ ] Morning 09:30: Design sprint led by team coach - Oliver and Faraz
+  - [ ] Morning 09:30: Design sprint led by team coach - Oliver
   - [ ] Afternoon 14:00: How to consume an API's both in **Rails** and JS - Oliver (StarWars API - start with pure ruby, then Rails, then JS. Prepare Rails application. Research JumpStart https://www.youtube.com/watch?v=ssOZpISfIfI&t=1s)
 
 - **Tuesday:**
-  - [ ] Morning 11:15: In depth Rails demo: Authentication & Authorization (Devise + basic authorization using booleans) - Oliver Part 1
-  - [ ] Afternoon 14:00: In depth Rails demo: Authentication & Authorization (Pundit) - Oliver Part 2
+  - [ ] Morning 11:15: In depth Rails demo: Authentication & Authorization (Devise + basic authorization using booleans) - Thomas Part 1
+  - [ ] Afternoon 14:00: In depth Rails demo: Authentication & Authorization (Pundit) - Thomas Part 2
   
 - **Wednesday:**
   - [ ] Morning 10:00: OAuth demo (Facebook - very basic OAuth for web apps) - Oliver (will use one of the teams codebase but prepare a boilerplate just in case)
   - [ ] Afternoon 14:00: Advanced associations with ActiveRecord - Oliver (same slide deck as part 1)
 
 - **Thursday:**
- - [ ] Morning 11:00: How to get paid (Stripe)  Part 1 - Thomas + Faraz (prepare pre-recording)
- - [ ] Afternoon 14:00: How to get paid (Stripe) Part 2 - Thomas + Faraz
-   - Thomas needs to write a guide
+ - [ ] Morning 11:00: How to get paid (Stripe)  Part 1 - Thomas + Oliver (prepare pre-recording)
+ - [ ] Afternoon 14:00: How to get paid (Stripe) Part 2 - Thomas + Oliver
+   - Thomas needs to write a guide (???)
  
 - **Friday:**
- - [ ] Afternoon 15:30: Project Retro and UX/function review  (give feedback for the weekend) - All Coaches Do this on monday
+ - [ ] Afternoon 15:30: Project Retro and UX/function review  (give feedback for the weekend) - All Coaches
   
   ### Resources
   * [Devise Introduction](https://youtu.be/BBKiHPotInA)
