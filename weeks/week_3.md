@@ -11,6 +11,9 @@
 
 During Week 3, you'll build your own portfolio site using ReactJS. We will introduce you to the basics of the react library. Components, State, Propps, React-router, JSON objects, etc. At the end of the week, you'll have a professional portfolio site, which you will fill with the projects you complete over the rest of the course. Your protfolio will also be deployed to the Internet using Netlify.
 
+### Teachable week name
+React - An introduction
+
 ### Week Lab
 Portfolio challenge
 
