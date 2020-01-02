@@ -11,6 +11,9 @@ Den här veckan fördjupar vi deltagarnas kunskaper inom JavaScript genom att in
 
 In Week 7 we deepen your knowledge of Javascript by diving deeper into React, a web framework for front-end development. At the end of the week, you will have built two application.
 
+### Teachable Course
+[React ( Loves  ) Rails](https://learn.craftacademy.co/admin/courses/676568/information)
+
 ### Week lab
 * BMI Challenge in React
 * Cooper Test Challenge in React and Ruby on Rails

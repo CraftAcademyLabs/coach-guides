@@ -12,6 +12,9 @@ Den här veckan dyker vi djupare in i Ruby on Rails - ett ramverk som hjälper p
 
 Software as a Service - Work the web! This week we introduce Ruby on Rails and introduce strategies to work effectively with legacy code. We present more complex testing strategies and help you understand how testing can greatly improve your workflow. This week we deepen our knowledge of external libraries (gems), APIs, websockets, etc.
 
+### Teachable Course
+[Testing in Ruby on Rails](https://learn.craftacademy.co/admin/courses/659667/information)
+
 ### Week Lab
 The students are introduced to Ruby on Rails this week. We are exposing them to the 'magic' of Rails AND to the best practice of using various testing frameworks to drive their development.
 

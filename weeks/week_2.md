@@ -10,6 +10,9 @@ Under vecka 2 fortsätter vi att utveckla dina JavaScript, HTML och CSS färdigh
 
 This week, we continue to build your JavaScript, HTML and CSS skills. Together we'll build an Address Book application with rich functionality and look into simple strategies for storing and persisting information. We'll also continue our journey into Test Driven Development and introduce you to Behavior Driven Design (BDD). We also go through the basics of HTML and CSS as we build this week's challenge. You will also get to deploy your first app on the Internet. Once again, you will have a Weekend Challenge to complete.
 
+### Teachable Course
+[JavaScript and BDD](https://learn.craftacademy.co/admin/courses/650468/information)
+
 ### Week Lab
 Address Book-challenge
 
