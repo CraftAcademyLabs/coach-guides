@@ -11,7 +11,7 @@ Allt handlar om att plocka på sig erfarenhet och kompetens (som vi definierar k
 
 Welcome to the News Room Challenge. These weeks strengthen and deepen your competence and experience with a large project that tests the knowledge you have gained thus far. During these three weeks, you'll build a complex and detailed application. This time, you will add multiple layers of complexity, and work in Rails as News Room becomes a fully featured news and editorial platform with several user types and roles. We will practice Agile workflow, pushing you to work efficiently. At the end of these weeks, you will have a large, complex, and impressive project to add to your portfolio.
 
-### Teachable week name
+### Teachable Course
 Advanced React and Rails
 
 ## Week Lab

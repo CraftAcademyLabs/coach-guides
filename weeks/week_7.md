@@ -11,7 +11,7 @@ Den här veckan fördjupar vi deltagarnas kunskaper inom JavaScript genom att in
 
 In Week 7 we deepen your knowledge of Javascript by diving deeper into React, a web framework for front-end development. At the end of the week, you will have built two application.
 
-### Teachable week name
+### Teachable Course
 React ( Loves  ) Rails
 
 ### Week lab
