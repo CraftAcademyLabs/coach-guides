@@ -1,4 +1,4 @@
-Advanced ## Week 6
+## Week 6
 ### Introduction to this week
 
 #### Swedish
@@ -10,6 +10,9 @@ Halvvägs genom kursen är det dags att omsätta dina kunskaper i praktik och sl
 **Mid Course Project**
 
 Halfway through the course, it is time for you to test your knowledge and take a step away from coach-led exercises. It is time for you to dream up, plan for, and build your own project. Working in teams or groups, you will not only decide what code to write and which features to implement, but also which planning tools to utilize and when and how to delegate assignments, while we keep a watchful eye to make sure everyone is making progress. It's a big week here at Craft Academy.
+
+### Teachable week name
+Mid Course Project
 
 ### Week Lab
 Mid course project
