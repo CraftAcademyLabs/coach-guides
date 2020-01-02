@@ -11,6 +11,8 @@ Vi inleder denna vecka med att lägga grunden för ett onlinesystem som låter a
 
 This week we begin to lay the foundation for an online system that allows users to order food online. We dive deeper into Ruby on Rails,  a popular and in-demand framework that allows programmers to build complex, exciting web applications, and give you your first insight into Agile practices, focusing on Behavior Driven Development. The Slow Food Challenge is also about thinking more deeply about how the pieces of an application fit together, using advanced techniques such as user registration, authentication and authorization. At the end of the week, we are ready to go live with the Slow Food Online application and we deploy our system using Heroku. To facilitate and automate our deploy process we use techniques such as Continuous Integration and Continuous Deployment.
 
+### Teachable week name
+Software as a Service with Ruby on Rails
 
 ### Learning objectives
 This is a group challenge and the students are supposed to work as a team.
