@@ -11,7 +11,7 @@ Första veckans utmaning handlar om att bygga en enkel Bankomatsimulator. Låter
 The first week's challenge is to build a simple ATM Simulator. The challenge is about understanding how an everyday situation might look like when you think about it in terms of code and how different objects interact with each other. During the week, we introduce a number of new terms and concepts that lay the foundation for your future development. We practice test driven development and we also struggle with version control and more advanced Ruby syntax. During this week we also introduce a user-focused approach to program development. The week ends with your first individual Weekend Challenge.
 
 ### Teachable Course
-Object Oriented Programming Fundamentals
+[Object Oriented Programming Fundamentals](https://learn.craftacademy.co/admin/courses/645199/information)
 
 ### Week Lab
 ATM-challenge
