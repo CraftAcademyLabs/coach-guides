@@ -18,8 +18,22 @@
 * Understand the difference between running code on the server vs. in the browser
 * Working in the browser compared to IRB 
 
+### FUPs
+
+- [ ] **Monday**: Talking points:
+
+     
+     
+- [ ] **Wednesday**: Talking points:
+
+     
+      
+- [ ] **Friday** Talking points:
+
+    
+
 ### Demos
-* Monday - Introduction to JavaScript - 4pm - Noel 
+* Monday - Introduction to JavaScript - 4pm - Thomas
 * Thursday - Cypress & BMI Calculator - 4pm - Noel 
 
 ### Resources
