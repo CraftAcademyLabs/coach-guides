@@ -1,8 +1,11 @@
-## Week 2 (Chapter 2 and start chapter 3)
+## Week 2 (Chapter 2)
 
 ### Introduction to Ruby
-This week, we'll learn the basics of Ruby and introduce you to JavaScript. Ruby is one of the best programming languages to start with when you are first 
+This week, we'll learn the basics of Ruby. Ruby is one of the best programming languages to start with when you are first 
 learning to code. It's general purpose and flexible language can be used in web/Internet development, process text, create games, and as part of the popular Ruby on Rails web framework.
+
+### Testing with RSpec
+This week, we'll learn how to use testing to keep our code concise, structured and adaptable. 
 
 ### Learning objectives
 ###### General
@@ -16,12 +19,14 @@ learning to code. It's general purpose and flexible language can be used in web/
 * Explore how objects and classes are used to organize information and behavior
 * Working in IRB 
 
-###### JavaScript 
-* Basic understanding of JavaScript
-* Introduction to DOM manipulation
-* Observe differences and similarities between Ruby and Javascript
-* Understand the difference between running code on the server vs. in the browser
-* Working in the browser compared to IRB 
+### Testing with RSpec
+This week, we'll learn how to use testing to keep our code concise, structured and adaptable. 
+
+### Learning objectives
+* Learn the benefits with TDD
+* Learn the fundamentals of RSpec
+* Learn the difference between unit and acceptance tests
+* Learn how to unit test 
 
 ### Demos & FUP
 
