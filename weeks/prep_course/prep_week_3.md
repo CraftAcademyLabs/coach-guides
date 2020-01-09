@@ -19,9 +19,10 @@
 * Working in the browser compared to IRB 
 
 ### Demos
-* Monday - Our first unit tests with RSpec - Noel 
-* Thursday - FizzBuzz demo - Noel 
+* Monday - Introduction to JavaScript - 4pm - Noel 
+* Thursday - Cypress & BMI Calculator - 4pm - Noel 
 
 ### Resources
+Cypress ( https://www.cypress.io/) ( https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell)
 
 
