@@ -76,32 +76,33 @@ No challenge - just work on the News Room Challenge
   - [ ] Morning: File attachements (Active Storage) - Oliver (RAILS mobsession - coding (Students need to code with coach))
   - [ ] Assessment of the students (one on one)
   - [ ] Student retro
+  - [ ] WEEKEND CHALLENGE: Inform the students about client meeting on Monday.Show them the GlocalNews client meeting recording. https://www.youtube.com/watch?v=Vhuc9NVkAEI The challenge is to prepare for that meeting. 
 
 
 ### Week 9
 - **Monday:**
-  - [ ] Morning: Instead of morning scrum: Sprint Review - Facilitated by Faraz + All Coaches (Ship some code, Simulation (Faraz CEO and Thomas CTO)
+  - [ ] Morning: Instead of morning scrum: Sprint Review - Facilitated by Thomas + All Coaches (Ship some code, Simulation (Faraz CEO and Thomas CTO)
    - [ ] Afternoon: File attachements using Cloud storage (AWS S3, Use Encrypted Credentials Rails 5.2) - Oliver (mobsession - coding Rails + React (Students need to code with coach)) 
-   - [ ] Afternoon: Intro to Scrum & XP - Thomas (slides demo)
+   - [ ] Afternoon: Intro to Scrum & XP - Thomas (slides demo) WTF!?!?!?!?!
 
 - **Tuesday:**
-   - [ ] THE Shuffle Change teams
+   - [ ] THE Shuffle Change teams - Nope
    
-   - [ ] Teams onboard new members - No coach support
+   - [ ] Teams onboard new members - No coach support Nope
    - [ ] Afternoon: Geocoding (Rails and React) - determine what edition the user is served - Thomas 
       - Resource: https://drive.google.com/file/d/1knQRoUF7GvdxrIlpVioIMbiPAlQXcpKK/view?usp=sharing
 
 - **Wednesday:**
-  - [ ] Dry Run Advanced Stripe All coaches 
-  - [ ] Revisiting Stripe with stripe elements (subscriptions, recurring payments, styling ) - Thomas, Faraz and Oliver (mobsession - coding)  10am
+  - [ ] Dry Run Advanced Stripe All coaches (Backend - frontend) - nope
+  - [ ] Revisiting Stripe with stripe elements (subscriptions, recurring payments, styling ) - Thomas and Oliver (mobsession - coding)  10am
 
 - **Thursday:**
-  - [ ] Afternoon: Internationalization (i18n) in React - Faraz
+  - [ ] Afternoon: Internationalization (i18n) in React - Thomas (with Oliver)
 
 - **Friday:** 
   - [ ] Tech interview training - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md) - Go over Unter 
-  - [ ] Start a designsprint for the mobile client (Objectives: Showing all articles, showing articles in categories, Show specific articles, authentication, payment flow) - Oliver 
-  - [ ] Weekend Challenge - Download Android Studio (Linux) and XCode (OsX))
+  - [ ] Start designing for the mobile client - only the consumer facing functionality (Objectives: Showing all articles, showing articles in categories, Show specific articles, authentication, payment flow) - Oliver 
+  - [ ] WEEKEND CHALLENGE - Download and configure Android Studio (Linux) and XCode (OsX))
 
 ### Week 10
 Extending News Room with Mobile Client
