@@ -44,7 +44,7 @@ This week, we'll learn how to use testing to keep our code concise, structured a
 - [ ] **Friday** Talking points:
 
     - hard week done
-    - Starting with testing next week
+    - Starting with Javascript next week
     
 * Monday - Get to know Ruby  Slides: [Get To Know Ruby] 4pm - Thomas 
 * Thursday - Rspec & Fizzbuzz 4pm - Noel
