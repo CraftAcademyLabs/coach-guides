@@ -22,7 +22,6 @@ Rails acceptance unit test cycle
   - Observe differences and similarities between Ruby and Javascript
 
 ### Weekend challenge
-FizzBuzz js (unit tests?)
 
 ### Head Coach 
 **Not decided atm**
