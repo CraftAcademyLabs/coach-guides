@@ -44,8 +44,9 @@ An appealing design that allows ease of navigation
 - Retro
 
 ### Demos
-* Monday - 4pm
-* Friday - 4pm 
+* Monday Address book coding - Demo - 4pm  
+* Thursday TCP, IP ,HTTP, Query Params - Demo - 4pm
+
 
 ### Resources
 * 
