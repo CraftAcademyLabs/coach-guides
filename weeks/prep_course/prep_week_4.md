@@ -37,7 +37,7 @@ An appealing design that allows ease of navigation
 - Wednesday
   - Look into Chrome console
   - Go over things you don't understand and write it down.
--Friday
+- Friday
   - explain the retro and how important it is.
   - tell everyone have something prepared for it.
   - talk about the start of the bootcamp.
