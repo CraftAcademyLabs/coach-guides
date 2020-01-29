@@ -37,8 +37,8 @@ So the first week is all about giving the students their first time experience i
   - a Slack notification will be posted and a coach will respond. 
   
 ### Guide
-HeadCoach: **Faraz**
-Firstline: **Noel**
+HeadCoach: **Noel**
+Firstline: **Faraz**
 
 - **Monday:**
 We start at 9.30
@@ -49,14 +49,14 @@ We start at 9.30
     - Where are you going?
   - [ ] Presentations - everyone 30 min max
    - [ ] Seniors Present Newsroom challenge to audience (Dry run for final project/ book big room & test recording equipment. ) or move to monday with the new cohort?
-  - [ ] Communication talk - Faraz (Slack, Student letter & handbook!, Craft Overflow
+  - [ ] Communication talk - Noel (Slack, Student letter & handbook!, Craft Overflow
   - [ ] Introduce the week lab after Day One activities by going over the materials in EdX - Faraz
   - [ ] Programming demo - "... The should be an ATM I can use" - Faraz (Greg)(Emphasize on the transition from User story to actual code)
   
 **Tuesday:**
   - [ ] Understanding the problem statement (Planning demo) - the ATM challenge - Faraz 
   - [ ] Basic programming recap - Noel
-  - [ ] Git & GitHub talk and demo - pull requests, forking, cloning, Focus on gitpong. - Greg & Noel 
+  - [ ] Git & GitHub talk and demo - pull requests, forking, cloning, Focus on gitpong. - Noel 
   
 **Wednesday:**
   - [ ] Learning strategies - Faraz ("You've been at it 2 days.. head hurts... big diff from prep course... find a good strategy.. or you'll die")
@@ -68,13 +68,13 @@ We start at 9.30
 
 - **Friday:**
   - [ ] Introduce the Weekend Challenge by going over the materials in CraftEd (Same pairs) - Noel
-  - [ ] Do a programming demo with focus on - Faraz
+  - [ ] Do a programming demo with focus on - Noel
     - reading from and writing to a YAML file
     - searching a hash using `select` and `detect` methods
   - [ ] Afternoon: [Individual Technical Interview Training](../miscellaneous/assessments/week_1_assessment.md) - All coaches
 
 ### Day One Things
 - Notebooks and pens for all participants (I'd like to do a really nice thing with printed pages but for now, just a notebook with a sticker on it is good.)
-- Buy lunch for them Pizzas
+- Buy lunch 
 - Introduce the entire team. If you don't want to be available at all hours of the day, give them hours of your availability.
 - As much as possible, have logistics already set up: cohort and Atlantis rooms clean and ready to work in, monitors and cables ready, headphones, brickor for the students. (Noel has booked The Room - Stockholm)
