@@ -60,7 +60,7 @@ We start at 9.30
   
 **Wednesday:**
   - [ ] Learning strategies - Faraz ("You've been at it 2 days.. head hurts... big diff from prep course... find a good strategy.. or you'll die")
-  - [ ] Intermediate topics to testing with RSpec (Doubles, Dynamic Matchers, etc...) - Faraz & Noel 
+  - [ ] Intermediate topics to testing with RSpec (Doubles, Dynamic Matchers, etc...) - Noel  
 
 **Thursday:**
   - [ ] The right way to search the internet for information (using the docs, Stack Overflow, research) - Faraz & Greg (Discussion     - How are they doing it now... Give our suggestions)
@@ -77,4 +77,4 @@ We start at 9.30
 - Notebooks and pens for all participants (I'd like to do a really nice thing with printed pages but for now, just a notebook with a sticker on it is good.)
 - Buy lunch 
 - Introduce the entire team. If you don't want to be available at all hours of the day, give them hours of your availability.
-- As much as possible, have logistics already set up: cohort and Atlantis rooms clean and ready to work in, monitors and cables ready, headphones, brickor for the students. (Noel has booked The Room - Stockholm)
+- As much as possible, have logistics already set up: cohort and Atlantis rooms clean and ready to work in, monitors and cables ready, headphones, brickor for the students.
