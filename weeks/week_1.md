@@ -50,7 +50,7 @@ We start at 9.30
   - [ ] Presentations - everyone 30 min max
    - [ ] Seniors Present Newsroom challenge to audience (Dry run for final project/ book big room & test recording equipment. ) or move to monday with the new cohort?
   - [ ] Communication talk - Noel (Slack, Student letter & handbook!, Craft Overflow
-  - [ ] Introduce the week lab after Day One activities by going over the materials in EdX - Faraz
+  - [ ] Introduce the Week lab - Noel
   - [ ] Programming demo - "... The should be an ATM I can use" - Faraz (Greg)(Emphasize on the transition from User story to actual code)
   
 **Tuesday:**
@@ -63,8 +63,8 @@ We start at 9.30
   - [ ] Intermediate topics to testing with RSpec (Doubles, Dynamic Matchers, etc...) - Noel  
 
 **Thursday:**
-  - [ ] The right way to search the internet for information (using the docs, Stack Overflow, research) - Faraz & Greg (Discussion     - How are they doing it now... Give our suggestions)
-  - [ ] Debugging demo - both in code and spec tests - Noel [Recording] _Look up the link to the recording_
+  - [ ] The right way to search the internet for information (using the docs, Stack Overflow, research) - Faraz (Discussion     - How are they doing it now... Give our suggestions)
+  - [ ] Debugging demo - both in code and spec tests - Noel [Recording]? _Look up the link to the recording_
 
 - **Friday:**
   - [ ] Introduce the Weekend Challenge by going over the materials in CraftEd (Same pairs) - Noel
