@@ -22,7 +22,9 @@ The Legacy Code Challenge aims at allowing students to write both acceptance tes
 
 Acceptance-Unit Test Cycle with Rails (individual assignment) Monday half of Tuesday
 Legacy Code challenge (Team assignment- Teams of 4) Tuesday - rest of the week
-Get the cohort to create a Rails application that can be used throughout the rest of the bootcamp
+Get the cohort to create a Rails application that can be used throughout the rest of the bootcamp.
+
+- change the name of the databases to avoid conflict
 
 ### Learning objectives
 **EXPAND**
