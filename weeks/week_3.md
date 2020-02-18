@@ -46,17 +46,17 @@ Oliver
   - [ ] Afternoon: Introduction to Portfolio Challenge (Thomas - https://docs.google.com/presentation/d/1-A4s8OwQRUJd2V7Lnot6JGhpKR-QHehKsraFRjt0pAw/edit?usp=sharing)
   - [ ] Afternoon: CodeWars Hour - Thomas (Would really be good to do this everyday of this week) Create Slidedeck on why to use Katas
 - **Tuesday:**
-  - [ ] Morning: Portfolio Challenge - Coding demo (Oliver)  
+  - [ ] Morning: Portfolio Challenge - Coding demo (Faraz)  
   - [ ] Afternoon: Software Craftsmanship - Thomas  
-  - [ ] Afternoon: CodeWars Hour - Oliver
+  - [ ] Afternoon: CodeWars Hour - Faraz
 - **Wednesday:**
   - [ ] Morning: Deploying to Netlify - Thomas
-  - [ ] Morning: Introduction to ReactJS - Part 2 (Rest of the slides)(Oliver - https://docs.google.com/presentation/d/1loDvAo_ji612mlLlBB-_Cb6WL-LxqDhXND7FYefQuUY/edit?usp=sharing)
-  - [ ] Afternoon: CodeWars Hour - Oliver
+  - [ ] Morning: Introduction to ReactJS - Part 2 (Rest of the slides)(Faraz - https://docs.google.com/presentation/d/1loDvAo_ji612mlLlBB-_Cb6WL-LxqDhXND7FYefQuUY/edit?usp=sharing)
+  - [ ] Afternoon: CodeWars Hour - Faraz
 - **Thursday:** 
   - [ ] Afternoon: Vanilla JS vs jQuery - Thomas (based on http://youmightnotneedjquery.com/)
 - **Friday:**
-  - [ ] Morning: Introduce weekend challenge briefly with examples (Add CV and Forms with cypress). - Oliver
+  - [ ] Morning: Introduce weekend challenge briefly with examples (Add CV and Forms with cypress). - Faraz
   - [ ] Afternoon: Tech interview training theory - Thomas
   - [ ] Afternoon: Rock Paper Scissors - First Part
 
