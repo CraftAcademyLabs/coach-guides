@@ -4,12 +4,12 @@
 #### Swedish
 **Mobila applikationer**
 
-Den här veckan fördjupar vi deltagarnas kunskaper inom JavaScript genom att introducera Angular, ett populärt front-end ramverk. Vi tittar även på Ionic som är ett ramverk för utveckling av mobila applikationer utan att behöva arbeta med inhemska språk för iOS eller Android. I slutet av veckan kommer du ha utvecklat och distribuerat två applikationer som kan ses på en mobil enhet.
+Den här veckan fördjupar vi deltagarnas kunskaper inom JavaScript och ruby on rails. Vi introducerar även hur apier communicerar med en frontend applikation. 
 
 #### English
 **Advanced React**
 
-In Week 7 we deepen your knowledge of Javascript by diving deeper into React, a web framework for front-end development. At the end of the week, you will have built two application.
+In Week 4 we deepen your knowledge of Javascript by diving deeper into React, a web framework for front-end development. At the end of the week, you will have built two application.
 
 ### Teachable Course
 [React ( Loves  ) Rails](https://learn.craftacademy.co/admin/courses/676568/information)
@@ -20,7 +20,7 @@ In Week 7 we deepen your knowledge of Javascript by diving deeper into React, a 
 
 ### Learning objectives
 * How to build API only Rails applications
-* How to communicate between a mobile application and a back-end system using API calls.
+* How to communicate between a react application and a back-end system using API calls.
 * How to test API endpoints using request specs
 * Test React SPA
 
@@ -32,7 +32,7 @@ In Week 7 we deepen your knowledge of Javascript by diving deeper into React, a 
 * See main Learning objectives
 
 ### Head Coach: Thomas 
-### Assistant coaches: Faraz, Oliver
+### Assistant coaches: Faraz
 Let's be strict with the support protocol AND who is giving support. Communicate who is in charge in morning scrum AND on Slack.
 
 ### Guide
