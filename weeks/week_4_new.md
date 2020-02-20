@@ -37,26 +37,32 @@ Let's be strict with the support protocol AND who is giving support. Communicate
 
 ### Guide
 - **Monday:** (React)
-  - [ ] Morning: Noel pair up students
-  - [ ] Morning 10.30 : Introduce BMI challenge - Oliver
-  - [ ] AUT in React (based on the outside in testing post - see Medium) - Oliver 
+  - [ ] Morning: Faraz pair up students
+  - [ ] Morning 10.30 : Introduce BMI challenge - Faraz
+  	https://docs.google.com/presentation/d/1Ler_SbU3Kn_DE7h2iVwxFMPgUYV5xUTt0Xr2n4KNpiQ/edit#slide=id.g576a3774fd_0_363
+  - [ ] AUT in React (based on the outside in testing post - see Medium) - Thomas 
 
 - **Tuesday:** (Start Cooper challenge) 
-  - [ ] [Semantic UI](https://react.semantic-ui.com/) - Oliver
-  - [ ] Afternoon (14:00): Introduce Cooper challenge - Oliver
+  - [ ] [Semantic UI](https://react.semantic-ui.com/) - Faraz
+  	https://docs.google.com/presentation/d/11zgj6X8V9Q9Ax_YkMTvu_zcntBKoS3On6JXPzhaTqaQ/edit#slide=id.g4b85bb4d97_0_0
+  - [ ] Afternoon (14:00): Introduce Cooper challenge - Faraz
 
 - **Wednesday:**  
-  - [ ] Morning: RESTful APIs in Rails - Faraz (10:30pm)
+  - [ ] Morning: Part 1 RESTful APIs in Rails - Thomas (10:30pm)
+  - [ ] Afternoon Part 2 RESTful APIs in Rails - Thomas
+  	Create a crafty-news, with both a frontend in react and backend in rails(api)
      https://drive.google.com/a/craftacademy.se/file/d/1wSwoxHlctA81LgpM2weVKftbgpbVFadE/view?usp=sharing
 
 - **Thursday:**  
   - [ ] Afternoon: The simple truths - Thomas (14:00pm)
 
 - **Friday:**
-  - [ ] Data Visualization Challenge (ChartJS/Styling) 
-  - [ ] [Introduce the weekend challenge](https://class.craftacademy.co/courses/course-v1:CraftAcademy+CA-CC-01+2018/courseware/96bf29b196214229a1f5b420c670ac7f/71f526bca64d410abab417bd304e68f6/?activate_block_id=block-v1%3ACraftAcademy%2BCA-CC-01%2B2018%2Btype%40sequential%2Bblock%4071f526bca64d410abab417bd304e68f6) - Oliver (09:30)
+  - [ ] Data Visualization Challenge (ChartJS/Styling) - Thomas
+  https://docs.google.com/presentation/d/1JarRziyTnxskxflOJIx0yTrOHriLgT-xp80lAN15uis/edit
+
+  - [ ] [Introduce the weekend challenge](https://class.craftacademy.co/courses/course-v1:CraftAcademy+CA-CC-01+2018/courseware/96bf29b196214229a1f5b420c670ac7f/71f526bca64d410abab417bd304e68f6/?activate_block_id=block-v1%3ACraftAcademy%2BCA-CC-01%2B2018%2Btype%40sequential%2Bblock%4071f526bca64d410abab417bd304e68f6) - Faraz (09:30)
   
-- [ ] Tech interview training - All coaches https://github.com/CraftAcademyLabs/coach-guides/blob/curriculum-2.0/miscellaneous/assessments/week_7_assessment.md
+- [ ] Retrospective - All coaches
 
 
 ## Please complete this checklist
@@ -68,7 +74,7 @@ Let's be strict with the support protocol AND who is giving support. Communicate
  - [ ] Are all the appropriate slides added to the drive, and in the right folder?
  - [ ] Do we have any conflict in the schedule with the talks?
  - [ ] Are there any talks that have been covered in a previous week?
-	 - [ ]  meetings
+	 - [ ] meetings
 	 - [ ] double booking
 	 - [ ] Bank Holidays
    - [ ] Coaches missing (CA labs sprint/vacation)
