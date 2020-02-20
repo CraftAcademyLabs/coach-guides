@@ -54,28 +54,26 @@ The weekend is devoted to focus on the User experience of the app. Here we start
     - Use Rails 6
     - Release old video of Extracting info from user stories
     - Point to set up rails guide in course documentation (boilerplate)
-  - [ ] Morning: Do a Overview of a Design Sprint. - Thomas & Oliver
+  - [ ] Morning: Do a Overview of a Design Sprint. - Faraz
   - [ ] Students go through stories and create lofis - From PT board
-  - [ ] Afternoon: Setting up Semaphore and Continious deployment Also talk about coveralls - Oliver [CI and CD slides](https://docs.google.com/presentation/d/1Y0YBeRV9Da9exfEQXZFyJob0d6pbBKofPj3fjHp_yMQ/edit#slide=id.p9) Release guide
+  - [ ] Afternoon: Setting up Semaphore and Continious deployment Also talk about coveralls - Faraz [CI and CD slides](https://docs.google.com/presentation/d/1Y0YBeRV9Da9exfEQXZFyJob0d6pbBKofPj3fjHp_yMQ/edit#slide=id.p9) Release guide
   
 - **Tuesday:**
-  - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC, config). - Thomas
+  - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC, config). - Faraz
       - Basic application structure
       - Rails doctrine, etc...
-  - [ ] Morning: Release cartify documentation and recording of demo - Oliver
+  - [ ] Morning: How to add a cart to rails and react - Thomas
 
 - **Wednesday:** 
-  - [ ] Morning: Rails demo: Active Record (migrations, associations, CRUD functions) - Oliver
-  - [ ] Afternoon: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Thomas
+  - [ ] Morning: Rails demo: Active Record (migrations, associations, CRUD functions) - Faraz
+  - [ ] Afternoon: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Faraz
 
 - **Thursday:**
-    - [ ] Morning: Rails mobsession: Advanced Routing (associations, continuation on Active Record talk) (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge)- Oliver
-    - [ ] Afternoon: Talk about the midcourse project - Thomas & Oliver
+    - [ ] Morning: Rails mobsession: Advanced Routing (associations, continuation on Active Record talk) (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge)- Faraz
+    - [ ] Afternoon: Talk about the midcourse project - Thomas 
 
 - **Friday:**
-  - [ ] Morning: Introduce the Weekend Challenge (Styling as a group) - Oliver
-  - [ ] Afternoon: In depth Rails demo: Most common helpers (focus on forms) - Oliver or Thomas
-    - https://m.patrikonrails.com/rails-5-1s-form-with-vs-old-form-helpers-3a5f72a8c78a?gi=c7e478d9361b
+  - [ ] Morning: Introduce the Weekend Challenge (Styling as a group) - Faraz or something else?
   - [ ] Afternoon: Tech interview training - Second part of the RPS Challenge
 
 ## Please complete this checklist
