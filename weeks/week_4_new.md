@@ -1,4 +1,4 @@
-## Week 7 Advanced React and Rails API
+## Week 4 Advanced React and Rails API
 ### Introduction to this week
 
 #### Swedish
