@@ -34,7 +34,7 @@ This is a group challenge and the students are supposed to work as a team.
 * Learn about deployment to Heroku and the benefits of services like Heroku, DigitalOcean and AWS.
 
 ### Weekend challenge
-SlowFood (Rails) (User Interface/UX) - Note: group challenge
+SlowFood (Rails & React) (User Interface/UX) - Note: group challenge
 The weekend is devoted to focus on the User experience of the app. Here we start looking at the styling. We want them to notice that the planning they did in the initial stage was not detailed enough and that they missed to focus on the user.
 
 ### Learning objectives
@@ -51,10 +51,12 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 ### Guide
 - **Monday:**
   - [ ] Morning: Introduce Slowfood Challenge - Thomas
+  	https://docs.google.com/presentation/d/153hI_aRf88-7FBvmBcq7FOxMoLEzbi8VuugVygonY3E/edit?usp=sharing
     - Use Rails 6
     - Release old video of Extracting info from user stories
     - Point to set up rails guide in course documentation (boilerplate)
   - [ ] Morning: Do a Overview of a Design Sprint. - Faraz
+  	https://docs.google.com/presentation/d/1tXXZd1pl2Q3Rg9R85k_xmoZNBRKcQaPYKezCXglxXQ8/edit?usp=sharing
   - [ ] Students go through stories and create lofis - From PT board
   - [ ] Afternoon: Setting up Semaphore and Continious deployment Also talk about coveralls - Faraz [CI and CD slides](https://docs.google.com/presentation/d/1Y0YBeRV9Da9exfEQXZFyJob0d6pbBKofPj3fjHp_yMQ/edit#slide=id.p9) Release guide
   
@@ -65,30 +67,33 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   - [ ] Morning: How to add a cart to rails and react - Thomas
 
 - **Wednesday:** 
-  - [ ] Morning: Rails demo: Active Record (migrations, associations, CRUD functions) - Faraz
-  - [ ] Afternoon: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Faraz
+  - [ ] Morning: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Faraz
+  	https://docs.google.com/presentation/d/1o-FGTuJ6HPcOxZLAJ_GNXcdD7IWHcGYp9JeEOILv5Xs/edit?usp=sharing
+  - [ ] Afternoon: Rails talk: Active Record (migrations, associations, CRUD functions) - Faraz
+  	https://docs.google.com/presentation/d/1ractjZOrK9BCD1r4hhiBg1neeJGaxvOJ0SjJWaXI32s/edit?usp=sharing
 
 - **Thursday:**
-    - [ ] Morning: Rails mobsession: Advanced Routing (associations, continuation on Active Record talk) (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge)- Faraz
+    - [ ] Morning: Rails mobsession: Advanced Routing (associations, continuation on Active Record talk) (use the AUT app and extend it with commenting on articles functionality. See the weekend challenge)- Thomas
     - [ ] Afternoon: Talk about the midcourse project - Thomas 
+   	 https://docs.google.com/presentation/d/1hzewbbgqW_EpaW6KCUIGDqK0GyH3oHnMMK57zEOyeSs/edit?usp=sharing
 
 - **Friday:**
   - [ ] Morning: Introduce the Weekend Challenge (Styling as a group) - Faraz or something else?
   - [ ] Afternoon: Tech interview training - Second part of the RPS Challenge
 
 ## Please complete this checklist
- - [ ] Are all slides decks up to date?
-   - [ ] Check one by one
- - [ ] Do the slides have talking points added if another coach needs to take over the talk/demo?
+ - [ ] Are all slides decks up to date? (No old styling needs to be updated)
+   - [x] Check one by one
+ - [ ] Do the slides have talking points added if another coach needs to take over the talk/demo? No needs to be completed
  - [ ] Do we have any talks/demos that will take more than 45 minutes to complete?
 	 - [ ] Have we scheduled the longer talks/demo so that there are no conflicts with another demo?
  - [ ] Are all the appropriate slides added to the drive, and in the right folder?
  - [ ] Do we have any conflict in the schedule with the talks?
  - [ ] Are there any talks that have been covered in a previous week?
-	 - [ ]  meetings
+	 - [ ] Meetings
 	 - [ ] double booking
 	 - [ ] Bank Holidays
-   - [ ] Coaches missing (CA labs sprint/vacation)
+   - [x] Coaches missing (CA labs sprint/vacation)
 - [ ] Have all coaches done a dry run of the project?
 - [ ] Do we need to update packages/gems/dependencies?
 - [ ] Do we have recordings from previous talks available in the drive?
