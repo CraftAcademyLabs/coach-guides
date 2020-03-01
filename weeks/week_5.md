@@ -68,7 +68,7 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 
 - **Wednesday:** 
   - [ ] Morning: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Faraz
-  	https://docs.google.com/presentation/d/1o-FGTuJ6HPcOxZLAJ_GNXcdD7IWHcGYp9JeEOILv5Xs/edit?usp=sharing
+  	https://docs.google.com/presentation/d/1FuaqKjjdlQKCFZmbwdqS_-TKsRH4zSH4U-zFju8CekA/edit?usp=sharing
   - [ ] Afternoon: Rails talk: Active Record (migrations, associations, CRUD functions) - Faraz
   	https://docs.google.com/presentation/d/1ractjZOrK9BCD1r4hhiBg1neeJGaxvOJ0SjJWaXI32s/edit?usp=sharing
 
