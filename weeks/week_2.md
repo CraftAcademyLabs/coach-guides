@@ -86,6 +86,7 @@ In order to read our articles. We need a user to sign up
   - [ ] Introduce the Weekend Challenge (Devise Gem) - Noel
   - [ ] Afternoon: Validations in Rails and instance methods - Noel
   - [ ] Retrospective - All coaches - except Oliver
+  https://www.retrospected.com/
   
   
   ## Please complete this checklist
