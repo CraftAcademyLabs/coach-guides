@@ -57,6 +57,7 @@ Mob Discussion sessions will be held every other day.
  
 - **Friday:**
  - [ ] Afternoon 15:30: Project Retro and UX/function review  (give feedback for the weekend) - All Coaches
+ https://www.retrospected.com/
   
   ### Resources
   * [Devise Introduction](https://youtu.be/BBKiHPotInA)
