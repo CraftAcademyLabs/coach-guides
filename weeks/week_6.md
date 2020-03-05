@@ -32,32 +32,37 @@ Put all of the skills you have picked up to use in a group project.
 ### Guide
 
 ### Head Coach : Oliver
-#### First line: Noel and Adi
-Let's be strict with the support protocol AND who is giving support. Communicate who is in charge in morning scrum AND on Slack.
+#### First line: Noel and Thomas
+Let's be strict with the support protocol AND who is giving support (reach out to the right coach). 
+Communicate who is in charge in morning scrum AND on Slack.
 
-Mob Discussion sessions will be held every other day.
+Mob Discussion (Monday morning reads) sessions will be held every other day.
+Structured Q&A sessions at 16:00 daily.
 
 - **Monday:** 
-  - [ ] Morning 09:30: Design sprint led by team coach - Oliver
-  - [ ] Afternoon 14:00: How to consume an API's both in **Rails** and JS - Oliver & Thomas (StarWars API - start with pure ruby, then Rails, then JS. Prepare Rails application. Research JumpStart https://www.youtube.com/watch?v=ssOZpISfIfI&t=1s)
+  - [ ] Morning 09:30: Design sprint led by team coach - Thomas
+  - [ ] Afternoon 14:00: How to consume an API's both in **Rails** and JS (fetch api) - Oliver & Thomas (StarWars API - start with pure ruby, then Rails, then JS. Prepare Rails application. 
 
 - **Tuesday:**
-  - [ ] Morning 11:15: In depth Rails demo: Authentication & Authorization (Devise + basic authorization using booleans) - Thomas Part 1
+  - [ ] Morning 11:15: In depth Rails demo: Authentication & Authorization (Devise + basic authorization using booleans) 	Thomas Part 1
   - [ ] Afternoon 14:00: In depth Rails demo: Authentication & Authorization (Pundit) - Thomas Part 2
+  Find (Thomas) and add documentation to the teachable(oliver) and ca_course (oliver)
   
 - **Wednesday:**
   - [ ] Morning 11:00: How to get paid (Stripe)  Part 1 - Thomas + Oliver (prepare pre-recording)
+    	- Oliver adds documentation to teachable
   - [ ] Afternoon 14:00: How to get paid (Stripe) Part 2 - Thomas + Oliver
-   - Thomas needs to write a guide (???)
-   - Full stack Rails 
-
+ 
 - **Thursday:**
-  - [ ] Morning 10:00: OAuth demo (Facebook - very basic OAuth for web apps) - Oliver (will use one of the teams codebase but prepare a boilerplate just in case)
+  - [ ] Morning 11:15: OAuth demo (Facebook - very basic OAuth for web apps) - Oliver (will use one of the teams codebase but prepare a boilerplate just in case)
   - [ ] Afternoon 14:00: Advanced associations with ActiveRecord - Oliver (same slide deck as part 1)
  
 - **Friday:**
  - [ ] Afternoon 15:30: Project Retro and UX/function review  (give feedback for the weekend) - All Coaches
  https://www.retrospected.com/
+ 
+ ### Weekend challenge 
+ Present their projects on monday
   
   ### Resources
   * [Devise Introduction](https://youtu.be/BBKiHPotInA)
@@ -71,7 +76,7 @@ Mob Discussion sessions will be held every other day.
  - [ ] Are all the appropriate slides added to the drive, and in the right folder?
  - [ ] Do we have any conflict in the schedule with the talks?
  - [ ] Are there any talks that have been covered in a previous week?
-	 - [ ]  meetings
+	 - [ ] Meetings
 	 - [ ] double booking
 	 - [ ] Bank Holidays
    - [ ] Coaches missing (CA labs sprint/vacation)
@@ -89,4 +94,4 @@ Mob Discussion sessions will be held every other day.
 - [ ] Are the slides added to Teachable?
 - [ ] **Have we gone through this checklist thoroughly or rushed through it?**
     - [ ] thoroughly
-    - [ ] rushed (Please add reason)
+    - [x] rushed (Not seen this checklist before)
