@@ -56,53 +56,49 @@ No challenge - just work on the News Room Challenge
 - **Monday:**
   - [ ] Morning: Introduction to News Room Challenge - Thomas & Oliver give them PT and strict requirements from the client
     - [ ] Oliver sets up new PT board
-  - [ ] Morning: Students start the First Sprint(Desing Phase) - Recap of the the First Sprint(Desing Phase) and intro to Epics (introduce prioritization and voting, tasks = AC) - Thomas (Tell them about including lo-fi/mock up in PT but also to the PR once they have worked on it)
+  - [ ] Morning: Students start the First Sprint(Desing Phase) 
+  - [ ] Workshop on story prioritization, voting and Epics - Thomas & Oliver (Tell them about including lo-fi/mock up in PT but also to the PR once they have worked on it)
+  - [ ] Start with scrum master meeting every afternoon
 
 - **Tuesday:**
-  - [ ] Morning: Product owner intro (Recorded video for students to watch) - Recording (Have them watch it during staff meeting?)
-  - [ ] Afternoon: Workshop on story prioritization and voting - Thomas & Oliver
-
+  - [ ] Morning: Product owner intro (Recorded video for students to watch) - Recording (Prepare students for presenting their project plans on wednesday) [Agile Product Ownership in a Nutshell](https://youtu.be/502ILHjX9EE)
+  - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers) - Thomas (coding demo)
+  
 - **Wednesday:**
   - [ ] Morning: Teams present their project plans (PT, lo-fi's and Mock Up's) - Shift teams
-  - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers) - Thomas (coding demo) - partially done in restful api demo in week 7
-  - [ ] Authentication in Rails-React-Redux using a package - Oliver
+  - [ ] Authentication in Rails-React-Redux using a package - Oliver (Resource: https://github.com/Eth3rnit3/j-tockauth)
  
 - **Thursday:**
-  - [ ] Morning: Authentication in React using a package (Resource: https://github.com/Eth3rnit3/j-tockauth) - Oliver
-  [resource for serializer testing](https://github.com/CraftAcademy/we_meet/tree/development/spec/serializers)
- - [ ] Afternoon: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz on CraftEd 2.0) - Thomas (Oliver will support)
+  - [ ] Morning: File attachements (Active Storage) - Oliver (RAILS mobsession)
+  - [ ] Afternoon: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz on CraftEd 2.0) - Thomas (Oliver will support)
+  - [ ] Coach meeting: Discuss what each coach should bring up with their students during the assessment on friday
 
 - **Friday:**
-  - [ ] Morning: File attachements (Active Storage) - Oliver (RAILS mobsession - coding (Students need to code with coach))
+  - [ ] Tech interview (Twitter challenge, maybe do assessment after tech interview is finished)
   - [ ] Assessment of the students (one on one)
-  - [ ] Student retro
-  - [ ] WEEKEND CHALLENGE: Inform the students about client meeting on Monday.Show them the GlocalNews client meeting recording. https://www.youtube.com/watch?v=Vhuc9NVkAEI The challenge is to prepare for that meeting. 
+  - [ ] WEEKEND CHALLENGE: Inform the students about client meeting on Monday. Show them the [GlocalNews client meeting recording](https://www.youtube.com/watch?v=Vhuc9NVkAEI). The challenge is to prepare for that meeting. 
 
 
 ### Week 9
 - **Monday:**
-  - [ ] Morning: Instead of morning scrum: Sprint Review - Facilitated by Thomas + All Coaches (Ship some code, Simulation (Faraz CEO and Thomas CTO)
-   - [ ] Afternoon: File attachements using Cloud storage (AWS S3, Use Encrypted Credentials Rails 5.2) - Oliver (mobsession - coding Rails + React (Students need to code with coach)) 
-   - [ ] Afternoon: Intro to Scrum & XP - Thomas (slides demo) WTF!?!?!?!?!
+   - [ ] Morning: Instead of morning scrum: Sprint Review - Facilitated by Thomas (Oliver CEO and Thomas CTO)
+   - [ ] Afternoon: File attachements using Cloud storage (AWS S3) - Oliver (mobsession Rails + React) 
 
 - **Tuesday:**
-   - [ ] THE Shuffle Change teams - Nope
-   
-   - [ ] Teams onboard new members - No coach support Nope
    - [ ] Afternoon: Geocoding (Rails and React) - determine what edition the user is served - Thomas 
       - Resource: https://drive.google.com/file/d/1knQRoUF7GvdxrIlpVioIMbiPAlQXcpKK/view?usp=sharing
 
 - **Wednesday:**
-  - [ ] Dry Run Advanced Stripe All coaches (Backend - frontend) - nope
-  - [ ] Revisiting Stripe with stripe elements (subscriptions, recurring payments, styling ) - Thomas and Oliver (mobsession - coding)  10am
+  - [ ] THE Shuffle Change teams - Maybe
+     - [ ] Teams onboard new members - No coach support Nope
+  - [ ] Revisiting Stripe with stripe elements (subscriptions, recurring payments, styling ) - Thomas and Oliver (mobsession - coding) - maybe
 
 - **Thursday:**
   - [ ] Afternoon: Internationalization (i18n) in React - Thomas (with Oliver)
 
-- **Friday:** 
-  - [ ] Tech interview training - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md) - Go over Unter 
-  - [ ] Start designing for the mobile client - only the consumer facing functionality (Objectives: Showing all articles, showing articles in categories, Show specific articles, authentication, payment flow) - Oliver 
-  - [ ] WEEKEND CHALLENGE - Download and configure Android Studio (Linux) and XCode (OsX))
+- **Friday:**  
+  - [ ] Start designing for the mobile client - only the consumer facing functionality (Objectives: Showing all articles, showing articles in categories, Show specific articles, authentication, payment flow) - Thomas 
+  - [ ] WEEKEND CHALLENGE - Prepare for mobile development, download tools (XCODE and Android stuido)
 
 ### Week 10
 Extending News Room with Mobile Client
@@ -113,15 +109,12 @@ Extending News Room with Mobile Client
   - [ ] React Native (Create slidedeck) - Faraz 
     
 - **Tuesday:**
-~~- [ ] Afternoon: DevOps with Oliver - Part 1 (Set-up droplet, add db, add Passenger, etc rbenv) or Amazon??~~
   
 - **Wednesday:**
-  ~~- [ ] Afternoon: DevOps with Oliver - Part 2 ( Ansible for deployment ) Amazon??~~
   
 - **Thursday:**
-  - [ ] Afternoon: OAuth Demo on Client (FB) - Oliver
 
 - **Friday:**
   - [ ] Pepp talk before Final Project - All coaches
-  - [ ] Retro - All coaches
+  - [ ] Tech interview training - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md) - Go over Unter
 
