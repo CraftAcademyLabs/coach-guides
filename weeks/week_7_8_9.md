@@ -1,4 +1,4 @@
-# Week 8 - 9 News Room
+# Week 7 - 8 - 9 News Room
 ### Introduction to this week
 
 #### Swedish
@@ -52,7 +52,7 @@ No challenge - just work on the News Room Challenge
 
 ## Guide
 
-### Week 8
+### Week 7
 - **Monday:**
   - [ ] Morning: Introduction to News Room Challenge - Thomas & Oliver give them PT and strict requirements from the client
     - [ ] Oliver sets up new PT board
@@ -79,9 +79,9 @@ No challenge - just work on the News Room Challenge
   - [ ] WEEKEND CHALLENGE: Inform the students about client meeting on Monday. Show them the [GlocalNews client meeting recording](https://www.youtube.com/watch?v=Vhuc9NVkAEI). The challenge is to prepare for that meeting. 
 
 
-### Week 9
+### Week 8
 - **Monday:**
-   - [ ] Morning: Instead of morning scrum: Sprint Review - Facilitated by Thomas (Oliver CEO and Thomas CTO)
+   - [ ] Morning: Instead of morning scrum: Sprint Review for each team - Oliver and Thomas
    - [ ] Afternoon: File attachements using Cloud storage (AWS S3) - Oliver (mobsession Rails + React) 
 
 - **Tuesday:**
@@ -91,20 +91,20 @@ No challenge - just work on the News Room Challenge
 - **Wednesday:**
   - [ ] THE Shuffle Change teams - Maybe
      - [ ] Teams onboard new members - No coach support Nope
-  - [ ] Revisiting Stripe with stripe elements (subscriptions, recurring payments, styling ) - Thomas and Oliver (mobsession - coding) - maybe
+  - [ ] Revisiting Stripe with stripe elements (subscriptions, recurring payments, styling ) - Thomas and Oliver (mobsession - coding)
 
 - **Thursday:**
   - [ ] Afternoon: Internationalization (i18n) in React - Thomas (with Oliver)
 
 - **Friday:**  
-  - [ ] Start designing for the mobile client - only the consumer facing functionality (Objectives: Showing all articles, showing articles in categories, Show specific articles, authentication, payment flow) - Thomas 
+  - [ ] Start designing for the mobile client - only the consumer facing functionality (Objectives: Showing all articles, showing articles in categories, Show specific articles, authentication) - Thomas 
   - [ ] WEEKEND CHALLENGE - Prepare for mobile development, download tools (XCODE and Android stuido)
 
-### Week 10
+### Week 9
 Extending News Room with Mobile Client
 
 - **Monday:**
-  - [ ] Morning: Instead of morning scrum: Sprint Review for each team - Thomas & Faraz 
+  - [ ] Morning: Instead of morning scrum: Sprint Review for each team - Thomas & Oliver 
         - (The teams need to call this meeting)
   - [ ] React Native (Create slidedeck) - Faraz 
     
