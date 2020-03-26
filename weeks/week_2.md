@@ -1,65 +1,89 @@
-## Week 2
+## Week 2 - Introduction to React
 ### Introduction to this week
 
 #### Swedish
-**Mera JavaScript**
-Under vecka 2 fortsätter vi att utveckla dina JavaScript, HTML och CSS färdigheter. Tillsammans, bygger vi en adressbok applikation med rik funktionalitet och utforskar grundläggande metoder för datalagring. Vi fortsätter att jobba med testdriven utveckling och introducerar Behavior Driven Design (BDD). Under tiden vi jobban med vår adressbok, går även igonom grundläggande HTML och CSS. Du får även en första inblick i hur man publicerar applikationer på internet. Även denna vecka för du som student en helgutmaning att jobba med.
+**Statiska siter och programmeringstekniker**
+
+
 
 #### English
-**More to JavaScript**
+**Static sites and programming techniques**
 
-This week, we continue to build your JavaScript, HTML and CSS skills. Together we'll build an Address Book application with rich functionality and look into simple strategies for storing and persisting information. We'll also continue our journey into Test Driven Development and introduce you to Behavior Driven Design (BDD). We also go through the basics of HTML and CSS as we build this week's challenge. You will also get to deploy your first app on the Internet. Once again, you will have a Weekend Challenge to complete.
+During Week 3, you'll build your own portfolio site using ReactJS. We will introduce you to the basics of the react library. Components, State, Propps, React-router, JSON objects, etc. At the end of the week, you'll have a professional portfolio site, which you will fill with the projects you complete over the rest of the course. Your protfolio will also be deployed to the Internet using Netlify.
 
 ### Teachable Course
-[JavaScript and BDD](https://learn.craftacademy.co/admin/courses/650468/information)
+[React - An introduction](https://learn.craftacademy.co/admin/courses/659433/information)
 
 ### Week Lab
-Address Book-challenge
+Portfolio challenge
 
 ### Learning objectives
-* Learn about...
-  - Advanced Javascript concepts and ES6+ Features
-  - Asynchronous Programming with Javascript
-  - DOM manipulation using vanilla Javascript
-  - Persisting data using LocalStorage
-  - Unit testing in JS using Mocha and Chai
-  - Introduction to BDD using Cucumber (Explain the differences and the similarities between the testing frameworks)
-  - practice Pair Programming && collaboration using Git and GitHub
-  - Deploying a static site to the web
-  - Observe differences and similarities between Ruby and Javascript
-  - Understand difference between running code in the terminal vs. in the browser
+
+- Introduction to React
+- The V in MVC
+- Virtual DOM
+- Separation of responsibilities in React
+- Stateful and Stateless components
+- State and Props
+- Setup and configuration of the React toolchain
+- JSX syntax
+- React Router
+- Conventions and community best practices
+- Learn about and practice CSS frameworks (TailwindCSS)
 
 ### Weekend challenge
-FizzBuzz js (unit tests?)
+Add a CV page to your portfolio using JSON file AND add a contact form (using Netlify Forms). Also, wrap up the Library challenge and work on any other outstanding challenges.
 
 ### Learning objectives
-- Practice JS skills with more advanced logic
+* Solidify ReactJS skills.
 
-### Head Coach 
-Noel
-
-### Support and extra resource
-Greg & Faraz
+### Head Coach
+Oliver
 
 ### Guide
 - **Monday:**
-  - [ ] Morning: Javascript recap with focus on ES6 and  - Greg, new slidedeck 
-    - basics: most common datatypes, how functions structured, "classes", declaring and using variables, conditionals, loops
-    - work in remote pairs on the js exercises
-  - [ ] Afternoon: Asynchronous Programing with JS (Promises) - Greg (async, await), new slidedeck and pre-record 
-  
+  - [ ] Morning: Introduction to ReactJS - Part 1 (Go over slides/ Hello world - app) (Oliver - https://docs.google.com/presentation/d/1loDvAo_ji612mlLlBB-_Cb6WL-LxqDhXND7FYefQuUY/edit?usp=sharing)
+  - [ ] Afternoon: Introduction to Portfolio Challenge (Oliver - https://docs.google.com/presentation/d/1-A4s8OwQRUJd2V7Lnot6JGhpKR-QHehKsraFRjt0pAw/edit?usp=sharing)
+  - [ ] Afternoon: CodeWars Hour - Thomas (Would really be good to do this everyday of this week) Create Slidedeck on why to use Katas
 - **Tuesday:**
-  - [ ] Morning: Introduce the week lab (Address Book) do a demo where we scaffold the project - Noel - Show the finished product. Give a brief intro to BDD - Create Slidedeck
-  - [ ] Afternoon: Introduce Debugging with Chrome - Noel
-  - [ ] Afternoon: Intro on Agile methodologies (Crafting an MVP - Scrum, mention Kanban??? ) - Thomas
-  
+  - [ ] Morning: Portfolio Challenge - Coding demo (Oliver)  
+  - [ ] Afternoon: Software Craftsmanship - Thomas  
+  - [ ] Afternoon: CodeWars Hour - Oliver
 - **Wednesday:**
-  - [ ] Afternoon: Individually review (1-on-1 or pairs) pull requests/submissions from Ruby weekend challenge (ATM Challenge and Library Challenge) - Faraz 
-   
-- **Thursday:**
-   - [ ] Afternoon: Demo: Add some styling to Address book app using a a front-end CSS framework - Noel (show them with cdn for CSS and js. Tell them that this is the ONLY time we can use cdn) - Create Slidedeck, focus on what CDN is, when to use it?
-
+  - [ ] Morning: Deploying to Netlify - Thomas
+  - [ ] Morning: Introduction to ReactJS - Part 2 (Rest of the slides)(Oliver - https://docs.google.com/presentation/d/1loDvAo_ji612mlLlBB-_Cb6WL-LxqDhXND7FYefQuUY/edit?usp=sharing)
+  - [ ] Afternoon: CodeWars Hour - Oliver
+- **Thursday:** 
+  - [ ] Afternoon: Vanilla JS vs jQuery - Thomas (based on http://youmightnotneedjquery.com/)
 - **Friday:**
- 
-  - [ ] Afternoon: Introduce the Weekend Challenge [FizzBuzz Js Challenge ](../miscellaneous/assessments/week_2_assessment.md) (Noel) Note: We want to use the e2e Training Wheels package (https://www.npmjs.com/package/e2e_training_wheels)
-  - [ ] Retrospective - Noel (Thomas)
+  - [ ] Morning: Introduce weekend challenge briefly with examples (Add CV and Forms with cypress). - Oliver
+  - [ ] Afternoon: Tech interview training theory - Thomas
+  - [ ] Afternoon: Rock Paper Scissors - First Part
+
+## Please complete this checklist
+ - [ ] Are all slides decks up to date?
+   - [ ] Check one by one
+ - [ ] Do the slides have talking points added if another coach needs to take over the talk/demo?
+ - [ ] Do we have any talks/demos that will take more than 45 minutes to complete?
+	 - [ ] Have we scheduled the longer talks/demo so that there are no conflicts with another demo?
+ - [ ] Are all the appropriate slides added to the drive, and in the right folder?
+ - [ ] Do we have any conflict in the schedule with the talks?
+	 - [ ]  meetings
+	 - [ ] double booking
+	 - [ ] Bank Holidays
+   - [ ] Coaches missing (CA labs sprint/vacation)
+- [ ] Have all coaches done a dry run of the project?
+- [ ] Do we need to update packages/gems/dependencies?
+- [ ] Do we have recordings from previous talks available in the drive?
+	- [ ] Are the talks named appropriately so that they are easily found? 
+	- [ ] Are the recordings in the right folder?
+- [ ] When was the last check made for typos etc?
+	- [ ] Have you run the text through Grammarly?
+- [ ] Are there any outstanding PRs towards the coach guides that need to be reviewed/merged?
+- [ ] Is Teachable up to date?
+- [ ] When will we enroll the students in the week challenge?
+- [ ] Who will enroll the students in the course?
+- [ ] Are the slides added to Teachable?
+- [ ] **Have we gone through this checklist thoroughly or rushed through it?**
+    - [ ] thoroughly
+    - [ ] rushed (Please add reason)

@@ -1,36 +1,32 @@
-## Week 11 - 12
+## Week 10
 ### Introduction to this week
 
-#### Swedish
-##### Slutprojekt
-Vid det här läget är deltagarna mer eller mindre självgående och det är åter igen dags att omsätta förgående veckors kunskaper i praktisk tillämpning.
-Deras produktportfölj kommer att utökas med ytterligare en applikation.
-I grupper om tre till fyra jobbar de fram en så kallad minimum viable product (MVP) som de sätter i produktion på en egen virtuell server (Digital Ocean).
+#### Swedish intro
 
-#### English
-##### Final Project
 
-At this point, you will have the skills to work independently, able to plan and execute large web applications. We continue to push you out of your comfort zone and work with more complicated tools. In the final weeks of the bootcamp, you'll once again program a complex project, building on the many and varied skills you have developed over the previous weeks. You will work in a team to create a Minimum Viable Product (MVP) that would be ready to ship to a real customer.
+#### English intro
+
+### Teachable Course
+[Course link]()
 
 ### Learning objectives
-Finialize Final project
+
+
 ### Weekend challenge
-None
-### Learning objectives
-- Present Project to an audience 
 
+### Head Coach: undefined
+### Support coach: null
 ### Guide
 - **Monday:**
-  - [ ] How to present and prepare for an audience - Faraz
-  - [ ] Career talk - Thomas
+ 
 - **Tuesday:**
-- **Wednesday:**
-  - [ ] Career talk - Thomas
+
+- **Wednesday:** 
+
 - **Thursday:**
-  - [ ] Career talk - Thomas
+
 - **Friday:**
-  - [ ] Morning: Dry run for the coaches 10:00 - All coaches
-  - [ ] Afternoon: Camp Retro 14:00 - All coaches
+
 
 ## Please complete this checklist
  - [ ] Are all slides decks up to date?
