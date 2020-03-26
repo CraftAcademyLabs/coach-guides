@@ -95,6 +95,7 @@ No challenge - just work on the News Room Challenge
 
 - **Thursday:**
   - [ ] Afternoon: Internationalization (i18n) in React - Thomas (with Oliver)
+https://github.com/CraftAcademyLabs/ca_course/blob/master/week8/18n-react.md
 
 - **Friday:**  
   - [ ] Start designing for the mobile client - only the consumer facing functionality (Objectives: Showing all articles, showing articles in categories, Show specific articles, authentication) - Thomas 
