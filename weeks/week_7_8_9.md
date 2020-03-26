@@ -155,6 +155,7 @@ Extending News Room with Mobile Client
 - [ ] When will we enroll the students in the week challenge?
 - [ ] Who will enroll the students in the course?
 - [ ] Are the slides added to Teachable?
+- [ ] Go over student progress
 - [ ] **Have we gone through this checklist thoroughly or rushed through it?**
     - [x] thoroughly
     - [ ] rushed (Please add reason)
