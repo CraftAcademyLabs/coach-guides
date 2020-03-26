@@ -109,7 +109,7 @@ Extending News Room with Mobile Client
     - [ ] [Slidedeck - Add talking points](https://docs.google.com/presentation/d/1_vKD1ArJN3XKa0rAF0jS3VRN0pWmBdb2Gpvhov_LxaQ/edit#slide=id.g4c8a2ae7e1_0_0)
     - [ ] [Recording](https://drive.google.com/file/d/1m0XKFFzPTiw1aTwMw4yoX7XVg9X728Ww/view?usp=sharing)
   - [ ] Morning: Introduce Ionic/React - Faraz 
-    - [Slidedeck - TBA]()
+    - [ ] [Slidedeck - TBA]()
   - [ ] Afternoon: Hello World in Ionic/Reactn - Faraz 
   - [ ] 16:00 Scrum master follow up
   
