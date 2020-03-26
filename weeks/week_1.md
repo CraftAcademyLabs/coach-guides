@@ -73,8 +73,30 @@ We start at 9.30
     - searching a hash using `select` and `detect` methods
   - [ ] Afternoon: [Individual Technical Interview Training](../miscellaneous/assessments/week_1_assessment.md) - All coaches
 
-### Day One Things
-- Notebooks and pens for all participants (I'd like to do a really nice thing with printed pages but for now, just a notebook with a sticker on it is good.)
-- Buy lunch 
-- Introduce the entire team. If you don't want to be available at all hours of the day, give them hours of your availability.
-- As much as possible, have logistics already set up: cohort and Atlantis rooms clean and ready to work in, monitors and cables ready, headphones, brickor for the students.
+## Please complete this checklist
+ - [ ] Are all slides decks up to date?
+   - [ ] Check one by one
+ - [ ] Do the slides have talking points added if another coach needs to take over the talk/demo?
+ - [ ] Do we have any talks/demos that will take more than 45 minutes to complete?
+	 - [ ] Have we scheduled the longer talks/demo so that there are no conflicts with another demo?
+ - [ ] Are all the appropriate slides added to the drive, and in the right folder?
+ - [ ] Do we have any conflict in the schedule with the talks?
+	 - [ ]  meetings
+	 - [ ] double booking
+	 - [ ] Bank Holidays
+   - [ ] Coaches missing (CA labs sprint/vacation)
+- [ ] Have all coaches done a dry run of the project?
+- [ ] Do we need to update packages/gems/dependencies?
+- [ ] Do we have recordings from previous talks available in the drive?
+	- [ ] Are the talks named appropriately so that they are easily found? 
+	- [ ] Are the recordings in the right folder?
+- [ ] When was the last check made for typos etc?
+	- [ ] Have you run the text through Grammarly?
+- [ ] Are there any outstanding PRs towards the coach guides that need to be reviewed/merged?
+- [ ] Is Teachable up to date?
+- [ ] When will we enroll the students in the week challenge?
+- [ ] Who will enroll the students in the course?
+- [ ] Are the slides added to Teachable?
+- [ ] **Have we gone through this checklist thoroughly or rushed through it?**
+    - [ ] thoroughly
+    - [ ] rushed (Please add reason)
