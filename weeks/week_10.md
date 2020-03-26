@@ -12,7 +12,10 @@
 ### Learning objectives
 
 
-### Weekend challenge
+## Weekend challenge
+
+## Tech Interviews & Teams Composition
+[Link to document](https://docs.google.com/document/d/1C-y_-EP8Xd_A0nA8t_wiNo8QLRDbIdyOkoKoQPlyXCc/edit)
 
 ### Head Coach: undefined
 ### Support coach: null
@@ -52,6 +55,7 @@
 - [ ] When will we enroll the students in the week challenge?
 - [ ] Who will enroll the students in the course?
 - [ ] Are the slides added to Teachable?
+- [ ] Go over student progress!
 - [ ] **Have we gone through this checklist thoroughly or rushed through it?**
     - [ ] thoroughly
     - [ ] rushed (Please add reason)
