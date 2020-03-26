@@ -90,7 +90,7 @@ No challenge - just work on the News Room Challenge
 
 - **Wednesday:**
   - [ ] THE Shuffle Change teams - Maybe
-     - [ ] Teams onboard new members - No coach support Nope
+     - [ ] Teams onboard new members - No coach support
   - [ ] Revisiting Stripe with stripe elements (subscriptions, recurring payments, styling ) - Thomas and Oliver (mobsession - coding)
 
 - **Thursday:**
@@ -98,24 +98,60 @@ No challenge - just work on the News Room Challenge
 https://github.com/CraftAcademyLabs/ca_course/blob/master/week8/18n-react.md
 
 - **Friday:**  
-  - [ ] Start designing for the mobile client - only the consumer facing functionality (Objectives: Showing all articles, showing articles in categories, Show specific articles, authentication) - Thomas 
-  - [ ] WEEKEND CHALLENGE - Prepare for mobile development, download tools (XCODE and Android stuido)
+ 
 
 ### Week 9
 Extending News Room with Mobile Client
 
 - **Monday:**
-  - [ ] Morning: Instead of morning scrum: Sprint Review for each team - Thomas & Oliver 
-        - (The teams need to call this meeting)
-  - [ ] React Native (Create slidedeck) - Faraz 
-    
+  - [ ] Morning: Sprint Review for each team, entire cohort - Faraz & Oliver 
+  - [ ] Morning: Start designing for the mobile client - Faraz  [Slidedeck - Add talking points](https://docs.google.com/presentation/d/1_vKD1ArJN3XKa0rAF0jS3VRN0pWmBdb2Gpvhov_LxaQ/edit#slide=id.g4c8a2ae7e1_0_0) - Faraz 
+    - [ ] [Recording](https://drive.google.com/file/d/1m0XKFFzPTiw1aTwMw4yoX7XVg9X728Ww/view?usp=sharing)
+  - [ ] Morning: Introduce Ionic/React [Slidedeck - TBA]() - Faraz 
+  - [ ] Afternoon: Hello World in Ionic/Reactn - Faraz 
+  - [ ] 16:00 Scrum master follow up
+  
 - **Tuesday:**
-  
+  - [ ] 14:00 Q&A sessions, make use of [retrospective app](https://retrospected.com/) to gather ideas from students
+  - [ ] 16:00 Scrum master follow up
+
 - **Wednesday:**
-  
+  - [ ] 14:00 Q&A sessions, make use of [retrospective app](https://retrospected.com/) to gather ideas from students
+  - [ ] 16:00 Scrum master follow up
+
 - **Thursday:**
+  - [ ] 14:00 Q&A sessions, make use of [retrospective app](https://retrospected.com/) to gather ideas from students
+  - [ ] 16:00 Scrum master follow up
 
 - **Friday:**
-  - [ ] Pepp talk before Final Project - All coaches
-  - [ ] Tech interview training - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md) - Go over Unter
+  - [ ] 10:00 Pepp talk before Final Project - All coaches [Slidedeck - TBA]()
+  - [ ] 13:30 Tech interview training - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md) - Go over Unter
+  - [ ] 16:00 Scrum master follow up
 
+## Please complete this checklist
+ - [ ] Are all slides decks up to date?
+   - [ ] Check one by one
+ - [ ] Do the slides have talking points added if another coach needs to take over the talk/demo?
+ - [ ] Do we have any talks/demos that will take more than 45 minutes to complete?
+	 - [ ] Have we scheduled the longer talks/demo so that there are no conflicts with another demo?
+ - [ ] Are all the appropriate slides added to the drive, and in the right folder?
+ - [ ] Do we have any conflict in the schedule with the talks?
+	 - [ ]  meetings
+	 - [ ] double booking
+	 - [ ] Bank Holidays
+   - [ ] Coaches missing (CA labs sprint/vacation)
+- [ ] Have all coaches done a dry run of the project?
+- [ ] Do we need to update packages/gems/dependencies?
+- [ ] Do we have recordings from previous talks available in the drive?
+	- [ ] Are the talks named appropriately so that they are easily found? 
+	- [ ] Are the recordings in the right folder?
+- [ ] When was the last check made for typos etc?
+	- [ ] Have you run the text through Grammarly?
+- [x] Are there any outstanding PRs towards the coach guides that need to be reviewed/merged?
+- [ ] Is Teachable up to date?
+- [ ] When will we enroll the students in the week challenge?
+- [ ] Who will enroll the students in the course?
+- [ ] Are the slides added to Teachable?
+- [ ] **Have we gone through this checklist thoroughly or rushed through it?**
+    - [x] thoroughly
+    - [ ] rushed (Please add reason)
