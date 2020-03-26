@@ -1,61 +1,84 @@
-## Week 3 - Introduction to React
+## Week 3 Rails Week
 ### Introduction to this week
 
 #### Swedish
-**Statiska siter och programmeringstekniker**
+**Software as a Service med Ruby on Rails**
 
+Den här veckan dyker vi djupare in i Ruby on Rails - ett ramverk som hjälper programmeraren att följa designmönstret Model-View-Controller (MVC) och lär dem att jobba efter grundprinciperna Convention Over Configuration (Konvention före konfiguration) och Don't Repeat Yourself (DRY) som går ut på att motverka duplicering av kod. Vi introducerar också mer omfattande teststrategier och befäster deltagarnas kunskaper för hur de använder tester i sin utvecklingsprocess. Vi forsätter med att fördjupa oss i Rails och går igenom mer avancerade tekniker för hur man använder externa bibliotek (gems), API'er, websockets, mm.
 
 
 #### English
-**Static sites and programming techniques**
+**Software as a Service with Ruby on Rails**
 
-During Week 3, you'll build your own portfolio site using ReactJS. We will introduce you to the basics of the react library. Components, State, Propps, React-router, JSON objects, etc. At the end of the week, you'll have a professional portfolio site, which you will fill with the projects you complete over the rest of the course. Your protfolio will also be deployed to the Internet using Netlify.
+Software as a Service - Work the web! This week we introduce Ruby on Rails and introduce strategies to work effectively with legacy code. We present more complex testing strategies and help you understand how testing can greatly improve your workflow. This week we deepen our knowledge of external libraries (gems), APIs, websockets, etc.
 
 ### Teachable Course
-[React - An introduction](https://learn.craftacademy.co/admin/courses/659433/information)
+[Testing in Ruby on Rails](https://learn.craftacademy.co/admin/courses/659667/information)
 
 ### Week Lab
-Portfolio challenge
+The students are introduced to Ruby on Rails this week. We are exposing them to the 'magic' of Rails AND to the best practice of using various testing frameworks to drive their development.
+
+The Legacy Code Challenge aims at allowing students to write both acceptance tests and unit tests for a ready made application
+1. Acceptance-Unit Test Cycle with Rails (individual assignment)
+2. Legacy Code challenge (pairing assignment)
+
+Get the cohort to create a Rails application that can be used throughout the rest of the bootcamp
+
 
 ### Learning objectives
-
-- Introduction to React
-- The V in MVC
-- Virtual DOM
-- Separation of responsibilities in React
-- Stateful and Stateless components
-- State and Props
-- Setup and configuration of the React toolchain
-- JSX syntax
-- React Router
-- Conventions and community best practices
-- Learn about and practice CSS frameworks (TailwindCSS)
+* Learn about Ruby on Rails
+  - structure of a RoR application
+  - params
+  - routes (resources, members, etc)
+  - most common helpers
+  - migrations
+  - CRUD controller actions
+* Learn about the Model-View-Controller pattern
+* Learn to work with legacy code
+* Learn about best practices in Rails: DRY, Convention Over Configuration
+* Learn how to identify what gems provide a lot of functionality and how to read and use documentation
+* Learn about how to use tests (High level acceptance tests and Low level unit tests) to drive the development process.
+* Practice Team collaboration
+  - planning and assigning tasks
+  - git flow in teams
 
 ### Weekend challenge
-Add a CV page to your portfolio using JSON file AND add a contact form (using Netlify Forms). Also, wrap up the Library challenge and work on any other outstanding challenges.
+Authentication Challenge
+
+In order to read our articles. We need a user to sign up
+
 
 ### Learning objectives
-* Solidify ReactJS skills.
+* Install Devise gem
+* Feature test
+* Feature branches
+* Pull request
+* Read documentation
 
-### Head Coach
-Oliver
+### Head coach: Faraz
+#### First Line: Oliver
 
 ### Guide
-- **Monday:**
-  - [ ] Morning: Introduction to ReactJS - Part 1 (Go over slides/ Hello world - app) (Oliver - https://docs.google.com/presentation/d/1loDvAo_ji612mlLlBB-_Cb6WL-LxqDhXND7FYefQuUY/edit?usp=sharing)
-  - [ ] Afternoon: Introduction to Portfolio Challenge (Oliver - https://docs.google.com/presentation/d/1-A4s8OwQRUJd2V7Lnot6JGhpKR-QHehKsraFRjt0pAw/edit?usp=sharing)
-  - [ ] Afternoon: CodeWars Hour - Thomas (Would really be good to do this everyday of this week) Create Slidedeck on why to use Katas
-- **Tuesday:**
-  - [ ] Morning: Portfolio Challenge - Coding demo (Oliver)  
-  - [ ] Afternoon: Software Craftsmanship - Thomas  
-  - [ ] Afternoon: CodeWars Hour - Oliver
+- **Monday:** 
+  - [ ] Morning: Introduce Rails & AUT Part 1 (intro to Articles challenge, Factorybot, Fixture, Deploy to Heroku, Add semaphore & coveralls, this is the begining of the **Crafty News** Project for this cohort) - Thomas & Oliver
+  https://docs.google.com/presentation/d/1QBSlHd6hlmfsHeLhP_R6H1xlfsyYjmN-JxTcF2zRbns/edit?usp=sharing
+  - [ ] Afternoon: Introduce Rails & AUT Part 2 (intro to Articles challenge, FactoryBot, Fixtures) - Thomas & Oliver
+
+- **Tuesday:** 
+  - [ ] Morning(pre staff meeting): Mobsession to finish up AUT (edit & create articles)(PREPARE) - Oliver
+  - [ ] Afternoon: Introduce the Legacy Code Challenge - Oliver 
+  
 - **Wednesday:**
-  - [ ] Morning: Deploying to Netlify - Thomas
-  - [ ] Morning: Introduction to ReactJS - Part 2 (Rest of the slides)(Oliver - https://docs.google.com/presentation/d/1loDvAo_ji612mlLlBB-_Cb6WL-LxqDhXND7FYefQuUY/edit?usp=sharing)
-  - [ ] Afternoon: CodeWars Hour - Oliver
-- **Thursday:** 
-  - [ ] Afternoon: Vanilla JS vs jQuery - Thomas (based on http://youmightnotneedjquery.com/)
+  - [ ] Morning: Introduce to web architecture (MVC) - Thomas (make it a discussion)
+  https://docs.google.com/presentation/d/14Z4aPjdDTgeuQdup2MoiZrmUSSDce7R3I5dcotg7uyc/edit?usp=sharing Create a recording
+  - [ ] Afternoon: The concept of the Query Params [Use this as reference](https://www.youtube.com/watch?v=y57OnWV6dRE) - Thomas (Make sure to use Rails demo application(Crafty News)) Create a recording https://docs.google.com/presentation/d/1WQiq29ZR4rQvhyH7N2HelmCUeD2qzuaBo03O12Rjsp4/edit?usp=sharing
+
+- **Thursday:**
+   - [ ] Morning: Rails demo: routing (plus resources) [Slides](https://docs.google.com/presentation/d/1Eu_x1eO9Zkmkb1RyflUONTipOjnDUtfUmSabO8-jyoQ) - Oliver (`--skip-routes` `--skip-views`)
+   - [ ] Afternoon: Check the submissions of the AUT code on GitHub - Oliver & Thomas
+
 - **Friday:**
-  - [ ] Morning: Introduce weekend challenge briefly with examples (Add CV and Forms with cypress). - Oliver
-  - [ ] Afternoon: Tech interview training theory - Thomas
-  - [ ] Afternoon: Rock Paper Scissors - First Part
+  - [ ] Introduce the Weekend Challenge (Devise Gem) - Oliver
+  - [ ] Afternoon: Validations in Rails and instance methods - Oliver
+  - [ ] Retro - All coaches  
+  
