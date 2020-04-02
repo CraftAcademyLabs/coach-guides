@@ -23,24 +23,24 @@ Get a deeper understanding on the moving parts of the web, and have a chance to 
 
 ### Guide
 - **Monday:**
- - [ ] Morning: Sprint review (Newsroom)
- - [ ] Morning: Week introduction Web 101
-	Release course documentation
- - [ ] Afternoon: Career talk
+	 - [ ] Morning: Sprint review (Newsroom) - Oliver 
+	 - [ ] Morning: Week introduction Web 101 - Faraz
+		Release course documentation
+	 - [ ] Afternoon: Career talk - Faraz
  
 - **Tuesday:**
- - [ ] Morning: Profiling
- - [ ] Afternoon: Final Project intro
- - [ ] Afternoon: REST
+	 - [ ] Morning: Profiling - Faraz
+	 - [ ] Afternoon: Final Project intro - Faraz
+	 - [ ] Afternoon: REST - Faraz
  
 - **Wednesday:** 
- - [ ] Morning: Intro to Node.js
- - [ ] Afternoon: Demo Express/node.js[Build a book API](https://github.com/CraftAcademyLabs/web_101_course/blob/master/06_REST_excercise_express_postgresql.md)
+	 - [ ] Morning: Intro to Node.js - Oliver
+	 - [ ] Afternoon: Demo Express/node.js[Build a book API](https://github.com/CraftAcademyLabs/web_101_course/blob/master/06_REST_excercise_express_postgresql.md) - Oliver
  
 - **Thursday:**
- - [ ] Morning: Advanced GIT
- - [ ] Afternoon: Career Talk
- - [ ] Afternoon: Retrospective
+	 - [ ] Morning: Advanced GIT - Faraz
+	 - [ ] Afternoon: Career Talk - Faraz
+	 - [ ] Afternoon: Retrospective - Oliver/Faraz
  
 - **Friday:**
 Bank Holiday
