@@ -10,26 +10,40 @@
 [Course link]()
 
 ### Learning objectives
-
+Get a deeper understanding on the moving parts of the web, and have a chance to review technologies that we have used during the bootcamp. 
 
 ## Weekend challenge
 
 ## Tech Interviews & Teams Composition
 [Link to document](https://docs.google.com/document/d/1C-y_-EP8Xd_A0nA8t_wiNo8QLRDbIdyOkoKoQPlyXCc/edit)
 
-### Head Coach: undefined
-### Support coach: null
+### Head Coach: Faraz
+### Support coach: Oliver
+
+
 ### Guide
 - **Monday:**
+ - [ ] Morning: Sprint review (Newsroom)
+ - [ ] Morning: Week introduction Web 101
+	Release course documentation
+ - [ ] Afternoon: Career talk
  
 - **Tuesday:**
-
+ - [ ] Morning: Profiling
+ - [ ] Afternoon: Final Project intro
+ - [ ] Afternoon: REST
+ 
 - **Wednesday:** 
-
+ - [ ] Morning: Intro to Node.js
+ - [ ] Afternoon: Demo Express/node.js[Build a book API](https://github.com/CraftAcademyLabs/web_101_course/blob/master/06_REST_excercise_express_postgresql.md)
+ 
 - **Thursday:**
-
+ - [ ] Morning: Advanced GIT
+ - [ ] Afternoon: Career Talk
+ - [ ] Afternoon: Retrospective
+ 
 - **Friday:**
-
+Bank Holiday
 
 ## Please complete this checklist
  - [ ] Are all slides decks up to date?
