@@ -42,61 +42,70 @@ Firstline: **Faraz**
 
 - **Monday:**
 We start at 9.30
-  - [ ] Overview lecture on Craft Academy, 8 traits of a developer, etc. - Thomas (Last time as a default)
-  - [ ] Get-to-know-you intro "game" - Faraz & all coaches & seniors 11:00
+- [ ] Overview lecture on Craft Academy - Faraz 
+[Slide](https://docs.google.com/presentation/d/1Js0169lE61X_uJTIPkAD9iDXyWqwh7PTqEdk4gFpCx4/edit?usp=sharing)
+- [ ] Motivation - Faraz
+[slide](https://docs.google.com/presentation/d/1Z7CiExbFTZv7WgKzCOlyoVAika6_2Cw1VVVy6TJaIw8/edit?usp=sharing)
+  - [ ] Get-to-know-you intro "game" - Faraz & all coaches & seniors 11:00 (7 people in the cohort)
     - Who are you?
     - Why are you here?
     - Where are you going?
   - [ ] Presentations - everyone 30 min max
-   - [ ] Seniors Present Newsroom challenge to audience (Dry run for final project/ book big room & test recording equipment. ) or move to monday with the new cohort?
   - [ ] Communication talk - Noel (Slack, Student letter & handbook!, Craft Overflow
+  [Slide](https://docs.google.com/presentation/d/1FHi72wqIIuqLIaIZiG5GkeJtgg0SYDVuzZG14v-S0kY/edit?usp=sharing)
   - [ ] Introduce the Week lab - Noel
-  - [ ] Programming demo - "... The should be an ATM I can use" - Faraz (Greg)(Emphasize on the transition from User story to actual code)
+[Slide](https://docs.google.com/presentation/d/1U2Ld9Q_Bh0ezTI8R1_BB9jQ55JsGIR1_uL9dKo6_W0M/edit?usp=sharing)
+  - [ ] Programming demo - "... The should be an ATM I can use" - Faraz (Emphasize on the transition from User story to actual code)
   
 **Tuesday:**
   - [ ] Understanding the problem statement (Planning demo) - the ATM challenge - Faraz 
+  [slide](https://docs.google.com/presentation/d/1rZNCNtaDLILWCQZQmIooBXeBPpJFRm0GO-voWcOR98w/edit?usp=sharing)
   - [ ] Basic programming recap - Noel
-  - [ ] Git & GitHub talk and demo - pull requests, forking, cloning, Focus on gitpong. - Noel 
+  - [ ] Git & GitHub talk and demo - pull requests, forking, cloning - Noel 
+  [slide](https://docs.google.com/presentation/d/1oMwvZBPzUrDuIUPNo-QlaiZ5Ssv_xshFwAhyzbJ15TM/edit?usp=sharing)
   
 **Wednesday:**
-  - [ ] Learning strategies - Faraz ("You've been at it 2 days.. head hurts... big diff from prep course... find a good strategy.. or you'll die")
+  - [ ] Learning strategies - Faraz
+  [slide](https://docs.google.com/presentation/d/19NVyn8vCrTgMjksJyi5frgnRA3L-nIJd6VzB3WWk4FY/edit?usp=sharing)
   - [ ] Intermediate topics to testing with RSpec (Doubles, Dynamic Matchers, etc...) - Noel  
+  [Slide](https://docs.google.com/presentation/d/1tmcbhCdncTePC3gE4lR2Zye8eeH5xtFcK9LO9iN6hIY/edit?usp=sharing)
 
 **Thursday:**
-  - [ ] The right way to search the internet for information (using the docs, Stack Overflow, research) - Faraz (Discussion     - How are they doing it now... Give our suggestions)
-  - [ ] Debugging demo - both in code and spec tests - Noel [Recording]? _Look up the link to the recording_
-
-- **Friday:**
-  - [ ] Introduce the Weekend Challenge by going over the materials in CraftEd (Same pairs) - Noel
+  - [ ] The right way to search the internet for information (using the docs, Stack Overflow, research) - Faraz (Discussion - How are they doing it now... Give our suggestions)
+  - [ ] Debugging demo - both in code and spec tests - Noel 
+    - [ ] Introduce the Weekend Challenge - Noel
   - [ ] Do a programming demo with focus on - Noel
     - reading from and writing to a YAML file
     - searching a hash using `select` and `detect` methods
   - [ ] Afternoon: [Individual Technical Interview Training](../miscellaneous/assessments/week_1_assessment.md) - All coaches
 
+- **Friday:**
+**Bank holiday**
+
 ## Please complete this checklist
- - [ ] Are all slides decks up to date?
-   - [ ] Check one by one
+ - [x] Are all slides decks up to date?
+   - [x] Check one by one
  - [ ] Do the slides have talking points added if another coach needs to take over the talk/demo?
- - [ ] Do we have any talks/demos that will take more than 45 minutes to complete?
+ - [x] Do we have any talks/demos that will take more than 45 minutes to complete?
 	 - [ ] Have we scheduled the longer talks/demo so that there are no conflicts with another demo?
- - [ ] Are all the appropriate slides added to the drive, and in the right folder?
- - [ ] Do we have any conflict in the schedule with the talks?
-	 - [ ]  meetings
-	 - [ ] double booking
-	 - [ ] Bank Holidays
-   - [ ] Coaches missing (CA labs sprint/vacation)
-- [ ] Have all coaches done a dry run of the project?
-- [ ] Do we need to update packages/gems/dependencies?
-- [ ] Do we have recordings from previous talks available in the drive?
+ - [x] Are all the appropriate slides added to the drive, and in the right folder?
+ - [x] Do we have any conflict in the schedule with the talks?
+	 - [x] meetings
+	 - [x] double booking
+	 - [x] Bank Holidays
+   - [x] Coaches missing (CA labs sprint/vacation)
+- [x] Have all coaches done a dry run of the project?
+- [x] Do we need to update packages/gems/dependencies?
+- [x] Do we have recordings from previous talks available in the drive?
 	- [ ] Are the talks named appropriately so that they are easily found? 
 	- [ ] Are the recordings in the right folder?
 - [ ] When was the last check made for typos etc?
 	- [ ] Have you run the text through Grammarly?
 - [ ] Are there any outstanding PRs towards the coach guides that need to be reviewed/merged?
-- [ ] Is Teachable up to date?
-- [ ] When will we enroll the students in the week challenge?
-- [ ] Who will enroll the students in the course?
+- [x] Is Teachable up to date?
+- [x] When will we enroll the students in the week challenge?
+- [x] Who will enroll the students in the course?
 - [ ] Are the slides added to Teachable?
 - [ ] **Have we gone through this checklist thoroughly or rushed through it?**
-    - [ ] thoroughly
+    - [x] thoroughly
     - [ ] rushed (Please add reason)
