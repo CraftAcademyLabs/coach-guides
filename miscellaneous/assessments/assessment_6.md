@@ -1,9 +1,9 @@
 # Setting up a project
 ## Rails with testing frameworks and CI/CD
 
-This week we would like to assess your ability to scaffold a new Rails project. 
+This week we would like to assess your ability to scaffold a new Rails API project. 
 
-**Assessment time - up to 45 minutes**
+**Assessment time - up to 30 minutes**
 
 As you work on this exercise, please '_**think aloud**_'. That means verbally describing your mental process as it develops, including the doubts and questions you have, the solution strategies you consider, and the reasons that justify your decisions.
 
@@ -14,7 +14,7 @@ The 'Think-aloud' protocol involve the participant thinking aloud as s/he is per
 
 ## Challenge
 
-Your project team will be starting a new project - a crowdsourced transportation platform called **Unter**. You were assigned the following chores by your team:
+Your project team will be starting a new project - a crowdsourced transportation platform called **Unter**. You were assigned the following API chores by your team:
 
 ### Set up main repository
 **Description**
@@ -44,7 +44,7 @@ We would like to have an basic application structure
 
 **Tasks (Acceptance Criteria)**
 
-- [ ] Scaffold a Rails application
+- [ ] Scaffold a Rails API application
 - [ ] Turn off generators for helpers, assets and all specs (accept model specs)
 - [ ] Clean up the generated code from unnecessary comment for good readability
 
@@ -61,9 +61,8 @@ We would like to be able to write and run automated tests
 
 **Tasks (Acceptance Criteria)**
 
-- [ ] Add and configure Cucumber for Acceptance tests
 - [ ] Add and configure Rspec for Unit and Request specs
-
+- [ ] Configure shoulda matchers
 
 ### Set up Continuous integration
 
@@ -77,7 +76,7 @@ We would like to run full test suite on a remote service
 
 **Tasks (Acceptance Criteria)**
 
-- [ ] Set up CI on Semaphore or Travis
+- [ ] Set up CI on Semaphore
 
 ### Set up Test Coverage Metrics
 **Description**
@@ -91,8 +90,7 @@ We would like to measure test coverage using a remote service
 **Tasks (Acceptance Criteria)**
 
 - [ ] Set up Coveralls for the main repository
-- [ ] Add and configure Coveralls for RSpec and Cucumber
-- [ ] Coverage results needs to be merged in order to get metrics from both tools
+- [ ] Add and configure Coveralls for RSpec
 
 ### Set up Continious Deployment
 **Description**
