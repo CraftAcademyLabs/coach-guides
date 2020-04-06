@@ -36,7 +36,8 @@ Get a deeper understanding on the moving parts of the web, and have a chance to 
 ### Guide
 - **Monday:**
 	 - [ ] Morning: Sprint review (Newsroom) - Oliver 
-	 - [ ] Morning: Week introduction Web 101 - Faraz
+	 - [ ] Morning: Week introduction - Thomas
+	 - [ ] Afternoon: Web 101 - Faraz
 	 - [ ] Afternoon: Version Control - part I: Advanced concepts - Thomas
 	 - [ ] Afternoon: Career talk - Faraz
  
