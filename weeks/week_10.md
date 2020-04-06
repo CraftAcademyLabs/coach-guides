@@ -37,20 +37,20 @@ Get a deeper understanding on the moving parts of the web, and have a chance to 
 - **Monday:**
 	 - [ ] Morning: Sprint review (Newsroom) - Oliver 
 	 - [ ] Morning: Week introduction Web 101 - Faraz
-		Release course documentation
+	 - [ ] Afternoon: Version Control - part I: Advanced concepts - Thomas
 	 - [ ] Afternoon: Career talk - Faraz
  
 - **Tuesday:**
-	 - [ ] Morning: Profiling - Faraz
-	 - [ ] Afternoon: Final Project intro - Faraz
-	 - [ ] Afternoon: REST - Faraz
+	 - [ ] Morning: Version Control - part II: Tips and Trics (reflog, bisect, etc) - Thomas
+	 - [ ] Morning: NodeJS - part I: Basic setup and DB connectivity (Basic Book Store demo) - Thomas
+	 - [ ] Afternoon: NodeJS - part II & III: Express with Sequelize, Mocha+Chai+Supertest (debugging) (Advanced Book Store demo) - Thomas
  
 - **Wednesday:** 
-	 - [ ] Morning: Intro to Node.js - Oliver
-	 - [ ] Afternoon: Demo Express/node.js[Build a book API](https://github.com/CraftAcademyLabs/web_101_course/blob/master/06_REST_excercise_express_postgresql.md) - Oliver
+	 - [ ] Morning: Collaboration - Live Share, debugging, sharing server, etc - Thomas
+	 - [ ] Afternoon: Web Sockets (use Basic Book Store demo code as the base) - Thomas
  
 - **Thursday:**
-	 - [ ] Morning: Advanced GIT - Faraz
+	 - [ ] Morning: Profiling In Chrome Dev Tools - Thomas
 	 - [ ] Afternoon: Career Talk - Faraz
 	 - [ ] Afternoon: Retrospective - Oliver/Faraz
  
