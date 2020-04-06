@@ -20,6 +20,18 @@ Get a deeper understanding on the moving parts of the web, and have a chance to 
 ### Head Coach: Faraz
 ### Support coach: Oliver
 
+* Overview History, protocols, etc (Faraz Monday morning)
+* Version Control 
+    - part I: Advanced concepts  (Monday afternoon) 
+    - part II: Tips and Trics (reflog, bisect, etc) (Tuesday Morning) 
+* NodeJS 
+    - part I: Basic setup and DB connectivity (Basic Book Store demo) (Tuesday Morning) 
+    - part II & III: Express with Sequelize, Mocha+Chai+Supertest (debugging) (Advanced Book Store demo) (Tuesday Afternoon) 
+* Collaboration - Live Share, debugging, sharing server, etc) (Wednesday morning)
+* Web Sockets (use Basic Book Store demo code as the base) (Wednesday afternoon)
+* Profiling In Chrome Dev Tools (Thursday morning)
+
+
 
 ### Guide
 - **Monday:**
