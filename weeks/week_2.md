@@ -42,10 +42,11 @@ Oliver
 
 ### Guide
 - **Monday:**
-  - [ ] Morning: Introduction to ReactJS - Part 1 (Go over slides/ Hello world - app) (Oliver - https://docs.google.com/presentation/d/1loDvAo_ji612mlLlBB-_Cb6WL-LxqDhXND7FYefQuUY/edit?usp=sharing)
+  - [ ] Bank Holiday
+- **Tuesday:**
+- [ ] Morning: Introduction to ReactJS - Part 1 (Go over slides/ Hello world - app) (Oliver - https://docs.google.com/presentation/d/1loDvAo_ji612mlLlBB-_Cb6WL-LxqDhXND7FYefQuUY/edit?usp=sharing)
   - [ ] Afternoon: Introduction to Portfolio Challenge (Oliver - https://docs.google.com/presentation/d/1-A4s8OwQRUJd2V7Lnot6JGhpKR-QHehKsraFRjt0pAw/edit?usp=sharing)
   - [ ] Afternoon: CodeWars Hour - Thomas (Would really be good to do this everyday of this week) Create Slidedeck on why to use Katas
-- **Tuesday:**
   - [ ] Morning: Portfolio Challenge - Coding demo (Oliver)  
   - [ ] Afternoon: Software Craftsmanship - Thomas  
   - [ ] Afternoon: CodeWars Hour - Oliver
