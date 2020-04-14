@@ -51,7 +51,7 @@ Faraz
 - [ ] Afternoon: Introduction to ReactJS - Part 1 (Go over slides/ Hello world - app) (Noel - [slides](https://docs.google.com/presentation/d/1loDvAo_ji612mlLlBB-_Cb6WL-LxqDhXND7FYefQuUY/edit?usp=sharing))
   - [ ] Afternoon: Introduction to ReactJS - Part 2 (Rest of the slides)(Noel -  [slides](https://docs.google.com/presentation/d/1loDvAo_ji612mlLlBB-_Cb6WL-LxqDhXND7FYefQuUY/edit?usp=sharing))
   - [ ] Afternoon: Introduction to Portfolio Challenge (Noel - [slides](https://docs.google.com/presentation/d/1-A4s8OwQRUJd2V7Lnot6JGhpKR-QHehKsraFRjt0pAw/edit?usp=sharing) )
-  - [ ] Afternoon: CodeWars Hour - Noel (Would really be good to do this everyday of this week) Create Slidedeck on why to use Katas
+  - [ ] Afternoon: CodeWars Hour - Noel (Would really be good to do this everyday of this week) [slides](https://docs.google.com/presentation/d/1ztZcMLwXCh993O0xB89IPUFCF22tqAP6kgCOvnlbGAg/edit?usp=sharing)
 - **Wednesday:**
   - [ ] Morning: Deploying to Netlify - Noel
   - [ ] Afternoon: Software Craftsmanship - Thomas  
