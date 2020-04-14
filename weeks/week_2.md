@@ -46,8 +46,8 @@ Faraz
 - **Monday:**
   - [ ] Bank Holiday
 - **Tuesday:**
-- [ ] Morning: JS Primer - Faraz (slides)https://docs.google.com/presentation/d/1zNDOoOzelyPxf2iNb7k6Sz2Sa8udtG-MM1Px1nVJbHA/edit#slide=id.g497f7c5a27_0_0
-(Repo)https://github.com/CraftAcademyLabs/js_primer_for_react_devs/blob/master/00_introduction.md
+- [ ] Morning: JS Primer - Faraz [slides](https://docs.google.com/presentation/d/1zNDOoOzelyPxf2iNb7k6Sz2Sa8udtG-MM1Px1nVJbHA/edit#slide=id.g497f7c5a27_0_0)
+(Repo)[https://github.com/CraftAcademyLabs/js_primer_for_react_devs/blob/master/00_introduction.md]
 - [ ] Afternoon: Introduction to ReactJS - Part 1 (Go over slides/ Hello world - app) (Noel - https://docs.google.com/presentation/d/1loDvAo_ji612mlLlBB-_Cb6WL-LxqDhXND7FYefQuUY/edit?usp=sharing)
   - [ ] Afternoon: Introduction to ReactJS - Part 2 (Rest of the slides)(Noel - https://docs.google.com/presentation/d/1loDvAo_ji612mlLlBB-_Cb6WL-LxqDhXND7FYefQuUY/edit?usp=sharing)
   - [ ] Afternoon: Introduction to Portfolio Challenge (Noel - https://docs.google.com/presentation/d/1-A4s8OwQRUJd2V7Lnot6JGhpKR-QHehKsraFRjt0pAw/edit?usp=sharing)
