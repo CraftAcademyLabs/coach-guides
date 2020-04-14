@@ -57,7 +57,7 @@ Faraz
   - [ ] Afternoon: Software Craftsmanship - Thomas  
   - [ ] Afternoon: CodeWars Hour - Noel
 - **Thursday:** 
-  - [ ] Afternoon: Vanilla JS vs jQuery - Thomas (based on http://youmightnotneedjquery.com/) [Slides](https://docs.google.com/presentation/d/1UixROKCOaXrAC6ZTeHyXBzaUwB-xnuCFga4Tl7z052g/edit#slide=id.g4b12024eb7_0_21)
+  - [ ] Afternoon: Vanilla JS vs jQuery - Thomas (based on this [site](http://youmightnotneedjquery.com/)) [Slides](https://docs.google.com/presentation/d/1UixROKCOaXrAC6ZTeHyXBzaUwB-xnuCFga4Tl7z052g/edit#slide=id.g4b12024eb7_0_21)
   - [ ] Afternoon: CodeWars Hour - Noel
 - **Friday:**
   - [ ] Morning: Introduce weekend challenge briefly with examples (Add CV and Forms with cypress). - Noel (Slides - 
