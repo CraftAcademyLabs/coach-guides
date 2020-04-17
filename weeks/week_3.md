@@ -62,7 +62,7 @@ In order to read our articles. We need a user to sign up
 - **Monday:** 
   - [ ] Morning: Introduce Rails & AUT Part 1 (intro to Articles challenge, Factorybot, Fixture, Add semaphore & coveralls, this is the begining of the **Crafty News** Project for this cohort) - Faraz [slides](https://docs.google.com/presentation/d/1QBSlHd6hlmfsHeLhP_R6H1xlfsyYjmN-JxTcF2zRbns/edit?usp=sharing)
   - [ ] Afternoon: Introduce Rails & AUT Part 2 (intro to Articles challenge, FactoryBot, Fixtures) - Faraz
-- [ ] Deploy to Heroku Crafty News - Faraz [slide](https://docs.google.com/presentation/d/1JX1To6mtAqn0qMhVQiE88BHATevYcOdr2QST5pq88zo/edit?usp=sharing) 
+  - [ ] Deploy to Heroku Crafty News - Faraz [slide](https://docs.google.com/presentation/d/1JX1To6mtAqn0qMhVQiE88BHATevYcOdr2QST5pq88zo/edit?usp=sharing) 
 
 - **Tuesday:** 
   - [ ] Morning(pre staff meeting): Mobsession to finish up AUT (edit & create articles)(PREPARE) - Faraz
