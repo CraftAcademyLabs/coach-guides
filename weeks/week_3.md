@@ -60,27 +60,25 @@ In order to read our articles. We need a user to sign up
 
 ### Guide
 - **Monday:** 
-  - [ ] Morning: Introduce Rails & AUT Part 1 (intro to Articles challenge, Factorybot, Fixture, Deploy to Heroku, Add semaphore & coveralls, this is the begining of the **Crafty News** Project for this cohort) - Thomas & Oliver
-  https://docs.google.com/presentation/d/1QBSlHd6hlmfsHeLhP_R6H1xlfsyYjmN-JxTcF2zRbns/edit?usp=sharing
-  - [ ] Afternoon: Introduce Rails & AUT Part 2 (intro to Articles challenge, FactoryBot, Fixtures) - Thomas & Oliver
+  - [ ] Morning: Introduce Rails & AUT Part 1 (intro to Articles challenge, Factorybot, Fixture, Deploy to Heroku, Add semaphore & coveralls, this is the begining of the **Crafty News** Project for this cohort) - Faraz [slides](https://docs.google.com/presentation/d/1QBSlHd6hlmfsHeLhP_R6H1xlfsyYjmN-JxTcF2zRbns/edit?usp=sharing)
+  - [ ] Afternoon: Introduce Rails & AUT Part 2 (intro to Articles challenge, FactoryBot, Fixtures) - Faraz
 
 - **Tuesday:** 
-  - [ ] Morning(pre staff meeting): Mobsession to finish up AUT (edit & create articles)(PREPARE) - Oliver
-  - [ ] Afternoon: Introduce the Legacy Code Challenge - Oliver 
+  - [ ] Morning(pre staff meeting): Mobsession to finish up AUT (edit & create articles)(PREPARE) - Faraz
+  - [ ] Afternoon: Introduce the Legacy Code Challenge - Faraz [Slides](https://docs.google.com/presentation/d/1S2Nn_hOhm_slruGTPFVoRGBh9G-NiKExENRHhUd-8As/edit?usp=sharing)
   
 - **Wednesday:**
-  - [ ] Morning: Introduce to web architecture (MVC) - Thomas (make it a discussion)
-  https://docs.google.com/presentation/d/14Z4aPjdDTgeuQdup2MoiZrmUSSDce7R3I5dcotg7uyc/edit?usp=sharing Create a recording
-  - [ ] Afternoon: The concept of the Query Params [Use this as reference](https://www.youtube.com/watch?v=y57OnWV6dRE) - Thomas (Make sure to use Rails demo application(Crafty News)) Create a recording https://docs.google.com/presentation/d/1WQiq29ZR4rQvhyH7N2HelmCUeD2qzuaBo03O12Rjsp4/edit?usp=sharing
+  - [ ] Morning: Introduce to web architecture (MVC) - Faraz (make it a discussion) [slides](https://docs.google.com/presentation/d/14Z4aPjdDTgeuQdup2MoiZrmUSSDce7R3I5dcotg7uyc/edit?usp=sharing) Create a recording
+  - [ ] Afternoon: The concept of the Query Params [Use this as reference](https://www.youtube.com/watch?v=y57OnWV6dRE) - Faraz (Make sure to use Rails demo application(Crafty News)) Create a recording [Slides](https://docs.google.com/presentation/d/1WQiq29ZR4rQvhyH7N2HelmCUeD2qzuaBo03O12Rjsp4/edit?usp=sharing)
 
 - **Thursday:**
-   - [ ] Morning: Rails demo: routing (plus resources) [Slides](https://docs.google.com/presentation/d/1Eu_x1eO9Zkmkb1RyflUONTipOjnDUtfUmSabO8-jyoQ) - Oliver (`--skip-routes` `--skip-views`)
-   - [ ] Afternoon: Check the submissions of the AUT code on GitHub - Oliver & Thomas
+   - [ ] Morning: Rails demo: routing (plus resources) [Slides](https://docs.google.com/presentation/d/1Eu_x1eO9Zkmkb1RyflUONTipOjnDUtfUmSabO8-jyoQ) - Faraz (`--skip-routes` `--skip-views`)
+   - [ ] Afternoon: Check the submissions of the AUT code on GitHub - Faraz
 
 - **Friday:**
-  - [ ] Introduce the Weekend Challenge (Devise Gem) - Oliver
-  - [ ] Afternoon: Validations in Rails and instance methods - Oliver
-  - [ ] Retro - All coaches  
+  - [ ] Introduce the Weekend Challenge (Devise Gem) - Faraz [slides](https://docs.google.com/presentation/d/1I0EIjP_uCeXwnfyKBr01ZF5Pju33QIkvOCFV5jva18g/edit?usp=sharing)
+  - [ ] Afternoon: Validations in Rails and instance methods - Faraz [slides](https://docs.google.com/presentation/d/1uZJTsWZE43_ANHEcpqWbH15rd8w2BidR1Ap305q8VXE/edit?usp=sharing)
+  - [ ] RPS - All coaches  
   
 ## Please complete this checklist
  - [ ] Are all slides decks up to date?
