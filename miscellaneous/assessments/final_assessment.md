@@ -1,13 +1,13 @@
 ## Final assessment
 
-The goal of this is to assess your skills in programming and associated tasks (version control, DevOps, agile, etc). You will be given 2 programming challenges and ssome programming related questions. 
+The goal of this is to assess your skills in programming and associated tasks (version control, DevOps, agile, etc). You will be given 2 programming challenges and some programming related questions. 
 
 1. Comments Challenge
 2. Viaplay Challenge
 3. Written submission
 
 #### Time & Format
-4 hours during withch you need to be online in a coach supervisioned conference call (Google Meet). You need to share your the screen/monitor where your IDE is displayed. 
+4 hours during which you need to be online in a coach supervised conference call (Google Meet). You need to share your screen/monitor where your IDE is displayed. 
 
 #### Delivery:
 
@@ -16,7 +16,7 @@ All code must be delivered in the form of a **Pull Request** against the reposit
 ## Comments Challenge
 You are challenged to implement a feature for the Crafty News API.
 
-Title: "User can comment on article"
+Title: "User can comment on an article"
 
 User story:
 ```
@@ -35,20 +35,20 @@ Tasks:
 
 You need to fork the repository and clone the forked repository to your computer. Then you need to branch off from the development branch. When you feel that you are done, you need to create a pull request towards the upstream repository. Make sure that the PR contains the correct information. The user story and what changes that are proposed in the PR.
 
-Link to upstream repository: https://github.com/CraftAcademy/crafty_news_API_tech_interview
+Link to the upstream repository: https://github.com/CraftAcademy/crafty_news_API_tech_interview
 
 Good luck!
 
 ## Viaplay Challenge
 
-You are challenged with the task of replicating a UI. It is a desktop only web application listing TV series from Viaplay. 
+You are challenged with the task of replicating a UI. It is a desktop-only web application listing TV series from Viaplay. 
 
-The pesented UI looks like this:
+The presented UI looks like this:
 
 ![](./viaplay_challenge_ui.png)
 
 
-You need to fetch the data from the Viaplay API andd find the appropoite attributes that hold the information you need. 
+You need to fetch the data from the Viaplay API and find the appropriate attributes that hold the information you need. 
 
 The API is located at:
 
@@ -61,12 +61,12 @@ The TV series listings can be found at:
 yourDataObject._embedded['viaplay:blocks'][0]._embedded['viaplay:products']
 ```
 
-You can find a logo with transparent background at: 
+You can find a logo with a transparent background at: 
 ```
 https://kundservice.viaplay.se/wp-content/themes/viaplaycs/assets/dist/images/viaplay_white.svg
 ```
 
-Displaying the shows in a row with right formatting is a bit challenging. To help you, we've chosen to provide an example solution that is proven to yield good results. It is up to you if you want to use it though. The rest of the css needed to replicate the UI is up to you to define.
+Displaying the shows in a row with the right formatting is a bit challenging. To help you, we've chosen to provide an example solution that is proven to yield good results. It is up to you if you want to use it though. The rest of the css needed to replicate the UI is up to you to define.
 
 ```css
 .display-show {
@@ -90,4 +90,4 @@ Displaying the shows in a row with right formatting is a bit challenging. To hel
 Good luck and Happy Coding. 
 
 ## Written submission
-Please explain the steps you think are necessary to perform in order to get a feature done, from an idea to an implemened solution that is running in production. Be as detailed as possible. 
+Please explain the steps you think are necessary to perform to get a feature done, from an idea to an implemented solution that is running in production. Be as detailed as possible. 
