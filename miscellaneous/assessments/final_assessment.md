@@ -11,10 +11,32 @@ The goal of this is to assess your skills in programming and associated tasks (v
 
 #### Delivery:
 
-All code must be delivered in the form of a **Pull Request** against the repositories that the examiner will provide to you (onefor each challenge). Please note that the repositories will be set in **public** mode for the duration of the assessment, and closed sourced once we finish the assessment. We, the coaches of CA will be the only ones that can see them. We undertake this step to protect your privacy. 
+All code must be delivered in the form of a **Pull Request** against the repositories that the examiner will provide to you (one for each challenge). Please note that the repositories will be set in **public** mode for the duration of the assessment, and closed sourced once we finish the assessment. We, the coaches of CA will be the only ones that can see them. We undertake this step to protect your privacy. 
 
 ## Comments Challenge
+You are challenged to implement a feature for the Crafty News API.
 
+Title: "User can comment on article"
+User story:
+```
+As a User
+In order to voice my opinion on an article
+I would like to be able to leave a comment
+``` 
+Tasks:
+- [ ] Add comment model
+- [ ] Comment needs to contain a body
+- [ ] Add association between comment and article
+- [ ] Only authenticated user can comment, add user model with devise token auth
+- [ ] Add association between comment and user
+- [ ] Write request spec
+
+
+You need to fork the repository and clone the forked repository to your computer. Then you need to branch off from the development branch. When you feel that you are done, you need to create a pull request towards the upstream repository. Make sure that the PR contains the correct information. The user story and what changes that are proposed in the PR.
+
+Link to upstream repository: https://github.com/CraftAcademy/crafty_news_API_tech_interview
+
+Good luck!
 
 ## Viaplay Challenge
 
@@ -64,7 +86,7 @@ Displaying the shows in a row with right formatting is a bit challenging. To hel
 }
 ```
 
-Good luck and Happu Coding. 
+Good luck and Happy Coding. 
 
 ## Written submission
-Please explain the steps you think are necessary to perform in order to get a feature done, from an idea to an implemened ssolution that is running in production. Be as detailed as possible. 
+Please explain the steps you think are necessary to perform in order to get a feature done, from an idea to an implemened solution that is running in production. Be as detailed as possible. 
