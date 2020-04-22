@@ -68,6 +68,8 @@ https://kundservice.viaplay.se/wp-content/themes/viaplaycs/assets/dist/images/vi
 
 Displaying the shows in a row with the right formatting is a bit challenging. To help you, we've chosen to provide an example solution that is proven to yield good results. It is up to you if you want to use it though. The rest of the css needed to replicate the UI is up to you to define.
 
+Link to the upstream repository: https://github.com/CraftAcademy/final_exam_viaplay_challenge
+
 ```css
 .display-show {
     display: inline-block;
