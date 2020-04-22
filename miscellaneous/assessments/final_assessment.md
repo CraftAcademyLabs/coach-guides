@@ -11,7 +11,7 @@ The goal of this is to assess your skills in programming and associated tasks (v
 
 #### Delivery:
 
-All code must be delivered in the form of a **Pull Request** against the repositories that the examiner will provide to you (onefor each challenge).
+All code must be delivered in the form of a **Pull Request** against the repositories that the examiner will provide to you (onefor each challenge). Please note that the repositories will be set in **public** mode for the duration of the assessment, and closed sourced once we finish the assessment. We, the coaches of CA will be the only ones that can see them. We undertake this step to protect your privacy. 
 
 ## Comments Challenge
 
