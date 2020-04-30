@@ -50,16 +50,16 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 ### Support coach: Thomas & Faraz
 ### Guide
 - **Monday:**
-  - [ ] Morning: Introduce Slowfood Challenge - Thomas
+  - [ ] Morning: Introduce Slowfood Challenge - Thomas [slides](https://docs.google.com/presentation/d/153hI_aRf88-7FBvmBcq7FOxMoLEzbi8VuugVygonY3E/edit?usp=sharing)
     - Use Rails 6
     - Release old video of Extracting info from user stories
     - Point to set up rails guide in course documentation (boilerplate)
-  - [ ] Morning: Do a Overview of a Design Sprint. - Faraz
+  - [ ] Morning: Do a Overview of a Design Sprint - Faraz [slides](https://docs.google.com/presentation/d/1tXXZd1pl2Q3Rg9R85k_xmoZNBRKcQaPYKezCXglxXQ8/edit?usp=sharing)
   - [ ] Students go through stories and create lofis - From PT board
   - [ ] Afternoon: Setting up Semaphore and Continious deployment Also talk about coveralls - Oliver [CI and CD slides](https://docs.google.com/presentation/d/1Y0YBeRV9Da9exfEQXZFyJob0d6pbBKofPj3fjHp_yMQ/edit#slide=id.p9) Release guide
   
 - **Tuesday:**
-  - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC, config). - Faraz
+  - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC, config). - Faraz 
       - Basic application structure
       - Rails doctrine, etc...
   - [ ] Afternoon: Checkout mob-session part 1
@@ -67,8 +67,8 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   
 - **Wednesday:** 
   - [ ] Morning: Checkout mob-session part 3
-  - [ ] Afternoon: Rails demo: Active Record (migrations, associations, CRUD functions) - Oliver
-  - [ ] Afternoon: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Faraz
+  - [ ] Afternoon: Rails demo: Active Record (migrations, associations, CRUD functions) - Oliver [slides](https://docs.google.com/presentation/d/11EhVRW4JckFUEBTclTMT8B0-OOga8l7Pim4PlQLKy_M/edit?usp=sharing)
+  - [ ] Afternoon: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Faraz [slides](https://docs.google.com/presentation/d/1FuaqKjjdlQKCFZmbwdqS_-TKsRH4zSH4U-zFju8CekA/edit?usp=sharing)
 
 - **Thursday:**
     - [ ] Morning: Checkout mob-session part 4
