@@ -40,6 +40,7 @@ Mob Discussion sessions will be held every other day.
 - **Monday:** 
   - [ ] Morning 09:30: Design sprint led by coaches - Oliver & Faraz
   - [ ] Afternoon 14:00: How to consume an API both in **Rails** and **JS** - Thomas (Start with pure ruby, then Rails, then JS. Use AUT application.
+  - [ ] Session about Webmock
 
 - **Tuesday:**
   - [ ] Morning 11:15: In depth Rails demo: Authentication & Authorization (Devise + basic authorization using booleans) - Thomas Part 1 [Slides](https://docs.google.com/presentation/d/1acMDXIGQ6dr7wfetxtCApoA7LMmwfA2LSjj8Sufyjro/edit#slide=id.g1dfd44e8c5_0_0)
