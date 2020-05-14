@@ -49,59 +49,74 @@ No challenge - just work on the News Room Challenge
 ##  Tech Interviews & Teams Composition
 [Link to document](https://docs.google.com/document/d/1C-y_-EP8Xd_A0nA8t_wiNo8QLRDbIdyOkoKoQPlyXCc/edit)
 
-### Head Coach: Thomas
-### Supporting Coaches: Oliver
+### Head Coach: Oliver
+### Supporting Coaches: Faraz & Thomas
 
 
 ## Guide
 
 ### Week 7
 - **Monday:**
-  - [ ] Morning: Introduction to News Room Challenge - Thomas & Oliver give them PT and strict requirements from the client
+  - [ ] Midcourse exam
+  - [ ] Tell students to read scrum guide
+  - [ ] Afternoon: Introduction to News Room Challenge - Faraz & Oliver give them PT and strict requirements from the client
     - [ ] Oliver sets up new PT board
-  - [ ] Morning: Students start the First Sprint(Desing Phase) 
-  - [ ] Workshop on story prioritization, voting and Epics - Thomas & Oliver (Tell them about including lo-fi/mock up in PT but also to the PR once they have worked on it)
+    - [ ] [Slides](https://docs.google.com/presentation/d/1LMxeknWgar_ebHxCl0g7A0FbeUJm_k2BfprCme0NX7s/edit)
+  - [ ] Afternoon: Students start the First Sprint(Desing Phase) 
+  - [ ] Afternoon: Workshop on story prioritization, voting and Epics - Faraz & Oliver
+    - [ ] [Slides](https://docs.google.com/presentation/d/1tXXZd1pl2Q3Rg9R85k_xmoZNBRKcQaPYKezCXglxXQ8/edit)
   - [ ] Start with scrum master meeting every afternoon
 
 - **Tuesday:**
-  - [ ] Morning: Product owner intro (Recorded video for students to watch) - Recording (Prepare students for presenting their project plans on wednesday) [Agile Product Ownership in a Nutshell](https://youtu.be/502ILHjX9EE)
-  - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (`render json:`, JBuilder, Serializers) - Thomas (coding demo)
+  - [ ] Morning: Product owner intro (Recorded video for students to watch) - Recording
+    - [ ] Prepare students for presenting their project plans on wednesday
+    - [ ] Resource:  [Agile Product Ownership in a Nutshell](https://youtu.be/502ILHjX9EE)
+  - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (Advanced Active Model Serializer) - Thomas (coding demo)
   
 - **Wednesday:**
+  - [ ] Coach meeting: Discuss what each coach should bring up with their students during the assessment on friday 
   - [ ] Morning: Teams present their project plans (PT, lo-fi's and Mock Up's) - Shift teams
-  - [ ] Authentication in Rails-React-Redux using a package - Oliver (Resource: https://github.com/Eth3rnit3/j-tockauth)
+  - [ ] Morning: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz)
+  - [ ] Afternoon: Authentication in Rails-React-Redux using a package - Oliver 
+    - [ ] Resource: https://github.com/Eth3rnit3/j-tockauth)
+    - [ ] Slides: TBA
  
 - **Thursday:**
-  - [ ] Morning: File attachements (Active Storage) - Oliver (RAILS mobsession)
-  - [ ] Afternoon: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz on CraftEd 2.0) - Thomas (Oliver will support)
-  - [ ] Coach meeting: Discuss what each coach should bring up with their students during the assessment on friday
+- [ ] Bank Holiday
 
 - **Friday:**
-  - [ ] Tech interview (Twitter challenge, maybe do assessment after tech interview is finished)
-  - [ ] Assessment of the students (one on one)
-  - [ ] WEEKEND CHALLENGE: Inform the students about client meeting on Monday. Show them the [GlocalNews client meeting recording](https://www.youtube.com/watch?v=Vhuc9NVkAEI). The challenge is to prepare for that meeting. 
+  - [ ] Mornig: Assessment of the students (one on one)
+  - [ ] Afternoon: Tech interview (Twitter challenge)
+  - [ ] WEEKEND CHALLENGE: Inform the students about client meeting on Monday.
+    - [ ] Show them the [GlocalNews client meeting recording](https://www.youtube.com/watch?v=Vhuc9NVkAEI).
+    - [ ] The challenge is to prepare for that meeting. 
+    - [ ] Slides: TBA
+ 
 
 
 ### Week 8
 - **Monday:**
-   - [ ] Morning: Instead of morning scrum: Sprint Review for each team - Oliver and Thomas
-   - [ ] Afternoon: File attachements using Cloud storage (AWS S3) - Oliver (mobsession Rails + React) 
+   - [ ] Morning: Instead of morning scrum: Sprint Review for each team - Oliver and Faraz
+   - [ ] Afternoon: File attachements (Active Storage) - Oliver (RAILS mobsession)
+     - [ ] Slides: TBA
 
 - **Tuesday:**
+   - [ ] Morning: File attachements using Cloud storage (AWS S3) - Oliver (mobsession Rails + React) 
    - [ ] Afternoon: Geocoding (Rails and React) - determine what edition the user is served - Thomas 
       - Resource: https://drive.google.com/file/d/1knQRoUF7GvdxrIlpVioIMbiPAlQXcpKK/view?usp=sharing
 
 - **Wednesday:**
-  - [ ] THE Shuffle Change teams - Maybe
+  - [ ] THE Shuffle Change teams - No
      - [ ] Teams onboard new members - No coach support
-  - [ ] Revisiting Stripe with stripe elements (subscriptions, recurring payments, styling ) - Thomas and Oliver (mobsession - coding)
+  - [ ] Advanced strategies for Stripe (Subscriptions) - Thomas and Oliver (mobsession - coding)
 
 - **Thursday:**
-  - [ ] Afternoon: Internationalization (i18n) in React - Thomas (with Oliver)
+  - [ ] Afternoon: Internationalization (i18n) in React - Faraz
 https://github.com/CraftAcademyLabs/ca_course/blob/master/week8/18n-react.md
 
 - **Friday:**  
- 
+ - [ ] Q&A session - Oliver
+ - [ ] Senior Retro
 
 ### Week 9
 Extending News Room with Mobile Client
