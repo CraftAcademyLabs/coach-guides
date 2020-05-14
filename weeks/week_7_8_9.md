@@ -82,7 +82,7 @@ No challenge - just work on the News Room Challenge
     - [ ] Slides: TBA
  
 - **Thursday:**
-- [ ] Bank Holiday
+  - [ ] Bank Holiday
 
 - **Friday:**
   - [ ] Mornig: Assessment of the students (one on one)
@@ -91,8 +91,6 @@ No challenge - just work on the News Room Challenge
     - [ ] Show them the [GlocalNews client meeting recording](https://www.youtube.com/watch?v=Vhuc9NVkAEI).
     - [ ] The challenge is to prepare for that meeting. 
     - [ ] Slides: TBA
- 
-
 
 ### Week 8
 - **Monday:**
@@ -103,7 +101,7 @@ No challenge - just work on the News Room Challenge
 - **Tuesday:**
    - [ ] Morning: File attachements using Cloud storage (AWS S3) - Oliver (mobsession Rails + React) 
    - [ ] Afternoon: Geocoding (Rails and React) - determine what edition the user is served - Thomas 
-      - Resource: https://drive.google.com/file/d/1knQRoUF7GvdxrIlpVioIMbiPAlQXcpKK/view?usp=sharing
+     - [ ] Resource: https://drive.google.com/file/d/1knQRoUF7GvdxrIlpVioIMbiPAlQXcpKK/view?usp=sharing
 
 - **Wednesday:**
   - [ ] THE Shuffle Change teams - No
@@ -112,7 +110,7 @@ No challenge - just work on the News Room Challenge
 
 - **Thursday:**
   - [ ] Afternoon: Internationalization (i18n) in React - Faraz
-https://github.com/CraftAcademyLabs/ca_course/blob/master/week8/18n-react.md
+    - [ ] Resource: https://github.com/CraftAcademyLabs/ca_course/blob/master/week8/18n-react.md
 
 - **Friday:**  
  - [ ] Q&A session - Oliver
