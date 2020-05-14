@@ -78,7 +78,7 @@ No challenge - just work on the News Room Challenge
   - [ ] Morning: Teams present their project plans (PT, lo-fi's and Mock Up's) - Shift teams
   - [ ] Morning: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz)
   - [ ] Afternoon: Authentication in Rails-React-Redux using a package - Oliver 
-    - [ ] Resource: https://github.com/Eth3rnit3/j-tockauth)
+    - [ ] Resource: [j-tockauth repo](https://github.com/Eth3rnit3/j-tockauth)
     - [ ] Slides: TBA
  
 - **Thursday:**
@@ -88,7 +88,7 @@ No challenge - just work on the News Room Challenge
   - [ ] Mornig: Assessment of the students (one on one)
   - [ ] Afternoon: Tech interview (Twitter challenge)
   - [ ] WEEKEND CHALLENGE: Inform the students about client meeting on Monday.
-    - [ ] Show them the [GlocalNews client meeting recording](https://www.youtube.com/watch?v=Vhuc9NVkAEI).
+    - [ ] Show them the [GlocalNews client meeting recording](https://www.youtube.com/watch?v=Vhuc9NVkAEI)
     - [ ] The challenge is to prepare for that meeting. 
     - [ ] Slides: TBA
 
@@ -104,13 +104,15 @@ No challenge - just work on the News Room Challenge
      - [ ] Resource: https://drive.google.com/file/d/1knQRoUF7GvdxrIlpVioIMbiPAlQXcpKK/view?usp=sharing
 
 - **Wednesday:**
-  - [ ] THE Shuffle Change teams - No
-     - [ ] Teams onboard new members - No coach support
+  - [ ] THE Shuffle Change teams
+     - [ ] Teams onboard new members 
+     - [ ] No coach support
+     - [ ] Not for current cohort (april-2020)
   - [ ] Advanced strategies for Stripe (Subscriptions) - Thomas and Oliver (mobsession - coding)
 
 - **Thursday:**
   - [ ] Afternoon: Internationalization (i18n) in React - Faraz
-    - [ ] Resource: https://github.com/CraftAcademyLabs/ca_course/blob/master/week8/18n-react.md
+    - [ ] Resource: [Guide](https://github.com/CraftAcademyLabs/ca_course/blob/master/week8/18n-react.md)
 
 - **Friday:**  
  - [ ] Q&A session - Oliver
