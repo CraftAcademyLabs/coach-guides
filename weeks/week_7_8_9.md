@@ -105,8 +105,8 @@ No challenge - just work on the News Room Challenge
 
 - **Wednesday:**
   - [ ] THE Shuffle Change teams
-     - [ ] Teams onboard new members 
      - [ ] No coach support
+     - [ ] Teams onboard new members
      - [ ] Not for current cohort (april-2020)
   - [ ] Advanced strategies for Stripe (Subscriptions) - Thomas and Oliver (mobsession - coding)
 
