@@ -76,8 +76,7 @@ No challenge - just work on the News Room Challenge
 - **Wednesday:**
   - [ ] Coach meeting: Discuss what each coach should bring up with their students during the assessment on friday 
   - [ ] Morning: Teams present their project plans (PT, lo-fi's and Mock Up's) - Shift teams
-  - [ ] Morning: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz)
-  - [ ] Afternoon: Authentication in Rails-React-Redux using a package - Oliver 
+  - [ ] Afternoon: Authentication in Rails-React using a package - Oliver 
     - [ ] Resource: [j-tockauth repo](https://github.com/Eth3rnit3/j-tockauth)
     - [ ] Slides: TBA
  
@@ -86,22 +85,26 @@ No challenge - just work on the News Room Challenge
 
 - **Friday:**
   - [ ] Mornig: Assessment of the students (one on one)
+  - [ ] Morning: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz)
   - [ ] Afternoon: Tech interview (Twitter challenge)
   - [ ] WEEKEND CHALLENGE: Inform the students about client meeting on Monday.
     - [ ] Show them the [GlocalNews client meeting recording](https://www.youtube.com/watch?v=Vhuc9NVkAEI)
     - [ ] The challenge is to prepare for that meeting. 
+    - [ ] Need to confirm time of meeting during weekend
     - [ ] Slides: TBA
 
 ### Week 8
 - **Monday:**
-   - [ ] Morning: Instead of morning scrum: Sprint Review for each team - Oliver and Faraz
-   - [ ] Afternoon: File attachements (Active Storage) - Oliver (RAILS mobsession)
+   - [ ] Morning: Sprint Review for each team - Oliver and Faraz
+   - [ ] Morning: File attachements (Active Storage) - Oliver (RAILS mobsession)
      - [ ] Slides: TBA
+   - [ ] Afternoon: File attachements using Cloud storage (AWS S3) - Oliver (mobsession Rails + React) 
+   
 
 - **Tuesday:**
-   - [ ] Morning: File attachements using Cloud storage (AWS S3) - Oliver (mobsession Rails + React) 
+   - [ ] Morning: Intro to Redux - Thomas
    - [ ] Afternoon: Geocoding (Rails and React) - determine what edition the user is served - Thomas 
-     - [ ] Resource: https://drive.google.com/file/d/1knQRoUF7GvdxrIlpVioIMbiPAlQXcpKK/view?usp=sharing
+     - [ ] Resource: [Recording](https://drive.google.com/file/d/1knQRoUF7GvdxrIlpVioIMbiPAlQXcpKK/view?usp=sharing)
 
 - **Wednesday:**
   - [ ] THE Shuffle Change teams
