@@ -129,27 +129,29 @@ Extending News Room with Mobile Client
   - [ ] Morning: Start designing for the mobile client - Faraz
     - [ ] [Slidedeck - Add talking points](https://docs.google.com/presentation/d/1_vKD1ArJN3XKa0rAF0jS3VRN0pWmBdb2Gpvhov_LxaQ/edit#slide=id.g4c8a2ae7e1_0_0)
     - [ ] [Recording](https://drive.google.com/file/d/1m0XKFFzPTiw1aTwMw4yoX7XVg9X728Ww/view?usp=sharing)
-  - [ ] Morning: Introduce Ionic/React - Faraz 
+  - [ ] Morning: Introduce React Native - Thomas 
     - [ ] [Slidedeck - TBA]()
-  - [ ] Afternoon: Hello World in Ionic/Reactn - Faraz 
+  - [ ] Afternoon: Hello World in React Native - Thomas 
   - [ ] 16:00 Scrum master follow up
   
 - **Tuesday:**
-  - [ ] 14:00 Q&A sessions, make use of [retrospective app](https://retrospected.com/) to gather ideas from students
+  - [ ] 13:30 Q&A sessions, make use of [retrospective app](https://retrospected.com/) to gather ideas from students
+  - [ ] 15:00 Agile talk
   - [ ] 16:00 Scrum master follow up
 
 - **Wednesday:**
-  - [ ] 14:00 Q&A sessions, make use of [retrospective app](https://retrospected.com/) to gather ideas from students
+  - [ ] 13:30 Q&A sessions, make use of [retrospective app](https://retrospected.com/) to gather ideas from students
+  - [ ] Demo about testing in React Native
   - [ ] 16:00 Scrum master follow up
 
 - **Thursday:**
-  - [ ] 14:00 Q&A sessions, make use of [retrospective app](https://retrospected.com/) to gather ideas from students
+  - [ ] 13:30 Q&A sessions, make use of [retrospective app](https://retrospected.com/) to gather ideas from students
+  - [ ] 15:00 Agile talk
   - [ ] 16:00 Scrum master follow up
 
 - **Friday:**
-  - [ ] 10:00 Pepp talk before Final Project - All coaches
-    - [ ]  [Slidedeck - TBA]()
   - [ ] 13:30 Tech interview training - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md) - Go over Unter
+  - [ ] 15:00 Agile talk
   - [ ] 16:00 Scrum master follow up
 
 ## Please complete this checklist
