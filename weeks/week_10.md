@@ -35,28 +35,27 @@ Get a deeper understanding on the moving parts of the web, and have a chance to 
 
 ### Guide
 - **Monday:**
-	 - [ ] Morning: Sprint review (Newsroom) - Oliver 
-	 - [ ] Morning: Week introduction - Thomas
-	 - [ ] Afternoon: Web 101 - Faraz
+	 - [ ] Morning: Sprint review (Newsroom) - Oliver & Faraz
+	 - [ ] Morning: Week intro & Web 101 - Faraz
 	 - [ ] Afternoon: Version Control - part I: Advanced concepts - Thomas
 	 - [ ] Afternoon: Career talk - Faraz
- 
+
 - **Tuesday:**
 	 - [ ] Morning: Version Control - part II: Tips and Trics (reflog, bisect, etc) - Thomas
 	 - [ ] Morning: NodeJS - part I: Basic setup and DB connectivity (Basic Book Store demo) - Thomas
 	 - [ ] Afternoon: NodeJS - part II & III: Express with Sequelize, Mocha+Chai+Supertest (debugging) (Advanced Book Store demo) - Thomas
  
 - **Wednesday:** 
-	 - [ ] Morning: Collaboration - Live Share, debugging, sharing server, etc - Thomas
-	 - [ ] Afternoon: Web Sockets (use Basic Book Store demo code as the base) - Thomas
+	 - [ ] Morning: NodeJS - part IV Live Share, debugging, sharing server, etc - Thomas
+	 - [ ] Afternoon: NodeJS - part V Web Sockets (use Basic Book Store demo code as the base) - Thomas
+	 - [ ] Afternoon: Career Talk - Faraz
  
 - **Thursday:**
-	 - [ ] Morning: Profiling In Chrome Dev Tools - Thomas
-	 - [ ] Afternoon: Career Talk - Faraz
-	 - [ ] Afternoon: Retrospective - Oliver/Faraz
+	 - [ ] Morning: NodeJS - part VI Profiling In Chrome Dev Tools - Thomas
  
 - **Friday:**
-Bank Holiday
+	 - [ ] Afternoon: Retrospective - Oliver/Faraz
+	 - [ ] Afternoon: Career Talk - Faraz
 
 ## Please complete this checklist
  - [ ] Are all slides decks up to date?
