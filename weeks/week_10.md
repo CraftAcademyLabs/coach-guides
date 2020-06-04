@@ -52,10 +52,10 @@ Get a deeper understanding on the moving parts of the web, and have a chance to 
  
 - **Thursday:**
 	 - [ ] Morning: NodeJS - part VI Profiling In Chrome Dev Tools - Thomas
+	 - [ ] Afternoon: Career Talk - Faraz
  
 - **Friday:**
 	 - [ ] Afternoon: Retrospective - Oliver/Faraz
-	 - [ ] Afternoon: Career Talk - Faraz
 
 ## Please complete this checklist
  - [ ] Are all slides decks up to date?
