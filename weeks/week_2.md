@@ -44,25 +44,45 @@ Faraz
 
 ### Guide
 - **Monday:**
-  - [ ] Bank Holiday
-- **Tuesday:**
-- [ ] Morning: JS Primer - Faraz [slides](https://docs.google.com/presentation/d/1zNDOoOzelyPxf2iNb7k6Sz2Sa8udtG-MM1Px1nVJbHA/edit#slide=id.g497f7c5a27_0_0)
-[Repo](https://github.com/CraftAcademyLabs/js_primer_for_react_devs/blob/master/00_introduction.md)
-- [ ] Afternoon: Introduction to ReactJS - Part 1 (Go over slides/ Hello world - app) (Noel - [slides](https://docs.google.com/presentation/d/1loDvAo_ji612mlLlBB-_Cb6WL-LxqDhXND7FYefQuUY/edit?usp=sharing))
-  - [ ] Afternoon: Introduction to ReactJS - Part 2 (Rest of the slides)(Noel -  [slides](https://docs.google.com/presentation/d/1loDvAo_ji612mlLlBB-_Cb6WL-LxqDhXND7FYefQuUY/edit?usp=sharing))
-  - [ ] Afternoon: Introduction to Portfolio Challenge (Noel - [slides](https://docs.google.com/presentation/d/1-A4s8OwQRUJd2V7Lnot6JGhpKR-QHehKsraFRjt0pAw/edit?usp=sharing) )
-  - [ ] Afternoon: CodeWars Hour - Noel (Would really be good to do this everyday of this week) [slides](https://docs.google.com/presentation/d/1ztZcMLwXCh993O0xB89IPUFCF22tqAP6kgCOvnlbGAg/edit?usp=sharing)
+  - [ ] Morning: JS Primer - Faraz 
+    - [ ] [Slides](https://docs.google.com/presentation/d/1zNDOoOzelyPxf2iNb7k6Sz2Sa8udtG-MM1Px1nVJbHA/edit#slide=id.g497f7c5a27_0_0)
+    - [ ] [Repo](https://github.com/CraftAcademyLabs/js_primer_for_react_devs/blob/master/00_introduction.md)
+    
+  - [ ] Afternoon: Introduction to ReactJS - Part 1 (Go over slides/ Hello world) Noel & Emma 
+    - [ ] [Slides](https://docs.google.com/presentation/d/1loDvAo_ji612mlLlBB-_Cb6WL-LxqDhXND7FYefQuUY/edit?usp=sharing)
+  
+  - [ ] Afternoon: Introduction to ReactJS - Part 2 (Rest of the slides) Noel & Emma 
+    - [ ] [Slides](https://docs.google.com/presentation/d/1loDvAo_ji612mlLlBB-_Cb6WL-LxqDhXND7FYefQuUY/edit?usp=sharing)
+    
+ 
+- **Tuesday:**  
+  - [ ] Morning: Introduction to Portfolio Challenge - Noel 
+    - [ ] [Slides](https://docs.google.com/presentation/d/1-A4s8OwQRUJd2V7Lnot6JGhpKR-QHehKsraFRjt0pAw/edit?usp=sharing)
+    
+  - [ ] Afternoon: CodeWars Hour - Noel (ENFORCE!) 
+    - [ ] [Slides](https://docs.google.com/presentation/d/1ztZcMLwXCh993O0xB89IPUFCF22tqAP6kgCOvnlbGAg/edit?usp=sharing)
+  
 - **Wednesday:**
   - [ ] Morning: Deploying to Netlify - Noel
+  
   - [ ] Afternoon: Software Craftsmanship - Thomas  
+    - [ ] [Slides](https://docs.google.com/presentation/d/1MtC_9wUgQAO4NUvAQxFk7CU7Fvdbwt4RE2BDaMC_f8s/edit#slide=id.p)
+    
   - [ ] Afternoon: CodeWars Hour - Noel
+  
 - **Thursday:** 
-  - [ ] Afternoon: Vanilla JS vs jQuery - Thomas (based on this [site](http://youmightnotneedjquery.com/)) [Slides](https://docs.google.com/presentation/d/1UixROKCOaXrAC6ZTeHyXBzaUwB-xnuCFga4Tl7z052g/edit#slide=id.g4b12024eb7_0_21)
-  - [ ] Afternoon: CodeWars Hour - Noel
-- **Friday:**
-  - [ ] Morning: Introduce weekend challenge briefly with examples (Add CV and Forms with cypress). - Noel (Slides - 
-  - [ ] Afternoon: CodeWars Hour - Noel
+  - [ ] Afternoon: Vanilla JS vs jQuery - Thomas
+    - [ ] [Slides](https://docs.google.com/presentation/d/1UixROKCOaXrAC6ZTeHyXBzaUwB-xnuCFga4Tl7z052g/edit#slide=id.g4b12024eb7_0_21)
+    - [ ] Based on this [site](http://youmightnotneedjquery.com/)
+    
+  - [ ] Afternoon: Introduce weekend challenge briefly with examples (Add CV and Forms with cypress). - Noel
+  
   - [ ] Afternoon: Retro 
+
+  - [ ] Afternoon: CodeWars Hour - Noel
+  
+- **Friday:**
+  - [ ] Bank holiday!!! :d xD
 
 ## Please complete this checklist
  - [ ] Are all slides decks up to date?
