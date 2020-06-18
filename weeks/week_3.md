@@ -91,6 +91,9 @@ In order to read our articles. We need a user to sign up
      - [ ] [Slides](https://docs.google.com/presentation/d/1Eu_x1eO9Zkmkb1RyflUONTipOjnDUtfUmSabO8-jyoQ) 
      - [ ] (`--skip-routes` `--skip-views`)
      
+   - [ ] Afternoon: Software Craftsmanship - Thomas
+     - [ ] [Slides](https://docs.google.com/presentation/d/1MtC_9wUgQAO4NUvAQxFk7CU7Fvdbwt4RE2BDaMC_f8s/edit)
+   
    - [ ] Afternoon: Check the submissions of the AUT code on GitHub - All Coaches
 
 - **Friday:**
