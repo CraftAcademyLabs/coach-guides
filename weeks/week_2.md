@@ -58,16 +58,15 @@ Faraz
 - **Tuesday:**  
   - [ ] Morning: Introduction to Portfolio Challenge - Noel 
     - [ ] [Slides](https://docs.google.com/presentation/d/1-A4s8OwQRUJd2V7Lnot6JGhpKR-QHehKsraFRjt0pAw/edit?usp=sharing)
-  - [ ] Afternoon: Intro to Agile and Scrum - Thomas
-    - [ ] [Slides](https://docs.google.com/presentation/d/1v65qlThrfBCIGMbPqZJWaDXjn9fEGPPwQfJYtkUBAKY/edit#slide=id.p)
+
   - [ ] Afternoon: CodeWars Hour - Noel (ENFORCE!) 
     - [ ] [Slides](https://docs.google.com/presentation/d/1ztZcMLwXCh993O0xB89IPUFCF22tqAP6kgCOvnlbGAg/edit?usp=sharing)
   
 - **Wednesday:**
   - [ ] Morning: Deploying to Netlify - Noel
   
-  - [ ] Afternoon: Software Craftsmanship - Thomas  
-    - [ ] [Slides](https://docs.google.com/presentation/d/1MtC_9wUgQAO4NUvAQxFk7CU7Fvdbwt4RE2BDaMC_f8s/edit#slide=id.p)
+ - [ ] Afternoon: Intro to Agile and Scrum - Thomas
+    - [ ] [Slides](https://docs.google.com/presentation/d/1v65qlThrfBCIGMbPqZJWaDXjn9fEGPPwQfJYtkUBAKY/edit#slide=id.p)
     
   - [ ] Afternoon: CodeWars Hour - Noel
   
