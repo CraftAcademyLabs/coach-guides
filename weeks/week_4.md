@@ -4,7 +4,6 @@
 #### Swedish
 **Mobila applikationer**
 
-Den här veckan fördjupar vi deltagarnas kunskaper inom JavaScript genom att introducera Angular, ett populärt front-end ramverk. Vi tittar även på Ionic som är ett ramverk för utveckling av mobila applikationer utan att behöva arbeta med inhemska språk för iOS eller Android. I slutet av veckan kommer du ha utvecklat och distribuerat två applikationer som kan ses på en mobil enhet.
 
 #### English
 **Advanced React**
@@ -33,7 +32,7 @@ In Week 4 we deepen your knowledge of Javascript by diving deeper into React, a 
 
 ### Head Coach: Oliver 
 ### Assistant coaches: Faraz, Thomas
-Let's be strict with the support protocol AND who is giving support. Communicate who is in charge in morning scrum AND on Slack.
+Let's be strict with the support protocol AND who is giving support. Communicate who is in charge in morning scrum AND on Slack. We need to make sure the understand the importance of component testing with jest/enzyme!
 
 ### Guide
 - **Monday:** (React)
