@@ -38,24 +38,35 @@ Let's be strict with the support protocol AND who is giving support. Communicate
 ### Guide
 - **Monday:** (React)
   - [ ] Morning: Faraz & Oliver pair up students
-  - [ ] Morning 9:30 : Introduce Week - Oliver [Slides](https://docs.google.com/presentation/d/1Ler_SbU3Kn_DE7h2iVwxFMPgUYV5xUTt0Xr2n4KNpiQ/edit#slide=id.g35f391192_00)
-  - [ ] Morning 10:30 : Introduce BMI challenge - Oliver [Slides](https://docs.google.com/presentation/d/11X96OmpHlBfz1hAADZbIc8izBfu6ty7h5tO-RA6Avs4/edit#slide=id.g4b12024eb7_0_21)
-  - [ ] AUT in React (based on the outside in testing post - see Medium) - Emma & Oliver 
+  
+  - [ ] Morning 9:30 : Introduce Week - Oliver 
+    - [ ] [Slides](https://docs.google.com/presentation/d/1Ler_SbU3Kn_DE7h2iVwxFMPgUYV5xUTt0Xr2n4KNpiQ/edit#slide=id.g35f391192_00)
+    
+  - [ ] Morning 10:30 : Introduce BMI challenge - Oliver 
+    - [ ] [Slides](https://docs.google.com/presentation/d/11X96OmpHlBfz1hAADZbIc8izBfu6ty7h5tO-RA6Avs4/edit#slide=id.g4b12024eb7_0_21)
+    
+  - [ ] AUT in React - Emma & Oliver 
+    - [ ] [Medium Post](https://medium.com/craft-academy/outside-in-testing-in-react-bfb058ee4b7c)
 
 - **Tuesday:** (Start Cooper challenge) 
   - [ ] [Semantic UI](https://react.semantic-ui.com/) - Faraz
-  - [ ] Afternoon (14:00): Introduce Cooper challenge - Oliver [Slides](https://docs.google.com/presentation/d/1Ler_SbU3Kn_DE7h2iVwxFMPgUYV5xUTt0Xr2n4KNpiQ/edit#slide=id.g35f391192_00)
+  
+  - [ ] Afternoon (14:00): Introduce Cooper challenge - Oliver 
+    - [ ] [Slides](https://docs.google.com/presentation/d/1Ler_SbU3Kn_DE7h2iVwxFMPgUYV5xUTt0Xr2n4KNpiQ/edit#slide=id.g35f391192_00)
 
 - **Wednesday:**  
-  - [ ] Morning: RESTful APIs in Rails - Faraz & Oliver (10:30pm) [Slides](https://docs.google.com/presentation/d/1_d3WO8AP1jg1G0xJCOL8J4IPJ8cLZzHwrcrfp0TL7-M/edit)
+  - [ ] Morning: RESTful APIs in Rails - Faraz & Oliver (10:30pm) 
+    - [ ] [Slides](https://docs.google.com/presentation/d/1_d3WO8AP1jg1G0xJCOL8J4IPJ8cLZzHwrcrfp0TL7-M/edit)
 
 - **Thursday:**  
-  - [ ] Afternoon: The simple truths - Thomas (13:00pm) [Slides](https://docs.google.com/presentation/d/1kvzG_b3zoQ6grCMuPiT59_wMikSWd1qgarVK8qUuSFc/edit#slide=id.g497fb264d8_0_0)
+  - [ ] Afternoon: The simple truths - Thomas (13:00pm) 
+    - [ ] [Slides](https://docs.google.com/presentation/d/1kvzG_b3zoQ6grCMuPiT59_wMikSWd1qgarVK8qUuSFc/edit#slide=id.g497fb264d8_0_0)
 
 - **Friday:**
-- [ ] Morning: Introduce the weekend challenge - Oliver [Slides](https://class.craftacademy.co/courses/course-v1:CraftAcademy+CA-CC-01+2018/courseware/96bf29b196214229a1f5b420c670ac7f/71f526bca64d410abab417bd304e68f6/?activate_block_id=block-v1%3ACraftAcademy%2BCA-CC-01%2B2018%2Btype%40sequential%2Bblock%4071f526bca64d410abab417bd304e68f6) -  (10:00)
+  - [ ] Morning: Introduce the weekend challenge - Oliver 
+    - [ ] [Visualization Slides](https://docs.google.com/presentation/d/1JarRziyTnxskxflOJIx0yTrOHriLgT-xp80lAN15uis/edit#slide=id.g5266187cf7_0_3)
 
-- [ ] Retro - All coaches
+  - [ ] Retro - All coaches
 
   
 ## Please complete this checklist
