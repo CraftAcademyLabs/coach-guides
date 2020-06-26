@@ -35,7 +35,7 @@ Tasks:
 
 You need to fork the repository and clone the forked repository to your computer. Then you need to branch off from the development branch. When you feel that you are done, you need to create a pull request towards the upstream repository. Make sure that the PR contains the correct information. The user story and what changes that are proposed in the PR.
 
-Link to the upstream repository: https://github.com/CraftAcademy/crafty_news_API_tech_interview
+Link to the upstream repository: https://github.com/CraftAcademy/final_exam_api_challenge_april_2020
 
 Good luck!
 
@@ -68,7 +68,7 @@ https://kundservice.viaplay.se/wp-content/themes/viaplaycs/assets/dist/images/vi
 
 Displaying the shows in a row with the right formatting is a bit challenging. To help you, we've chosen to provide an example solution that is proven to yield good results. It is up to you if you want to use it though. The rest of the css needed to replicate the UI is up to you to define.
 
-Link to the upstream repository: https://github.com/CraftAcademy/final_exam_viaplay_challenge
+Link to the upstream repository: https://github.com/CraftAcademy/final_exam_viaplay_challenge_april_2020
 
 ```css
 .display-show {
@@ -92,4 +92,6 @@ Link to the upstream repository: https://github.com/CraftAcademy/final_exam_viap
 Good luck and Happy Coding. 
 
 ## Written submission
-Please explain the steps you think are necessary to perform to get a feature done, from an idea to an implemented solution that is running in production. Be as detailed as possible. 
+See instructions at: https://github.com/CraftAcademy/final_exam_written_submissions_april_2020
+
+
