@@ -57,37 +57,44 @@ No challenge - just work on the News Room Challenge
 
 ### Week 7
 - **Monday:**
-  - [ ] Midcourse exam
   - [ ] Tell students to read scrum guide
-  - [ ] Afternoon: Introduction to News Room Challenge - Faraz & Oliver give them PT and strict requirements from the client
+  
+  - [ ] Morning: Introduction to News Room Challenge - Oliver & Faraz 
+    - [ ] Give them PT and strict requirements from the client
     - [ ] Oliver sets up new PT board
     - [ ] [Slides](https://docs.google.com/presentation/d/1LMxeknWgar_ebHxCl0g7A0FbeUJm_k2BfprCme0NX7s/edit)
-  - [ ] Afternoon: Students start the First Sprint(Desing Phase) 
-  - [ ] Afternoon: Workshop on story prioritization, voting and Epics - Faraz & Oliver
-    - [ ] [Slides](https://docs.google.com/presentation/d/1tXXZd1pl2Q3Rg9R85k_xmoZNBRKcQaPYKezCXglxXQ8/edit)
+    
+  - [ ] Morning: Students start the First Sprint (Desing Phase) 
+  
+  
+    
   - [ ] Start with scrum master meeting every afternoon
 
 - **Tuesday:**
-  - [ ] Morning: Product owner intro (Recorded video for students to watch) - Recording
-    - [ ] Prepare students for presenting their project plans on wednesday
-    - [ ] Resource:  [Agile Product Ownership in a Nutshell](https://youtu.be/502ILHjX9EE)
-  - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (Advanced Active Model Serializer) - Thomas (coding demo)
+  - [ ] Morning: Pitch meeting for Midcourse meeting
   
-- **Wednesday:**
-  - [ ] Coach meeting: Discuss what each coach should bring up with their students during the assessment on friday 
+  - [ ] Afternoon: Workshop on story prioritization, voting and Epics - Faraz & Oliver
+    - [ ] [Slides](https://docs.google.com/presentation/d/1tXXZd1pl2Q3Rg9R85k_xmoZNBRKcQaPYKezCXglxXQ8/edit)
+  
+  
+- **Wednesday:**  
   - [ ] Morning: Teams present their project plans (PT, lo-fi's and Mock Up's) - Shift teams
+  
+  - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (Advanced Active Model Serializer) - Emma (coding demo)
+   
+- **Thursday:**
   - [ ] Afternoon: Authentication in Rails-React using a package - Oliver 
     - [ ] Resource: [j-tockauth repo](https://github.com/Eth3rnit3/j-tockauth)
     - [ ] Slides: TBA
- 
-- **Thursday:**
-  - [ ] Bank Holiday
 
 - **Friday:**
   - [ ] Mornig: Assessment of the students (one on one)
+  
   - [ ] Morning: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz)
+  
   - [ ] Afternoon: Tech interview (Twitter challenge)
-  - [ ] WEEKEND CHALLENGE: Inform the students about client meeting on Monday.
+  
+  - [ ] WEEKEND CHALLENGE: Inform the students about client meeting on Monday. 
     - [ ] Show them the [GlocalNews client meeting recording](https://www.youtube.com/watch?v=Vhuc9NVkAEI)
     - [ ] The challenge is to prepare for that meeting. 
     - [ ] Need to confirm time of meeting during weekend
