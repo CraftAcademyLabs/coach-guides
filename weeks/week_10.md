@@ -52,6 +52,8 @@ Get a deeper understanding on the moving parts of the web, and have a chance to 
  
 - **Thursday:**
 	 - [ ] Morning: NodeJS - part VI Profiling In Chrome Dev Tools - Thomas
+	 - [ ] Final exam 
+		[slides](https://docs.google.com/presentation/d/1T9o-6jwDtCc7qYK0r8y5xzKT3eyDYgoXy9OMMWWL4Dk/edit#slide=id.g78458fc811_0_16)
 	 - [ ] Afternoon: Career Talk - Faraz
  
 - **Friday:**
