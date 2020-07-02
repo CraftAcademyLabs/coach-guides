@@ -38,25 +38,40 @@ Let's be strict with the support protocol AND who is giving support. Communicate
 Mob Discussion sessions will be held every other day.
 
 - **Monday:** 
-  - [ ] Morning 09:30: Design sprint led by coaches - Oliver & Faraz
-  - [ ] Afternoon 14:00: How to consume an API both in **Rails** and **JS** - Thomas (Start with pure ruby, then Rails, then JS. Use AUT application.
-  - [ ] Session about Webmock
+  - [ ] Morning: Design sprint led by coaches - Oliver & Emma
+  
+  - [ ] Afternoon: How to consume an API both in **Rails** and **JS** - Thomas
+    - [ ] Start with pure ruby, then Rails, then JS. Use AUT application
+
+  - [ ] Introduce Webmock
 
 - **Tuesday:**
-  - [ ] Morning 11:15: In depth Rails demo: Authentication & Authorization (Devise + basic authorization using booleans) - Thomas Part 1 [Slides](https://docs.google.com/presentation/d/1acMDXIGQ6dr7wfetxtCApoA7LMmwfA2LSjj8Sufyjro/edit#slide=id.g1dfd44e8c5_0_0)
-  - [ ] Afternoon 14:00: In depth Rails demo: Authentication & Authorization (Pundit) - Thomas Part 2
+  - [ ] Morning: In depth Rails demo: Authentication & Authorization (Devise + basic authorization using booleans) - Oliver Part 1 
+    - [ ] [Slides](https://docs.google.com/presentation/d/1acMDXIGQ6dr7wfetxtCApoA7LMmwfA2LSjj8Sufyjro/edit#slide=id.g1dfd44e8c5_0_0)
+    
+  - [ ] Afternoon: In depth Rails demo: Authentication & Authorization (Pundit) - Thomas & Emma Part 2
   
 - **Wednesday:**
-  - [ ] Morning 11:00: How to get paid (Stripe)  Part 1 - Faraz + Oliver Slides TBA
-  - [ ] Afternoon 14:00: How to get paid (Stripe) Part 2 - Faraz + Oliver
+  - [ ] Morning: How to get paid (Stripe)  Part 1 - Oliver & Emma
+  
+  - [ ] Afternoon: How to get paid (Stripe) Part 2 - Oliver & Emma
 
 - **Thursday:**
-  - [ ] Morning 10:00: OAuth demo (Facebook - very basic OAuth for web apps) - Oliver (will use one of the teams codebase) Slides TBA
-  - [ ] Afternoon 14:00: Advanced associations with ActiveRecord - Oliver [Slides](https://docs.google.com/presentation/d/1Ibg_P4pL2u81FrNRnHKHpiLhbSkgi-6Y/edit)
+  - [ ] Morning 10:00: Midcourse exam - All coaches
+    - [ ] [Slides](https://docs.google.com/presentation/d/11QvMiQPakxyPjGzMDbP8p6VxWxJ8Sa-cDm33B7D7-xg/edit?usp=sharing)
+  
+  - [ ] Afternoon: Advanced associations with ActiveRecord - Oliver 
+    - [ ] [Slides](https://docs.google.com/presentation/d/1Ibg_P4pL2u81FrNRnHKHpiLhbSkgi-6Y/edit)
  
 - **Friday:**
- - [ ] Morning 10:00: Midcourse exam - All coaches
- - [ ] Afternoon 15:30: Project Retro and UX/function review  (give feedback for the weekend) - All Coaches
+ - [ ] Morning 10:00: OAuth demo (Facebook - very basic OAuth for web apps) - Oliver
+   - [ ] Slides TBA
+   - [ ] Use one of the teams codebase
+   
+ - [ ] Afternoon 15:30: Project Retro and UX/function review - All Coaches
+   - [ ] Give feedback for the weekend
+   - [ ] Prepare them for pitch to external investors
+   - [ ] Prepare them for their presentation
 
 ## Please complete this checklist
  - [ ] Are all slides decks up to date?
