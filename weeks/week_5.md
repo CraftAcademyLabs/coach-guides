@@ -52,7 +52,7 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 - **Monday:**
   - [ ] Morning: Introduce Slowfood Challenge - Oliver 
     - [ ] [Slides](https://docs.google.com/presentation/d/153hI_aRf88-7FBvmBcq7FOxMoLEzbi8VuugVygonY3E/edit?usp=sharing)
-    - [ ] Provide them with Rails API & React client boilerplate
+    - [ ] Provide them with Rails API & React client boilerplate from template
     
   - [ ] Morning: Do a Overview of a Design Sprint - Faraz & Emma
     - [ ] [Slides](https://docs.google.com/presentation/d/1tXXZd1pl2Q3Rg9R85k_xmoZNBRKcQaPYKezCXglxXQ8/edit?usp=sharing)
@@ -65,8 +65,8 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   
 - **Tuesday:**
   - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC, config). - Faraz & Oliver
-      - Basic application structure
-      - Rails doctrine, etc...
+      - [ ] Basic application structure
+      - [ ] Rails doctrine, etc...
       
   - [ ] Afternoon: Checkout mob-session part 1 - Oliver
   
@@ -74,12 +74,12 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   
 - **Wednesday:** 
   - [ ] Morning: Checkout mob-session part 3 - Oliver
-  
-  - [ ] Afternoon: Rails demo: Active Record (migrations, associations, CRUD functions) - Oliver 
-    - [ ] [Slides](https://docs.google.com/presentation/d/11EhVRW4JckFUEBTclTMT8B0-OOga8l7Pim4PlQLKy_M/edit?usp=sharing)
     
   - [ ] Afternoon: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Faraz & Emma
     - [ ] [Slides](https://docs.google.com/presentation/d/1FuaqKjjdlQKCFZmbwdqS_-TKsRH4zSH4U-zFju8CekA/edit?usp=sharing)
+    
+  - [ ] Afternoon: Rails demo: Active Record (migrations, associations, CRUD functions) - Oliver 
+    - [ ] [Slides](https://docs.google.com/presentation/d/11EhVRW4JckFUEBTclTMT8B0-OOga8l7Pim4PlQLKy_M/edit?usp=sharing)
 
 - **Thursday:**
   - [ ] Morning: Checkout mob-session part 4
@@ -87,7 +87,7 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   - [ ] Afternoon: Talk about the midcourse project - Coaches
 
 - **Friday:**
-  - [ ] Morning: Introduce the Weekend Challenge (Convert AUT app into API or finish slowfood challenge) - Oliver
+  - [ ] Morning: Introduce the Weekend Challenge (Commnet challenge or finish slowfood challenge) - Oliver
   
   - [ ] Afternoon: Tech interview training - Second part of the RPS Challenge
 
