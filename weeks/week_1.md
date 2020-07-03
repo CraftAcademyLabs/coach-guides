@@ -53,6 +53,8 @@ We start at 9.30
   - [ ] Presentations - everyone 30 min max
   - [ ] Communication talk - Noel (Slack, Student letter & handbook!, Craft Overflow
   [Slide](https://docs.google.com/presentation/d/1FHi72wqIIuqLIaIZiG5GkeJtgg0SYDVuzZG14v-S0kY/edit?usp=sharing)
+  - [ ] How we assess students 
+	[Slide](https://docs.google.com/presentation/d/1mxScG_F8lpiN7TE01PJEjc8SDL7ilWbgkXdaQ8mj_jE/edit?usp=sharing)
   - [ ] Introduce the Week lab - Noel
 [Slide](https://docs.google.com/presentation/d/1U2Ld9Q_Bh0ezTI8R1_BB9jQ55JsGIR1_uL9dKo6_W0M/edit?usp=sharing)
   - [ ] Programming demo - "... The should be an ATM I can use" - Noel (Emphasize on the transition from User story to actual code)
