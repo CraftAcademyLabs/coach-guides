@@ -60,7 +60,7 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   - [ ] Students go through stories and create lofis - From PT board
   
   - [ ] Afternoon: Setting up Semaphore and Continious deployment - Oliver 
-    - [ ] SLIDES NEEDS TO BE UPDATED [CI and CD slides](https://docs.google.com/presentation/d/1Y0YBeRV9Da9exfEQXZFyJob0d6pbBKofPj3fjHp_yMQ/edit#slide=id.p9)
+    - [ ] [CI and CD slides](https://docs.google.com/presentation/d/1Y0YBeRV9Da9exfEQXZFyJob0d6pbBKofPj3fjHp_yMQ/edit#slide=id.p9)
     - [ ] Also talk about coveralls
   
 - **Tuesday:**
