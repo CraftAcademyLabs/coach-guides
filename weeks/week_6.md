@@ -47,7 +47,7 @@ Mob Discussion sessions will be held every other day.
 
 - **Tuesday:**
   - [ ] Morning: In depth Rails demo: Authentication & Authorization (Devise + basic authorization using booleans) - Oliver Part 1 
-    - [ ] [Slides](https://docs.google.com/presentation/d/1acMDXIGQ6dr7wfetxtCApoA7LMmwfA2LSjj8Sufyjro/edit#slide=id.g1dfd44e8c5_0_0)
+    - [ ] [Slides](https://docs.google.com/presentation/d/1acMDXIGQ6dr7wfetxtCApoA7LMmwfA2LSjj8Sufyjro/edit#slide=id.g1dfd44e8c5_0_0) UPDATE IT!
     
   - [ ] Afternoon: In depth Rails demo: Authentication & Authorization (Pundit) - Thomas & Emma Part 2
   
@@ -64,14 +64,17 @@ Mob Discussion sessions will be held every other day.
     - [ ] [Slides](https://docs.google.com/presentation/d/1Ibg_P4pL2u81FrNRnHKHpiLhbSkgi-6Y/edit)
  
 - **Friday:**
- - [ ] Morning 10:00: OAuth demo (Facebook - very basic OAuth for web apps) - Oliver
-   - [ ] Slides TBA
-   - [ ] Use one of the teams codebase
+  - [ ] Morning 10:00: OAuth demo (Facebook - very basic OAuth for web apps) - Oliver
+    - [ ] Slides TBA
+    - [ ] Use one of the teams codebase
+    - [ ] Code along
    
- - [ ] Afternoon 15:30: Project Retro and UX/function review - All Coaches
-   - [ ] Give feedback for the weekend
-   - [ ] Prepare them for pitch to external investors
-   - [ ] Prepare them for their presentation
+  - [ ] Afternoon 15:00: Project Retro - All Coaches
+    
+  - [ ] Afternoon 16:00: UX/function review - Faraz
+     - [ ] Prepare them for their presentation
+     - [ ] Give feedback for the weekend
+     - [ ] Prepare them for pitch to external investors
 
 ## Please complete this checklist
  - [ ] Are all slides decks up to date?
