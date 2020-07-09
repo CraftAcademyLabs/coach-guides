@@ -58,6 +58,7 @@ No challenge - just work on the News Room Challenge
 ### Week 7
 - **Monday:**
   - [ ] Tell students to read scrum guide
+    - [ ] In the course material
   
   - [ ] Morning: Introduction to News Room Challenge - Oliver & Faraz 
     - [ ] Give them PT and strict requirements from the client
@@ -66,19 +67,16 @@ No challenge - just work on the News Room Challenge
     
   - [ ] Morning: Students start the First Sprint (Desing Phase) 
   
-  
-    
   - [ ] Start with scrum master meeting every afternoon
 
 - **Tuesday:**
-  - [ ] Morning: Pitch meeting for Midcourse meeting
+  - [ ] Morning: Pitch meeting for Midcourse project - Faraz & All coaches
   
   - [ ] Afternoon: Workshop on story prioritization, voting and Epics - Faraz & Oliver
     - [ ] [Slides](https://docs.google.com/presentation/d/1tXXZd1pl2Q3Rg9R85k_xmoZNBRKcQaPYKezCXglxXQ8/edit)
   
-  
 - **Wednesday:**  
-  - [ ] Morning: Teams present their project plans (PT, lo-fi's and Mock Up's) - Shift teams
+  - [ ] Morning: Teams present their project plans (PT, lo-fi's and Mock Up's) - Coaches shift teams
   
   - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (Advanced Active Model Serializer) - Emma (coding demo)
    
