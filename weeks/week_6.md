@@ -47,7 +47,7 @@ Mob Discussion sessions will be held every other day.
 
 - **Tuesday:**
   - [ ] Morning: In depth Rails demo: Authentication & Authorization (Devise + basic authorization using booleans) - Oliver Part 1 
-    - [ ] [Slides](https://docs.google.com/presentation/d/1acMDXIGQ6dr7wfetxtCApoA7LMmwfA2LSjj8Sufyjro/edit#slide=id.g1dfd44e8c5_0_0) UPDATE IT!
+    - [ ] [Slides](https://docs.google.com/presentation/d/1acMDXIGQ6dr7wfetxtCApoA7LMmwfA2LSjj8Sufyjro/edit#slide=id.g1dfd44e8c5_0_0)
     
   - [ ] Afternoon: In depth Rails demo: Authentication & Authorization (Pundit) - Thomas & Emma Part 2
   
