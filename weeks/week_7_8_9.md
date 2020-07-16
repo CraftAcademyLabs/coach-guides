@@ -81,9 +81,10 @@ No challenge - just work on the News Room Challenge
   - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (Advanced Active Model Serializer) - Emma (coding demo)
    
 - **Thursday:**
+  - [ ] Morning: Discuss students progress in depth in preperation for one on ones during the coach meeting!
+  
   - [ ] Afternoon: Authentication in Rails-React using a package - Oliver 
     - [ ] Resource: [j-tockauth repo](https://github.com/Eth3rnit3/j-tockauth)
-    - [ ] Slides: TBA
 
 - **Friday:**
   - [ ] Mornig: Assessment of the students (one on one)
@@ -92,71 +93,86 @@ No challenge - just work on the News Room Challenge
   
   - [ ] Afternoon: Tech interview (Twitter challenge)
   
-  - [ ] WEEKEND CHALLENGE: Inform the students about client meeting on Monday. 
-    - [ ] Show them the [GlocalNews client meeting recording](https://www.youtube.com/watch?v=Vhuc9NVkAEI)
-    - [ ] The challenge is to prepare for that meeting. 
-    - [ ] Need to confirm time of meeting during weekend
-    - [ ] Slides: TBA
+  - [ ] Afternoon: Retro and talk about plans for vacation
 
 ### Week 8
 - **Monday:**
    - [ ] Morning: Sprint Review for each team - Oliver and Faraz
+   
    - [ ] Morning: File attachements (Active Storage) - Oliver (RAILS mobsession)
      - [ ] Slides: TBA
+     
    - [ ] Afternoon: File attachements using Cloud storage (AWS S3) - Oliver (mobsession Rails + React) 
    
-
 - **Tuesday:**
    - [ ] Morning: Intro to Redux - Thomas
+     - [ ] [Slides]()
+     
    - [ ] Afternoon: Geocoding (Rails and React) - determine what edition the user is served - Thomas 
      - [ ] Resource: [Recording](https://drive.google.com/file/d/1knQRoUF7GvdxrIlpVioIMbiPAlQXcpKK/view?usp=sharing)
+     - [ ] Make guide out of this!
 
 - **Wednesday:**
   - [ ] THE Shuffle Change teams
      - [ ] No coach support
      - [ ] Teams onboard new members
      - [ ] Not for current cohort (april-2020)
-  - [ ] Advanced strategies for Stripe (Subscriptions) - Thomas and Oliver (mobsession - coding)
+     
+  - [ ] Advanced strategies for Stripe (Subscriptions) - Oliver (mobsession - coding)
 
 - **Thursday:**
-  - [ ] Afternoon: Internationalization (i18n) in React - Faraz
+  - [ ] Afternoon: Internationalization (i18n) in React - Emma & Thomas
     - [ ] Resource: [Guide](https://github.com/CraftAcademyLabs/ca_course/blob/master/week8/18n-react.md)
 
-- **Friday:**  
- - [ ] Q&A session - Oliver
- - [ ] Senior Retro
+- **Friday:**   
+  - [ ] WEEKEND CHALLENGE: Inform the students about client meeting on Monday. 
+    - [ ] Show them the [GlocalNews client meeting recording](https://www.youtube.com/watch?v=Vhuc9NVkAEI)
+    - [ ] The challenge is to prepare for that meeting. 
+    - [ ] Need to confirm time of meeting during weekend
+    - [ ] Slides: TBA
+    
+  - [ ] Senior Retro
 
 ### Week 9
 Extending News Room with Mobile Client
 
 - **Monday:**
-  - [ ] Morning: Sprint Review for each team, entire cohort - Faraz & Oliver 
-  - [ ] Morning: Start designing for the mobile client - Faraz
+  - [ ] Morning: Sprint Review for each team, entire cohort -  Emma & Oliver
+  
+  - [ ] Morning: Start designing for the mobile client - Oliver
     - [ ] [Slidedeck - Add talking points](https://docs.google.com/presentation/d/1_vKD1ArJN3XKa0rAF0jS3VRN0pWmBdb2Gpvhov_LxaQ/edit#slide=id.g4c8a2ae7e1_0_0)
     - [ ] [Recording](https://drive.google.com/file/d/1m0XKFFzPTiw1aTwMw4yoX7XVg9X728Ww/view?usp=sharing)
+    
   - [ ] Morning: Introduce React Native - Thomas 
     - [ ] [Slidedeck](https://docs.google.com/presentation/d/1XyInXwHnhBzZ8N6LTb1JmVvT-x2M2ati5p7MR7DbarA/edit?usp=sharing)
-  - [ ] Afternoon: Hello World in React Native - Thomas 
+    
+  - [ ] Afternoon: Hello World in React Native - Thomas
+  
   - [ ] 16:00 Scrum master follow up
   
 - **Tuesday:**
   - [ ] 13:30 Q&A sessions, make use of [retrospective app](https://retrospected.com/) to gather ideas from students
+  
   - [ ] 15:00 Agile talk
+  
   - [ ] 16:00 Scrum master follow up
 
 - **Wednesday:**
   - [ ] 13:30 Q&A sessions, make use of [retrospective app](https://retrospected.com/) to gather ideas from students
-  - [ ] Demo about testing in React Native
+  
+  - [ ] Demo about testing in React Native - Thomas
+    - [ ] Slides - TBAdded
+
   - [ ] 16:00 Scrum master follow up
 
 - **Thursday:**
   - [ ] 13:30 Q&A sessions, make use of [retrospective app](https://retrospected.com/) to gather ideas from students
-  - [ ] 15:00 Agile talk
+    
   - [ ] 16:00 Scrum master follow up
 
 - **Friday:**
   - [ ] 13:30 Tech interview training - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md) - Go over Unter
-  - [ ] 15:00 Agile talk
+    
   - [ ] 16:00 Scrum master follow up
 
 ## Please complete this checklist
