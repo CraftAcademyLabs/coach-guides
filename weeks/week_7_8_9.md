@@ -97,7 +97,7 @@ No challenge - just work on the News Room Challenge
 
 ### Week 8
 - **Monday:**
-   - [ ] Morning: Sprint Review for each team - Oliver and Faraz
+   - [ ] Morning: Sprint Review for each team - Oliver and Emma
    
    - [ ] Morning: File attachements (Active Storage) - Oliver (RAILS mobsession)
      - [ ] Slides: TBA
@@ -106,7 +106,7 @@ No challenge - just work on the News Room Challenge
    
 - **Tuesday:**
    - [ ] Morning: Intro to Redux - Thomas
-     - [ ] [Slides]()
+     - [ ] [Slides](https://docs.google.com/presentation/d/13QBhpB-fyhPvvPkTQuuGk6ftS4Zibwq5-0bIJ-3w75E/edit#slide=id.g7f84e7daad_0_22) Needs to be updated!
      
    - [ ] Afternoon: Geocoding (Rails and React) - determine what edition the user is served - Thomas 
      - [ ] Resource: [Recording](https://drive.google.com/file/d/1knQRoUF7GvdxrIlpVioIMbiPAlQXcpKK/view?usp=sharing)
@@ -118,11 +118,14 @@ No challenge - just work on the News Room Challenge
      - [ ] Teams onboard new members
      - [ ] Not for current cohort (april-2020)
      
-  - [ ] Advanced strategies for Stripe (Subscriptions) - Oliver (mobsession - coding)
+  - [ ] Morning: Retake Midcourse exam
+     
+  - [ ] Afternoon: Advanced strategies for Stripe (Subscriptions) - Oliver (mobsession - coding)
 
 - **Thursday:**
   - [ ] Afternoon: Internationalization (i18n) in React - Emma & Thomas
     - [ ] Resource: [Guide](https://github.com/CraftAcademyLabs/ca_course/blob/master/week8/18n-react.md)
+    - [ ] Slides: TBAdded
 
 - **Friday:**   
   - [ ] WEEKEND CHALLENGE: Inform the students about client meeting on Monday. 
@@ -140,7 +143,7 @@ Extending News Room with Mobile Client
   - [ ] Morning: Sprint Review for each team, entire cohort -  Emma & Oliver
   
   - [ ] Morning: Start designing for the mobile client - Oliver
-    - [ ] [Slidedeck - Add talking points](https://docs.google.com/presentation/d/1_vKD1ArJN3XKa0rAF0jS3VRN0pWmBdb2Gpvhov_LxaQ/edit#slide=id.g4c8a2ae7e1_0_0)
+    - [ ] [Slidedeck - Add talking points & Update](https://docs.google.com/presentation/d/1_vKD1ArJN3XKa0rAF0jS3VRN0pWmBdb2Gpvhov_LxaQ/edit#slide=id.g4c8a2ae7e1_0_0)
     - [ ] [Recording](https://drive.google.com/file/d/1m0XKFFzPTiw1aTwMw4yoX7XVg9X728Ww/view?usp=sharing)
     
   - [ ] Morning: Introduce React Native - Thomas 
@@ -153,16 +156,16 @@ Extending News Room with Mobile Client
 - **Tuesday:**
   - [ ] 13:30 Q&A sessions, make use of [retrospective app](https://retrospected.com/) to gather ideas from students
   
-  - [ ] 15:00 Agile talk
+  - [ ] Demo about testing in React Native - Thomas
+    - [ ] Slides - TBAdded
   
   - [ ] 16:00 Scrum master follow up
 
 - **Wednesday:**
   - [ ] 13:30 Q&A sessions, make use of [retrospective app](https://retrospected.com/) to gather ideas from students
   
-  - [ ] Demo about testing in React Native - Thomas
-    - [ ] Slides - TBAdded
-
+  - [ ] 15:00 Agile talk - Thomas
+  
   - [ ] 16:00 Scrum master follow up
 
 - **Thursday:**
