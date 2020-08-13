@@ -134,7 +134,6 @@ No challenge - just work on the News Room Challenge
     - [ ] Need to confirm time of meeting during weekend
     - [ ] Slides: TBA
     
-  - [ ] Senior Retro
 
 ### Week 9
 Extending News Room with Mobile Client
@@ -175,7 +174,8 @@ Extending News Room with Mobile Client
 
 - **Friday:**
   - [ ] 13:30 Tech interview training - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md) - Go over Unter
-    
+  - [ ] Senior Retro
+
   - [ ] 16:00 Scrum master follow up
 
 ## Please complete this checklist
