@@ -55,7 +55,7 @@ Get a deeper understanding on the moving parts of the web, and have a chance to 
 	 - [ ] Afternoon: Career Talk - Faraz
  
 - **Friday:**
-	 - [ ] NodeJS Part VII
+	 - [ ]Morning:NodeJS Part VII
 	 - [ ] Afternoon: Tech Interview - Oliver/Thomas
 
 ## Please complete this checklist
