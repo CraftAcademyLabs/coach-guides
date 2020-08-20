@@ -17,7 +17,7 @@ Get a deeper understanding on the moving parts of the web, and have a chance to 
 ## Tech Interviews & Teams Composition
 [Link to document](https://docs.google.com/document/d/1C-y_-EP8Xd_A0nA8t_wiNo8QLRDbIdyOkoKoQPlyXCc/edit)
 
-### Head Coach: Faraz
+### Head Coach: Thomas
 ### Support coach: Oliver
 
 * Overview History, protocols, etc (Faraz Monday morning)
@@ -35,29 +35,28 @@ Get a deeper understanding on the moving parts of the web, and have a chance to 
 
 ### Guide
 - **Monday:**
-	 - [ ] Morning: Sprint review (Newsroom) - Oliver & Faraz
-	 - [ ] Morning: Week intro & Web 101 - Faraz
+	 - [ ] Morning: Sprint review (Newsroom) - Oliver & Emma
+	 - [ ] Morning: Week intro & Web 101 - Oliver
 	 - [ ] Afternoon: Version Control - part I: Advanced concepts - Thomas
 	 - [ ] Afternoon: Career talk - Faraz
 
 - **Tuesday:**
-	 - [ ] Morning: Version Control - part II: Tips and Trics (reflog, bisect, etc) - Thomas
+	 - [ ] Morning: Version Control - part II: Tips and Tricks (reflog, bisect, etc) - Thomas
 	 - [ ] Morning: NodeJS - part I: Basic setup and DB connectivity (Basic Book Store demo) - Thomas
 	 - [ ] Afternoon: NodeJS - part II & III: Express with Sequelize, Mocha+Chai+Supertest (debugging) (Advanced Book Store demo) - Thomas
  
 - **Wednesday:** 
 	 - [ ] Morning: NodeJS - part IV Live Share, debugging, sharing server, etc - Thomas
 	 - [ ] Afternoon: NodeJS - part V Web Sockets (use Basic Book Store demo code as the base) - Thomas
+	 - [ ] Morning: NodeJS - part VI Profiling In Chrome Dev Tools - Thomas
 	 - [ ] Afternoon: Career Talk - Faraz
  
 - **Thursday:**
-	 - [ ] Morning: NodeJS - part VI Profiling In Chrome Dev Tools - Thomas
-	 - [ ] Final exam 
-		[slides](https://docs.google.com/presentation/d/1T9o-6jwDtCc7qYK0r8y5xzKT3eyDYgoXy9OMMWWL4Dk/edit#slide=id.g78458fc811_0_16)
 	 - [ ] Afternoon: Career Talk - Faraz
  
 - **Friday:**
-	 - [ ] Afternoon: Retrospective - Oliver/Faraz
+	 - [ ] NodeJS Part VII
+	 - [ ] Afternoon: Tech Interview - Oliver/Thomas
 
 ## Please complete this checklist
  - [ ] Are all slides decks up to date?
