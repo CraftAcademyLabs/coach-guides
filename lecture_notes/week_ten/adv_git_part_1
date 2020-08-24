@@ -1,0 +1,275 @@
+- Intro to why version control is important
+- and why it makes you more productive 
+
+- the comparison between clocks and cars
+- we dont need to understand how a clock works to use it better
+- if you know how a car works under the hood, then you can become a better cardriver 
+- git is like a car
+
+- lets talk about deltas and snapshots 
+- two different kinds of version control systems 
+- centrialised or distributed version control systems 
+- centrialised - client server, the repo is in one place, servers are distributing the code. You always need a network onnection, permission systems where you need permission. If the centrialised server breaks down then noone can work anymore 
+- distributed lets the user download a copy of the repo locally. more felixibiliaty, open source has contributed that these systems are distributed, and you can work offline
+
+- we have showed yu the git pong model, but there are several models to work by 
+- git is a piece of software with a db
+- stored every action that is made 
+- what snapshots and deltas are 
+- we dont have to resave a treee everytime we save something, but we just save the part of the tree that is changed 
+...
+
+- you only take snapshots of the changes 
+- the older files that has not been changed stays the same 
+- we can use the knowledge about that snapshot and make use of that 
+- showing picture of dags 
+- shows all parents/child directions
+
+**open the terminal**
+
+- view out commits as dags in terminal
+
+```
+$ git log --oneline
+```
+
+```
+$ git log --decorate --graph --oneline --all
+```
+
+- how is git storing this information?
+
+```
+$ cd git_demo
+```
+```
+$ ls -a 
+```
+- Should be empty
+```
+$ git init
+```
+```
+$ cd .git
+```
+```
+$ ls 
+```
+- HEAD is the tip of the spear 
+- config - your email and things like that 
+- hooks, configuration scripts
+- pre push samle, commit msg and so on
+- info, a higher level than gitignore 
+- objects, all our history
+- the packs are compiled objects, the old code stored like w zip file
+
+- Different git commands: 
+
+```
+$ git clone
+```
+```
+$ git add 
+```
+```
+$ git commit
+```
+```
+$ git branch
+```
+```
+$ git pull / git push
+```
+- blob, tree, commit, tag
+
+```
+$ mkdir git_demo
+```
+```
+$ cd git_demo
+```
+```
+$ ls .git/objects/
+info    pack
+```
+```
+$ echo "some content.." > first.txt
+```
+```
+$ ls 
+first.txt
+```
+```
+$ cat first.txt
+some content...
+```
+
+( we don't know what cat stands for )
+
+```
+$ ls .git/objects/
+```
+```
+$ git add . 
+```
+```
+$ ls .git/objects/
+ea  info  pack
+```
+```
+$ ls .git/objects/ea
+(some long thing with letters and numbers)
+```
+```
+$ git cat-file -p ea(paste the long thing)
+some content...
+```
+```
+$ git cat-file -t ea(paste the long thing)
+blob
+```
+```
+$ git cat-file -s ea(paste the long thing)
+16 (number of characters)
+```
+```
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed: 
+  (use 'git rm --cached <file>..' to unstage)
+      new file: first.txt
+```
+```
+$ git commit -m 'First commit of txt file'
+```
+```
+$ ls .git/objects/
+3e  cd  ea  info  pack
+```
+- here you can make the tree command to see it clearer
+- make the cat commands on the cd file, cd(the long thing) and the 3e
+- the first to chracaters are the folder and the rest is the filename
+- these hashes are so unique that you only need the first 7 characters
+
+```
+$ mkdir subfolder 
+```
+```
+$ ls
+first.txt   subfolder
+```
+```
+$ echo 'More content...' > subfolder/second.txt
+```
+```
+$ git status
+
+```
+- now it only mentions the untracked folder but doesnt mention the file
+- because git tracks folders first and then files, if we have not staged the folder we can not stage the file in it
+
+```
+$ ls .git/objects/
+(we should see a forth one)
+```
+```
+$ git commit -m 'second commit'
+```
+```
+$ ls .git/objects/
+(we have 4 more!)
+```
+- If we pick the right hash now we can cat-file a tree that references a blob that references a tree
+
+```
+git log --oneline
+(you should see two commits, one thing that leads to another)
+```
+```
+git branch testing 
+```
+- that will create a new branch but not switch to it
+```
+git co testing
+```
+```
+git log --oneline
+(you should see the same thing as on the master branch)
+```
+```
+mkdir subfolder_2
+```
+```
+touch subfolder_2/third.txt
+```
+- add some content in there
+
+```
+git add . 
+```
+```
+git commit -m 'another commit'
+```
+```
+git log --oneline
+(you should see three commits)
+```
+- checkout the master branch to see only two commits
+
+```
+git merge testing 
+```
+- do a git log again and you should see three commits, because the testing branch had been merged into the master branch 
+
+```
+git co -b another_branch
+```
+- this command creates and checks out to that branch
+
+- make some changes to third.txt and second.txt 
+```
+git ci -am 'this is where i want to be'
+```
+- do some changes to the first.txt
+```
+git ci -am 'changing in first.txt'
+```
+- check the git log and you should have 5 commits
+- checkout to the master branch
+- we want to merge everything but the last commit 
+- copy the id of the second last commit
+```
+git cherry-pick (that id)
+```
+- do a git log and see that we are on that commit now but the id of the commit has changed 
+
+- if you check in your .git/objects folder now it is full of objects, and we are tracking both the commit that was made before and the commit that we cherrypicked
+- checkout another_branch again
+- here we don't want the last commit
+
+```
+git reset --hard (the id of the commit that you want to reset to)
+```
+- HEAD is where you are at the moment
+- nothing is gone, its rarely ever gone, but we are not there anymore 
+- a hard reset will take back everything, and a soft reset will move back to the chosen commit and unstage all the changes but not remove them. 
+```
+git reflog
+(you should see output of everything that has happened)
+```
+- then you can reset --hard again to where you want to be from the hashes in the reflog, so to where you were before the previous reset --hard
+
+```
+git reset --soft (the id)
+```
+- you can now see that you are on the previous commit but the changes are not gone, they re just unstaged 
+- the refog is unique for every computer
+- you can clear the reflog 
+
+```
+git relog expire --expire=now --all
+```
+- and then you have cleared it. You can not undo things that you have done a long time ago. 
