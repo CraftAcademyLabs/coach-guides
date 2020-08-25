@@ -1,0 +1,76 @@
+- catching up from where we left off and we will dive a bit deeper now
+- Linus torvallds - named it git because he's a jerk
+
+```
+$ git --version
+git version 2.18.0
+```
+
+- start with merge conflicts and how things relate to that and how we can fix them
+- hopefully everyone has encountered them 
+
+- we are on a branch called another branch
+
+```
+$ git branch
+another branch
+master
+testing
+```
+
+- add some content to the third.txt and modify one line
+- git add and git ci 
+- move over to the master branch
+- And here we modify the exisiting content in the third.txt and add a new line there as well
+- check git st and then git ci and push it to master
+- check git log in the master branch and see where the head is there and then go back to another branch to check where the head is there
+- go back to master and merge the branches
+
+```
+$ git merge another branch
+```
+- Here you will be in the process of merging, because we hit a conflict we have stopped in the middle of the merge
+```
+$ cat subfolder_2/third.txt
+(here you can see that we have the content from the two branches)
+```
+- In VS code we can see some functionality and options regarding this conflict
+- We can either accept incoming change, current change or both changes 
+- In this merge conflict we can start a live session to ask the person who has made the other changes, dont underestimate the power of simply asking a question
+- the incoming change is the change that comes from the branch that we are trying to merge
+- The current change is the changes that we had on this branch before starting the merge
+```
+$ cat subfolder_2/third.txt
+(here you can see that we have the content that we kept from when solving the conflict)
+```
+
+- are small PR's better than big PR's?
+- Avoid merge conflicts as much as possible, but if you need to face them then make sure to keep them as small and simple as possible
+- you can always go back and change the decisions again (go back to where you were before you merged)
+- you can jump back and forward to reinstate every change that is in your history
+
+- another command called revert
+```
+$ git revert (id of the commit you want to revert to)
+```
+- the commit is still there but we also have a revert commit now
+- you cant revert to a hash that doesnt excist 
+- when a file is deleted then it also calls for a manual commit 
+- the reset is a travel back in time and revert is targeting specific changes and removing them
+
+- to delete branches: 
+```
+$ git branch -D name_of_the_branch
+```
+- the most dredded command in git
+- git rebase
+- you should be careful with rebasing commits that are already part of the upstream, because that can fuck things up for you. 
+
+```
+git config --global alias.squash '!f(){ git reset --soft HEAD~${1} && git commit --edit -m"$(git log --format=%B --reverse HEAD..HEAD@{1})"; };f'
+```
+- git squash and then the commits you want to squash
+```
+$ git squash 4
+```
+- should leave you with only two commits left
