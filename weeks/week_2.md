@@ -40,7 +40,7 @@ Add a CV page to your portfolio using JSON file AND add a contact form (using Ne
 ### Head Coach
 Noel
 ##### Support Coach 
-Faraz
+Emma
 
 ### Guide
 - **Monday:**
