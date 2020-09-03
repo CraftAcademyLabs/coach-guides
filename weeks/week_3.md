@@ -61,7 +61,9 @@ In order to read our articles. We need a user to sign up
 ### Guide
 - **Monday:** 
   - [ ] Morning: Introduce Rails & AUT Part 1 - Emma 
-    - [ ] [Slides](https://docs.google.com/presentation/d/1QBSlHd6hlmfsHeLhP_R6H1xlfsyYjmN-JxTcF2zRbns/edit?usp=sharing)
+    - [ ] [Slides to introduce week](https://docs.google.com/presentation/d/1QBSlHd6hlmfsHeLhP_R6H1xlfsyYjmN-JxTcF2zRbns/edit?usp=sharing)
+    - [ ] [Slides to introduce Rails](https://docs.google.com/presentation/d/1UwauQbrLjKBh24UH622aWi5q5F0OB3HTSQRGRmt8Fj4/edit#slide=id.g4b12024eb7_0_21)
+    - [ ] [Recording](https://drive.google.com/file/d/1yexHiE87idwvEabZfqyRyybQDFS8acSE/view?usp=sharing)
     - [ ] Intro to Articles challenge, Factorybot, Fixture, Add semaphore & coveralls
     - [ ] This is the begining of the **Crafty News** project for this cohort
   
