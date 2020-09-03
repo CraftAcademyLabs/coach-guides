@@ -81,6 +81,7 @@ In order to read our articles. We need a user to sign up
 - **Wednesday:**
   - [ ] Morning: Introduction to web architecture (MVC) - Oliver 
     - [ ] [Slides](https://docs.google.com/presentation/d/14Z4aPjdDTgeuQdup2MoiZrmUSSDce7R3I5dcotg7uyc/edit?usp=sharing)
+    - [ ] [Recording](https://drive.google.com/file/d/1icvxzSiGW19uf2DueG5uceFKrzFOByGr/view?usp=sharing)
     
   - [ ] Afternoon: The concept of the Query Params - Thomas
     - [ ] [Use this as reference](https://www.youtube.com/watch?v=y57OnWV6dRE)  
@@ -95,14 +96,15 @@ In order to read our articles. We need a user to sign up
    - [ ] Afternoon: Software Craftsmanship - Thomas
      - [ ] [Slides](https://docs.google.com/presentation/d/1MtC_9wUgQAO4NUvAQxFk7CU7Fvdbwt4RE2BDaMC_f8s/edit)
    
-   - [ ] Afternoon: Check the submissions of the AUT code on GitHub - All Coaches
+   - [ ] Morning: Mobsession to finish up AUT (edit & create articles, point to rails guide) - Emma
 
 - **Friday:**
-  - [ ] Morning: Mobsession to finish up AUT (edit & create articles, point to rails guide) - Emma
+  - [ ] Morning: Check the submissions of the AUT code on GitHub - All Coaches
 
   - [ ] Afternoon: Introduce the Weekend Challenge (Devise Gem) - Oliver 
     - [ ] [Slides](https://docs.google.com/presentation/d/1I0EIjP_uCeXwnfyKBr01ZF5Pju33QIkvOCFV5jva18g/edit?usp=sharing)
     
+  - [ ] Afternoon: Introduce the RPS - Thomas
   - [ ] First part of RPS - All coaches  
   
 ## Please complete this checklist
