@@ -4,7 +4,6 @@
 #### Swedish
 **Mobila applikationer**
 
-
 #### English
 **Advanced React**
 
@@ -31,12 +30,12 @@ In Week 4 we deepen your knowledge of Javascript by diving deeper into React, a 
 * See main Learning objectives
 
 ### Head Coach: Oliver 
-### Assistant coaches: Faraz, Thomas
+### Assistant coaches: Emma, Thomas
 Let's be strict with the support protocol AND who is giving support. Communicate who is in charge in morning scrum AND on Slack. We need to make sure the understand the importance of component testing with jest/enzyme!
 
 ### Guide
 - **Monday:** (React)
-  - [ ] Morning: Faraz & Oliver pair up students
+  - [ ] Morning: Emma & Oliver pair up students
   
   - [ ] Morning 9:30 : Introduce Week - Oliver 
     - [ ] [Slides](https://docs.google.com/presentation/d/1Ler_SbU3Kn_DE7h2iVwxFMPgUYV5xUTt0Xr2n4KNpiQ/edit#slide=id.g35f391192_00)
@@ -44,26 +43,36 @@ Let's be strict with the support protocol AND who is giving support. Communicate
   - [ ] Morning 10:30 : Introduce BMI challenge - Oliver 
     - [ ] [Slides](https://docs.google.com/presentation/d/11X96OmpHlBfz1hAADZbIc8izBfu6ty7h5tO-RA6Avs4/edit#slide=id.g4b12024eb7_0_21)
     
-  - [ ] AUT in React - Emma & Oliver 
+  - [ ] AUT in React - Emma
     - [ ] [Medium Post](https://medium.com/craft-academy/outside-in-testing-in-react-bfb058ee4b7c)
 
 - **Tuesday:** (Start Cooper challenge) 
-  - [ ] [Semantic UI](https://react.semantic-ui.com/) - Faraz
+  - [ ] Intro to [Semantic UI](https://react.semantic-ui.com/) - Emma
+    - [ ] [Recording](https://drive.google.com/file/d/1ICLssPacleAmwbXn5itYJ-P5HCWbdkjt/view?usp=sharing)
+    - [ ] Make sure to point out the differences between semantic with cdn and a package
+    - [ ] [Slides](https://docs.google.com/presentation/d/11zgj6X8V9Q9Ax_YkMTvu_zcntBKoS3On6JXPzhaTqaQ/edit#slide=id.g4b12024eb7_0_21)
   
   - [ ] Afternoon (14:00): Introduce Cooper challenge - Oliver 
     - [ ] [Slides](https://docs.google.com/presentation/d/1Ler_SbU3Kn_DE7h2iVwxFMPgUYV5xUTt0Xr2n4KNpiQ/edit#slide=id.g35f391192_00)
 
 - **Wednesday:**  
-  - [ ] Morning: RESTful APIs in Rails - Faraz & Oliver (10:30pm) 
+  - [ ] Morning: RESTful APIs in Rails - Thomas (10:00pm) 
     - [ ] [Slides](https://docs.google.com/presentation/d/1_d3WO8AP1jg1G0xJCOL8J4IPJ8cLZzHwrcrfp0TL7-M/edit)
+    
+  - [ ] Afternoon: Intro to token authorization - Oliver
+    - [ ] Go over baics with res resp
+    - [ ] "You authenticate with the API with every request"
+    - [ ] [Slides, needs to be updated](https://docs.google.com/presentation/d/1loqHoN9zTkCXisi5PQjfNxL9oCl7_hJpOPLAgH0hCFE/edit#slide=id.p6)
 
 - **Thursday:**  
-  - [ ] Afternoon: The simple truths - Thomas (13:00pm) 
+  - [ ] Afternoon: The simple truths - Thomas (14:00pm) 
     - [ ] [Slides](https://docs.google.com/presentation/d/1kvzG_b3zoQ6grCMuPiT59_wMikSWd1qgarVK8qUuSFc/edit#slide=id.g497fb264d8_0_0)
 
 - **Friday:**
   - [ ] Morning: Introduce the weekend challenge - Oliver 
     - [ ] [Visualization Slides](https://docs.google.com/presentation/d/1JarRziyTnxskxflOJIx0yTrOHriLgT-xp80lAN15uis/edit#slide=id.g5266187cf7_0_3)
+    - [ ] After going over slides, have a mobsessioon implementing a line graph
+    - [ ] Show students how to add more keys (distance, age, gender) to the hstore
 
   - [ ] Retro - All coaches
 
