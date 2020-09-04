@@ -73,15 +73,16 @@ In order to read our articles. We need a user to sign up
   - [ ] Deploy to Heroku Crafty News - Oliver 
     - [ ] [Slides](https://docs.google.com/presentation/d/1JX1To6mtAqn0qMhVQiE88BHATevYcOdr2QST5pq88zo/edit?usp=sharing) 
 
-- **Tuesday:** 
-  - [ ] Morning: Validations in Rails and instance methods - Emma 
-    - [ ] [Slides](https://docs.google.com/presentation/d/1uZJTsWZE43_ANHEcpqWbH15rd8w2BidR1Ap305q8VXE/edit?usp=sharing)
+- **Tuesday:**
+  - [ ] Morning: Rails demo: routing (plus resources) - Emma
+     - [ ] [Slides](https://docs.google.com/presentation/d/1R-aZYu6C8Y1kdsJy_iXUorDL7mTstjKVk9VFYmWJC3Q/edit#slide=id.g4b12024eb7_0_21) 
+     - [ ] (`--skip-routes` `--skip-views`)
     
   - [ ] Afternoon: Introduce the Legacy Code Challenge - Emma 
     - [ ] [Slides](https://docs.google.com/presentation/d/1S2Nn_hOhm_slruGTPFVoRGBh9G-NiKExENRHhUd-8As/edit?usp=sharing)
   
 - **Wednesday:**
-  - [ ] Morning: Introduction to web architecture (MVC) - Oliver 
+  - [ ] Morning: Introduction to web architecture (MVC) - Oh'lover 
     - [ ] [Slides](https://docs.google.com/presentation/d/14Z4aPjdDTgeuQdup2MoiZrmUSSDce7R3I5dcotg7uyc/edit?usp=sharing)
     - [ ] [Recording](https://drive.google.com/file/d/1icvxzSiGW19uf2DueG5uceFKrzFOByGr/view?usp=sharing)
     
@@ -91,9 +92,8 @@ In order to read our articles. We need a user to sign up
     - [ ] [Slides](https://docs.google.com/presentation/d/1WQiq29ZR4rQvhyH7N2HelmCUeD2qzuaBo03O12Rjsp4/edit?usp=sharing)
 
 - **Thursday:**
-   - [ ] Morning: Rails demo: routing (plus resources) - Emma
-     - [ ] [Slides](https://docs.google.com/presentation/d/1R-aZYu6C8Y1kdsJy_iXUorDL7mTstjKVk9VFYmWJC3Q/edit#slide=id.g4b12024eb7_0_21) 
-     - [ ] (`--skip-routes` `--skip-views`)
+  - [ ] Morning: Validations in Rails and instance methods - Emma 
+    - [ ] [Slides](https://docs.google.com/presentation/d/1uZJTsWZE43_ANHEcpqWbH15rd8w2BidR1Ap305q8VXE/edit?usp=sharing)
      
    - [ ] Afternoon: Software Craftsmanship - Thomas
      - [ ] [Slides](https://docs.google.com/presentation/d/1MtC_9wUgQAO4NUvAQxFk7CU7Fvdbwt4RE2BDaMC_f8s/edit)
