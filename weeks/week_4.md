@@ -40,32 +40,32 @@ Let's be strict with the support protocol AND who is giving support. Communicate
   - [ ] Morning 9:30 : Introduce Week - Oliver 
     - [ ] [Slides](https://docs.google.com/presentation/d/1Ler_SbU3Kn_DE7h2iVwxFMPgUYV5xUTt0Xr2n4KNpiQ/edit#slide=id.g35f391192_00)
     
-  - [ ] Morning 10:30 : Introduce BMI challenge - Oliver 
+  - [ ] Morning 10:00 : Introduce BMI challenge - Oliver 
     - [ ] [Slides](https://docs.google.com/presentation/d/11X96OmpHlBfz1hAADZbIc8izBfu6ty7h5tO-RA6Avs4/edit#slide=id.g4b12024eb7_0_21)
     
-  - [ ] AUT in React - Emma
+  - [ ] Afternoon 14:00 : AUT in React - Emma
     - [ ] [Medium Post](https://medium.com/craft-academy/outside-in-testing-in-react-bfb058ee4b7c)
 
 - **Tuesday:** (Start Cooper challenge) 
-  - [ ] Intro to [Semantic UI](https://react.semantic-ui.com/) - Emma
+  - [ ] Morning 11:00 : Intro to [Semantic UI](https://react.semantic-ui.com/) - Emma
     - [ ] [Recording](https://drive.google.com/file/d/1ICLssPacleAmwbXn5itYJ-P5HCWbdkjt/view?usp=sharing)
     - [ ] Make sure to point out the differences between semantic with cdn and a package
     - [ ] [Slides](https://docs.google.com/presentation/d/11zgj6X8V9Q9Ax_YkMTvu_zcntBKoS3On6JXPzhaTqaQ/edit#slide=id.g4b12024eb7_0_21)
   
-  - [ ] Afternoon (14:00): Introduce Cooper challenge - Oliver 
+  - [ ] Afternoon 13:00 : Introduce Cooper challenge - Oliver 
     - [ ] [Slides](https://docs.google.com/presentation/d/1Ler_SbU3Kn_DE7h2iVwxFMPgUYV5xUTt0Xr2n4KNpiQ/edit#slide=id.g35f391192_00)
 
 - **Wednesday:**  
-  - [ ] Morning: RESTful APIs in Rails - Thomas (10:00pm) 
+  - [ ] Morning 10:00 : RESTful APIs in Rails - Thomas 
     - [ ] [Slides](https://docs.google.com/presentation/d/1_d3WO8AP1jg1G0xJCOL8J4IPJ8cLZzHwrcrfp0TL7-M/edit)
     
-  - [ ] Afternoon: Intro to token authorization - Oliver
+  - [ ] Afternoon 14:00 : Intro to token authorization - Oliver
     - [ ] Go over baics with res resp
     - [ ] "You authenticate with the API with every request"
     - [ ] [Slides, needs to be updated](https://docs.google.com/presentation/d/1loqHoN9zTkCXisi5PQjfNxL9oCl7_hJpOPLAgH0hCFE/edit#slide=id.p6)
 
 - **Thursday:**  
-  - [ ] Afternoon: The simple truths - Thomas (14:00pm) 
+  - [ ] Afternoon 14:00 : The simple truths - Thomas 
     - [ ] [Slides](https://docs.google.com/presentation/d/1kvzG_b3zoQ6grCMuPiT59_wMikSWd1qgarVK8qUuSFc/edit#slide=id.g497fb264d8_0_0)
 
 - **Friday:**
@@ -85,7 +85,7 @@ Let's be strict with the support protocol AND who is giving support. Communicate
 	 - [ ] Have we scheduled the longer talks/demo so that there are no conflicts with another demo?
  - [ ] Are all the appropriate slides added to the drive, and in the right folder?
  - [ ] Do we have any conflict in the schedule with the talks?
-	 - [ ]  meetings
+	 - [ ] meetings
 	 - [ ] double booking
 	 - [ ] Bank Holidays
    - [ ] Coaches missing (CA labs sprint/vacation)
