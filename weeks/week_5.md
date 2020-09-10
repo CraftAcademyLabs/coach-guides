@@ -47,14 +47,14 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   - CDN's vs Gems vs Manually including the CSS framework code (repetition)
 
 ### Head Coach: Oliver
-### Support coach: Thomas & Faraz
+### Support coach: Thomas & Emma
 ### Guide
 - **Monday:**
   - [ ] Morning: Introduce Slowfood Challenge - Oliver 
     - [ ] [Slides](https://docs.google.com/presentation/d/153hI_aRf88-7FBvmBcq7FOxMoLEzbi8VuugVygonY3E/edit?usp=sharing)
     - [ ] Provide them with Rails API & React client boilerplate from template
     
-  - [ ] Morning: Do a Overview of a Design Sprint - Faraz & Emma
+  - [ ] Morning: Do a Overview of a Design Sprint - Emma
     - [ ] [Slides](https://docs.google.com/presentation/d/1tXXZd1pl2Q3Rg9R85k_xmoZNBRKcQaPYKezCXglxXQ8/edit?usp=sharing)
     
   - [ ] Students go through stories and create lofis - From PT board
@@ -64,7 +64,7 @@ The weekend is devoted to focus on the User experience of the app. Here we start
     - [ ] Also talk about coveralls
   
 - **Tuesday:**
-  - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC, config). - Faraz & Oliver
+  - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC, config). - Oliver/Emma
       - [ ] Basic application structure
       - [ ] Rails doctrine, etc...
       
@@ -75,14 +75,14 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 - **Wednesday:** 
   - [ ] Morning: Checkout mob-session part 3 - Oliver
     
-  - [ ] Afternoon: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Faraz & Emma
+  - [ ] Afternoon: Do a overview of Relational Databases (the concept, SQL, ORM's, etc..) - Emma
     - [ ] [Slides](https://docs.google.com/presentation/d/1FuaqKjjdlQKCFZmbwdqS_-TKsRH4zSH4U-zFju8CekA/edit?usp=sharing)
     
   - [ ] Afternoon: Rails demo: Active Record (migrations, associations, CRUD functions) - Oliver 
     - [ ] [Slides](https://docs.google.com/presentation/d/11EhVRW4JckFUEBTclTMT8B0-OOga8l7Pim4PlQLKy_M/edit?usp=sharing)
 
 - **Thursday:**
-  - [ ] Morning: Checkout mob-session part 4
+  - [ ] Morning: Checkout mob-session part 4 - Oliver
     
   - [ ] Afternoon: Talk about the midcourse project - Coaches
     - [ ] [Slides](https://docs.google.com/presentation/d/1hzewbbgqW_EpaW6KCUIGDqK0GyH3oHnMMK57zEOyeSs/edit#slide=id.g4b12024eb7_0_21)
