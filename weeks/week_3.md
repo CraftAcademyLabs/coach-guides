@@ -90,6 +90,7 @@ In order to read our articles. We need a user to sign up
     - [ ] [Use this as reference](https://www.youtube.com/watch?v=y57OnWV6dRE)  
     - [ ] Make sure to use Rails demo application(Crafty News) 
     - [ ] [Slides](https://docs.google.com/presentation/d/1WQiq29ZR4rQvhyH7N2HelmCUeD2qzuaBo03O12Rjsp4/edit?usp=sharing)
+    - [ ] Make sure to send out web 101 recording from Prep course before this demo
 
 - **Thursday:**
   - [ ] Morning: Validations in Rails and instance methods - Emma 
