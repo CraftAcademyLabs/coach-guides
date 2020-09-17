@@ -53,6 +53,7 @@ The weekend is devoted to focus on the User experience of the app. Here we start
   - [ ] Morning: Introduce Slowfood Challenge - Oliver 
     - [ ] [Slides](https://docs.google.com/presentation/d/153hI_aRf88-7FBvmBcq7FOxMoLEzbi8VuugVygonY3E/edit?usp=sharing)
     - [ ] Provide them with Rails API & React client boilerplate from template
+    - [ ] Prepare PT board
     
   - [ ] Morning: Do a Overview of a Design Sprint - Emma
     - [ ] [Slides](https://docs.google.com/presentation/d/1tXXZd1pl2Q3Rg9R85k_xmoZNBRKcQaPYKezCXglxXQ8/edit?usp=sharing)
@@ -64,7 +65,7 @@ The weekend is devoted to focus on the User experience of the app. Here we start
     - [ ] Also talk about coveralls
   
 - **Tuesday:**
-  - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC, config). - Oliver/Emma
+  - [ ] Morning: Brief overview of where things are in Rails (recap focus on MVC, config). - Emma
       - [ ] Basic application structure
       - [ ] Rails doctrine, etc...
       
@@ -84,7 +85,7 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 - **Thursday:**
   - [ ] Morning: Checkout mob-session part 4 - Oliver
     
-  - [ ] Afternoon: Talk about the midcourse project - Coaches
+  - [ ] Afternoon: Talk about the midcourse project - Oliver & Emma
     - [ ] [Slides](https://docs.google.com/presentation/d/1hzewbbgqW_EpaW6KCUIGDqK0GyH3oHnMMK57zEOyeSs/edit#slide=id.g4b12024eb7_0_21)
 
 - **Friday:**
