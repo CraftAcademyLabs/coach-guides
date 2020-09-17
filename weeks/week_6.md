@@ -32,7 +32,7 @@ Put all of the skills you have picked up to use in a group project.
 ### Guide
 
 ### Head Coach : Oliver
-#### First line: Thomas & Faraz
+#### First line: Thomas & Emma
 Let's be strict with the support protocol AND who is giving support. Communicate who is in charge in morning scrum AND on Slack.
 
 Mob Discussion sessions will be held every other day.
@@ -42,23 +42,26 @@ Mob Discussion sessions will be held every other day.
   
   - [ ] Afternoon: How to consume an API both in **Rails** and **JS** - Thomas
     - [ ] Start with pure ruby, then Rails, then JS. Use AUT application
+    - [ ] [Recording](https://drive.google.com/drive/folders/1cCLOCR5QDtL3rKGq3rs-UOxUDdfmN1_5)
 
-  - [ ] Introduce Webmock
+  - [ ] Introduce Webmock - Oliver
 
 - **Tuesday:**
   - [ ] Morning: In depth Rails demo: Authentication & Authorization (Devise + basic authorization using booleans) - Oliver Part 1 
     - [ ] [Slides](https://docs.google.com/presentation/d/1acMDXIGQ6dr7wfetxtCApoA7LMmwfA2LSjj8Sufyjro/edit#slide=id.g1dfd44e8c5_0_0)
     
   - [ ] Afternoon: In depth Rails demo: Authentication & Authorization (Pundit) - Thomas & Emma Part 2
+    - [ ] This demo is a mobsession where you implement pundit, use the Crafty news [app](https://github.com/CraftAcademy/crafty_news_august_2020)
   
 - **Wednesday:**
-  - [ ] Morning: How to get paid (Stripe)  Part 1 - Oliver & Emma
+  - [ ] Morning: How to get paid (Stripe)  Part 1 - Oliver
   
-  - [ ] Afternoon: How to get paid (Stripe) Part 2 - Oliver & Emma
+  - [ ] Afternoon: How to get paid (Stripe) Part 2 - Oliver
 
 - **Thursday:**
   - [ ] Morning 10:00: Midcourse exam - All coaches
     - [ ] [Slides](https://docs.google.com/presentation/d/11QvMiQPakxyPjGzMDbP8p6VxWxJ8Sa-cDm33B7D7-xg/edit?usp=sharing)
+    - [ ] Prepare Repo from boilerplate
   
   - [ ] Afternoon: Advanced associations with ActiveRecord - Oliver 
     - [ ] [Slides](https://docs.google.com/presentation/d/1Ibg_P4pL2u81FrNRnHKHpiLhbSkgi-6Y/edit)
@@ -71,7 +74,7 @@ Mob Discussion sessions will be held every other day.
    
   - [ ] Afternoon 15:00: Project Retro - All Coaches
     
-  - [ ] Afternoon 16:00: UX/function review - Faraz
+  - [ ] Afternoon 16:00: UX/function review - Oliver
      - [ ] Prepare them for their presentation
      - [ ] Give feedback for the weekend
      - [ ] Prepare them for pitch to external investors
