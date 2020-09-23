@@ -81,6 +81,7 @@ The weekend is devoted to focus on the User experience of the app. Here we start
     
   - [ ] Afternoon: Rails demo: Active Record (migrations, associations, CRUD functions) - Oliver 
     - [ ] [Slides](https://docs.google.com/presentation/d/11EhVRW4JckFUEBTclTMT8B0-OOga8l7Pim4PlQLKy_M/edit?usp=sharing)
+    - [ ] Make this talk earlier
 
 - **Thursday:**
   - [ ] Morning: Checkout mob-session part 4 - Oliver
