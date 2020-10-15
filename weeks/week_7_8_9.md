@@ -145,26 +145,26 @@ Extending News Room with Mobile Client
     - [ ] [Slidedeck - Add talking points & Update](https://docs.google.com/presentation/d/1_vKD1ArJN3XKa0rAF0jS3VRN0pWmBdb2Gpvhov_LxaQ/edit#slide=id.g4c8a2ae7e1_0_0)
     - [ ] [Recording](https://drive.google.com/file/d/1m0XKFFzPTiw1aTwMw4yoX7XVg9X728Ww/view?usp=sharing)
     
-  - [ ] Afternoon: Introduce React Native - Thomas 
+  - [ ] Afternoon: Introduce React Native - Thomas & Emma
     - [ ] [Slidedeck](https://docs.google.com/presentation/d/1XyInXwHnhBzZ8N6LTb1JmVvT-x2M2ati5p7MR7DbarA/edit?usp=sharing)
     
-  - [ ] Afternoon: Hello World in React Native - Thomas
+  - [ ] Afternoon: Setup sessions for React native enviroment 
+    - [ ] Emma for MAC students
+    - [ ] Oliver (& maybe Adi) for Ubuntu 
   
   - [ ] 16:00 Scrum master follow up
   
-- **Tuesday:**
-  - [ ] 13:30 Q&A sessions, make use of [retrospective app](https://retrospected.com/) to gather ideas from students
-  
-  - [ ] Demo about testing in React Native - Thomas
+- **Tuesday:**  
+  - [ ] Morning: Hello World in React Native - Thomas & Emma
+
+  - [ ] Afternoon: ??? Demo about testing in React Native  - Thomas
     - [ ] Slides - TBAdded
   
   - [ ] 16:00 Scrum master follow up
 
 - **Wednesday:**
   - [ ] 13:30 Q&A sessions, make use of [retrospective app](https://retrospected.com/) to gather ideas from students
-  
-  - [ ] 15:00 Agile talk - Thomas
-  
+    
   - [ ] 16:00 Scrum master follow up
 
 - **Thursday:**
@@ -174,7 +174,6 @@ Extending News Room with Mobile Client
 
 - **Friday:**
   - [ ] 13:30 Tech interview training - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md) - Go over Unter
-  - [ ] Senior Retro
 
   - [ ] 16:00 Scrum master follow up
 
