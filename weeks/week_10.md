@@ -41,7 +41,7 @@ Get a deeper understanding on the moving parts of the web, and have a chance to 
 	 - [ ] Morning: Week intro & Web 101 - Emma
 	 
 	 - [ ] Afternoon: Version Control - part I: Advanced concepts - Thomas
-	   - [ ] [Guide](https://github.com/CraftAcademyLabs/coach-guides/blob/master/lecture_notes/week_ten/adv_git_part_1)7
+	   - [ ] [Guide](https://github.com/CraftAcademyLabs/coach-guides/blob/master/lecture_notes/week_ten/adv_git_part_1)
 	   
 	 - [ ] Afternoon: Career talk - Faraz
 
