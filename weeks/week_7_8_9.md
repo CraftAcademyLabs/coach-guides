@@ -113,16 +113,16 @@ No challenge - just work on the News Room Challenge
      - [ ] Make guide out of this!
 
 - **Wednesday:**
-  - [ ] THE Shuffle Change teams
-     - [ ] No coach support
-     - [ ] Teams onboard new members
-     - [ ] Not for current cohort (april-2020)
-     
   - [ ] Morning: Retake Midcourse exam
      
   - [ ] Afternoon: Advanced strategies for Stripe (Subscriptions) - Oliver (mobsession - coding)
 
 - **Thursday:**
+  - [ ] THE Shuffle Change teams
+     - [ ] No coach support
+     - [ ] Teams onboard new members
+     - [ ] Not for current cohort (april-2020)
+     
   - [ ] Afternoon: Internationalization (i18n) in React - Emma & Thomas
     - [ ] Resource: [Guide](https://github.com/CraftAcademyLabs/ca_course/blob/master/week8/18n-react.md)
     - [ ] Slides: TBAdded
