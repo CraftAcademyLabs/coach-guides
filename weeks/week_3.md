@@ -55,7 +55,7 @@ In order to read our articles. We need a user to sign up
 * Pull request
 * Read documentation
 
-### Head coach: Faraz
+### Head coach: Emma
 #### First Line: Oliver
 
 ### Guide
@@ -86,17 +86,17 @@ In order to read our articles. We need a user to sign up
     - [ ] [Slides](https://docs.google.com/presentation/d/14Z4aPjdDTgeuQdup2MoiZrmUSSDce7R3I5dcotg7uyc/edit?usp=sharing)
     - [ ] [Recording](https://drive.google.com/file/d/1icvxzSiGW19uf2DueG5uceFKrzFOByGr/view?usp=sharing)
     
-  - [ ] Afternoon: The concept of the Query Params - Thomas
+  - [ ] Afternoon: The concept of the Query Params - Emma
     - [ ] [Use this as reference](https://www.youtube.com/watch?v=y57OnWV6dRE)  
     - [ ] Make sure to use Rails demo application(Crafty News) 
     - [ ] [Slides](https://docs.google.com/presentation/d/1WQiq29ZR4rQvhyH7N2HelmCUeD2qzuaBo03O12Rjsp4/edit?usp=sharing)
     - [ ] Make sure to send out web 101 recording from Prep course before this demo
 
 - **Thursday:**
-  - [ ] Morning: Validations in Rails and instance methods - Emma 
+  - [ ] Morning: Validations in Rails and instance methods - Oliver 
     - [ ] [Slides](https://docs.google.com/presentation/d/1uZJTsWZE43_ANHEcpqWbH15rd8w2BidR1Ap305q8VXE/edit?usp=sharing)
      
-   - [ ] Afternoon: Software Craftsmanship - Thomas
+   - [ ] Afternoon: Software Craftsmanship - Thomas (Noel)
      - [ ] [Slides](https://docs.google.com/presentation/d/1MtC_9wUgQAO4NUvAQxFk7CU7Fvdbwt4RE2BDaMC_f8s/edit)
    
    - [ ] Morning: Mobsession to finish up AUT (edit & create articles, point to rails guide) - Emma
