@@ -44,7 +44,7 @@ Emma
 
 ### Guide
 - **Monday:**
-  - [ ] Morning: JS Primer - Noel 
+  - [ ] Morning: JS Primer - Emma 
     - [ ] [Slides](https://docs.google.com/presentation/d/1zNDOoOzelyPxf2iNb7k6Sz2Sa8udtG-MM1Px1nVJbHA/edit#slide=id.g497f7c5a27_0_0)
     - [ ] [Repo](https://github.com/CraftAcademyLabs/js_primer_for_react_devs/blob/master/00_introduction.md)
     
@@ -65,13 +65,13 @@ Emma
 - **Wednesday:**
   - [ ] Morning: Deploying to Netlify - Noel
   
-  - [ ] Afternoon: Intro to Agile and Scrum - Thomas
+  - [ ] Afternoon: Intro to Agile and Scrum - Thomas (Noel)
     - [ ] [Slides](https://docs.google.com/presentation/d/1v65qlThrfBCIGMbPqZJWaDXjn9fEGPPwQfJYtkUBAKY/edit#slide=id.p)
     
   - [ ] Afternoon: CodeWars Hour - Noel
   
 - **Thursday:** 
-  - [ ] Afternoon: Vanilla JS vs jQuery - Thomas
+  - [ ] Afternoon: Vanilla JS vs jQuery - Thomas (Emma)
     - [ ] [Slides](https://docs.google.com/presentation/d/1UixROKCOaXrAC6ZTeHyXBzaUwB-xnuCFga4Tl7z052g/edit#slide=id.g4b12024eb7_0_21)
     - [ ] Based on this [site](http://youmightnotneedjquery.com/)
 
