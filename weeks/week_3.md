@@ -70,13 +70,13 @@ In order to read our articles. We need a user to sign up
   - [ ] Afternoon: Introduce Rails & AUT Part 2 - Emma
     - [ ] Intro to Articles challenge, FactoryBot, Fixtures
   
-  - [ ] Deploy to Heroku Crafty News - Oliver 
-    - [ ] [Slides](https://docs.google.com/presentation/d/1JX1To6mtAqn0qMhVQiE88BHATevYcOdr2QST5pq88zo/edit?usp=sharing) 
-
-- **Tuesday:**
-  - [ ] Morning: Rails demo: routing (plus resources) - Emma
+   - [ ] Afternoon: Rails demo: routing (plus resources) - Emma
      - [ ] [Slides](https://docs.google.com/presentation/d/1R-aZYu6C8Y1kdsJy_iXUorDL7mTstjKVk9VFYmWJC3Q/edit#slide=id.g4b12024eb7_0_21) 
      - [ ] (`--skip-routes` `--skip-views`)
+
+- **Tuesday:**  
+  - [ ] Morning: Deploy to Heroku Crafty News - Oliver 
+    - [ ] [Slides](https://docs.google.com/presentation/d/1JX1To6mtAqn0qMhVQiE88BHATevYcOdr2QST5pq88zo/edit?usp=sharing) 
     
   - [ ] Afternoon: Introduce the Legacy Code Challenge - Emma 
     - [ ] [Slides](https://docs.google.com/presentation/d/1S2Nn_hOhm_slruGTPFVoRGBh9G-NiKExENRHhUd-8As/edit?usp=sharing)
@@ -104,7 +104,7 @@ In order to read our articles. We need a user to sign up
 - **Friday:**
   - [ ] Morning: Check the submissions of the AUT code on GitHub - All Coaches
 
-  - [ ] Afternoon: Introduce the Weekend Challenge (Devise Gem) - Oliver 
+  - [ ] Afternoon: Introduce the Weekend Challenge (Devise Gem) - Emma 
     - [ ] [Slides](https://docs.google.com/presentation/d/1I0EIjP_uCeXwnfyKBr01ZF5Pju33QIkvOCFV5jva18g/edit?usp=sharing)
     
   - [ ] Afternoon: Introduce the RPS - Thomas
