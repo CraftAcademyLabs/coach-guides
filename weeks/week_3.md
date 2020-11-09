@@ -66,14 +66,14 @@ In order to read our articles. We need a user to sign up
     - [ ] [Recording](https://drive.google.com/file/d/1yexHiE87idwvEabZfqyRyybQDFS8acSE/view?usp=sharing)
     - [ ] Intro to Articles challenge, Factorybot, Fixture, Add semaphore & coveralls
     - [ ] This is the begining of the **Crafty News** project for this cohort
-  
+    
+  - [ ] Afternoon: Introduction to web architecture (MVC) - Oh'lover 
+    - [ ] [Slides](https://docs.google.com/presentation/d/14Z4aPjdDTgeuQdup2MoiZrmUSSDce7R3I5dcotg7uyc/edit?usp=sharing)
+    - [ ] [Recording](https://drive.google.com/file/d/1icvxzSiGW19uf2DueG5uceFKrzFOByGr/view?usp=sharing)
+    
   - [ ] Afternoon: Introduce Rails & AUT Part 2 - Emma
     - [ ] Intro to Articles challenge, FactoryBot, Fixtures
   
-   - [ ] Afternoon: Rails demo: routing (plus resources) - Emma
-     - [ ] [Slides](https://docs.google.com/presentation/d/1R-aZYu6C8Y1kdsJy_iXUorDL7mTstjKVk9VFYmWJC3Q/edit#slide=id.g4b12024eb7_0_21) 
-     - [ ] (`--skip-routes` `--skip-views`)
-
 - **Tuesday:**  
   - [ ] Morning: Deploy to Heroku Crafty News - Oliver 
     - [ ] [Slides](https://docs.google.com/presentation/d/1JX1To6mtAqn0qMhVQiE88BHATevYcOdr2QST5pq88zo/edit?usp=sharing) 
@@ -81,20 +81,23 @@ In order to read our articles. We need a user to sign up
   - [ ] Afternoon: Introduce the Legacy Code Challenge - Emma 
     - [ ] [Slides](https://docs.google.com/presentation/d/1S2Nn_hOhm_slruGTPFVoRGBh9G-NiKExENRHhUd-8As/edit?usp=sharing)
   
-- **Wednesday:**
-  - [ ] Morning: Introduction to web architecture (MVC) - Oh'lover 
-    - [ ] [Slides](https://docs.google.com/presentation/d/14Z4aPjdDTgeuQdup2MoiZrmUSSDce7R3I5dcotg7uyc/edit?usp=sharing)
-    - [ ] [Recording](https://drive.google.com/file/d/1icvxzSiGW19uf2DueG5uceFKrzFOByGr/view?usp=sharing)
-    
-  - [ ] Afternoon: The concept of the Query Params - Emma
+- **Wednesday:**  
+  - [ ] Morning: The concept of the Query Params - Emma
     - [ ] [Use this as reference](https://www.youtube.com/watch?v=y57OnWV6dRE)  
     - [ ] Make sure to use Rails demo application(Crafty News) 
     - [ ] [Slides](https://docs.google.com/presentation/d/1WQiq29ZR4rQvhyH7N2HelmCUeD2qzuaBo03O12Rjsp4/edit?usp=sharing)
     - [ ] Make sure to send out web 101 recording from Prep course before this demo
+    
+  - [ ] Afternoon: Validations in Rails and instance methods - Oliver 
+    - [ ] [Slides](https://docs.google.com/presentation/d/1uZJTsWZE43_ANHEcpqWbH15rd8w2BidR1Ap305q8VXE/edit?usp=sharing)
+    
 
 - **Thursday:**
-  - [ ] Morning: Validations in Rails and instance methods - Oliver 
-    - [ ] [Slides](https://docs.google.com/presentation/d/1uZJTsWZE43_ANHEcpqWbH15rd8w2BidR1Ap305q8VXE/edit?usp=sharing)
+
+  - [ ] Morning: Rails demo: routing (plus resources) - Emma
+    - [ ] [Slides](https://docs.google.com/presentation/d/1R-aZYu6C8Y1kdsJy_iXUorDL7mTstjKVk9VFYmWJC3Q/edit#slide=id.g4b12024eb7_0_21) 
+    - [ ] (`--skip-routes` `--skip-views`)
+
      
    - [ ] Afternoon: Software Craftsmanship - Thomas (Noel)
      - [ ] [Slides](https://docs.google.com/presentation/d/1MtC_9wUgQAO4NUvAQxFk7CU7Fvdbwt4RE2BDaMC_f8s/edit)
