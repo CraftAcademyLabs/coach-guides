@@ -75,11 +75,17 @@ In order to read our articles. We need a user to sign up
     - [ ] Intro to Articles challenge, FactoryBot, Fixtures
   
 - **Tuesday:**  
-  - [ ] Morning: Deploy to Heroku Crafty News - Oliver 
-    - [ ] [Slides](https://docs.google.com/presentation/d/1JX1To6mtAqn0qMhVQiE88BHATevYcOdr2QST5pq88zo/edit?usp=sharing) 
+  - [ ] Morning: Deploy to Heroku, Setting up Semaphore and Coveralls for Crafty News - Oliver 
+    - [ ] [Slides](https://docs.google.com/presentation/d/1JX1To6mtAqn0qMhVQiE88BHATevYcOdr2QST5pq88zo/edit?usp=sharing)
+    - [ ] [CI and CD slides](https://docs.google.com/presentation/d/1Y0YBeRV9Da9exfEQXZFyJob0d6pbBKofPj3fjHp_yMQ/edit#slide=id.p9)
+    - [ ] Also talk about coveralls
+    - [ ] COMBINE THE SLIDES!
     
   - [ ] Afternoon: Introduce the Legacy Code Challenge - Emma 
     - [ ] [Slides](https://docs.google.com/presentation/d/1S2Nn_hOhm_slruGTPFVoRGBh9G-NiKExENRHhUd-8As/edit?usp=sharing)
+    
+  - [ ] Afternoon: Rails demo: Active Record (migrations, associations, CRUD functions) - Oliver 
+    - [ ] [Slides](https://docs.google.com/presentation/d/11EhVRW4JckFUEBTclTMT8B0-OOga8l7Pim4PlQLKy_M/edit?usp=sharing)
   
 - **Wednesday:**  
   - [ ] Morning: The concept of the Query Params - Emma
@@ -97,7 +103,6 @@ In order to read our articles. We need a user to sign up
   - [ ] Morning: Rails demo: routing (plus resources) - Emma
     - [ ] [Slides](https://docs.google.com/presentation/d/1R-aZYu6C8Y1kdsJy_iXUorDL7mTstjKVk9VFYmWJC3Q/edit#slide=id.g4b12024eb7_0_21) 
     - [ ] (`--skip-routes` `--skip-views`)
-
      
    - [ ] Afternoon: Software Craftsmanship - Thomas (Noel)
      - [ ] [Slides](https://docs.google.com/presentation/d/1MtC_9wUgQAO4NUvAQxFk7CU7Fvdbwt4RE2BDaMC_f8s/edit)
