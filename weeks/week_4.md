@@ -54,6 +54,10 @@ Let's be strict with the support protocol AND who is giving support. Communicate
   
   - [ ] Afternoon 13:00 : Introduce Cooper challenge - Emma 
     - [ ] [Slides](https://docs.google.com/presentation/d/1Ler_SbU3Kn_DE7h2iVwxFMPgUYV5xUTt0Xr2n4KNpiQ/edit#slide=id.g35f391192_00)
+    
+  - [ ] Afternoon: Brief overview of where things are in Rails (recap focus on MVC, config). - Emma
+    - [ ] Basic application structure
+    - [ ] Rails doctrine, etc...  
 
 - **Wednesday:**  
   - [ ] Morning 10:00 : RESTful APIs in Rails - Thomas 
