@@ -29,18 +29,18 @@ In Week 4 we deepen your knowledge of Javascript by diving deeper into React, a 
 ### Learning objectives
 * See main Learning objectives
 
-### Head Coach: Oliver 
-### Assistant coaches: Emma, Thomas
+### Head Coach: Emma 
+### Assistant coaches: Thomas
 Let's be strict with the support protocol AND who is giving support. Communicate who is in charge in morning scrum AND on Slack. We need to make sure the understand the importance of component testing with jest/enzyme!
 
 ### Guide
 - **Monday:** (React)
   - [ ] Morning: Emma & Oliver pair up students
   
-  - [ ] Morning 9:30 : Introduce Week - Oliver 
+  - [ ] Morning 9:30 : Introduce Week - Emma 
     - [ ] [Slides](https://docs.google.com/presentation/d/1Ler_SbU3Kn_DE7h2iVwxFMPgUYV5xUTt0Xr2n4KNpiQ/edit#slide=id.g35f391192_00)
     
-  - [ ] Morning 10:00 : Introduce BMI challenge - Oliver 
+  - [ ] Morning 10:00 : Introduce BMI challenge - Emma 
     - [ ] [Slides](https://docs.google.com/presentation/d/11X96OmpHlBfz1hAADZbIc8izBfu6ty7h5tO-RA6Avs4/edit#slide=id.g4b12024eb7_0_21)
     
   - [ ] Afternoon 14:00 : AUT in React - Emma
@@ -52,14 +52,14 @@ Let's be strict with the support protocol AND who is giving support. Communicate
     - [ ] Make sure to point out the differences between semantic with cdn and a package
     - [ ] [Slides](https://docs.google.com/presentation/d/11zgj6X8V9Q9Ax_YkMTvu_zcntBKoS3On6JXPzhaTqaQ/edit#slide=id.g4b12024eb7_0_21)
   
-  - [ ] Afternoon 13:00 : Introduce Cooper challenge - Oliver 
+  - [ ] Afternoon 13:00 : Introduce Cooper challenge - Emma 
     - [ ] [Slides](https://docs.google.com/presentation/d/1Ler_SbU3Kn_DE7h2iVwxFMPgUYV5xUTt0Xr2n4KNpiQ/edit#slide=id.g35f391192_00)
 
 - **Wednesday:**  
   - [ ] Morning 10:00 : RESTful APIs in Rails - Thomas 
     - [ ] [Slides](https://docs.google.com/presentation/d/1_d3WO8AP1jg1G0xJCOL8J4IPJ8cLZzHwrcrfp0TL7-M/edit)
     
-  - [ ] Afternoon 14:00 : Intro to token authorization - Oliver
+  - [ ] Afternoon 14:00 : Intro to token authorization - Thomas
     - [ ] Go over baics with res resp
     - [ ] "You authenticate with the API with every request"
     - [ ] [Slides, needs to be updated](https://docs.google.com/presentation/d/1loqHoN9zTkCXisi5PQjfNxL9oCl7_hJpOPLAgH0hCFE/edit#slide=id.p6)
@@ -69,7 +69,7 @@ Let's be strict with the support protocol AND who is giving support. Communicate
     - [ ] [Slides](https://docs.google.com/presentation/d/1kvzG_b3zoQ6grCMuPiT59_wMikSWd1qgarVK8qUuSFc/edit#slide=id.g497fb264d8_0_0)
 
 - **Friday:**
-  - [ ] Morning: Introduce the weekend challenge - Oliver 
+  - [ ] Morning: Introduce the weekend challenge - Emma 
     - [ ] [Visualization Slides](https://docs.google.com/presentation/d/1JarRziyTnxskxflOJIx0yTrOHriLgT-xp80lAN15uis/edit#slide=id.g5266187cf7_0_3)
     - [ ] After going over slides, have a mobsessioon implementing a line graph
     - [ ] Show students how to add more keys (distance, age, gender) to the hstore
