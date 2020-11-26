@@ -78,6 +78,9 @@ No challenge - just work on the News Room Challenge
     - [ ] EXTRACT TO A NEW SLIDE DECK!
   
 - **Wednesday:**  
+  - [ ] Morning: Intro to Redux - Thomas
+     - [ ] [Slides](https://docs.google.com/presentation/d/13QBhpB-fyhPvvPkTQuuGk6ftS4Zibwq5-0bIJ-3w75E/edit#slide=id.g7f84e7daad_0_22) Needs to be updated!
+     	
   - [ ] Morning: Teams present their project plans (PT, lo-fi's and Fock Op's) - Coaches shift teams
   
   - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (Advanced Active Model Serializer) - Emma (coding demo)
@@ -107,8 +110,6 @@ No challenge - just work on the News Room Challenge
    - [ ] Afternoon: File attachements using Cloud storage (AWS S3) - Oliver (mobsession Rails + React) 
    
 - **Tuesday:**
-   - [ ] Morning: Intro to Redux - Thomas
-     - [ ] [Slides](https://docs.google.com/presentation/d/13QBhpB-fyhPvvPkTQuuGk6ftS4Zibwq5-0bIJ-3w75E/edit#slide=id.g7f84e7daad_0_22) Needs to be updated!
      
    - [ ] Afternoon: Geocoding (Rails and React) - determine what edition the user is served - Thomas 
      - [ ] Resource: [Recording](https://drive.google.com/file/d/1knQRoUF7GvdxrIlpVioIMbiPAlQXcpKK/view?usp=sharing)
