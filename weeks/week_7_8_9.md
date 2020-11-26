@@ -60,9 +60,9 @@ No challenge - just work on the News Room Challenge
   - [ ] Tell students to read scrum guide
     - [ ] In the course material
   
-  - [ ] Morning: Introduction to News Room Challenge - Oliver & Faraz 
+  - [ ] Morning: Introduction to News Room Challenge - Emma 
     - [ ] Give them PT and strict requirements from the client
-    - [ ] Oliver sets up new PT board
+    - [ ] Set up new PT board
     - [ ] [Slides](https://docs.google.com/presentation/d/1LMxeknWgar_ebHxCl0g7A0FbeUJm_k2BfprCme0NX7s/edit)
     
   - [ ] Morning: Students start the First Sprint (Desing Phase) 
@@ -70,30 +70,32 @@ No challenge - just work on the News Room Challenge
   - [ ] Start with scrum master meeting every afternoon
 
 - **Tuesday:**
-  - [ ] Morning: Pitch meeting for Midcourse project - Faraz & All coaches
+  - [ ] Devote staff meeting to writing letters of progress
+  - [ ] Morning: Pitch meeting for Midcourse project - All coaches
   
-  - [ ] Afternoon: Workshop on story prioritization, voting and Epics - Faraz & Oliver
+  - [ ] Afternoon: Workshop on story prioritization, voting and Epics - Emma, Noel & Thomas
     - [ ] [Slides](https://docs.google.com/presentation/d/1tXXZd1pl2Q3Rg9R85k_xmoZNBRKcQaPYKezCXglxXQ8/edit)
+    - [ ] EXTRACT TO A NEW SLIDE DECK!
   
 - **Wednesday:**  
-  - [ ] Morning: Teams present their project plans (PT, lo-fi's and Mock Up's) - Coaches shift teams
+  - [ ] Morning: Teams present their project plans (PT, lo-fi's and Fock Op's) - Coaches shift teams
   
   - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (Advanced Active Model Serializer) - Emma (coding demo)
+    - [ ] Refactor Slowfood boiler plate to serializer talk
    
-- **Thursday:**
-  - [ ] Morning: Discuss students progress in depth in preperation for one on ones during the coach meeting!
-  
-  - [ ] Afternoon: Authentication in Rails-React using a package - Oliver 
+- **Thursday:** 
+  - [ ] Morning: Assessment of the students (one on one)
+  - [ ] Afternoon: Authentication in Rails-React using a package rewritten by Thomas - Thomas 
     - [ ] Resource: [j-tockauth repo](https://github.com/Eth3rnit3/j-tockauth)
 
 - **Friday:**
-  - [ ] Mornig: Assessment of the students (one on one)
+  - [ ] Morning: Assessment of the students (one on one)
   
   - [ ] Morning: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz)
   
   - [ ] Afternoon: Tech interview (Twitter challenge)
   
-  - [ ] Afternoon: Retro and talk about plans for vacation
+  - [ ] Afternoon: Talk about plans for vacation
 
 ### Week 8
 - **Monday:**
@@ -127,7 +129,8 @@ No challenge - just work on the News Room Challenge
     - [ ] Resource: [Guide](https://github.com/CraftAcademyLabs/ca_course/blob/master/week8/18n-react.md)
     - [ ] Slides: TBAdded
 
-- **Friday:**   
+- **Friday:** 
+  - [ ] Retro 
   - [ ] WEEKEND CHALLENGE: Inform the students about client meeting on Monday. 
     - [ ] Show them the [GlocalNews client meeting recording](https://www.youtube.com/watch?v=Vhuc9NVkAEI)
     - [ ] The challenge is to prepare for that meeting. 
