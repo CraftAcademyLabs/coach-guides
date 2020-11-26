@@ -38,39 +38,35 @@ Let's be strict with the support protocol AND who is giving support. Communicate
 Mob Discussion sessions will be held every other day.
 
 - **Monday:** 
-  - [ ] Morning: Design sprint led by coaches - Oliver & Emma
+  - [ ] Morning: Presentation of Slowfood and Project Retro
+  - [ ] Morning: Design sprint led by coaches - Emma & Thomas
   
-  - [ ] Afternoon: How to consume an API both in **Rails** and **JS** - Thomas
-    - [ ] Start with pure ruby, then Rails, then JS. Use AUT application
+  - [ ] Afternoon: How to consume an API and using Webmock - Thomas
+    - [ ] Use AUT application ( Crafty News for the cohort ) 
     - [ ] [Recording](https://drive.google.com/drive/folders/1cCLOCR5QDtL3rKGq3rs-UOxUDdfmN1_5)
 
-  - [ ] Introduce Webmock - Oliver
-
 - **Tuesday:**
-  - [ ] Morning: In depth Rails demo: Authentication & Authorization (Devise + basic authorization using booleans) - Oliver Part 1 
+  - [ ] Morning: In depth Rails demo: Authentication & Authorization (Devise + basic authorization using booleans) - Emma Part 1 
     - [ ] [Slides](https://docs.google.com/presentation/d/1acMDXIGQ6dr7wfetxtCApoA7LMmwfA2LSjj8Sufyjro/edit#slide=id.g1dfd44e8c5_0_0)
     
-  - [ ] Afternoon: In depth Rails demo: Authentication & Authorization (Pundit) - Thomas & Emma Part 2
+  - [ ] Afternoon: In depth Rails demo: Authentication & Authorization (Pundit) - Thomas Part 2
     - [ ] This demo is a mobsession where you implement pundit, use the Crafty news [app](https://github.com/CraftAcademy/crafty_news_august_2020)
   
 - **Wednesday:**
-  - [ ] Morning: How to get paid (Stripe)  Part 1 - Oliver
+  - [ ] Morning: How to get paid (Stripe)  Part 1 - Emma
   
-  - [ ] Afternoon: How to get paid (Stripe) Part 2 - Oliver
+  - [ ] Afternoon: How to get paid (Stripe) Part 2 - Emma
 
 - **Thursday:**
   - [ ] Morning 10:00: Midcourse exam - All coaches
     - [ ] [Slides](https://docs.google.com/presentation/d/11QvMiQPakxyPjGzMDbP8p6VxWxJ8Sa-cDm33B7D7-xg/edit?usp=sharing)
     - [ ] Prepare Repo from boilerplate
   
-  - [ ] Afternoon: Advanced associations with ActiveRecord - Oliver 
+  - [ ] Afternoon: Advanced associations with ActiveRecord - Emma 
     - [ ] [Slides](https://docs.google.com/presentation/d/1Ibg_P4pL2u81FrNRnHKHpiLhbSkgi-6Y/edit)
  
 - **Friday:**
-  - [ ] Morning 10:00: OAuth demo (Facebook - very basic OAuth for web apps) - Oliver
-    - [ ] Slides TBA
-    - [ ] Use one of the teams codebase
-    - [ ] Code along
+  - [ ] Morning 10:00: Hooks in React - Weekend Challenge Refactoring
    
   - [ ] Afternoon 15:00: Project Retro - All Coaches
     
@@ -78,6 +74,8 @@ Mob Discussion sessions will be held every other day.
      - [ ] Prepare them for their presentation
      - [ ] Give feedback for the weekend
      - [ ] Prepare them for pitch to external investors
+     
+     ( *- [ ] Morning 10:00: OAuth demo (Facebook - very basic OAuth for web apps) - Oliver, skipping this talk for now since facebook has changed* ) 
 
 ## Please complete this checklist
  - [ ] Are all slides decks up to date?
