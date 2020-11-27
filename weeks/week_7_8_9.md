@@ -68,12 +68,13 @@ No challenge - just work on the News Room Challenge
   - [ ] Morning: Students start the First Sprint (Desing Phase) 
   
   - [ ] Start with scrum master meeting every afternoon
+  
+  - [ ] Afternoon: Pitch meeting for Midcourse project - All coaches
 
 - **Tuesday:**
-  - [ ] Devote staff meeting to writing letters of progress
-  - [ ] Morning: Pitch meeting for Midcourse project - All coaches
+  - [ ] Devote staff meeting to writing letters of progress 
   
-  - [ ] Afternoon: Workshop on story prioritization, voting and Epics - Emma, Noel & Thomas
+  - [ ] Morning: Workshop on story prioritization, voting and Epics - Emma, Noel & Thomas
     - [ ] [Slides](https://docs.google.com/presentation/d/1tXXZd1pl2Q3Rg9R85k_xmoZNBRKcQaPYKezCXglxXQ8/edit)
     - [ ] EXTRACT TO A NEW SLIDE DECK!
   
