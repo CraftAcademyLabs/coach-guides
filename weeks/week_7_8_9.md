@@ -80,7 +80,7 @@ No challenge - just work on the News Room Challenge
   
 - **Wednesday:**  
   - [ ] Morning: Intro to Redux - Thomas
-     - [ ] [Slides](https://docs.google.com/presentation/d/13QBhpB-fyhPvvPkTQuuGk6ftS4Zibwq5-0bIJ-3w75E/edit#slide=id.g7f84e7daad_0_22) Needs to be updated!
+     - [ ] [Slides](https://docs.google.com/presentation/d/1lFrHTprYLfuOFimXJEvvEyFo5l84mIwxeVrp6uBq54Y/edit?usp=sharing)
      	
   - [ ] Morning: Teams present their project plans (PT, lo-fi's and Fock Op's) - Coaches shift teams
   
