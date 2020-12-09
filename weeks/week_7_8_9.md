@@ -60,40 +60,46 @@ No challenge - just work on the News Room Challenge
   - [ ] Tell students to read scrum guide
     - [ ] In the course material
   
-  - [ ] Morning: Introduction to News Room Challenge - Oliver & Faraz 
+  - [ ] Morning: Introduction to News Room Challenge - Emma 
     - [ ] Give them PT and strict requirements from the client
-    - [ ] Oliver sets up new PT board
+    - [ ] Set up new PT board
     - [ ] [Slides](https://docs.google.com/presentation/d/1LMxeknWgar_ebHxCl0g7A0FbeUJm_k2BfprCme0NX7s/edit)
     
   - [ ] Morning: Students start the First Sprint (Desing Phase) 
   
   - [ ] Start with scrum master meeting every afternoon
+  
+  - [ ] Afternoon: Pitch meeting for Midcourse project - All coaches
 
 - **Tuesday:**
-  - [ ] Morning: Pitch meeting for Midcourse project - Faraz & All coaches
+  - [ ] Devote staff meeting to writing letters of progress 
   
-  - [ ] Afternoon: Workshop on story prioritization, voting and Epics - Faraz & Oliver
+  - [ ] Morning: Workshop on story prioritization, voting and Epics - Emma, Noel & Thomas
     - [ ] [Slides](https://docs.google.com/presentation/d/1tXXZd1pl2Q3Rg9R85k_xmoZNBRKcQaPYKezCXglxXQ8/edit)
+    - [ ] EXTRACT TO A NEW SLIDE DECK!
   
 - **Wednesday:**  
-  - [ ] Morning: Teams present their project plans (PT, lo-fi's and Mock Up's) - Coaches shift teams
+  - [ ] Morning: Intro to Redux - Thomas
+     - [ ] [Slides](https://docs.google.com/presentation/d/1lFrHTprYLfuOFimXJEvvEyFo5l84mIwxeVrp6uBq54Y/edit?usp=sharing)
+     	
+  - [ ] Morning: Teams present their project plans (PT, lo-fi's and Fock Op's) - Coaches shift teams
   
   - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (Advanced Active Model Serializer) - Emma (coding demo)
+    - [ ] Refactor Slowfood boiler plate to serializer talk
    
-- **Thursday:**
-  - [ ] Morning: Discuss students progress in depth in preperation for one on ones during the coach meeting!
-  
-  - [ ] Afternoon: Authentication in Rails-React using a package - Oliver 
+- **Thursday:** 
+  - [ ] Morning: Assessment of the students (one on one)
+  - [ ] Afternoon: Authentication in Rails-React using a package rewritten by Thomas - Thomas 
     - [ ] Resource: [j-tockauth repo](https://github.com/Eth3rnit3/j-tockauth)
 
 - **Friday:**
-  - [ ] Mornig: Assessment of the students (one on one)
+  - [ ] Morning: Assessment of the students (one on one)
   
   - [ ] Morning: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz)
   
   - [ ] Afternoon: Tech interview (Twitter challenge)
   
-  - [ ] Afternoon: Retro and talk about plans for vacation
+  - [ ] Afternoon: Talk about plans for vacation
 
 ### Week 8
 - **Monday:**
@@ -105,29 +111,28 @@ No challenge - just work on the News Room Challenge
    - [ ] Afternoon: File attachements using Cloud storage (AWS S3) - Oliver (mobsession Rails + React) 
    
 - **Tuesday:**
-   - [ ] Morning: Intro to Redux - Thomas
-     - [ ] [Slides](https://docs.google.com/presentation/d/13QBhpB-fyhPvvPkTQuuGk6ftS4Zibwq5-0bIJ-3w75E/edit#slide=id.g7f84e7daad_0_22) Needs to be updated!
      
    - [ ] Afternoon: Geocoding (Rails and React) - determine what edition the user is served - Thomas 
      - [ ] Resource: [Recording](https://drive.google.com/file/d/1knQRoUF7GvdxrIlpVioIMbiPAlQXcpKK/view?usp=sharing)
      - [ ] Make guide out of this!
 
 - **Wednesday:**
-  - [ ] THE Shuffle Change teams
-     - [ ] No coach support
-     - [ ] Teams onboard new members
-     - [ ] Not for current cohort (april-2020)
-     
   - [ ] Morning: Retake Midcourse exam
      
   - [ ] Afternoon: Advanced strategies for Stripe (Subscriptions) - Oliver (mobsession - coding)
 
 - **Thursday:**
+  - [ ] THE Shuffle Change teams
+     - [ ] No coach support
+     - [ ] Teams onboard new members
+     - [ ] Not for current cohort (april-2020)
+     
   - [ ] Afternoon: Internationalization (i18n) in React - Emma & Thomas
     - [ ] Resource: [Guide](https://github.com/CraftAcademyLabs/ca_course/blob/master/week8/18n-react.md)
     - [ ] Slides: TBAdded
 
-- **Friday:**   
+- **Friday:** 
+  - [ ] Retro 
   - [ ] WEEKEND CHALLENGE: Inform the students about client meeting on Monday. 
     - [ ] Show them the [GlocalNews client meeting recording](https://www.youtube.com/watch?v=Vhuc9NVkAEI)
     - [ ] The challenge is to prepare for that meeting. 
@@ -145,26 +150,26 @@ Extending News Room with Mobile Client
     - [ ] [Slidedeck - Add talking points & Update](https://docs.google.com/presentation/d/1_vKD1ArJN3XKa0rAF0jS3VRN0pWmBdb2Gpvhov_LxaQ/edit#slide=id.g4c8a2ae7e1_0_0)
     - [ ] [Recording](https://drive.google.com/file/d/1m0XKFFzPTiw1aTwMw4yoX7XVg9X728Ww/view?usp=sharing)
     
-  - [ ] Afternoon: Introduce React Native - Thomas 
+  - [ ] Afternoon: Introduce React Native - Thomas & Emma
     - [ ] [Slidedeck](https://docs.google.com/presentation/d/1XyInXwHnhBzZ8N6LTb1JmVvT-x2M2ati5p7MR7DbarA/edit?usp=sharing)
     
-  - [ ] Afternoon: Hello World in React Native - Thomas
+  - [ ] Afternoon: Setup sessions for React native enviroment 
+    - [ ] Emma for MAC students
+    - [ ] Oliver (& maybe Adi) for Ubuntu 
   
   - [ ] 16:00 Scrum master follow up
   
-- **Tuesday:**
-  - [ ] 13:30 Q&A sessions, make use of [retrospective app](https://retrospected.com/) to gather ideas from students
-  
-  - [ ] Demo about testing in React Native - Thomas
+- **Tuesday:**  
+  - [ ] Morning: Hello World in React Native - Thomas & Emma
+
+  - [ ] Afternoon: ??? Demo about testing in React Native  - Thomas
     - [ ] Slides - TBAdded
   
   - [ ] 16:00 Scrum master follow up
 
 - **Wednesday:**
   - [ ] 13:30 Q&A sessions, make use of [retrospective app](https://retrospected.com/) to gather ideas from students
-  
-  - [ ] 15:00 Agile talk - Thomas
-  
+    
   - [ ] 16:00 Scrum master follow up
 
 - **Thursday:**
@@ -174,7 +179,6 @@ Extending News Room with Mobile Client
 
 - **Friday:**
   - [ ] 13:30 Tech interview training - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md) - Go over Unter
-  - [ ] Senior Retro
 
   - [ ] 16:00 Scrum master follow up
 
