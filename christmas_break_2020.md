@@ -23,6 +23,8 @@
 
 - [ ] Write slide deck for React Hooks
 
+- [ ] Write guide for weekend challenge Chart JS
+
 **Sessions Together**
 - [ ] Look into Semaphore 2.0 and update course material regarding that: Emma & Thomas 
 
