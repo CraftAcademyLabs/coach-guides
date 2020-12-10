@@ -1,7 +1,7 @@
 [Documentation over the weeks](https://docs.google.com/document/d/1CaFu_x0UoeBmMSRT3bre3orEnlsCGbTZnmVbccuMVeg/edit)
 
 **Thomas** -  
-[ - React native detox materials  
+- [ ] React native detox materials  
 - [ ] Week 4 overview and modify talks  
   - [ ] Update weekly plan in coach guides  
   - [ ] Rewrite Cooper Challenge   
