@@ -1,13 +1,14 @@
 gem install rails, but i dont need to do that
 
 ```
-rails new rails_demo_cohort --database=postgresql --skip-test
+rails new rails_demo_cohort --api --database=postgresql --skip-test 
 ```
+ - we need to pass in the api flag since rails can be used a fullstack application as well
  - cd into the application and open up in VS
  - aut : acceptance unit test
  
  ```
-rails db:create
+rails db:create db:migrate
 ```
  
  **MAKE A COMMIT**
@@ -21,12 +22,10 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'shoulda-matchers'
   gem 'factory_bot_rails'
-  gem 'capybara' 
   gem 'pry-rails'
 end
  ```
 - shoulda makes our unit tests shorter and easier
-- capybara is the testing of the view layer easier to test
 
  - run bundle 
 
@@ -35,21 +34,21 @@ rails g
 ```
 - will show all the generators that we have available 
 ```
-rails g rspec install
+rails g rspec:install
 ```
 
 ```
 .rspec 
 
 --format documentation
-```
-- put in spec_helper
-```
-require 'rails_helper'
+--color
+--require rails_helper
 ```
 
 ```
 # rails_helper
+
+Dir[Rails.root.join('spec/support/**/*.rb')].sort.each { |f| require f }
 
 RSpec.configure do |config|
 	config.fixture_path = "#{::Rails.root}/spec/fixtures"
@@ -57,13 +56,19 @@ RSpec.configure do |config|
 	config.infer_spec_type_from_file_location!
 	config.filter_rails_from_backtrace!
 	config.include FactoryBot::Syntax::Methods
+  config.include Shoulda::Matchers::ActiveRecord, type: :model
 end
+```
+
+```
+# spec/support/shoulda_matchers.rb
 
 Shoulda::Matchers.configure do |config|
-	config.integrate do |with|
-		with.test_framework :rspec
-		with.library :rails
-	end
+  config.integrate do |with|
+    with.test_framework :rspec
+    with.library :rails
+  end
+end
 ```
 - run rspec 
 
@@ -75,6 +80,7 @@ config/application.rb
 config.generators do |generate|
 		generate.helper false
 		generate.assets false
+    generate.skip_routes true
 		generate.view_specs false
 		generate.helper_specs false
 		generate.routing_specs false
@@ -87,80 +93,74 @@ config.generators do |generate|
 - create feature folder and specfile 
 
 ```
-# spec/features/user_can_see_list_of_articles_spec.rb
+# spec/requests/api/api_responds_with_collection_of_articles_spec.rb
 
-feature 'List articles on index page' do
-  context 'with articles in db' do
+RSpec.describe 'GET /api/articles' do
+  describe 'successfully' do
     before do
-      visit root_path
+      get '/api/articles'
     end
 
-    it 'displays first article title' do
-      expect(page).to have_content 'A breaking news item'
+    it 'is expected to return a 200 response status' do
+      expect(response).to have_http_status 200
     end
 
-    it 'displays second article title' do
-      expect(page).to have_content 'Some really breaking action'
+    it 'is expected to return all articles' do
+      expect(JSON.parse(response.body)['articles'].count).to eq 3
+    end
+
+    it 'is expected to return articles titles' do
+      expect(JSON.parse(response.body)['articles'].first['title']).to eq 'This is an awesome title'
     end
   end
-end 
+end
 ```
-- we should get an error undefined root_path
-- minimum is a controller
+- we should get an error that we have no route that matches index
+
 ```
-rails g controller Articles index
+routes.rb
+
+Rails.application.routes.draw do
+  namespace :api do
+    resources :articles
+  end
+end
+```
+- That opens up all the routes to the articles endpoint, but we should only have the routes open that we can take care of
+```
+Rails.application.routes.draw do
+  namespace :api do
+    resources :articles, only: [:index]
+  end
+end
+```
+- show rails routes again
+
+- run Rspec
+- add the api folder to our controllers folder. 
+- now we need a controller, and that we can generate
+```
+rails g controller api::articles index
 ```
 - controllers are ALWAYS plural and models are ALWAYS singular, rails is sensitive for naming convention 
-- explain the routes and delete what is in there
+- the :: we need to pass to make the controller end up in the correct namespace 
+
+- Run rspec again, ask if anyone knows what a 204 indicates?
+- Put a binding.pry in the index method and only run the first test
+
+**COMMIT!**
+_____
+
+- We need a model to be able to save articles to our database and then fetch them from there. 
 ```
-root controller: :articles, action: :index
-```
-Hard code the articles in the index.html file
-
-- everything goes green, take a break and get back to it after lunch
-
-_______
-
-- ask what the problem is with the implementation code at the moment 
-- why is it bad to have things hard coded?
-
-- we want to bring the data from the db
-- create factories
-
-```
-# spec/features/user_can_see_list_of_articles_spec.rb
-
-feature 'List articles on index page' do
-  context 'with articles in db' do
-    before do
-      create(:article, title: 'A breaking news item')
-      create(:article, title: 'Some really breaking action')
-      visit root_path
-    end
-
-    it 'displays first article title' do
-      expect(page).to have_content 'A breaking news item'
-    end
-
-    it 'displays second article title' do
-      expect(page).to have_content 'Some really breaking action'
-    end
-  end
-end 
+rails g model article title:string 
 ```
 
-- test should fail
-- now we need to move to the unit tests, AUT cycle
-- what is the difference between unit test and acceptance test?
-- the visual, that you can drive the car
-- what you can't see, what happens under the hood
-- we will create the model now
+- We get a lot of things here. Go over everything that we get. 
 
 ```
-rails g model Article title:string
+rails db:migrate
 ```
-- we need to define the attribute we want with the datatype is should be
-- created a shit load of files for us
 
 ```
 # spec/models/article_spec.rb
@@ -180,115 +180,142 @@ RSpec.describe Article, type: :model do
   end
 end
 ```
-- try to run rspec, explain how the migrations work
- - rails db:migrate
+- Add the validation to the model
 
-- run rspec
-- look the migration 
-- factory
-- we can use validations to make sure that things are saved in a format that we want to not fill out database with bullshit content 
-
-- all tests should go green now
-
-- now we are going to change our frontend so it fetches the data from the db 
-- delete everything from the index.html
+- Now back to requests specs, and we can now see that we can ask the model for all articles but it is empty. 
+- Lets make use of the factory bot! 
 
 ```
-def index
-  @articles = Article.all
+# spec/requests/api/api_responds_with_collection_of_articles_spec.rb
+
+RSpec.describe 'GET /api/articles' do
+  describe 'successfully' do
+  let!(:articles) { 3.times { create(:article) } }
+    before do
+      get '/api/articles'
+    end
+
+    it 'is expected to return a 200 response status' do
+      expect(response).to have_http_status 200
+    end
+
+    it 'is expected to return all articles' do
+      expect(JSON.parse(response.body)['articles'].count).to eq 3
+    end
+
+    it 'is expected to return articles titles' do
+      expect(JSON.parse(response.body)['articles'].first['title']).to eq 'This is an awesome title'
+  end
 end
 ```
-- the view is always connected to an action in the specific controller 
-- now we are writing ruby in html, that what erb helps us with!
-- embedded ruby
+
+- Go to the controller and update the index action:
 ```
-index.html
-
-@articles.each do
-
-  <% @articles.each do |article| %>
-    <h1>
-       <%= article.title %><br />
-    </h1>
-  <% end %>
-
+  def index
+    articles = Article.all
+    render json: articles
+  end
 ```
-- everything goes green! 
-- SHOW ME??
-- nothing is there... WHY?
+- if we run the test again we can see that we get a 200 but the other tests are not passing. Let's put a binding.pry
+- Put it in the test and have a look at the response.body
 
-- alright lets go to the console and create them for real
-- it is like irb or pry inside 
-- we are using ruby to modify our database! that is pretty amazing guys, because we don't need to use SQL. 
-
-- we need to have a description
+- Modify the index action:
+```
+  def index
+    articles = Article.all
+    render json: {articles: articles}
+  end
+```
+- Use postman to make a request, no articles??
+- Go into rails console and create some, make the request again. 
 
 **COMMIT**
 
 ```
-# spec/features/user_can_see_specific_article_spec.rb
+# spec/requests/api/api_responds_with_one_specific_articles_spec.rb
 
-feature 'User can see specific article' do
-  before do
-    create(:article, title: 'A breaking news item', content: 'Some breaking action')
-    
-    visit root_path
-    click_on 'A breaking news item'
-  end
+RSpec.describe 'GET /api/articles/:id' do
+  describe 'successfully' do
+    let!(:article) { create(:article, title: 'This is the latest news', body: 'And this is some mind blowing content') }
 
-  context 'Article displays' do
-    it 'title' do
-      expect(page).to have_content 'A breaking news item'
+    before do
+      get "/api/articles/#{article.id}" #explain this with random id's and get back to that when tests are going green
     end
 
-    it 'content' do
-      expect(page).to have_content 'Some breaking action'
+    it 'is exptected to return a 200 status' do
+      expect(response).to have_http_status 200
+    end
+
+    it 'is expected to return the requested articles title' do
+      expect(JSON.parse(response.body)['article']['title']).to eq 'This is the latest news'
     end
   end
 end
 ```
-- here we use the capybara matchers, which are for testing the views 
-- now we need to change our article model and add the content
+- stop here now and create the response json module and include it in the `rails_helper`
+
+```
+module ResponseJSON
+  def response_json
+    JSON.parse(response.body)
+  end
+end
+```
+- Go back to the test and refactor and write a test for the content as well
+```
+# spec/requests/api/api_responds_with_one_specific_articles_spec.rb
+
+RSpec.describe 'GET /api/articles/:id' do
+  describe 'successfully' do
+    let!(:article) { create(:article, title: 'This is the latest news', body: 'And this is some mind blowing content') }
+
+    before do
+      get "/api/articles/#{article.id}" #explain this with random id's and get back to that when tests are going green
+    end
+
+    it 'is exptected to return a 200 status' do
+      expect(response).to have_http_status 200
+    end
+
+    it 'is expected to return the requested articles title' do
+      expect(response_json['article']['title']).to eq 'This is the latest news'
+    end
+
+    it 'is expected to return the requested articles body' do
+      expect(response_json['article']['body']).to eq 'And this is some mind blowing content'
+    end
+  end
+end
+```
+
+- And now we can see that we get undefined method for body, because we don't have that in our database. 
 - show schema and talk about that file 
 
 ```
-rails g migration AddContentToArticle content:text
+rails g migration AddBodyToArticle body:text
 ```
+
 - strings in rails has a limitation, and therefor we can use text instead
 - Why don't we just add it to the schema?
 - why don't we just go into the previous migration and change that?
 
 - run the migrations, and add the tests about the content to the model spec
 - update the factory
+- Show the other way of adding validations to the model
+
+- Back to the request spec and now the route is missing, remove the `only` first to show how you can find out how the routes look
+
+- add the show request and put a binding.pry in there
+- show the params and talk about that we want to find this article in the db 
 
 ```
-  <% @articles.each do |article| %>
-    <h1>
-       <%= link_to article.title, article_path(article) %><br />
-    </h1>
-  <% end %>
-
-```
-- lets fix the problems with our routes 
-```
-resources :articles, only: [:show]
-```
-```
-def show
-  
-end
-```
-- we need to fix the template for the view 
-```
-  def index 
-    @article = Article.find(params[:id])
+  def show
+    article = Article.find(params['id'])
+    render json: {article: article}
   end
 ```
 
-```
-<%= @article.title %>
-<%= @article.content %>
-```
+- run Rspec again 
 
 - and Boom! Everything is green! 
 
@@ -298,128 +325,170 @@ end
 - branch off
 
 ```
-user_can_write_an_article
+api_provides_user_to_create_an_article_spec.rb
 
-feature 'Visitor can write articles' do
-  before do
-    visit root_path
-    click_on 'Write Article'
-    fill_in 'Title', with: 'It is almost friday'
-    fill_in 'Content', with: 'That means it is almost weekend, and we have a graduation on saturday!'
-    click_on 'Create Article'
-  end
-  describe 'Visitor can write a article' do
-    it 'Visitor should see success message' do
-      expect(page).to have_content 'Article was successfully created!'
+RSpec.describe 'POST /api/articles' do
+  describe 'successfully' do
+    before do
+      post '/api/articles',
+      params: {
+        article: {
+          title: 'This is a new article',
+          body: 'With some brand new content'
+        }
+      }
+    end
+
+    it 'is expected to return a 201 response status' do
+      expect(response).to have_http_status 201
+    end
+
+    it 'is expected to return a success message' do
+      expect(response_json['message']).to eq 'The article was successfully created'
     end
   end
 end
 ```
-```
-index.html
 
-<%= link_to 'Write Article', new_article_path %>
-```
 - run rspec
-- go to routes and add new
+- here we go again, go to routes and add new
 
 ```
 articles_controller
 
 
-def new
-  @article = Article.new
-end
-```
-```
-new.html.erb
-
-<%= form_with model: @article, local: true do |form| %>
-  <%= form.label :title%>
-  <%= form.text_field :title %>
-  <%= form.label :content%>
-  <%= form.text_field :content%>
-  <%= form.submit 'Create Article'%>
-<% end %>
-
-```
-
-- add create to routes
-```
-def create 
- @article = Article.create(params.require(:article).permit(:title, :content))
- if @article.persisted?
-  redirect_to root_path notice: 'Article was successfully created'
-  else 
-  redirect_ to new_article_path, notice: 'Error, try again'
+  def create
+    binding.pry
   end
-end
+```
+- Try to just pass in `article = Article.create(params['article'])` in pry to show the mass assignment error
+```
+  def create
+    Article.create(article_params)
+    render json: { message: 'The article was successfully created' }, status: 201
+  end
+
+  private
+
+  def article_params
+    params.require(:article).permit(:title, :body)
+  end
 ```
 - run rspec
-- go to layout, that is a template that display every view that we render. A bit like out main component in the index.js in React.
-```
-<% if flash[:notice]%>
-<%= flash[:notice]%>
-<% end %>
-```
-- and everything is green! 
-- Show it in the server 
+- And we're green! That was fairly simple? 
+- But what happens if the title is empty for example?
 
 ```
-feature 'User can' do
-    context 'edit and article' do
-        before do
-            create(:article, title: 'Some crispy news', content: 'Some breaking action')
-            visit root_path
-            click_on 'Edit Article'
-        end
+ if article.persisted?
+    render json: { message: 'The article was successfully created' }, status: 201
+  else
+    #we need to do somethign here
+    binding.pry
+  end
+```
+- In binding.pry, look at the errors
+`article.errors.full_messages.to_sentence`
 
-        it 'User can edit the content' do
-            fill_in 'Content', with: 'Cheez Doodles are now available with chocolate'
-            click_on 'Update Article'
-            expect(page).to have_content 'Cheez Doodles are now available with chocolate'
-        end
+**COMMIT!**
+____
+
+```
+api_provides_user_to_edit_an_article_spec.rb
+
+RSpec.describe 'PUT /api/articles' do
+  let(:article) { create(:article) }
+  describe 'successfully' do
+    before do
+      put "/api/articles/#{article.id}",
+          params: {
+            article: {
+              title: 'This is the new and cool title'
+            }
+          }
     end
+
+    it 'is expected to return 201 status' do
+      expect(response).to have_http_status 201
+    end
+
+    it 'is expected to return success message' do
+      expect(response_json['message']).to eq 'The article was successfully updated'
+    end
+
+    it 'is expected to update the article' do
+      expect(article.title).to eq 'This is the new and cool title'
+    end
+  end
 end
 ```
-- in the show html
-```
-<%= link_to 'Edit Article', edit_article_path(article) %>
-```
-- go to routes and add edit
+- ad update to the routes, why should we keep the only?
+- put a binding.pry in the update action and take it one step at the time
 
 ```
-edit.html.erb
-
-<%= form_with model: @article, local: true do |form| %>
-  <%= form.label :title%>
-  <%= form.text_field :title %>
-  <%= form.label :content%>
-  <%= form.text_field :content%>
-  <%= form.submit 'Save Article'%>
-<% end %>
-
-```
-- add edit to the controller
-
-```
-  @article = Article.find(params[:id])
-```
-- add update to routes
-- add update to controllr
-
-```
-def update 
-    @article = Article.find(params[:id])
-    if @article.update(article_params)
-      redirect_to @article notice: 'Article was successfully updated'
-    else 
-    redirect_ to edit_article_path, notice: 'Error, try again'
+  def update
+    article = Article.find(params['id'])
+    article.update(article_params)
+    if article.save
+      render json: { message: 'The article was successfully updated' }, status: 201
+    else
+      render json: { message: article.errors.full_messages.to_sentence }, status: 422
     end
   end
 ```
+- Change the last test accordingly: 
+```
+    it 'is expected to update the article' do
+      expect(article.reload.title).to eq 'This is the new and cool title'
+    end
+```
 
 
+**Some refactoring if time**
 
+```
+ class Api::ArticlesController < ApplicationController
+  def index
+    articles = Article.all
+    render json: { articles: articles }
+  end
 
+  def show
+    article = Article.find(params['id'])
+    render json: { article: article }
+  end
 
+  def create
+    article = Article.create(article_params)
+
+    if article.persisted?
+      success_message('created')
+    else
+      error_message(article)
+    end
+  end
+
+  def update
+    article = Article.find(params['id'])
+    article.update(article_params)
+    if article.save
+      success_message('updated')
+    else
+      error_message(article)
+    end
+  end
+
+  private
+
+  def article_params
+    params.require(:article).permit(:title, :body)
+  end
+
+  def success_message(action)
+    render json: { message: "The article was successfully #{action}" }, status: 201
+  end
+
+  def error_message(article)
+    render json: { message: article.errors.full_messages.to_sentence }, status: 422
+  end
+end
+```
