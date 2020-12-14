@@ -2,14 +2,15 @@
 
 **Thomas** -  
 - [ ] React native detox materials  
-- [ ] Week 4 overview and modify talks  
-  - [ ] Update weekly plan in coach guides  
-  - [ ] Rewrite Cooper Challenge   
+- [ ] Week 3 overview and modify talks  
+  - [ ] Update weekly plan in coach guides    
 
 **Noel**  
 - [ ] Week 1 overview and modify talks  
   - [ ] Update weekly plan in coach guides
+  
 - [ ] Go over ITP
+  - [ ] Create talk about http verbs and put web 101 in the beginning of week 4
 
 **Emma**  
 - [ ] Week 2 overview and modify talks
@@ -17,9 +18,8 @@
   - [ ] Write implementation of portfolio in vanilla JS
   - [ ] Add to the intro of React that we are only showing them React Class components because appears on Stack overflow and so on. 
 
-- [ ] Week 3 overview and modify talks 
+- [ ] Week 4 overview and modify talks 
   - [ ] Update weekly plan in coach guides
-  - [ ] Redo the params talk 
 
 - [ ] Write slide deck for React Hooks
 
