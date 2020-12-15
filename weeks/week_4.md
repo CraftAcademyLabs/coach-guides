@@ -37,8 +37,8 @@ Let's be strict with the support protocol AND who is giving support. Communicate
   - [ ] Morning: Pair up students
   
   - [ ] Morning: Introduce Rails & AUT Part 1 - Emma 
-    - [ ] [Slides to introduce week](https://docs.google.com/presentation/d/1QBSlHd6hlmfsHeLhP_R6H1xlfsyYjmN-JxTcF2zRbns/edit?usp=sharing)
     - [ ] [Slides to introduce Rails](https://docs.google.com/presentation/d/1UwauQbrLjKBh24UH622aWi5q5F0OB3HTSQRGRmt8Fj4/edit#slide=id.g4b12024eb7_0_21)
+    - [ ] [Code Guide](https://github.com/CraftAcademyLabs/coach-guides/blob/master/coding_demo_guides/aut-rails.md)
     - [ ] This is the begining of the **Crafty News** project for this cohort
     
   - [ ] Afternoon: Introduce Rails & AUT Part 2 - Emma
@@ -46,7 +46,6 @@ Let's be strict with the support protocol AND who is giving support. Communicate
     
   - [ ] Afternoon: Introduction to web architecture (MVC) - Emma 
     - [ ] [Slides](https://docs.google.com/presentation/d/14Z4aPjdDTgeuQdup2MoiZrmUSSDce7R3I5dcotg7uyc/edit?usp=sharing)
-    - [ ] [Recording](https://drive.google.com/file/d/1icvxzSiGW19uf2DueG5uceFKrzFOByGr/view?usp=sharing)
     
 - **Tuesday:**  
  
