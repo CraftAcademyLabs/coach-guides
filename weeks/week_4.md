@@ -50,12 +50,11 @@ Let's be strict with the support protocol AND who is giving support. Communicate
 - **Tuesday:**  
  
   - [ ] Morning: Deploy to Heroku, Setting up Semaphore and Coveralls for Crafty News - Emma 
-    - [ ] [Slides](https://docs.google.com/presentation/d/1JX1To6mtAqn0qMhVQiE88BHATevYcOdr2QST5pq88zo/edit?usp=sharing)
-    - [ ] [CI and CD slides](https://docs.google.com/presentation/d/1Y0YBeRV9Da9exfEQXZFyJob0d6pbBKofPj3fjHp_yMQ/edit#slide=id.p9)
-    - [ ] Also talk about coveralls
-    - [ ] COMBINE THE SLIDES!
+    - [ ] [Slides](https://docs.google.com/presentation/d/1JX1To6mtAqn0qMhVQiE88BHATevYcOdr2QST5pq88zo/edit#slide=id.g5c96494016_0_350)
+    - [ ] Set up Heroku, Coveralls and Semaphore for the project
     
   - [ ] Afternoon: Introduce the Legacy Code Challenge - Emma 
+    - [ ] [Slides](https://docs.google.com/presentation/d/1S2Nn_hOhm_slruGTPFVoRGBh9G-NiKExENRHhUd-8As/edit#slide=id.g56b04e896f_0_0)
   
   - [ ] Afternoon: RESTFUL API’s part 2
 
@@ -65,10 +64,9 @@ Let's be strict with the support protocol AND who is giving support. Communicate
   - [ ] Morning: Validations in Rails and instance methods - Emma 
     - [ ] [Slides](https://docs.google.com/presentation/d/1uZJTsWZE43_ANHEcpqWbH15rd8w2BidR1Ap305q8VXE/edit?usp=sharing)
 
-  - [ ] Afternoon: Rails demo: Active Record (migrations, associations, CRUD functions) - Emma 
+  - [ ] Afternoon: Rails demo: Active Record Basics - Emma 
     - [ ] [Slides](https://docs.google.com/presentation/d/11EhVRW4JckFUEBTclTMT8B0-OOga8l7Pim4PlQLKy_M/edit?usp=sharing)    
     
-
 - **Thursday:**  
 
   - [ ] Morning: Rails demo: routing (plus resources) - Emma
