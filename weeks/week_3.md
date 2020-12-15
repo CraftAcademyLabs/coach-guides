@@ -94,15 +94,12 @@ In order to read our articles. We need a user to sign up
     - [ ] [Slides](https://docs.google.com/presentation/d/1WQiq29ZR4rQvhyH7N2HelmCUeD2qzuaBo03O12Rjsp4/edit?usp=sharing)
     - [ ] Make sure to send out web 101 recording from Prep course before this demo
     
-  - [ ] Afternoon: Validations in Rails and instance methods - Oliver 
-    - [ ] [Slides](https://docs.google.com/presentation/d/1uZJTsWZE43_ANHEcpqWbH15rd8w2BidR1Ap305q8VXE/edit?usp=sharing)
+  
     
 
 - **Thursday:**
 
-  - [ ] Morning: Rails demo: routing (plus resources) - Emma
-    - [ ] [Slides](https://docs.google.com/presentation/d/1R-aZYu6C8Y1kdsJy_iXUorDL7mTstjKVk9VFYmWJC3Q/edit#slide=id.g4b12024eb7_0_21) 
-    - [ ] (`--skip-routes` `--skip-views`)
+  
      
    - [ ] Afternoon: Software Craftsmanship - Thomas (Noel)
      - [ ] [Slides](https://docs.google.com/presentation/d/1MtC_9wUgQAO4NUvAQxFk7CU7Fvdbwt4RE2BDaMC_f8s/edit)
