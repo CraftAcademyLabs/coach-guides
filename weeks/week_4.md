@@ -71,7 +71,6 @@ Let's be strict with the support protocol AND who is giving support. Communicate
 
   - [ ] Morning: Rails demo: routing (plus resources) - Emma
     - [ ] [Slides](https://docs.google.com/presentation/d/1R-aZYu6C8Y1kdsJy_iXUorDL7mTstjKVk9VFYmWJC3Q/edit#slide=id.g4b12024eb7_0_21) 
-    - [ ] (`--skip-routes` `--skip-views`)
     
   - [ ] Afternoon 14:00 : The simple truths - Thomas 
     - [ ] [Slides](https://docs.google.com/presentation/d/1kvzG_b3zoQ6grCMuPiT59_wMikSWd1qgarVK8qUuSFc/edit#slide=id.g497fb264d8_0_0)
