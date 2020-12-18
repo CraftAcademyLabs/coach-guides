@@ -57,6 +57,7 @@ Let's be strict with the support protocol AND who is giving support. Communicate
     - [ ] [Slides](https://docs.google.com/presentation/d/1S2Nn_hOhm_slruGTPFVoRGBh9G-NiKExENRHhUd-8As/edit#slide=id.g56b04e896f_0_0)
   
   - [ ] Afternoon: RESTFUL API’s part 2
+    - [ ] [Slides](https://docs.google.com/presentation/d/1j4SkChg57gX2SB2wklTmA7-B0wbxxstOfEOk6JmZwdg/edit#slide=id.g35ed75ccf_022)
 
 
 - **Wednesday:**  
