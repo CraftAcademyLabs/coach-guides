@@ -20,7 +20,7 @@
 - [x] Week 4 overview and modify talks 
   - [x] Update weekly plan in coach guides
 
-- [ ] Write slide deck for React Hooks
+- [x] Write slide deck for React Hooks
 
 - [ ] Write guide for weekend challenge Chart JS
 
