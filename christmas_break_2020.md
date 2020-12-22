@@ -13,13 +13,12 @@
   - [ ] Create talk about http verbs and put web 101 in the beginning of week 4
 
 **Emma**  
-- [ ] Week 2 overview and modify talks
-  - [ ] Update weekly plan in coach guides
-  - [ ] Write implementation of portfolio in vanilla JS
-  - [ ] Add to the intro of React that we are only showing them React Class components because appears on Stack overflow and so on. 
+- [x] Week 2 overview and modify talks
+  - [x] Update weekly plan in coach guides
+  - [x] Write implementation of portfolio in vanilla JS
 
-- [ ] Week 4 overview and modify talks 
-  - [ ] Update weekly plan in coach guides
+- [x] Week 4 overview and modify talks 
+  - [x] Update weekly plan in coach guides
 
 - [ ] Write slide deck for React Hooks
 
