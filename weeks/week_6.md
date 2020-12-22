@@ -67,6 +67,7 @@ Mob Discussion sessions will be held every other day.
  
 - **Friday:**
   - [ ] Morning 10:00: Hooks in React - Weekend Challenge Refactoring
+    - [ ] [Slides](https://docs.google.com/presentation/d/1j_HdxHxvWF5mZmelsa_Bm2rcDDb8hiN2dHwlKbf_Ock/edit#slide=id.g4b12024eb7_0_2)
    
   - [ ] Afternoon 15:00: Project Retro - All Coaches
     
