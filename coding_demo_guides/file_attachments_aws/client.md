@@ -35,7 +35,7 @@ const toBase64 = (file) => new Promise((resolve, reject) => {
 
 ```
 - pass image as an argument to the create article function
-- If you want to make your own preview
+- If you want to make your own preview, create an onChange event where you set the `event.target.files[0]` into local state. 
 ```javascript
 
 //put the image into state with an onchange
