@@ -107,9 +107,9 @@ module DecodeService
     target.attach(io: io, filename: "#{image[:encoder]}.#{image[:extension]}")
   end
 
-private 
+private_methods
 
-  def split_base6(string)
+  def self.split_base6(string)
     if string =~ /^data:(.*?);(.*?),(.*)$/
       uri = {}
       uri[:type] = Regexp.last_match(1)
