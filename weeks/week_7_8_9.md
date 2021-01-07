@@ -144,9 +144,9 @@ No challenge - just work on the News Room Challenge
 Extending News Room with Mobile Client
 
 - **Monday:**
-  - [ ] Morning: Sprint Review for each team, entire cohort -  Emma & Oliver
+  - [ ] Morning: Sprint Review for each team, entire cohort -  Emma
   
-  - [ ] Morning: Start designing for the mobile client - Oliver
+  - [ ] Morning: Start designing for the mobile client - Emma
     - [ ] [Slidedeck - Add talking points & Update](https://docs.google.com/presentation/d/1_vKD1ArJN3XKa0rAF0jS3VRN0pWmBdb2Gpvhov_LxaQ/edit#slide=id.g4c8a2ae7e1_0_0)
     - [ ] [Recording](https://drive.google.com/file/d/1m0XKFFzPTiw1aTwMw4yoX7XVg9X728Ww/view?usp=sharing)
     
@@ -162,7 +162,7 @@ Extending News Room with Mobile Client
 - **Tuesday:**  
   - [ ] Morning: Hello World in React Native - Thomas & Emma
 
-  - [ ] Afternoon: ??? Demo about testing in React Native  - Thomas
+  - [ ] Afternoon: Testing in React Native  - Thomas
     - [ ] Slides - TBAdded
   
   - [ ] 16:00 Scrum master follow up
@@ -179,6 +179,7 @@ Extending News Room with Mobile Client
 
 - **Friday:**
   - [ ] 13:30 Tech interview training - Unter [Setting up a project](../miscellaneous/assessments/assessment_6.md) - Go over Unter
+    - [ ] They can not use the course material for this challenge!
 
   - [ ] 16:00 Scrum master follow up
 
