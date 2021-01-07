@@ -35,41 +35,39 @@ Get a deeper understanding on the moving parts of the web, and have a chance to 
 
 ### Guide
 - **Monday:**
-	 - [ ] Morning: Mention Final Project and ask them to start thinking about their project ideas
-	 - [ ] Morning: Sprint review (Newsroom) - Emma
+  - [ ] Morning: Mention Final Project and ask them to start thinking about their project ideas
+  
+  - [ ] Morning: Sprint review (Newsroom) - Emma
 	 
-	 - [ ] Morning: Week intro & Web 101 - Emma
+  - [ ] Morning: Week intro & Web 101 - Emma
 	 
-	 - [ ] Afternoon: Version Control - part I: Advanced concepts - Thomas
-	   - [ ] [Guide](https://github.com/CraftAcademyLabs/coach-guides/blob/master/lecture_notes/week_ten/adv_git_part_1)
-	   
-	 - [ ] Afternoon: Career talk - Faraz
+  - [ ] Afternoon: Version Control - part I: Advanced concepts - Thomas
+    - [ ] [Guide](https://github.com/CraftAcademyLabs/coach-guides/blob/master/lecture_notes/week_ten/adv_git_part_1)
+  
+  - [ ] Afternoon: Version Control - part II: Tips and Tricks (reflog, bisect, etc) - Thomas	   
+
 
 - **Tuesday:**
-	 - [ ] Morning: Version Control - part II: Tips and Tricks (reflog, bisect, etc) - Thomas
+  - [ ] Morning: NodeJS - part I: Basic setup and DB connectivity (Basic Book Store demo) - Thomas
 	 
-	 - [ ] Morning: NodeJS - part I: Basic setup and DB connectivity (Basic Book Store demo) - Thomas
-	 
-	 - [ ] Afternoon: NodeJS - part II & III: Express with Sequelize, Mocha+Chai+Supertest (debugging) (Advanced Book Store demo) - Thomas
+  - [ ] Afternoon: NodeJS - part II & III: Express with Sequelize, Mocha+Chai+Supertest (debugging) (Advanced Book Store demo) - Thomas
  
 - **Wednesday:** 
-	 - [ ] Morning: NodeJS - part IV Live Share, debugging, sharing server, etc - Thomas
+  - [ ] Morning: NodeJS - part IV Live Share, debugging, sharing server, etc - Thomas
 	 
-	 - [ ] Afternoon: NodeJS - part V Web Sockets (use Basic Book Store demo code as the base) - Thomas
-	 
-	 - [ ] Afternoon: Career Talk - Faraz
+  - [ ] Afternoon: NodeJS - part V Web Sockets (use Basic Book Store demo code as the base) - Thomas
  
 - **Thursday:**
-	 - [ ] Morning: NodeJS - part VI Profiling In Chrome Dev Tools - Thomas
+  - [ ] Morning: NodeJS - part VI Profiling In Chrome Dev Tools - Thomas
+  
+  - [ ] Afternoon: Career Talk - part I intro - 
 
-	 - [ ] Afternoon: Go over Final project ideas from students
-	 
-	 - [ ] Afternoon: Career Talk - Faraz
+  - [ ] Afternoon: Go over Final project ideas from students 
  
 - **Friday:**
-	 - [ ] Morning: NodeJS Part VII
+  - [ ] Morning: NodeJS Part VII
 	 
-	 - [ ] Afternoon: Retro - Coaches
+  - [ ] Afternoon: Retro - Coaches
 
 ## Please complete this checklist
  - [ ] Are all slides decks up to date?
