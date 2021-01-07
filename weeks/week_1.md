@@ -42,54 +42,54 @@ Firstline: **Emma**
 
 - **Monday:**
   We start at 9.30
-  - [ ] Overview lecture on Craft Academy - Thomas & Noel 
+  - [ ] Morning: Overview lecture on Craft Academy - Thomas & Noel 
     - [ ] [Slide](https://docs.google.com/presentation/d/1Js0169lE61X_uJTIPkAD9iDXyWqwh7PTqEdk4gFpCx4/edit?usp=sharing)
 
-  - [ ] 8 traits of a developer - Thomas
+  - [ ] Morning: 8 traits of a developer - Thomas
     - [ ] [Slide](https://docs.google.com/presentation/d/1gvoZhLqv67XJzyGve1aDj7aPf78F-wjIpHDyVuPIn1Y/edit)
 
-  - [ ] Get-to-know-you intro "game" - Noel & all coaches & seniors 11:00 (5 people in the cohort)
+  - [ ] Morning: Get-to-know-you intro "game" - Noel & all coaches & seniors 11:00 (5 people in the cohort)
     - [ ] Who are you?
     - [ ] Why are you here?
     - [ ] Where are you going?
     
-  - [ ] Presentations - everyone 30 min max
+  - [ ] Morning: Presentations - everyone 30 min max
   
-  - [ ] Communication talk - Noel (Slack, Student letter & handbook!, Craft Overflow
+  - [ ] Afternoon: Communication talk - Noel (Slack, Student letter & handbook!, Craft Overflow)
     - [ ] [Slide](https://docs.google.com/presentation/d/1FHi72wqIIuqLIaIZiG5GkeJtgg0SYDVuzZG14v-S0kY/edit?usp=sharing)
-
-  - [ ] How we assess students - Noel
-    - [ ] [Slide](https://docs.google.com/presentation/d/1mxScG_F8lpiN7TE01PJEjc8SDL7ilWbgkXdaQ8mj_jE/edit?usp=sharing)
 	
-  - [ ] Introduce the Week lab & Programming demo - Noel
+  - [ ] Afternoon: Introduce the Week lab & Programming demo - Noel
     - [ ] [Slide](https://docs.google.com/presentation/d/1U2Ld9Q_Bh0ezTI8R1_BB9jQ55JsGIR1_uL9dKo6_W0M/edit?usp=sharing)
     - [ ] Emphasize on the transition from User story to actual code
   
-**Tuesday:**
-  - [ ] Understanding the problem statement (Planning demo) - the ATM challenge - Noel 
+- **Tuesday:**
+  - [ ] Morning: Understanding the problem statement (Planning demo) - the ATM challenge - Noel 
     - [ ] [Slide](https://docs.google.com/presentation/d/1rZNCNtaDLILWCQZQmIooBXeBPpJFRm0GO-voWcOR98w/edit?usp=sharing)
 
-  - [ ] Basic programming recap - Noel
-  
-  - [ ] Git & GitHub talk and demo - pull requests, forking, cloning - Emma
+  - [ ] Afternoon: Git & GitHub talk and demo - pull requests, forking, cloning - Emma
     - [ ] [Slide](https://docs.google.com/presentation/d/1oMwvZBPzUrDuIUPNo-QlaiZ5Ssv_xshFwAhyzbJ15TM/edit?usp=sharing)
-  
-**Wednesday:**
-  - [ ] Learning strategies - Noel
+    
+  - [ ] Afternoon: Basic Ruby recap - Noel
+    
+- **Wednesday:**
+  - [ ] Morning: Learning strategies - Noel
     - [ ] [Slide](https://docs.google.com/presentation/d/19NVyn8vCrTgMjksJyi5frgnRA3L-nIJd6VzB3WWk4FY/edit?usp=sharing)
+    
+  - [ ] Morning: How we assess students - Noel
+    - [ ] [Slide](https://docs.google.com/presentation/d/1mxScG_F8lpiN7TE01PJEjc8SDL7ilWbgkXdaQ8mj_jE/edit?usp=sharing)
 
-  - [ ] Intermediate topics to testing with RSpec (Doubles, Dynamic Matchers, etc...) - Emma 
+  - [ ] Afternoon: Intermediate topics to testing with RSpec (Doubles, Dynamic Matchers, etc...) - Emma 
     - [ ] [Slide](https://docs.google.com/presentation/d/1tmcbhCdncTePC3gE4lR2Zye8eeH5xtFcK9LO9iN6hIY/edit?usp=sharing)
 
-**Thursday:**
-  - [ ] The right way to search the internet for information (using the docs, Stack Overflow, research) - Noel 
+- **Thursday:**
+  - [ ] Morning: The right way to search the internet for information (using the docs, Stack Overflow, research) - Noel 
     - [ ] Discussion - How are they doing it now... Give our suggestions
     
-  - [ ] Debugging demo - Emma 
+  - [ ] Afternoon: Debugging demo - Emma 
     - [ ] Both in code and spec tests
   
 - **Friday:**
-  - [ ] Introduce the Weekend Challenge & programming demo - Noel
+  - [ ] Morning: Introduce the Weekend Challenge & programming demo - Noel
     - [ ] reading from and writing to a YAML file
     - [ ] searching a hash using `select` and `detect` methods
   
