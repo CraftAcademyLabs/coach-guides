@@ -78,12 +78,15 @@ In order to read our articles. We need a user to sign up
     - [ ] Make sure to point out the differences between semantic with cdn and a package
     - [ ] [Slides](https://docs.google.com/presentation/d/11zgj6X8V9Q9Ax_YkMTvu_zcntBKoS3On6JXPzhaTqaQ/edit#slide=id.g4b12024eb7_0_21)
     
-  - [ ] Afternoon: Intro to week challenge - Emma 
-    - [ ] [Slides](https://docs.google.com/presentation/d/1S2Nn_hOhm_slruGTPFVoRGBh9G-NiKExENRHhUd-8As/edit?usp=sharing)
-
+  - [ ] Afternoon: How to consume an API - Thomas
+    - [ ] Slides to be added
+    - [ ] Coding demo with showing them how they can read api documentation and make requests ( Github API? )
   
 - **Wednesday:**  
-  - [ ] Morning: The concept of the Query Params - Emma
+  - [ ] Morning: Intro to week challenge - Emma 
+    - [ ] [Slides](https://docs.google.com/presentation/d/1S2Nn_hOhm_slruGTPFVoRGBh9G-NiKExENRHhUd-8As/edit?usp=sharing)
+    
+  - [ ] Afternoon: The concept of Params - Emma
      - [ ] [Slides](https://docs.google.com/presentation/d/1WQiq29ZR4rQvhyH7N2HelmCUeD2qzuaBo03O12Rjsp4/edit?usp=sharing)
      - [ ] Make sure to send out web 101 recording from Prep course before this demo
 
