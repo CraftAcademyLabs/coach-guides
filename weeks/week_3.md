@@ -61,13 +61,8 @@ In order to read our articles. We need a user to sign up
 ### Guide
 - **Monday:** 
   - [ ] Morning: Intro to Employee List - Emma 
-    - Add Slides!
-    - Half theory, half coding session
-    - [ ] [Slides to introduce week](https://docs.google.com/presentation/d/1QBSlHd6hlmfsHeLhP_R6H1xlfsyYjmN-JxTcF2zRbns/edit?usp=sharing)
-    - [ ] [Slides to introduce Rails](https://docs.google.com/presentation/d/1UwauQbrLjKBh24UH622aWi5q5F0OB3HTSQRGRmt8Fj4/edit#slide=id.g4b12024eb7_0_21)
-    - [ ] [Recording](https://drive.google.com/file/d/1yexHiE87idwvEabZfqyRyybQDFS8acSE/view?usp=sharing)
-    - [ ] Intro to Articles challenge, Factorybot, Fixture, Add semaphore & coveralls
-    - [ ] This is the begining of the **Crafty News** project for this cohort
+    - [ ] [Slides](https://docs.google.com/presentation/d/19TuX0Z-BRaDqU8WDlPR_BpyHSAGaBhDy965cNbwhqj4/edit#slide=id.g35ed75ccf_022)
+    - [ ] Half theory, half coding session, code a bit of the employee list
     
   - [ ] Afternoon: RESTFUL Api's part I - Thomas
     - [ ] [Slides](https://docs.google.com/presentation/d/1o8VPcljGIq9xVUOiVIg-98J4t-0j5i0OOT0pcOO2Juk/edit#slide=id.g4b12024eb7_0_21)
@@ -77,18 +72,18 @@ In order to read our articles. We need a user to sign up
     - [ ] [Recording](https://drive.google.com/file/d/1ICLssPacleAmwbXn5itYJ-P5HCWbdkjt/view?usp=sharing)
     - [ ] Make sure to point out the differences between semantic with cdn and a package
     - [ ] [Slides](https://docs.google.com/presentation/d/11zgj6X8V9Q9Ax_YkMTvu_zcntBKoS3On6JXPzhaTqaQ/edit#slide=id.g4b12024eb7_0_21)
-    
-  - [ ] Afternoon: How to consume an API - Thomas
-    - [ ] Slides to be added
-    - [ ] Coding demo with showing them how they can read api documentation and make requests ( Github API? )
+  
+  - [ ] Afternoon: How to consume an API - Thomas	
+    - [ ] Slides to be added
+    - [ ] Do a coding demo with showing them how to read API documentation and then make some easy calls to that api (maybe GH api?)
   
 - **Wednesday:**  
   - [ ] Morning: Intro to week challenge - Emma 
-    - [ ] [Slides](https://docs.google.com/presentation/d/1S2Nn_hOhm_slruGTPFVoRGBh9G-NiKExENRHhUd-8As/edit?usp=sharing)
+    - [ ] [Slides needs to be updated!!!](https://docs.google.com/presentation/d/1S2Nn_hOhm_slruGTPFVoRGBh9G-NiKExENRHhUd-8As/edit?usp=sharing)
     
   - [ ] Afternoon: The concept of Params - Emma
-     - [ ] [Slides](https://docs.google.com/presentation/d/1WQiq29ZR4rQvhyH7N2HelmCUeD2qzuaBo03O12Rjsp4/edit?usp=sharing)
-     - [ ] Make sure to send out web 101 recording from Prep course before this demo
+    - [ ] [Slides](https://docs.google.com/presentation/d/1WQiq29ZR4rQvhyH7N2HelmCUeD2qzuaBo03O12Rjsp4/edit?usp=sharing)
+    - [ ] Make sure to send out web 101 recording from Prep course before this demo
 
 - **Thursday:**
      
