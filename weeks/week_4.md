@@ -44,7 +44,7 @@ Let's be strict with the support protocol AND who is giving support. Communicate
   - [ ] Afternoon: Introduce Rails & AUT Part 2 - Emma
     - [ ] Intro to Articles challenge, FactoryBot, Fixtures
     
-  - [ ] Afternoon: Introduction to web architecture (MVC) - Emma 
+  - [ ] Afternoon: Introduction to web architecture (MVC) - Thomas 
     - [ ] [Slides](https://docs.google.com/presentation/d/14Z4aPjdDTgeuQdup2MoiZrmUSSDce7R3I5dcotg7uyc/edit?usp=sharing)
     
 - **Tuesday:**  
@@ -56,7 +56,7 @@ Let's be strict with the support protocol AND who is giving support. Communicate
   - [ ] Afternoon: Introduce the Legacy Code Challenge - Emma 
     - [ ] [Slides](https://docs.google.com/presentation/d/1S2Nn_hOhm_slruGTPFVoRGBh9G-NiKExENRHhUd-8As/edit#slide=id.g56b04e896f_0_0)
   
-  - [ ] Afternoon: RESTFUL API’s part 2
+  - [ ] Afternoon: RESTFUL API’s part 2 - Thomas
     - [ ] [Slides](https://docs.google.com/presentation/d/1j4SkChg57gX2SB2wklTmA7-B0wbxxstOfEOk6JmZwdg/edit#slide=id.g35ed75ccf_022)
 
 
