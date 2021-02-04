@@ -84,6 +84,7 @@ In order to read our articles. We need a user to sign up
   - [ ] Afternoon: The concept of Params - Emma
     - [ ] [Slides](https://docs.google.com/presentation/d/1WQiq29ZR4rQvhyH7N2HelmCUeD2qzuaBo03O12Rjsp4/edit?usp=sharing)
     - [ ] Make sure to send out web 101 recording from Prep course before this demo
+    - [ ] Ue a express.js example to showcase the 3 kind of params we are taalking about. [Sample code](https://github.com/CraftAcademyLabs/params_talk_code)
 
 - **Thursday:**
      
