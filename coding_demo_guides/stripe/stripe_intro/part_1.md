@@ -5,7 +5,7 @@ we will use the code base from the slowfood
 
 we will start by creating a test!
 
-```
+```javascript
 describe('User can become subscriber', () => {
   describe('successfully', () => {
     beforeEach(() => {
@@ -47,7 +47,7 @@ describe('User can become subscriber', () => {
 Obviously it can't find the button
 in the App component:
 
-```
+```javascript
 { this.state.authenticated ? (
           <Elements>
             <BecomeSubscriber />
@@ -61,7 +61,7 @@ in the App component:
 
 create that component
 
-```
+```javascript
 import React, { Component } from 'react'
 
 class BecomeSubscriber extends Component {
@@ -100,7 +100,7 @@ Add this script to the index.html <script src="https://js.stripe.com/v3/"></scri
 In the cypress.json: chromeWebSecurity: false
 It doesn't work without setting this setting
 
-```
+```javascript
 // index.js
 
 import { StripeProvider } from 'react-stripe-elements'
@@ -119,7 +119,7 @@ Add the elements around the BecomeSubscriber in the App.jsx
 
 We need to inject stripe into out BecomeSubscriber component. 
 
-```
+```javascript
 import React, { Component } from 'react'
 import {
   injectStripe,
@@ -156,7 +156,7 @@ class BecomeSubscriber extends Component {
 
 export default injectStripe(BecomeSubscriber)
 ```
-```
+```javascript
 cy.wait(1000)
 
 cy.get("#card-number").within(() => {
@@ -171,7 +171,7 @@ cy.get("#card-number").within(() => {
 ```
 make sure it goes green
 
-```
+```javascript
   cy.get("#card-expiry").within(() => {
         cy.get('iframe[name^="__privateStripeFrame"]').then(($iframe) => {
           const $body = $iframe.contents().find("body");
@@ -191,7 +191,7 @@ add the card expiry and the card cvc to the component
 
 add the button and the message to the test
 
-```
+```javascript
       cy.get("button").contains("Submit payment").click()
 
       cy.get("[data-cy=payment-message]").contains("Payment successfull")
@@ -199,7 +199,7 @@ add the button and the message to the test
 We will also create a fixture and add the stubb 
 ```
 
-```
+```javascript
 
       cy.route({
         method: "POST",
@@ -207,7 +207,7 @@ We will also create a fixture and add the stubb
         response: "fixture:stripe_response.json"
       });
 ```
-```
+```json
 stripe_response.json
 
 {
@@ -215,6 +215,7 @@ stripe_response.json
   "message": "Payment successfull"
 }
 ```
+```javascript
 <form data-cy="payment-form" onSubmit={this.payWithStripe}>
                   <div id="card-number">
                     <label>Card Number</label>
@@ -227,7 +228,7 @@ stripe_response.json
 
 create the function, prevent default and put a debugger
 
-```
+```javascript
   payWithStripe = async (event) => {
     event.preventDefault()
 
@@ -241,7 +242,7 @@ create the function, prevent default and put a debugger
 
 create the performPayment function and put a debugger
 
-```
+```javascript
   performPayment = async (stripeToken) => {
     let headers = localStorage.getItem("userData")
     headers = JSON.parse(headers)
@@ -263,7 +264,7 @@ create the performPayment function and put a debugger
   }
 ```
 
-```
+```javascript
 { this.state.message ? (
           <p data-cy="payment-message" >{this.state.message}</p>
         ) : (
