@@ -2,7 +2,7 @@ Api
 
 Start with creating a test
 
-```
+```ruby
 RSpec.describe 'GET /api/subscriptions', type: :request do
   describe 'successfully' do
     let!(:registered_user) { create(:user) }
@@ -34,7 +34,7 @@ end
 Add route, generate the controller (remember API namespace)
 add a before action to authenticate the user
 
-```
+```ruby
 def create
   payment_status = perform_payment
 
@@ -71,7 +71,7 @@ We need to encrypt these keys.
 
 `EDITOR="code --wait" rails credentials:edit`
 
-```
+```yaml
 stripe
   publishable_key: bla bla
   secret_key: 
@@ -79,7 +79,7 @@ stripe
 
 go to application.rb 
 
-```
+```ruby
 config.stripe.publishable_key = Rails.application.credentials.stripe[:publishable_key]
 config.stripe.secret_key = Rails.application.credentials.stripe[:secret_key]
 
@@ -88,12 +88,12 @@ config.stripe.secret_key = Rails.application.credentials.stripe[:secret_key]
 should complain about token
 
 add Stripe Mock. 
-gem 'stripe-ruby-mock', require 'stripe-mock'
+gem 'stripe-ruby-mock', require 'stripe_mock'
 
 go to rails helper
 
-```
-require 'stripe-mock'
+```ruby
+require 'stripe_mock'
 config.before(:each) do
   StripeMock.start
 end
