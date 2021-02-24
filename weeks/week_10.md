@@ -40,6 +40,7 @@ Get a deeper understanding on the moving parts of the web, and have a chance to 
   - [ ] Morning: Sprint review (Newsroom) - Emma
 	 
   - [ ] Morning: Week intro & Web 101 - Emma
+    - [ ] [Slides](https://docs.google.com/presentation/d/1_WsN2oxwUlNK-TbV7szlOngH5e3TGmDcW7R2Hm0m3do/edit#slide=id.g7f7e69bcbf_0_109)
 	 
   - [ ] Afternoon: Version Control - part I: Advanced concepts - Thomas
     - [ ] [Guide](https://github.com/CraftAcademyLabs/coach-guides/blob/master/lecture_notes/week_ten/adv_git_part_1)
