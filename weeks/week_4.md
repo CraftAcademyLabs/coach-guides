@@ -2,15 +2,20 @@
 ### Introduction to this week
 
 #### Swedish
-**Mobila applikationer**
+Den här veckan introducerar vi Ruby on Rails och det är första gången som studenterna ska bygga sin egen API. 
+Även denna veckan är delad i två utmaningar där den första utmaningen är en individuell utmaning där studenterna ska bygga Crafty News, en API som hanterar alla CRUD actions för artiklar. Den här utmaningen kommer även ligga som grund för helgutmaningen. 
+Den andra utmaningen är en grupp utmaning och bygger på legacy kod. Utmaningen är att testa den existerande kodbasen samt utveckla eventuella funktioner på ett bättre sätt. Vi introducerar Pivotal Tracker och studenterna förväntas skriva user stories för de funktioner i applikationen som de ska testa. 
+Vi börjar jobba på ett mer agilt sätt där vi kopplar sambandet mellan user story och funktionalitet. Det är även studenternas första grupputmaning och det ställer nya krav på version control kunskaperna, att ha ett fungerande flow i en större grupp och inte bara ett par.  
 
 #### English
-**Advanced React**
+This week we are introducing Ruby on Rails and the students will build their own API for the first time. 
+This week is also splitted into two challenges where the first one is an individual challenge. In the first challenge the students will build Crafty News, an API that handles all CRUD actions for articles. The weekend challenge will also be based on this first challenge. 
+The second challenge is a group assignment that is about legacy code. The challenge is to test the existing code base and potentionally develop and refactor the existing features. We introduce Pivotal Tracker and the students are expected to write user stories for the features that they will test. 
+Vi start to work in a more Agile way where we connect the user story to a feature. This is the students first group assignment and that also requires practise of version controll and keeping a good flow in a bigger group than just a pair. 
 
-In Week 4 we deepen your knowledge of Javascript by diving deeper into React, a web framework for front-end development. At the end of the week, you will have built two application.
 
 ### Teachable Course
-[Testing in Ruby on Rails](https://learn.craftacademy.co/admin/courses/659667/information)
+[Building API's in Ruby on Rails](https://learn.craftacademy.co/admin/courses/771096/information)
 
 ### Week lab
 The students are introduced to Ruby on Rails this week. We are exposing them to the 'magic' of Rails AND how to build and maintain an API.
