@@ -98,8 +98,6 @@ No challenge - just work on the News Room Challenge
   - [ ] Morning: Workshop on [Scrum](http://www.scrumguides.org/) (release quiz)
   
   - [ ] Afternoon: Tech interview (Twitter challenge)
-  
-  - [ ] Afternoon: Talk about plans for vacation
 
 ### Week 8
 - **Monday:**

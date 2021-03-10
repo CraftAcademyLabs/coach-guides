@@ -75,8 +75,9 @@ The weekend is devoted to focus on the User experience of the app. Here we start
 - **Thursday:**
   - [ ] Morning: Checkout mob-session part 4 - Emma
     
-  - [ ] Afternoon: Talk about the midcourse project - Thomas & Emma
+  - [ ] Afternoon: Talk about the midcourse project - Thomas & Emma 
     - [ ] [Slides](https://docs.google.com/presentation/d/1hzewbbgqW_EpaW6KCUIGDqK0GyH3oHnMMK57zEOyeSs/edit#slide=id.g4b12024eb7_0_21)
+    - [ ] IDE: 
 
 - **Friday:**
   - [ ] Morning: Introduce the Weekend Challenge in scrum; finish up the slowfood challenge

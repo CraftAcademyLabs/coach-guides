@@ -1,59 +1,52 @@
-## Week 3 Rails Week
+## Week 3 Consuming API's in React 
 ### Introduction to this week
 
 #### Swedish
-**Software as a Service med Ruby on Rails**
-
-Den här veckan dyker vi djupare in i Ruby on Rails - ett ramverk som hjälper programmeraren att följa designmönstret Model-View-Controller (MVC) och lär dem att jobba efter grundprinciperna Convention Over Configuration (Konvention före konfiguration) och Don't Repeat Yourself (DRY) som går ut på att motverka duplicering av kod. Vi introducerar också mer omfattande teststrategier och befäster deltagarnas kunskaper för hur de använder tester i sin utvecklingsprocess. Vi forsätter med att fördjupa oss i Rails och går igenom mer avancerade tekniker för hur man använder externa bibliotek (gems), API'er, websockets, mm.
-
+Den här veckan fortsätter med React där vi nu börjar konsumera externa APIer och utvecklar kunskaperna inom Cypress ytterligare genom att testa dynamiska hemsidor. 
+Veckan är indelad i två utmaningar där den första utmaningen är en individuell utmaning där studenterna ska hämta en kollektion av data samt hämta ett enskilt objekt. Den andra utmaningen ska göras i par och är en svårare utmaning som inkluderar mer komplicerade API anrop med bland annat API nycklar samt att använda sig av användarens position. 
+Vi introducerar dem till att använda stubbs i Cypress samt att använda sig av inbyggda funktioner för att vara i kontroll över testdata. Vi jobbar även med fixtures i samband med att vi stubbar ut anropen. 
+Vi introducerar REST APIer, hur man kan jobba med params samt hur man läser dokumentation för APIer. 
+Fokus den här veckan är att få en djupare förståelse för React och hur vi kan bygga dynamiska applikationer, samt introducera och repetera anrop till externa APIer. I slutet av veckan så ska studenterna ha kunskap i att använda sig av en extern API samt att kunna läsa dokumentation om den. 
+Helgutmaningen bygger på att jobba med visualition av data och bygga grafer med ChartJS. 
 
 #### English
-**Software as a Service with Ruby on Rails**
-
-Software as a Service - Work the web! This week we introduce Ruby on Rails and introduce strategies to work effectively with legacy code. We present more complex testing strategies and help you understand how testing can greatly improve your workflow. This week we deepen our knowledge of external libraries (gems), APIs, websockets, etc.
+This week continues with React where we now start to consume external APIs and picks up new skills in Cypress about testing dynamic websites. 
+The week is divided in two challenges where the first one is a individual challenge based on fetching a collection and a single object. The second challenge is more difficult pair challenge that includes more complex API calls by working with API keys and also making use of the users location. 
+We introduce REST APIs, how to work with params and also ow to read documentation about external APIs. 
+Focus this week is to get a deeper understanding of React and how we can build dynamic web applications, but also introducing and repeting external calls to APIs. In the end of the week the studentens should have knowledge in using external APIs and also reading documentation about them. 
+The weekend challenge is based on working with visualisation of data and building graphs with ChartJS. 
 
 ### Teachable Course
-[Testing in Ruby on Rails](https://learn.craftacademy.co/admin/courses/659667/information)
+[Consuming API's](https://learn.craftacademy.co/admin/courses/1310847/information)
 
 ### Week Lab
-The students are introduced to Ruby on Rails this week. We are exposing them to the 'magic' of Rails AND to the best practice of using various testing frameworks to drive their development.
+The students are introduced to consuming API's with React. 
 
-The Legacy Code Challenge aims at allowing students to write both acceptance tests and unit tests for a ready made application
-1. Acceptance-Unit Test Cycle with Rails (individual assignment)
-2. Legacy Code challenge (pairing assignment)
-
-Get the cohort to create a Rails application that can be used throughout the rest of the bootcamp
+1. The employee list challenge
+2. The weather app challenge
 
 
 ### Learning objectives
-* Learn about Ruby on Rails
-  - structure of a RoR application
-  - params
-  - routes (resources, members, etc)
-  - most common helpers
-  - migrations
-  - CRUD controller actions
-* Learn about the Model-View-Controller pattern
-* Learn to work with legacy code
-* Learn about best practices in Rails: DRY, Convention Over Configuration
-* Learn how to identify what gems provide a lot of functionality and how to read and use documentation
-* Learn about how to use tests (High level acceptance tests and Low level unit tests) to drive the development process.
-* Practice Team collaboration
-  - planning and assigning tasks
-  - git flow in teams
+Coding skills:
+  - Basic React knowledge, using class components
+  - Basic knowledge of what a Restful Api is
+  - Basic knowledge about api calls using axios
+  - Basic knowledge of distributed applications
+  - Intermediate knowledge of the http protocol and the most common http verbs 
+  - Basic knowledge of visualising and displaying dynamic data
+Testing: 
+  - Basic knowledge of testing dynamic applications with Cypress 
+  - Basic knowledge of stubbing http requests
+Git:
+  - Intermediate knowledge about setting up git flow with pair programming partner
+  - Intermediate skills using git to collaborate
+Agile:
+  - TDD
+  - Basic understanding of what a scrum master is and that he/she comes in prepared for each day
+
 
 ### Weekend challenge
-Authentication Challenge
-
-In order to read our articles. We need a user to sign up
-
-
-### Learning objectives
-* Install Devise gem
-* Feature test
-* Feature branches
-* Pull request
-* Read documentation
+Visualisation of data with ChartJS
 
 ### Head coach: Emma
 #### First Line: Oliver
@@ -84,6 +77,7 @@ In order to read our articles. We need a user to sign up
   - [ ] Afternoon: The concept of Params - Emma
     - [ ] [Slides](https://docs.google.com/presentation/d/1WQiq29ZR4rQvhyH7N2HelmCUeD2qzuaBo03O12Rjsp4/edit?usp=sharing)
     - [ ] Make sure to send out web 101 recording from Prep course before this demo
+    - [ ] Ue a express.js example to showcase the 3 kind of params we are taalking about. [Sample code](https://github.com/CraftAcademyLabs/params_talk_code)
 
 - **Thursday:**
      
