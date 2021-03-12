@@ -6,9 +6,9 @@ I would like to be able to register an account
 
 ### Visitor can register to see 'Add to order' button
 
-- Use this [REPO](https://github.com/CraftAcademy/slowfood_checkout_client) and create a branch that you call month_year of the bootcamp. From that branch you will later branch off and create PR's to after each demo. Make sure to share links to the PR's after each session.
+- Use this [REPO](https://github.com/CraftAcademy/slowfood_checkout_client) and create a branch that you call month_year of the bootcamp. From that branch you will later branch off and create PR's to after each demo. Make sure to share links to the PR's after each session. Note that the client and the API is dealing with pizza...
 
-- When starting with this feature make sure to have an API with an index action of products and devise token auth set up.
+- When starting with this feature make sure to have an API with an index action of products and devise token auth set up. (use this [REPO](https://github.com/CraftAcademy/slowfood_checkout_api))
 - In the client you need to have a corresponding feature of an index of products to start with for this session.
 
 - Explain to the students that you have already set up the corresponding feature to this one in the API (since that is devise token auth that they set up themselves during the weekend)
