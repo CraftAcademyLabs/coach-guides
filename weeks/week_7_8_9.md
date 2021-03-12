@@ -151,21 +151,25 @@ Extending News Room with Mobile Client
   - [ ] Afternoon: Introduce React Native - Thomas & Emma
     - [ ] [Slidedeck](https://docs.google.com/presentation/d/1XyInXwHnhBzZ8N6LTb1JmVvT-x2M2ati5p7MR7DbarA/edit?usp=sharing)
     
-  - [ ] Afternoon: Setup sessions for React native enviroment 
+  (- [ ] Afternoon: Setup sessions for React native enviroment 
     - [ ] Emma for MAC students
-    - [ ] Oliver (& maybe Adi) for Ubuntu 
+    - [ ] Oliver (& maybe Adi) for Ubuntu )
   
+  - [ ] Afternoon: Hello World in React Native - Thomas & Emma
+
   - [ ] 16:00 Scrum master follow up
   
 - **Tuesday:**  
-  - [ ] Morning: Hello World in React Native - Thomas & Emma
-
+ 
   - [ ] Afternoon: Testing in React Native  - Thomas
     - [ ] Slides - TBAdded
   
   - [ ] 16:00 Scrum master follow up
 
 - **Wednesday:**
+  - [ ] **For next cohort**
+    - [ ] Do code alongs to build the native client. 2 hours per day build index, show and authentication. Let them build the categories over the weekend! 
+ 
   - [ ] 13:30 Q&A sessions, make use of [retrospective app](https://retrospected.com/) to gather ideas from students
     
   - [ ] 16:00 Scrum master follow up
