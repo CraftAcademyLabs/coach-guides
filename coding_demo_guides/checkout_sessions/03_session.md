@@ -53,6 +53,23 @@ describe('Create and order by', () => {
   });
 })
 ```
+- And then of course we need a fixture: 
+```json
+{
+  "message": "This pizza was added to your order!",
+  "order": {
+    "id": 1,
+    "items": [
+      {
+        "id": 1,
+        "name": "Vesuvio",
+        "ingredients": "Cheese, Ham",
+        "price": 12
+      }
+    ]
+  }
+}
+```
 - So we should start with adding an onclick event to our orders button.
 
 ```javascript
