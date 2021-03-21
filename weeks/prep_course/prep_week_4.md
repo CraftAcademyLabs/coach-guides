@@ -1,6 +1,6 @@
 ## Week 4 
 
-### Fundimentals of the Web & Address book challenge 
+### Fundamentals of the Web & Address book challenge 
 
 Web application development refers broadly to the tasks associated with developing applications based on web technologies and accessible over Internet. 
 What we ofter refer to as The Internet, is a global computer network providing a variety of information and communication facilities, consisting of hundreds of interconnected networks using standardized communication protocols. 
