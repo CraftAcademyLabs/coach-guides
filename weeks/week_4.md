@@ -85,7 +85,7 @@ Let's be strict with the support protocol AND who is giving support. Communicate
   - [ ] Morning: Intro to token authorization & the weekend challenge - Emma 
     - [ ] Go over baics with res resp
     - [ ] "You authenticate with the API with every request"
-    - [ ] [Slides, needs to be updated](https://docs.google.com/presentation/d/1loqHoN9zTkCXisi5PQjfNxL9oCl7_hJpOPLAgH0hCFE/edit#slide=id.p6)
+    - [ ] [Slides](https://docs.google.com/presentation/d/1loqHoN9zTkCXisi5PQjfNxL9oCl7_hJpOPLAgH0hCFE/edit#slide=id.p6)
 
   - [ ] Retro - All coaches
 
