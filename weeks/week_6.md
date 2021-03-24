@@ -54,6 +54,7 @@ Mob Discussion sessions will be held every other day.
   
 - **Wednesday:**
   - [ ] Morning: How to get paid (Stripe)  Part 1 - Emma
+    - [ ] [Slides](https://docs.google.com/presentation/d/1ij02ReLWmSnTnCdFNG1qMCV1-5uPi5t5pkcG2ZyNfHE/edit#slide=id.g4b12024eb7_0_21)
   
   - [ ] Afternoon: How to get paid (Stripe) Part 2 - Emma
 
