@@ -62,9 +62,6 @@ Mob Discussion sessions will be held every other day.
     - [ ] [Slides](https://docs.google.com/presentation/d/11QvMiQPakxyPjGzMDbP8p6VxWxJ8Sa-cDm33B7D7-xg/edit?usp=sharing)
     - [ ] Prepare Repo from boilerplate
   
-  - [ ] Afternoon: Advanced associations with ActiveRecord - Emma 
-    - [ ] [Slides](https://docs.google.com/presentation/d/1Ibg_P4pL2u81FrNRnHKHpiLhbSkgi-6Y/edit)
- 
 - **Friday:**
   - [ ] Morning 10:00: Hooks in React - Weekend Challenge Refactoring
     - [ ] [Slides](https://docs.google.com/presentation/d/1j_HdxHxvWF5mZmelsa_Bm2rcDDb8hiN2dHwlKbf_Ock/edit#slide=id.g4b12024eb7_0_2)
