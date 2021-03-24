@@ -127,7 +127,7 @@ No challenge - just work on the News Room Challenge
      
   - [ ] Afternoon: Internationalization (i18n) in React - Emma & Thomas
     - [ ] Resource: [Guide](https://github.com/CraftAcademyLabs/ca_course/blob/master/week8/18n-react.md)
-    - [ ] Slides: TBAdded
+    - [ ] [Slides](https://docs.google.com/presentation/d/1XgJDKlJr8PIwhGyevZdb5e3I68kIpX7nGro3KBXG-4s/edit#slide=id.g4b12024eb7_0_21)
 
 - **Friday:** 
   - [ ] Retro 
