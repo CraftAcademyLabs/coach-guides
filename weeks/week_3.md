@@ -72,7 +72,7 @@ Visualisation of data with ChartJS
   
 - **Wednesday:**  
   - [ ] Morning: Intro to week challenge - Emma 
-    - [ ] [Slides needs to be updated!!!](https://docs.google.com/presentation/d/1S2Nn_hOhm_slruGTPFVoRGBh9G-NiKExENRHhUd-8As/edit?usp=sharing)
+    - [ ] Slides needs to be added!!!
     
   - [ ] Afternoon: The concept of Params - Emma
     - [ ] [Slides](https://docs.google.com/presentation/d/1WQiq29ZR4rQvhyH7N2HelmCUeD2qzuaBo03O12Rjsp4/edit?usp=sharing)
