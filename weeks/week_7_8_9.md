@@ -85,7 +85,7 @@ No challenge - just work on the News Room Challenge
   - [ ] Morning: Teams present their project plans (PT, lo-fi's and Fock Op's) - Coaches shift teams
   
   - [ ] Afternoon: Introduction to various ways of building JSON responses in Rails (Advanced Active Model Serializer) - Emma (coding demo)
-    - [ ] Refactor Slowfood boiler plate to serializer talk
+    - [ ] [Guide](https://github.com/CraftAcademyLabs/coach-guides/blob/master/coding_demo_guides/json_responses_serializer.md)
    
 - **Thursday:** 
   - [ ] Morning: Assessment of the students (one on one)
