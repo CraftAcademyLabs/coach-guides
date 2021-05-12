@@ -1,4 +1,4 @@
-- use this repo: https://github.com/emtalen/json_response_demo
+- use this repo: https://github.com/CraftAcademyLabs/json_response_demo
 (Or similar set up where articles belongs to user as author, has many comments and comments belongs to user and article and user has many articles and comments)
 - Talk a bit about json responses - use cases for when we want to be in control of them and also that we want to keep the controllers deal with the right responsibility. 
 
