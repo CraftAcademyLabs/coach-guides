@@ -31,3 +31,8 @@ Open irb. Load your 'car.rb' file. Create an instance of a `Car` and change its 
 * We would ordinarily have written our tests first, then written code to make them pass. Why?  
 * Create a unit test for our `Car` class to test our "painting" method.
 * A car should have a driver. Create an `instance_double` `Driver`.  Write a second test for this and make it pass.
+
+## Final step - Submission
+Initialize a git repository in the `week_1_assessment` folder. Create a repository on your GitHub account. Connect your local repository with the one on GitHub. Commit all your files and push it up. Share the link to the repository with your coach in a private message on Slack. 
+
+
